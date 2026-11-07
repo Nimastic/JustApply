@@ -5,10 +5,13 @@ Teams
 Career Programs
 Working at Meta
 Blog
-Search Meta Careers
-Search
+Podcasts
+Meta AI
+Get personalized job recommendations from AI
+The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+Upload resume for job recommendations
 Hide filters
-0 Items
+77 Items
 Save this search
 Sort by
 Relevance
@@ -31,110 +34,134 @@ Full time employment
 Internship
 Short term employment
 Location
-Location
+London, UK
 Singapore
+Menlo Park, CA
+New York, NY
+Seattle, WA
 Apply filters
 Clear filters
-There are currently no open roles matching your search.
-Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+Search by technology, team, location, or ref. code
+Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
+Singapore
+AI Research
+Research
+Research Scientist Intern, AI Core Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+AI Research
+Artificial Intelligence
+Internship - PhD
+Research
+Machine Learning
+Research Scientist Intern, Ranking & Recommendations (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+AI Infrastructure
+AI Research
+Generative AI
+Artificial Intelligence
+Machine Learning
+Research
+Research Scientist Intern, Feed Recommendations (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Infrastructure
+AI Research
+Artificial Intelligence
+Infrastructure
+Internship - PhD
+Research
+Software Engineering
+University Grad - PhD & Postdoc
+Engineering
+Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)
+Menlo Park, CA
+Research
+Internship - PhD
+AI Research
+Research Scientist Intern, AI Agents and Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Menlo Park, CA
+AI Research
+Internship - PhD
+Research
+Research Scientist Intern, Synthetic Data for Computer Use Agents (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Research Scientist Intern, AI Systems and Infrastructure (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+University Grad - PhD & Postdoc
+AI Research
+Research
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+Infrastructure
+Production Engineering
+Software Engineering Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Page 1 of 8
 Job Search
-Jobs
+Technology Teams
+Technology Teams
+Artificial Intelligence
+Creative
+Infrastructure
+Metaverse and Wearables
+Product and Program Management
+Research and Data
+Security
+Software Engineering
+Business Teams
+Business Teams
+Business Operations
+Partnerships
+Sales and Marketing
+Career Programs
 Career Programs
 Research
 Accelerate Eng Talent
 Students and Grads
 Rotational Programs
-Teams
-Business Teams
-Technology Teams
+Working at Meta
 Working at Meta
 Accessiblity and Engagement
 Benefits
 Culture
 Hiring Process
 My account
+My account
 Career profile
 Account settings
 Messages
 Meta Careers Blog
+Meta Tech Podcasts
 About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
-Jobs
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Teams
-Business Teams
-Technology Teams
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
-Jobs
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Teams
-Business Teams
-Technology Teams
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
-Jobs
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Teams
-Business Teams
-Technology Teams
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
 About us
 About Meta
 Media gallery
@@ -155,6 +182,6 @@ Notice regarding automated employment decision tools in New York City
 Learn more about this
 here
 .
-©2025 Meta.
+©2026 Meta.
 If you have any trouble, you can report an issue
 Report a bug

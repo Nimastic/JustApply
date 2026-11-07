@@ -21,32 +21,33 @@ London
 Experience
 Students and New Grads
 Copy URL
-2026 Graduate - FPGA Engineering
-London
-View opportunity
-2026 Graduate - Production Support
-London
-View opportunity
-2026 - Internship, Data Engineering
+2027 – Graduate or Internship, Infrastructure Engineer
 London
 ,
 Paris
 View opportunity
-2026 Internship/Graduate - Platform Technology Services
+2027 - Internship, Business Data Analytics
 London
 View opportunity
-2026 Internship or Graduate - Infrastructure Engineering
+2027 - Internship, Data Engineering
+London
+,
+Paris
+View opportunity
+2027 - Internship, HR Technology
 London
 View opportunity
-2026 - Internship, Quantitative Developer
+2027 – Internship or Graduate, FPGA Engineering
 London
+,
+Paris
 View opportunity
-2026 - Internship, Quantitative Research/Trading
+2027 - Internship, Quantitative Research and Trading
 Aarhus
 ,
-Dubai
+Budapest
 ,
-Geneva
+Dubai
 ,
 London
 ,
@@ -54,10 +55,27 @@ Paris
 ,
 Zurich
 View opportunity
-2026 Internship - Security Engineering
+2027 Internship – Security Engineer
 London
+,
+Paris
 View opportunity
-2026 Internship - Software Engineering
+2027 - Internship, Software Engineering and Quantitative Development
+Aarhus
+,
+Amsterdam
+,
+Dubai
+,
+London
+,
+Paris
+,
+Wrocław
+,
+Zurich
+View opportunity
+2027 - Internship, Surveillance
 London
 View opportunity
 Quantitative Researcher – PhD & Postdoc Opportunities
@@ -66,9 +84,6 @@ London
 Paris
 ,
 Zurich
-View opportunity
-VIE in Research
-London
 View opportunity
 About us
 Contact us

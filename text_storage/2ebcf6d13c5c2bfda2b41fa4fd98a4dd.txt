@@ -10,18 +10,14 @@ Investment Management
 Securities
 Real Estate
 Sightway Capital
-Venn
-Ventures
 Insights
 Topics
 Data Science
 Engineering
 Markets & Economy
-Policy
 News & Culture
 Careers
 Internships
-Interviewing at Two Sigma
 Engineering
 Quantitative Research & Data Science
 Open Roles
@@ -53,31 +49,25 @@ Name
 Location
 Function
 Experience Level
-AI Research Scientist - Internship [2026 Summer]
+AI Research Scientist - Intern [2027 Summer]
 United States - NY New York
 Quantitative Research
 Internship
 View role
 View role
-Data Scientist - Internship [Summer 2026]
-United States - NY New York
-Data Science
-Internship
-View role
-View role
-Product & Capital Strategy Intern [Summer 2026]
-United States - NY New York
-Investment and Client Solutions
-Internship
-View role
-View role
-Quantitative Researcher - Internship [2026 Summer]
+Quantitative Researcher - Intern [2027 Summer]
 United States - NY New York
 Quantitative Research
 Internship
 View role
 View role
-Software Engineering Internship - NYC
+Software Engineering Internship (Summer 2027)
+United States - NY New York
+Engineering
+Internship
+View role
+View role
+TSS Hardware Engineering Internship (Summer 2027)
 United States - NY New York
 Engineering
 Internship
@@ -103,20 +93,15 @@ Businesses
 Investment Management
 Securities
 Sightway Capital
-Ventures
 Real Estate
-Venn
 Careers
 Open Roles
 Internships
-Interviewing at Two Sigma
 Engineering
 Quantitative Research & Data Science
 Academic Partnerships
-Undergraduate Students
 Graduate Students
 Professors and Universities
-Contact Us
 Data Platforms
 Data Portal
 Headquarters
@@ -125,12 +110,12 @@ Two Sigma Investments, LP
 New York, NY 10013
 Contact Us
 Socials
+Instagram
 LinkedIn
 YouTube
 North America
 New York
 Houston
-Cornell Tech
 Chicago
 Palm Beach Gardens
 Europe
@@ -140,6 +125,7 @@ Tokyo
 Hong Kong
 Shanghai
 Socials
+Instagram
 LinkedIn
 YouTube
 © 2026 Two Sigma Investments, LP. All rights reserved.

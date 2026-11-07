@@ -1,5 +1,8 @@
-Point72 - Career Search
+Hedge Fund Careers & Internships | Point72 Careers
 P72 Careers - Header
+Point72, L.P. and its affiliates and our third-party partners use cookies and similar technologies to view and retain your site interactions to perform analytics, enable site functionality and assist our marketing efforts exclusively for recruiting purposes. By continuing to use our site, you consent to these data practices, as described in our
+Privacy Policy
+.
 About Us
 Careers
 Perspectives
@@ -67,7 +70,6 @@ Washington, DC
 West Palm Beach / Miami
 Dubai, UAE
 London
-Milan
 Paris
 Warsaw, PL
 Bengaluru, India
@@ -92,7 +94,6 @@ Washington, DC
 West Palm Beach / Miami
 Dubai, UAE
 London
-Milan
 Paris
 Warsaw, PL
 Bengaluru, India
@@ -124,7 +125,6 @@ Talent & Engagement
 Technology & Engineering
 Trading & Transaction Management
 Treasury
-Long/Short Investing
 Global Macro Investing
 Systematic Investing
 Point72 Academy
@@ -184,11 +184,11 @@ Facilities
 Reception
 Admin
 User Experience
-Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
+Fundamental Equities
+Cubist Business Team
 Treasury
-Long/Short Investing
 Global Macro Investing
 Systematic Investing
 Point72 Academy
@@ -248,78 +248,48 @@ Facilities
 Reception
 Admin
 User Experience
-Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
+Fundamental Equities
+Cubist Business Team
 Find Open Roles
-11 Open Roles
+6 Open Roles
 ROLE
-2026 Long/Short Equity Support Research intern, Hong Kong (12 weeks)
+2027 Economist Summer Intern
+FOCUS
+Data Sourcing & Strategy
+LOCATION
+Singapore
+ROLE
+2027 Long/Short Equity Support Research Intern, Hong Kong
 FOCUS
 Trading Research
 LOCATION
 Hong Kong
 ROLE
-2026 Economist Summer Intern
+2027 Corporate Access Intern
+FOCUS
+Corporate Access
+LOCATION
+Hong Kong
+ROLE
+2027 MI Data Research Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
-Hong Kong   |   Singapore
+Hong Kong   |   Tokyo   |   Singapore
 ROLE
-2026 Trader Summer Intern, Hong Kong (12-week program)
+2027 Trader Summer Intern (12-week program)
 FOCUS
 Trading
 LOCATION
-Hong Kong
-ROLE
-2026 Corporate Access Summer Intern, Hong Kong
-FOCUS
-Broker Relations
-LOCATION
-Hong Kong
-ROLE
-2026 Regulatory Reporting Summer Intern, Singapore
-FOCUS
-Trade Support & Reporting
-LOCATION
-Singapore
-ROLE
-2026 Securities Lending Trader Summer Intern, Singapore
-FOCUS
-Trade Support & Reporting
-LOCATION
-Singapore
-ROLE
-2026 Operations Summer Intern, Singapore
-FOCUS
-Operations
-LOCATION
-Singapore
-ROLE
-2026 Compliance Summer Intern, Hong Kong
-FOCUS
-Compliance
-LOCATION
-Hong Kong
-ROLE
-Quantitative Alpha Researcher Intern
-FOCUS
-Systematic Investing
-LOCATION
-Hong Kong
+Hong Kong   |   Tokyo
 ROLE
 Quantitative Researcher - Intern
 FOCUS
 Systematic Investing
 LOCATION
 London   |   Hong Kong   |   Tokyo   |   Paris
-ROLE
-Quantitative Alpha Researcher Intern
-FOCUS
-Systematic Investing
-LOCATION
-Singapore
-Load More
 P72 Careers - Footer
 Point72
 About Us
@@ -346,7 +316,7 @@ Perspectives
 General Inquiries
 Press Inquiries
 Investor Login
-© 2025 Point72. All Rights Reserved
+© 2026 Point72. All Rights Reserved
 |
 Global Privacy Policy
 |

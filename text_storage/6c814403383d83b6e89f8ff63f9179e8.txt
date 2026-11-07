@@ -45,6 +45,8 @@ Recommended jobs
 Saved jobs
 Job alerts
 AI at Google
+Google Cloud
+YouTube
 noogler_hat
 Students
 expand_more
@@ -59,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-4
+16
 jobs matched
 Clear filters
 What do you want to do?
@@ -91,9 +93,8 @@ Temporary
 Intern
 Organizations
 expand_less
-GFiber
+DeepMind
 Google
-Verily Life Sciences
 Waymo
 Wing
 YouTube
@@ -143,34 +144,235 @@ English
 English
 Français (Canada)
 Jobs search results
-4
+16
 jobs matched
 filter_list
-Student Researcher, 2026
+Associate Product Marketing Manager BS/MS Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree program.
+Relevant practical or internship experience in marketing, brand management, strategy consulting, marketing agency, technology or a related field through full time roles, internships, projects or academic classes.
+Learn more
+share
+Share Associate Product Marketing Manager BS/MS Intern, 2027
+link
+Copy link
+email
+Email a friend
+Business Program Manager MBA Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a MBA degree program in the EMEA region
+Relevant practical or internship experience in program or project management.
+Learn more
+share
+Share Business Program Manager MBA Intern, 2027
+link
+Copy link
+email
+Email a friend
+Student Researcher, 2027
 corporate_fare
 Google
 place
 Zürich, Switzerland
 ; Berlin, Germany
+; +8 more
 ; +7 more
-; +6 more
 bar_chart
 Intern & Apprentice
 Google |
 Zürich, Switzerland
 ; Berlin, Germany
+; +8 more
 ; +7 more
-; +6 more
 Minimum qualifications
 Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
 Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
 Learn more
 share
+Share Student Researcher, 2027
 link
 Copy link
 email
 Email a friend
-Associate Product Marketing Manager Intern, Summer 2026 (English)
+Data Center Facilities Technician Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in an educational program relevant to the job qualifications or an accredited full-time Bachelor's or Master's degree program located in the EMEA region.
+Relevant practical or internship experience in Mechanical/Heating, Ventilation, Air Conditioning (HVAC), or electrical experience (e.g., electrical testing equipment or electrical distribution) in an industrial or commercial environment.
+Learn more
+share
+Share Data Center Facilities Technician Intern, 2027
+link
+Copy link
+email
+Email a friend
+Software Engineering PhD Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
+Experience working with data structures and algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).
+Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.).
+Learn more
+share
+Share Software Engineering PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Data Center Technician Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in an educational program relevant to the job qualifications or an accredited full-time Bachelor's or Master's degree program located in the EMEA region.
+Relevant practical or internship experience in diagnosing and troubleshooting one of the following: operating systems, computer/server hardware, or networking protocols.
+Learn more
+share
+Share Data Center Technician Intern, 2027
+link
+Copy link
+email
+Email a friend
+Forward Deployed Engineering Intern, BS/MS, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
+Relevant internship or practical experience with software development using Python or a similar coding languages.
+Relevant internship or practical experience taking production-grade AI-driven solutions from conception to launch and architecting AI systems on cloud platforms (e.g., Google Cloud Platform (GCP)).
+Relevant internship or practical experience building pipelines for structured and unstructured data using both vector databases and RAG-like architectures to power enterprise AI solutions.
+Learn more
+share
+Share Forward Deployed Engineering Intern, BS/MS, 2027
+link
+Copy link
+email
+Email a friend
+Associate Product Manager BS/MS Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Product Management, Computer Science, Engineering, Data Science, Mathematics, Statistics or a related technical field in the EMEA region.
+Relevant practical or internship experience, or relevant teaching assistant experience in software development, product management or a technical related field.
+Relevant practical or internship experience preparing and delivering technical presentations to an audience.
+Relevant practical or internship experience leading entrepreneurial efforts or outreach within organizations while building cross-functional relationships.
+Learn more
+share
+Share Associate Product Manager BS/MS Intern, 2027
+link
+Copy link
+email
+Email a friend
+Strategy and Operations MBA Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a MBA degree program in the EMEA region.
+Relevant internship or practical experience in strategy consulting, finance or corporate strategy.
+Relevant internship or practical experience tailoring and delivering reporting and presentations by audience, asking strategic questions, and leading conversations that drive results and efficiencies.
+Relevant internship or practical experience presenting to senior stakeholders, both in presentation and in creating content that is executive-ready.
+Learn more
+share
+Share Strategy and Operations MBA Intern, 2027
+link
+Copy link
+email
+Email a friend
+Data Science PhD Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a PhD program in Statistics, Biostatistics, Computer Science, Mathematics, Operations Research, or a related technical field involving experimental design and quantitative analysis of experimental data, and in your penultimate year of study.
+Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.
+Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.).
+Learn more
+share
+Share Data Science PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Product Deployment Engineer BS/MS, Intern - 2027 (English)
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics, Economics, Business Information Systems, or a related technical/quantitative field in the EMEA region.
+Relevant practical or internship experience in technical project delivery, technical consulting, software development, or a customer-facing role.
+Programming or scripting experience with at least one language (e.g., Python, JavaScript) and experience with SQL or data analysis.
+Ability to communicate in English to support client relationship management in this region.
+Learn more
+share
+Share Product Deployment Engineer BS/MS, Intern - 2027 (English)
+link
+Copy link
+email
+Email a friend
+Forward Deployed Engineer Intern, 2027
 corporate_fare
 Google
 place
@@ -180,15 +382,41 @@ Intern & Apprentice
 Google |
 Singapore
 Minimum qualifications
-Currently enrolled in a full-time Bachelor's degree program.
-Ability to communicate in English fluently to support client relationships in the region.
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
+Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
+Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+Relevant practical or internship based experience building and executing structured/unstructured data pipelines, cloud platform databases, or AI/ML-driven workflows (such as RAG architectures).
 Learn more
 share
+Share Forward Deployed Engineer Intern, 2027
 link
 Copy link
 email
 Email a friend
-Data Center Technician Intern, 2026
+Software Engineering Intern, 2027 (English)
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Intern & Apprentice
+Google |
+Singapore
+Minimum qualifications
+Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
+Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
+Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
+Experience working in Unix/Linux environments.
+Experience with data structures, algorithms, and software design.
+Ability to communicate in English fluently to participate in technical discussions.
+Learn more
+share
+Share Software Engineering Intern, 2027 (English)
+link
+Copy link
+email
+Email a friend
+Data Center Technician Intern, 2027
 corporate_fare
 Google
 place
@@ -199,14 +427,16 @@ Google |
 Singapore
 Minimum qualifications
 Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
+Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
 Experience installing a network or Linux system and with the basic concepts around these.
 Learn more
 share
+Share Data Center Technician Intern, 2027
 link
 Copy link
 email
 Email a friend
-User Experience Design Summer Intern, 2026
+Account Executive, Business Intern, 2027 (English)
 corporate_fare
 Google
 place
@@ -216,17 +446,38 @@ Intern & Apprentice
 Google |
 Singapore
 Minimum qualifications
-Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media or related field.
-Experience with design tools (e.g., Figma, Adobe, etc.).
-Experience conducting user interviews or surveys. Experience applying user-centered principles in intern, work, or project setting.
-A design portfolio that demonstrates design principles.
+Currently enrolled in a Bachelor's or Master's program.
+Penultimate academic year of the Bachelor’s or Master’s degree.
+Ability  to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders.
 Learn more
 share
+Share Account Executive, Business Intern, 2027 (English)
 link
 Copy link
 email
 Email a friend
-1‑4 of 4
+Account Executive, MBA Intern, 2027
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Early
+Early
+Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes.
+Google |
+Singapore
+Minimum qualifications
+Currently enrolled in a MBA program.
+Learn more
+share
+Share Account Executive, MBA Intern, 2027
+link
+Copy link
+email
+Email a friend
+Showing 1 to 16 of 16 rows
+1‑16 of 16
 Follow Life at Google on
 More about us
 About us
