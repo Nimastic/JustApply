@@ -9,12 +9,7 @@ A smart tool for monitoring job listings websites for changes by periodically sc
 - 📊 **Smart change detection** that compares text content line by line
 - 📝 **Clean output** with only the latest changes (no historical clutter)
 - 🌐 **JavaScript support** - waits for dynamic content to load
-- 🎯 **Focused monitoring** - currently tracks internship opportunities from:
-  - Stripe
-  - Google
-  - Meta
-  - Apple
-  - Squarepoint Capital
+- 🎯 **Career boards** in `boards.py`. Telegram sends job titles that appeared or closed, not a raw page diff.
 
 ## Installation
 
