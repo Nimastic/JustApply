@@ -1,0 +1,595 @@
+Quantitative Finance Careers at WorldQuant
+We use cookies to make your interaction with our website easy and meaningful, to better understand your use of our website and to improve your experience on our website. By clicking “I Accept”, you accept the use of cookies in accordance with our Cookie Policy. To find out more about our use of cookies, click
+here
+.
+Customise
+I Decline
+I Accept
+Powered by
+Customise Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...
+Show more
+Necessary cookies
+Always Active
+These are cookies that are essential for the operation and security of our Website.
+Cookie
+__cf_bm
+Duration
+1 hour
+Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Cookie
+rc::a
+Duration
+Never Expires
+Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+rc::c
+Duration
+session
+Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+cookieyes-consent
+Duration
+1 year
+Description
+CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.
+Cookie
+VISITOR_PRIVACY_METADATA
+Duration
+6 months
+Description
+YouTube sets this cookie to store the user's cookie consent state for the current domain.
+Cookie
+_GRECAPTCHA
+Duration
+6 months
+Description
+Google Recaptcha service sets this cookie to identify bots to protect the website against malicious spam attacks.
+Cookie
+wpml_browser_redirect_test
+Duration
+session
+Description
+This cookie is set by WPML WordPress plugin and is used to test if cookies are enabled on the browser.
+Functional cookies
+These are used to recognize you when you return to our Website and remember the choices you make. This enables us to personalize our content for you and remember your preferences (for example, your choice of language or region).
+Cookie
+_aGeoIp
+Duration
+1 day
+Description
+Used to determine the user’s approximate location for site functionality.
+Cookie
+_aUID
+Duration
+1 year 1 month 4 days
+Description
+Used by Gamma platform to identify and authenticate users, maintain session state, and provide personalized content and functionality.
+Cookie
+__Secure-YNID
+Duration
+6 months
+Description
+YouTube cookie used to store user preferences and settings for embedded video players, including playback quality, volume, and other viewing preferences.
+Cookie
+__Secure-ROLLOUT_TOKEN
+Duration
+6 months
+Description
+Description is currently not available.
+Cookie
+__Secure-YEC
+Duration
+past
+Description
+YouTube cookie used to store user consent and preference settings for embedded video content, including privacy preferences, playback settings, and user consent choices.
+Cookie
+VISITOR_INFO1_LIVE
+Duration
+6 months
+Description
+A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+Cookie
+yt-remote-connected-devices
+Duration
+Never Expires
+Description
+YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.
+Cookie
+ytidb::LAST_RESULT_ENTRY_KEY
+Duration
+Never Expires
+Description
+The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+Cookie
+yt-remote-device-id
+Duration
+Never Expires
+Description
+YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.
+Cookie
+yt-remote-session-name
+Duration
+session
+Description
+The yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video.
+Cookie
+yt-remote-fast-check-period
+Duration
+session
+Description
+The yt-remote-fast-check-period cookie is used by YouTube to store the user's video player preferences for embedded YouTube videos.
+Cookie
+yt-remote-session-app
+Duration
+session
+Description
+The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.
+Cookie
+yt-remote-cast-available
+Duration
+session
+Description
+The yt-remote-cast-available cookie is used to store the user's preferences regarding whether casting is available on their YouTube video player.
+Cookie
+yt-remote-cast-installed
+Duration
+session
+Description
+The yt-remote-cast-installed cookie is used to store the user's video player preferences using embedded YouTube video.
+Cookie
+_aGeoIp
+Duration
+1 day
+Description
+Used to determine the user’s approximate location for site functionality.
+Cookie
+wp-wpml_current_language
+Duration
+session
+Description
+WordPress multilingual plugin sets this cookie to store the current language/language settings.
+Cookie
+_icl_visitor_lang_js
+Duration
+1 day
+Description
+WPML sets this cookie to store the redirected language.
+Analytics cookies
+These cookies collect information about how you interact with our Website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+Cookie
+YSC
+Duration
+session
+Description
+YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+Cookie
+_ga_*
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to store and count page views.
+Cookie
+_ga
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+Performance cookies
+Performance cookies are used to understand and analyze the key performance indexes of the website, which helps in delivering you a better user experience.
+No cookies to display.
+Advertising cookies
+These cookies are used to provide you with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns. We will use these cookies to make our Website and the advertising displayed on it and other sites more relevant to your interests. We may also disclose this information to third parties to help create and deliver personalized and targeted advertising.
+Cookie
+_fbp
+Duration
+3 months
+Description
+Facebook Pixel cookie used to track website visitors for advertising and remarketing purposes.
+Cookie
+fr
+Duration
+3 months
+Description
+Facebook Pixel cookie used to deliver, measure, and improve advertising relevance.
+Cookie
+AnalyticsSyncHistory
+Duration
+30 days
+Description
+LinkedIn Insight Tag cookie used to track website visitors for advertising and remarketing purposes.
+Cookie
+li_fat_id
+Duration
+1 year
+Description
+LinkedIn cookie used for advertising and tracking purposes.
+Cookie
+UserMatchHistory
+Duration
+30 days
+Description
+LinkedIn cookie used for advertising and audience matching.
+Cookie
+bcookie
+Duration
+2 years
+Description
+LinkedIn browser identifier cookie used for advertising and tracking.
+I Decline
+Save My Preferences
+I Accept
+Powered by
+Skip to content
+open menus
+How we work
+Who we are
+Ideas
+Playing the Infinite Game
+WorldQuant Announces Completion of Inaugural Global Alphathon Competition
+The Next Imitation Game: AI Wins the Nobel
+People & Pathways:
+Tonya Horton
+Crypto’s Identity Crisis
+Behavioral Finance:
+A Nobel Cause
+Decentralized Finance:
+A Primer
+The Power of
+Exponential Thinking
+Consultant Spotlight:
+Azmi Fauzi
+Fuzzy Approaches in Financial Modeling
+Careers
+Contact
+BRAIN
+Instagram
+linkedin
+facebook
+youtube
+close menus
+CAREERS AT WorldQuant
+Jobs at WorldQuant
+FILTER
+Filter
+Locations
+Austin, United States
+Beijing, China
+Bengaluru, India
+Budapest, Hungary
+Chicago, United States
+Geneva, Switzerland
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Hong Kong
+London, United Kingdom
+Miami, United States
+Montevideo, Uruguay
+Mumbai, India
+New Delhi, India
+New York, United States
+Old Greenwich, United States
+Paris, France
+Ramat Gan, Israel
+San Francisco, United States
+Seoul, South Korea
+Shanghai, China
+Singapore
+Sydney, Australia
+Taipei, Taiwan
+West Palm Beach, United States
+Yerevan, Armenia
+Zug, Switzerland
+Multiple Locations
+Locations
+Austin, United States
+Beijing, China
+Bengaluru, India
+Budapest, Hungary
+Chicago, United States
+Geneva, Switzerland
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Hong Kong
+London, United Kingdom
+Miami, United States
+Montevideo, Uruguay
+Mumbai, India
+New Delhi, India
+New York, United States
+Old Greenwich, United States
+Paris, France
+Ramat Gan, Israel
+San Francisco, United States
+Seoul, South Korea
+Shanghai, China
+Singapore
+Sydney, Australia
+Taipei, Taiwan
+West Palm Beach, United States
+Yerevan, Armenia
+Zug, Switzerland
+Departments
+Artificial Intelligence
+Portfolio Management Division
+Research Division
+Support Division
+Technology Division
+WMA
+WQBrain Management
+Filter location
+Filter department
+Clear All
+no results found
+Book Portfolio Manager
+Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
+06:32
+Experienced Quantitative Strategist
+Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
+06:32
+Independent Portfolio Manager
+Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
+06:32
+BRAIN Researcher
+Beijing or Shanghai, China
+20:32
+Data Science Intern
+Beijing or Shanghai, China
+20:32
+Data Scientist
+Beijing or Shanghai, China
+20:32
+Quantitative Researcher
+Beijing or Shanghai, China
+20:32
+Quantitative Research Intern
+Beijing or Shanghai, China
+20:32
+WQBRAIN User Success Specialist
+Beijing, China
+20:32
+Executive Assistant and Office Manager
+Bengaluru, India
+AI Software Developer
+Budapest, Hungary
+13:32
+C++ Software Engineer
+Budapest, Hungary
+13:32
+Lead Python Engineer - AI Technology
+Budapest, Hungary
+13:32
+Low Latency C++ Developer
+Budapest, Hungary
+13:32
+Quantitative Developer
+Budapest, Hungary
+13:32
+Security Analyst
+Budapest, Hungary
+13:32
+Senior C++ Software Engineer
+Budapest, Hungary
+13:32
+Senior Java Software Engineer
+Budapest, Hungary
+13:32
+Senior Python Engineer - AI Technology
+Budapest, Hungary
+13:32
+Senior Python Software Engineer
+Budapest, Hungary
+13:32
+Specialist Portfolio Manager
+Budapest, Hungary
+13:32
+Book Portfolio Manager
+Geneva or Zug, Switzerland or London, United Kingdom or Paris, France
+Experienced Quantitative Strategist
+Geneva or Zug, Switzerland or London, United Kingdom or Paris, France
+Independent Portfolio Manager
+Geneva or Zug, Switzerland or London, United Kingdom or Paris, France
+Backend Engineer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Full Stack Engineer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Quantitative Developer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Quantitative Researcher
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Senior Backend Engineer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Senior Software Engineer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Software Engineer
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Software Engineer (C/C++)
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Technical Project Manager
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+WQBRAIN AI Researcher
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+WQBRAIN Researcher
+Hanoi or Ho Chi Minh City, Vietnam
+19:32
+Software Engineer Intern
+Hanoi, Vietnam
+19:32
+Python Engineer
+Ho Chi Minh City, Vietnam
+19:32
+WQBRAIN User Success Specialist
+Ho Chi Minh City, Vietnam
+19:32
+Independent Portfolio Manager
+Hong Kong or Singapore or Sydney, Australia
+20:32
+Senior AI Software Developer
+London, United Kingdom
+12:32
+Senior C++ Software Engineer
+London, United Kingdom
+12:32
+Senior Python Software Engineer
+London, United Kingdom
+12:32
+WQBRAIN Researcher
+London, United Kingdom
+12:32
+C++ Developer
+Montevideo, Uruguay
+Linux Systems Engineer
+Montevideo, Uruguay
+Quantitative Developer
+Montevideo, Uruguay
+Quantitative Python Developer
+Montevideo, Uruguay
+Reference Data Operations Analyst
+Montevideo, Uruguay
+Site Reliability Engineer
+Montevideo, Uruguay
+Analyst - Portfolio and Treasury Services
+Mumbai, India
+18:02
+Business Analyst - Platform Soutions
+Mumbai, India
+18:02
+Deep Researcher
+Mumbai, India
+18:02
+Quantitative Researcher
+Mumbai, India
+18:02
+Quantitative Researcher - IPM (India)
+Mumbai, India
+18:02
+Data Scientist
+New Delhi, India
+Senior Engineer
+New Delhi, India
+Software Development Manager
+New York or Chicago or Austin or Old Greenwich, United States
+07:32
+Software Engineer - Trading Systems
+New York or Chicago or Austin or Old Greenwich, United States
+07:32
+Execution Developer
+New York or Old Greenwich or Chicago or Austin, United States
+07:32
+AI Scientist
+New York, United States
+07:32
+Full Stack Developer
+New York, United States
+07:32
+Junior Execution Trader
+New York, United States
+07:32
+Senior Machine Learning Engineer
+New York, United States
+07:32
+Junior Quantitative Project Manager
+Old Greenwich, United States
+07:32
+Quantitative Developer
+Ramat Gan, Israel
+14:32
+Senior C++ Software Engineer
+Ramat Gan, Israel
+14:32
+Senior Python Software Engineer
+Ramat Gan, Israel
+14:32
+Specialist Portfolio Manager
+Ramat Gan, Israel
+14:32
+Quantitative Researcher
+Seoul, South Korea
+21:32
+BRAIN Researcher
+Singapore
+20:32
+C++ Software Engineer - Data Platform
+Singapore
+20:32
+Junior Execution Trader
+Singapore
+20:32
+Quantitative Developer
+Singapore
+20:32
+Quantitative Developer
+Singapore
+20:32
+Quantitative Execution Strategist
+Singapore
+20:32
+Senior C++ Software Engineer
+Singapore
+20:32
+Software Engineering Lead (MetaTech)
+Singapore
+20:32
+Book Portfolio Manager
+Singapore or Sydney, Australia
+20:32
+Experienced Quantitative Strategist
+Singapore or Sydney, Australia
+20:32
+Data Scientist
+Taipei, Taiwan
+20:32
+Quantitative Researcher
+Taipei, Taiwan
+20:32
+Quantitative Researcher, Quant Macro
+Taipei, Taiwan
+20:32
+WorldQuant Technology Talent Network
+Multiple Locations
+AI Software Developer
+Yerevan, Armenia
+Deep Researcher
+Yerevan, Armenia
+Quantitative Researcher
+Yerevan, Armenia
+Senior Quantitative Researcher
+Yerevan, Armenia
+See more
+Contact
+Careers
+BRAIN
+Data Exchange
+BRAIN Sign In
+General Inquiries
+info@WorldQuant.com
+media@WorldQuant.com
+support@WorldQuantBrain.com
+Our Network
+WorldQuant Ventures
+WorldQuant University
+WorldQuant Foundry
+Instagram
+linkedin
+facebook
+youtube
+Privacy Policy
+Terms & Conditions
+Whistleblower Protection Statement
+Notices
+© 2026 WorldQuant, LLC
+Close

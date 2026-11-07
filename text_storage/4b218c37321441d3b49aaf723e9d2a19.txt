@@ -1,0 +1,1186 @@
+Vacancies | G-Research
+We value your privacy
+We use cookies to improve your experience on our website. By clicking “I accept” you agree to such usage.
+Cookie Policy
+Customize
+Reject All
+Accept All
+Customize Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...
+Show more
+Necessary
+Always Active
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+Cookie
+__cf_bm
+Duration
+1 hour
+Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Cookie
+cookieyes-consent
+Duration
+1 year
+Description
+CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.
+Cookie
+__hssrc
+Duration
+session
+Description
+This cookie is set by Hubspot whenever it changes the session cookie. The __hssrc cookie set to 1 indicates that the user has restarted the browser, and if the cookie does not exist, it is assumed to be a new session.
+Cookie
+__hssc
+Duration
+1 hour
+Description
+HubSpot sets this cookie to keep track of sessions and to determine if HubSpot should increment the session number and timestamps in the __hstc cookie.
+Cookie
+is_us_based
+Duration
+session
+Description
+This cookie is used to serve different content for UK and US visitors
+Functional
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+Cookie
+lidc
+Duration
+1 day
+Description
+LinkedIn sets the lidc cookie to facilitate data center selection.
+Cookie
+li_gc
+Duration
+6 months
+Description
+Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+Cookie
+_gcl_au
+Duration
+3 months
+Description
+Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.
+Cookie
+_ga
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+Cookie
+_ga_*
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to store and count page views.
+Cookie
+_gid
+Duration
+1 day
+Description
+Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously.
+Cookie
+_gat_UA-*
+Duration
+1 minute
+Description
+Google Analytics sets this cookie for user behaviour tracking.
+Cookie
+_fbp
+Duration
+3 months
+Description
+Facebook sets this cookie to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising after visiting the website.
+Cookie
+__hstc
+Duration
+6 months
+Description
+Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+Cookie
+hubspotutk
+Duration
+6 months
+Description
+HubSpot sets this cookie to keep track of the visitors to the website. This cookie is passed to HubSpot on form submission and used when deduplicating contacts.
+Cookie
+__insp_wid
+Duration
+1 year
+Description
+This cookie is set by Inspectlet. This cookie is used to store datas within a session. Cookie deletes  when a visit is over.
+Cookie
+__insp_slim
+Duration
+1 year
+Description
+Inspectlet sets this cookie for review solicitors to store data regarding mouse position, clicks, scrolls, and highlighted elements.
+Cookie
+__insp_nv
+Duration
+1 year
+Description
+Inspectlet sets this cookie to know if this user is a new visitor or a returning visitor.
+Cookie
+__insp_targlpu
+Duration
+1 year
+Description
+Inspectlet sets this cookie for review solicitors to store data regarding mouse position, clicks, scrolls, and highlighted elements.
+Cookie
+__insp_targlpt
+Duration
+1 year
+Description
+Inspectlet sets this cookie for review solicitors to store data regarding mouse position, clicks, scrolls, and highlighted elements.
+Cookie
+__insp_norec_sess
+Duration
+1 year
+Description
+Inspectlet sets this cookie to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.
+Cookie
+__insp_dct
+Duration
+session
+Description
+Inspectlet sets this cookie to record statistical data on users' behavior on the website and also uses it for internal analytics by the website operator.
+Cookie
+_conv_v
+Duration
+6 months
+Description
+This cookie is the visitor-centric cookie that has a
+lifetime of max 6 months from the last update time
+. It is a string of star(*) separated pieces; each piece is a string that contains key and value strings glued together by colon (:). Here is a list of used keys:
+Cookie
+_conv_s
+Duration
+20 minutes
+Description
+This cookie is a session centric cookie that has a
+lifetime of 20 minutes since the last update (last browsing activity)
+.
+Cookie
+_conv_r
+Duration
+6 hours
+Description
+This cookie holds the referral data for the current visitor.
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Cookie
+_cfuvid
+Duration
+session
+Description
+This cookie is set by HubSpot’s CDN provider because of their rate limiting policies.
+Advertisement
+Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.
+Cookie
+test_cookie
+Duration
+15 minutes
+Description
+doubleclick.net sets this cookie to determine if the user's browser supports cookies.
+Cookie
+_rdt_uuid
+Duration
+3 months
+Description
+Reddit sets this cookie to build a profile of your interests and show you relevant ads.
+Cookie
+muc_ads
+Duration
+1 year 1 month 4 days
+Description
+Twitter sets this cookie to collect user behaviour and interaction data to optimize the website.
+Cookie
+personalization_id
+Duration
+1 year 1 month 4 days
+Description
+Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+Cookie
+IDE
+Duration
+1 year 24 days
+Description
+Google DoubleClick IDE cookies store information about how the user uses the website to present them with relevant ads according to the user profile.
+Cookie
+bcookie
+Duration
+1 year
+Description
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+Uncategorized
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+No cookies to display.
+Reject All
+Save My Preferences
+Accept All
+Powered by
+Skip to main content
+Our teams
+Quantitative research & machine learning
+We find patterns in noisy, real-world datasets to predict movement in global financial markets – blending mathematical precision with state-of-the-art machine learning.
+Learn more
+Engineering
+We design and maintain the robust infrastructure and high-performance platforms that transform bold research into real-world results.
+Learn more
+Technology Innovation Group
+We scout, test and integrate the latest technologies — ensuring our teams stay at the forefront of what’s possible.
+Learn more
+Open-source software
+We partner with and contribute to the open-source community, building world-class tools that benefit our research and the wider world.
+Learn more
+Students & graduates
+Graduates
+Summer Research Programme
+Engineering internships
+Machine Learning College
+NextGen
+About us
+About us
+Our commitment
+Our community
+G-Research Vector
+News
+Events
+GRiddles
+Careers
+Vacancies
+Life at G-Research
+Our benefits
+Relocation
+Contact
+Vacancies
+Close filters
+Specialism
+Business Management
+Cyber Security
+Infrastructure Engineering
+Quant Research
+Software Engineering
+TIG and Open Source
+Location
+London
+Clear
+Apply Filters
+Business Management
+HR Placement Year
+London
+Technology Operations Manager
+London
+Liquidity Program Manager
+London
+Security Operations and Risk Analyst
+London
+Talent Acquisition Specialist
+London
+Analytics Engineer
+London
+Technology Talent Sourcer (12 Month FTC)
+London
+Cyber Security
+Security Operations Centre Manager
+London
+Security Operations Placement Year
+London
+Senior Red Team Operator
+London
+Red Team Operations Manager
+London
+Penetration Tester
+London
+IAM Platform Engineer – Authentication, Credentials & PAM
+London
+Security Assurance Specialist
+London
+Senior CSIRT Analyst
+London
+Chief Business Risk Officer
+London
+IAM Platform Engineer – Identity, Entitlements & Authorisation
+London
+Security Threat Specialist
+London
+Infrastructure Engineering
+Platform Engineering Manager
+London
+Platform Engineer
+London
+Linux Platform Engineer
+London
+Network Engineer
+London
+Network Automation Engineer
+London
+Low Latency Network Engineer
+London
+Kubernetes Platform Engineer
+London
+Core Infrastructure Engineering Manager
+London
+Lead Network Reliability Engineer
+London
+Quant Research
+Machine Learning Research Internship
+London
+Natural Language Processing Internship
+London
+Quant Research Internship
+London
+Data Science Internship
+London
+Quantitative Researcher – Fundamental Equity Research
+London
+Quantitative Researcher – Experienced
+London
+Natural Language Processing Researcher
+London
+Machine Learning Researcher
+London
+Quantitative Researcher – Postgraduate
+London
+Software Engineering
+Core AI Engineering Manager
+London
+Quantitative Data Engineer
+London
+Platform Software Engineer
+London
+Machine Learning Engineer Internship
+London
+Graduate Machine Learning Engineer
+London
+Software Engineering Internship
+London
+Software Engineer
+London
+Data Software Engineer
+London
+Software Engineer – Core IP Security
+London
+NLP Performance Engineer
+London
+Software Engineer – Security
+London
+Core AI Engineer
+London
+Software Engineer — Observability Instrumentation
+London
+Applied AI Engineer
+London
+Research Engineer
+London
+Engineering Manager
+London
+Machine Learning Engineer
+London
+Software Engineer – Compute Orchestration
+London
+Machine Learning Workflow Engineer
+London
+Machine Learning Engineer
+London
+Observability Engineer
+London
+Performance Engineering Manager
+London
+Software Engineer – Trade Technology
+London
+Quantitative Developer
+London
+C++ Software Engineer
+London
+Data Software Engineer
+London
+TIG and Open Source
+Deputy Head of Open Source Development
+London
+Don't see any suitable vacancies?
+Stay connected
+We’re always looking for brilliant minds to join our team. If you don’t see a role that fits, leave your details and we’ll notify you when something suitable comes up.
+First Name
+*
+Last Name
+*
+Email Address
+*
+Looking for roles in...
+*
+Interested in
+Business Management
+Cyber Security
+Infrastructure Engineering
+Quantitative Research
+Software Engineering
+TIG and Open Source
+Read our
+privacy policy
+. You can unsubscribe at anytime.
+Do you agree for G-Research to contact you?
+By clicking submit below, you consent to allow G-Research to store and process the personal information submitted here in order to provide you with the updates requested.
+What our people say
+slide
+61 to 62
+of 31
+Henry
+FPGA Engineering Intern
+"Sitting alongside experienced engineers means I can ask questions, discuss ideas and learn from how they approach their work."
+Find out more
+Olivia
+Cyber Security First Response Intern
+"I had the autonomy to lead mini-projects, contribute to ongoing investigations and shape the outcome of technical workstreams."
+Find out more
+Samira
+Software Engineering Intern
+"It’s nice to work on something useful, rather than just an intern project. I’ve had feedback from people saying they’ll use the app regularly, which is great to hear."
+Find out more
+Joseph
+Data Analyst Intern
+"The dashboards I’ve created are already being used and having a tangible impact, which I’ve found really rewarding."
+Find out more
+Abdullah
+Software Engineering Intern
+"G-Research gave me a unique experience where I'm surrounded by both very talented and very approachable people and where my contributions are impactful."
+Find out more
+Elizabeth
+Quantitative Research Intern
+"We had a lot of freedom to explore different aspects of the project and really make it our own, which I really enjoyed."
+Find out more
+David
+Director of Open Source Development
+"Knowing that we make a difference to the bottom line of our business while also doing good for others in a collaborative way brings an extra layer of satisfaction to my day."
+Find out more
+Ivan
+DevOps Engineer
+"I'm exposed to many different technologies and I get to learn the basics and then develop my skills with that technology further."
+Find out more
+Jonathan
+Open Source Evangelist
+"Out of all the places where I've worked, it's the only place where I can say that I'm constantly learning from my colleagues. I really feel like this has made me grow a lot."
+Find out more
+Caterina
+Director of Open Source Developer Experience
+"We have the built-in advantage of a collaborative culture, working with open source software developers who are global and come from all different kinds of backgrounds and environments."
+Find out more
+Adam
+ML Open Source Software Manager
+"I get to build software that solves real problems for my colleagues, while also being part of the global Open Source community."
+Find out more
+Peter
+Quantitative Research Intern
+"My internship was a hugely valuable experience that sharpened my skills and gave me a new perspective on building models with real-world impact."
+Find out more
+Matteo
+Quantitative Research Intern
+"One of the things that has truly stood out to me is the collaborative and welcoming culture. I hadn’t expected such a supportive environment but it’s been one of the main reasons I’ve enjoyed working here from day one."
+Find out more
+Margot
+HRIS manager
+"I enjoy how dynamic the work environment at G-Research is. It keeps you busy and continuously creates opportunities to develop yourself and your career, too."
+Find out more
+Mario
+FPGA Manager
+"While some people might think working in finance may not be too exciting, at
+G-Research
+, it is, especially if you see it as a problem to solve. How do we solve this algorithm? How do we get faster? This is why I think people are really excited to work here."
+Find out more
+Alexander
+Software Engineer
+"I've felt very lucky to work with teams of people across the business who are generous with their time, knowledge and ideas as we collaborate to continuously build and rebuild complex systems with lots of moving parts."
+Find out more
+Simon
+Cyber Security Manager
+"There are lots of people within the business that have started as a junior and progressed – which I think is testament to
+G-Research's
+belief in fostering growth and recognising potential."
+Find out more
+Sebastian
+Senior Quantitative Researcher
+"G-Research makes a lot of effort to have a very open culture and gives a lot of freedom to its individual researchers to pursue directions that they think are valuable, with each researcher very much driving their own research. I didn’t feel like I was losing a lot of freedom compared to academia."
+Find out more
+Mia
+Software Engineer
+"What I appreciate most about working in
+G-Research
+is the supportive and knowledgeable environment. Everyone is incredibly helpful and patient, which ensures there’s a good balance between being challenged and your workload."
+Find out more
+Yang
+Quantitative Researcher
+"What I like the most about my job is it’s super open. I’m able to work with a lot of folks from other teams, too, such as working closely with engineers and other quantitative researchers."
+Find out more
+Yousuf
+Machine Learning Engineer
+"My intern experience was really good. You get the opportunity to impact a business, which is important if you’re preparing to enter the workplace. You get to do something useful and see how it gets used; I worked on a project that is still being used now."
+Find out more
+Clement
+Senior Quantitative Researcher
+"My role focuses on finding signals in real-world data and in many ways, it feels like a continuation of my PhD; I’m looking at unexplored problems and I choose which ones to focus on."
+Find out more
+Dexter
+Software Engineer
+"Work culture is an important aspect for me, so when I was contacted by
+G-Research
+I discovered a company where I could grow as a developer, whilst feeling like the company valued me as a person, not just a code monkey."
+Find out more
+Leon
+Quantitative Research Manager
+"There was a lot I didn't know about
+G-Research
+, so I gained insights from those who interviewed me. They all came across as intelligent, curious and interested in exploring problems from different angles. I figured if people like this enjoy their jobs then I most certainly will."
+Find out more
+Neil
+Corporate IT Manager
+"My favourite part of working for
+G-Research
+is that technology is at the heart of everything we do at the company, driving the business forward and enabling us to stay ahead of the competition."
+Find out more
+Owen
+Software Engineer
+"Before G-Research I’d completed internships at a few companies whilst studying Computer Science at the University of York. Since joining, I’ve progressed from an intern to a graduate to an engineer, having worked on systems and technology core to the business my entire time."
+Find out more
+Fabian
+Senior Quantitative Researcher
+"The two biggest things that I like about working at
+G-Research
+are the smart and incredibly friendly colleagues, as well as being able to strike a really good work-life balance, in contrast to a lot of the finance industry."
+Find out more
+Sokratis
+Software Engineer
+"My favourite part of working at
+G-Research
+is the people, from my colleagues to our customers. The culture is great and encourages collaboration, which makes it easier for everyone to work together."
+Find out more
+Ross
+Cloud Engineering Manager
+"My favourite thing about working here is the people.
+G-Research
+strives to hire not only the brightest minds, but good people, which in turn creates a brilliant collegiate and social atmosphere at the company."
+Find out more
+Josh
+Quantitative Research Intern
+"I was surprised by how much access I had to G-Research’s compute. I was able to run a significant number of jobs on the compute farm, similar to a full-time researcher, which gave me the freedom to explore different ideas through experimentation."
+Find out more
+Tisya
+Research Engineering Intern
+"What’s stood out is how much ownership I’ve had without ever feeling like I was on my own. I’ve been treated as part of the team, with people always happy to answer questions, discuss ideas or help when I need it."
+Find out more
+Henry
+FPGA Engineering Intern
+"Sitting alongside experienced engineers means I can ask questions, discuss ideas and learn from how they approach their work."
+Find out more
+Olivia
+Cyber Security First Response Intern
+"I had the autonomy to lead mini-projects, contribute to ongoing investigations and shape the outcome of technical workstreams."
+Find out more
+Samira
+Software Engineering Intern
+"It’s nice to work on something useful, rather than just an intern project. I’ve had feedback from people saying they’ll use the app regularly, which is great to hear."
+Find out more
+Joseph
+Data Analyst Intern
+"The dashboards I’ve created are already being used and having a tangible impact, which I’ve found really rewarding."
+Find out more
+Abdullah
+Software Engineering Intern
+"G-Research gave me a unique experience where I'm surrounded by both very talented and very approachable people and where my contributions are impactful."
+Find out more
+Elizabeth
+Quantitative Research Intern
+"We had a lot of freedom to explore different aspects of the project and really make it our own, which I really enjoyed."
+Find out more
+David
+Director of Open Source Development
+"Knowing that we make a difference to the bottom line of our business while also doing good for others in a collaborative way brings an extra layer of satisfaction to my day."
+Find out more
+Ivan
+DevOps Engineer
+"I'm exposed to many different technologies and I get to learn the basics and then develop my skills with that technology further."
+Find out more
+Jonathan
+Open Source Evangelist
+"Out of all the places where I've worked, it's the only place where I can say that I'm constantly learning from my colleagues. I really feel like this has made me grow a lot."
+Find out more
+Caterina
+Director of Open Source Developer Experience
+"We have the built-in advantage of a collaborative culture, working with open source software developers who are global and come from all different kinds of backgrounds and environments."
+Find out more
+Adam
+ML Open Source Software Manager
+"I get to build software that solves real problems for my colleagues, while also being part of the global Open Source community."
+Find out more
+Peter
+Quantitative Research Intern
+"My internship was a hugely valuable experience that sharpened my skills and gave me a new perspective on building models with real-world impact."
+Find out more
+Matteo
+Quantitative Research Intern
+"One of the things that has truly stood out to me is the collaborative and welcoming culture. I hadn’t expected such a supportive environment but it’s been one of the main reasons I’ve enjoyed working here from day one."
+Find out more
+Margot
+HRIS manager
+"I enjoy how dynamic the work environment at G-Research is. It keeps you busy and continuously creates opportunities to develop yourself and your career, too."
+Find out more
+Mario
+FPGA Manager
+"While some people might think working in finance may not be too exciting, at
+G-Research
+, it is, especially if you see it as a problem to solve. How do we solve this algorithm? How do we get faster? This is why I think people are really excited to work here."
+Find out more
+Alexander
+Software Engineer
+"I've felt very lucky to work with teams of people across the business who are generous with their time, knowledge and ideas as we collaborate to continuously build and rebuild complex systems with lots of moving parts."
+Find out more
+Simon
+Cyber Security Manager
+"There are lots of people within the business that have started as a junior and progressed – which I think is testament to
+G-Research's
+belief in fostering growth and recognising potential."
+Find out more
+Sebastian
+Senior Quantitative Researcher
+"G-Research makes a lot of effort to have a very open culture and gives a lot of freedom to its individual researchers to pursue directions that they think are valuable, with each researcher very much driving their own research. I didn’t feel like I was losing a lot of freedom compared to academia."
+Find out more
+Mia
+Software Engineer
+"What I appreciate most about working in
+G-Research
+is the supportive and knowledgeable environment. Everyone is incredibly helpful and patient, which ensures there’s a good balance between being challenged and your workload."
+Find out more
+Yang
+Quantitative Researcher
+"What I like the most about my job is it’s super open. I’m able to work with a lot of folks from other teams, too, such as working closely with engineers and other quantitative researchers."
+Find out more
+Yousuf
+Machine Learning Engineer
+"My intern experience was really good. You get the opportunity to impact a business, which is important if you’re preparing to enter the workplace. You get to do something useful and see how it gets used; I worked on a project that is still being used now."
+Find out more
+Clement
+Senior Quantitative Researcher
+"My role focuses on finding signals in real-world data and in many ways, it feels like a continuation of my PhD; I’m looking at unexplored problems and I choose which ones to focus on."
+Find out more
+Dexter
+Software Engineer
+"Work culture is an important aspect for me, so when I was contacted by
+G-Research
+I discovered a company where I could grow as a developer, whilst feeling like the company valued me as a person, not just a code monkey."
+Find out more
+Leon
+Quantitative Research Manager
+"There was a lot I didn't know about
+G-Research
+, so I gained insights from those who interviewed me. They all came across as intelligent, curious and interested in exploring problems from different angles. I figured if people like this enjoy their jobs then I most certainly will."
+Find out more
+Neil
+Corporate IT Manager
+"My favourite part of working for
+G-Research
+is that technology is at the heart of everything we do at the company, driving the business forward and enabling us to stay ahead of the competition."
+Find out more
+Owen
+Software Engineer
+"Before G-Research I’d completed internships at a few companies whilst studying Computer Science at the University of York. Since joining, I’ve progressed from an intern to a graduate to an engineer, having worked on systems and technology core to the business my entire time."
+Find out more
+Fabian
+Senior Quantitative Researcher
+"The two biggest things that I like about working at
+G-Research
+are the smart and incredibly friendly colleagues, as well as being able to strike a really good work-life balance, in contrast to a lot of the finance industry."
+Find out more
+Sokratis
+Software Engineer
+"My favourite part of working at
+G-Research
+is the people, from my colleagues to our customers. The culture is great and encourages collaboration, which makes it easier for everyone to work together."
+Find out more
+Ross
+Cloud Engineering Manager
+"My favourite thing about working here is the people.
+G-Research
+strives to hire not only the brightest minds, but good people, which in turn creates a brilliant collegiate and social atmosphere at the company."
+Find out more
+Josh
+Quantitative Research Intern
+"I was surprised by how much access I had to G-Research’s compute. I was able to run a significant number of jobs on the compute farm, similar to a full-time researcher, which gave me the freedom to explore different ideas through experimentation."
+Find out more
+Tisya
+Research Engineering Intern
+"What’s stood out is how much ownership I’ve had without ever feeling like I was on my own. I’ve been treated as part of the team, with people always happy to answer questions, discuss ideas or help when I need it."
+Find out more
+Henry
+FPGA Engineering Intern
+"Sitting alongside experienced engineers means I can ask questions, discuss ideas and learn from how they approach their work."
+Find out more
+Olivia
+Cyber Security First Response Intern
+"I had the autonomy to lead mini-projects, contribute to ongoing investigations and shape the outcome of technical workstreams."
+Find out more
+Samira
+Software Engineering Intern
+"It’s nice to work on something useful, rather than just an intern project. I’ve had feedback from people saying they’ll use the app regularly, which is great to hear."
+Find out more
+Joseph
+Data Analyst Intern
+"The dashboards I’ve created are already being used and having a tangible impact, which I’ve found really rewarding."
+Find out more
+Abdullah
+Software Engineering Intern
+"G-Research gave me a unique experience where I'm surrounded by both very talented and very approachable people and where my contributions are impactful."
+Find out more
+Elizabeth
+Quantitative Research Intern
+"We had a lot of freedom to explore different aspects of the project and really make it our own, which I really enjoyed."
+Find out more
+David
+Director of Open Source Development
+"Knowing that we make a difference to the bottom line of our business while also doing good for others in a collaborative way brings an extra layer of satisfaction to my day."
+Find out more
+Ivan
+DevOps Engineer
+"I'm exposed to many different technologies and I get to learn the basics and then develop my skills with that technology further."
+Find out more
+Jonathan
+Open Source Evangelist
+"Out of all the places where I've worked, it's the only place where I can say that I'm constantly learning from my colleagues. I really feel like this has made me grow a lot."
+Find out more
+Caterina
+Director of Open Source Developer Experience
+"We have the built-in advantage of a collaborative culture, working with open source software developers who are global and come from all different kinds of backgrounds and environments."
+Find out more
+Adam
+ML Open Source Software Manager
+"I get to build software that solves real problems for my colleagues, while also being part of the global Open Source community."
+Find out more
+Peter
+Quantitative Research Intern
+"My internship was a hugely valuable experience that sharpened my skills and gave me a new perspective on building models with real-world impact."
+Find out more
+Matteo
+Quantitative Research Intern
+"One of the things that has truly stood out to me is the collaborative and welcoming culture. I hadn’t expected such a supportive environment but it’s been one of the main reasons I’ve enjoyed working here from day one."
+Find out more
+Margot
+HRIS manager
+"I enjoy how dynamic the work environment at G-Research is. It keeps you busy and continuously creates opportunities to develop yourself and your career, too."
+Find out more
+Mario
+FPGA Manager
+"While some people might think working in finance may not be too exciting, at
+G-Research
+, it is, especially if you see it as a problem to solve. How do we solve this algorithm? How do we get faster? This is why I think people are really excited to work here."
+Find out more
+Alexander
+Software Engineer
+"I've felt very lucky to work with teams of people across the business who are generous with their time, knowledge and ideas as we collaborate to continuously build and rebuild complex systems with lots of moving parts."
+Find out more
+Simon
+Cyber Security Manager
+"There are lots of people within the business that have started as a junior and progressed – which I think is testament to
+G-Research's
+belief in fostering growth and recognising potential."
+Find out more
+Sebastian
+Senior Quantitative Researcher
+"G-Research makes a lot of effort to have a very open culture and gives a lot of freedom to its individual researchers to pursue directions that they think are valuable, with each researcher very much driving their own research. I didn’t feel like I was losing a lot of freedom compared to academia."
+Find out more
+Mia
+Software Engineer
+"What I appreciate most about working in
+G-Research
+is the supportive and knowledgeable environment. Everyone is incredibly helpful and patient, which ensures there’s a good balance between being challenged and your workload."
+Find out more
+Yang
+Quantitative Researcher
+"What I like the most about my job is it’s super open. I’m able to work with a lot of folks from other teams, too, such as working closely with engineers and other quantitative researchers."
+Find out more
+Yousuf
+Machine Learning Engineer
+"My intern experience was really good. You get the opportunity to impact a business, which is important if you’re preparing to enter the workplace. You get to do something useful and see how it gets used; I worked on a project that is still being used now."
+Find out more
+Clement
+Senior Quantitative Researcher
+"My role focuses on finding signals in real-world data and in many ways, it feels like a continuation of my PhD; I’m looking at unexplored problems and I choose which ones to focus on."
+Find out more
+Dexter
+Software Engineer
+"Work culture is an important aspect for me, so when I was contacted by
+G-Research
+I discovered a company where I could grow as a developer, whilst feeling like the company valued me as a person, not just a code monkey."
+Find out more
+Leon
+Quantitative Research Manager
+"There was a lot I didn't know about
+G-Research
+, so I gained insights from those who interviewed me. They all came across as intelligent, curious and interested in exploring problems from different angles. I figured if people like this enjoy their jobs then I most certainly will."
+Find out more
+Neil
+Corporate IT Manager
+"My favourite part of working for
+G-Research
+is that technology is at the heart of everything we do at the company, driving the business forward and enabling us to stay ahead of the competition."
+Find out more
+Owen
+Software Engineer
+"Before G-Research I’d completed internships at a few companies whilst studying Computer Science at the University of York. Since joining, I’ve progressed from an intern to a graduate to an engineer, having worked on systems and technology core to the business my entire time."
+Find out more
+Fabian
+Senior Quantitative Researcher
+"The two biggest things that I like about working at
+G-Research
+are the smart and incredibly friendly colleagues, as well as being able to strike a really good work-life balance, in contrast to a lot of the finance industry."
+Find out more
+Sokratis
+Software Engineer
+"My favourite part of working at
+G-Research
+is the people, from my colleagues to our customers. The culture is great and encourages collaboration, which makes it easier for everyone to work together."
+Find out more
+Ross
+Cloud Engineering Manager
+"My favourite thing about working here is the people.
+G-Research
+strives to hire not only the brightest minds, but good people, which in turn creates a brilliant collegiate and social atmosphere at the company."
+Find out more
+Josh
+Quantitative Research Intern
+"I was surprised by how much access I had to G-Research’s compute. I was able to run a significant number of jobs on the compute farm, similar to a full-time researcher, which gave me the freedom to explore different ideas through experimentation."
+Find out more
+Tisya
+Research Engineering Intern
+"What’s stood out is how much ownership I’ve had without ever feeling like I was on my own. I’ve been treated as part of the team, with people always happy to answer questions, discuss ideas or help when I need it."
+Find out more
+Henry
+FPGA Engineering Intern
+"Sitting alongside experienced engineers means I can ask questions, discuss ideas and learn from how they approach their work."
+Find out more
+Olivia
+Cyber Security First Response Intern
+"I had the autonomy to lead mini-projects, contribute to ongoing investigations and shape the outcome of technical workstreams."
+Find out more
+Samira
+Software Engineering Intern
+"It’s nice to work on something useful, rather than just an intern project. I’ve had feedback from people saying they’ll use the app regularly, which is great to hear."
+Find out more
+Joseph
+Data Analyst Intern
+"The dashboards I’ve created are already being used and having a tangible impact, which I’ve found really rewarding."
+Find out more
+Abdullah
+Software Engineering Intern
+"G-Research gave me a unique experience where I'm surrounded by both very talented and very approachable people and where my contributions are impactful."
+Find out more
+Elizabeth
+Quantitative Research Intern
+"We had a lot of freedom to explore different aspects of the project and really make it our own, which I really enjoyed."
+Find out more
+David
+Director of Open Source Development
+"Knowing that we make a difference to the bottom line of our business while also doing good for others in a collaborative way brings an extra layer of satisfaction to my day."
+Find out more
+Ivan
+DevOps Engineer
+"I'm exposed to many different technologies and I get to learn the basics and then develop my skills with that technology further."
+Find out more
+Jonathan
+Open Source Evangelist
+"Out of all the places where I've worked, it's the only place where I can say that I'm constantly learning from my colleagues. I really feel like this has made me grow a lot."
+Find out more
+Caterina
+Director of Open Source Developer Experience
+"We have the built-in advantage of a collaborative culture, working with open source software developers who are global and come from all different kinds of backgrounds and environments."
+Find out more
+Adam
+ML Open Source Software Manager
+"I get to build software that solves real problems for my colleagues, while also being part of the global Open Source community."
+Find out more
+Peter
+Quantitative Research Intern
+"My internship was a hugely valuable experience that sharpened my skills and gave me a new perspective on building models with real-world impact."
+Find out more
+Matteo
+Quantitative Research Intern
+"One of the things that has truly stood out to me is the collaborative and welcoming culture. I hadn’t expected such a supportive environment but it’s been one of the main reasons I’ve enjoyed working here from day one."
+Find out more
+Margot
+HRIS manager
+"I enjoy how dynamic the work environment at G-Research is. It keeps you busy and continuously creates opportunities to develop yourself and your career, too."
+Find out more
+Mario
+FPGA Manager
+"While some people might think working in finance may not be too exciting, at
+G-Research
+, it is, especially if you see it as a problem to solve. How do we solve this algorithm? How do we get faster? This is why I think people are really excited to work here."
+Find out more
+Alexander
+Software Engineer
+"I've felt very lucky to work with teams of people across the business who are generous with their time, knowledge and ideas as we collaborate to continuously build and rebuild complex systems with lots of moving parts."
+Find out more
+Simon
+Cyber Security Manager
+"There are lots of people within the business that have started as a junior and progressed – which I think is testament to
+G-Research's
+belief in fostering growth and recognising potential."
+Find out more
+Sebastian
+Senior Quantitative Researcher
+"G-Research makes a lot of effort to have a very open culture and gives a lot of freedom to its individual researchers to pursue directions that they think are valuable, with each researcher very much driving their own research. I didn’t feel like I was losing a lot of freedom compared to academia."
+Find out more
+Mia
+Software Engineer
+"What I appreciate most about working in
+G-Research
+is the supportive and knowledgeable environment. Everyone is incredibly helpful and patient, which ensures there’s a good balance between being challenged and your workload."
+Find out more
+Yang
+Quantitative Researcher
+"What I like the most about my job is it’s super open. I’m able to work with a lot of folks from other teams, too, such as working closely with engineers and other quantitative researchers."
+Find out more
+Yousuf
+Machine Learning Engineer
+"My intern experience was really good. You get the opportunity to impact a business, which is important if you’re preparing to enter the workplace. You get to do something useful and see how it gets used; I worked on a project that is still being used now."
+Find out more
+Clement
+Senior Quantitative Researcher
+"My role focuses on finding signals in real-world data and in many ways, it feels like a continuation of my PhD; I’m looking at unexplored problems and I choose which ones to focus on."
+Find out more
+Dexter
+Software Engineer
+"Work culture is an important aspect for me, so when I was contacted by
+G-Research
+I discovered a company where I could grow as a developer, whilst feeling like the company valued me as a person, not just a code monkey."
+Find out more
+Leon
+Quantitative Research Manager
+"There was a lot I didn't know about
+G-Research
+, so I gained insights from those who interviewed me. They all came across as intelligent, curious and interested in exploring problems from different angles. I figured if people like this enjoy their jobs then I most certainly will."
+Find out more
+Neil
+Corporate IT Manager
+"My favourite part of working for
+G-Research
+is that technology is at the heart of everything we do at the company, driving the business forward and enabling us to stay ahead of the competition."
+Find out more
+Owen
+Software Engineer
+"Before G-Research I’d completed internships at a few companies whilst studying Computer Science at the University of York. Since joining, I’ve progressed from an intern to a graduate to an engineer, having worked on systems and technology core to the business my entire time."
+Find out more
+Fabian
+Senior Quantitative Researcher
+"The two biggest things that I like about working at
+G-Research
+are the smart and incredibly friendly colleagues, as well as being able to strike a really good work-life balance, in contrast to a lot of the finance industry."
+Find out more
+Sokratis
+Software Engineer
+"My favourite part of working at
+G-Research
+is the people, from my colleagues to our customers. The culture is great and encourages collaboration, which makes it easier for everyone to work together."
+Find out more
+Ross
+Cloud Engineering Manager
+"My favourite thing about working here is the people.
+G-Research
+strives to hire not only the brightest minds, but good people, which in turn creates a brilliant collegiate and social atmosphere at the company."
+Find out more
+Josh
+Quantitative Research Intern
+"I was surprised by how much access I had to G-Research’s compute. I was able to run a significant number of jobs on the compute farm, similar to a full-time researcher, which gave me the freedom to explore different ideas through experimentation."
+Find out more
+Tisya
+Research Engineering Intern
+"What’s stood out is how much ownership I’ve had without ever feeling like I was on my own. I’ve been treated as part of the team, with people always happy to answer questions, discuss ideas or help when I need it."
+Find out more
+Henry
+FPGA Engineering Intern
+"Sitting alongside experienced engineers means I can ask questions, discuss ideas and learn from how they approach their work."
+Find out more
+Olivia
+Cyber Security First Response Intern
+"I had the autonomy to lead mini-projects, contribute to ongoing investigations and shape the outcome of technical workstreams."
+Find out more
+Samira
+Software Engineering Intern
+"It’s nice to work on something useful, rather than just an intern project. I’ve had feedback from people saying they’ll use the app regularly, which is great to hear."
+Find out more
+Joseph
+Data Analyst Intern
+"The dashboards I’ve created are already being used and having a tangible impact, which I’ve found really rewarding."
+Find out more
+Abdullah
+Software Engineering Intern
+"G-Research gave me a unique experience where I'm surrounded by both very talented and very approachable people and where my contributions are impactful."
+Find out more
+Elizabeth
+Quantitative Research Intern
+"We had a lot of freedom to explore different aspects of the project and really make it our own, which I really enjoyed."
+Find out more
+David
+Director of Open Source Development
+"Knowing that we make a difference to the bottom line of our business while also doing good for others in a collaborative way brings an extra layer of satisfaction to my day."
+Find out more
+Ivan
+DevOps Engineer
+"I'm exposed to many different technologies and I get to learn the basics and then develop my skills with that technology further."
+Find out more
+Jonathan
+Open Source Evangelist
+"Out of all the places where I've worked, it's the only place where I can say that I'm constantly learning from my colleagues. I really feel like this has made me grow a lot."
+Find out more
+Caterina
+Director of Open Source Developer Experience
+"We have the built-in advantage of a collaborative culture, working with open source software developers who are global and come from all different kinds of backgrounds and environments."
+Find out more
+Adam
+ML Open Source Software Manager
+"I get to build software that solves real problems for my colleagues, while also being part of the global Open Source community."
+Find out more
+Peter
+Quantitative Research Intern
+"My internship was a hugely valuable experience that sharpened my skills and gave me a new perspective on building models with real-world impact."
+Find out more
+Matteo
+Quantitative Research Intern
+"One of the things that has truly stood out to me is the collaborative and welcoming culture. I hadn’t expected such a supportive environment but it’s been one of the main reasons I’ve enjoyed working here from day one."
+Find out more
+Margot
+HRIS manager
+"I enjoy how dynamic the work environment at G-Research is. It keeps you busy and continuously creates opportunities to develop yourself and your career, too."
+Find out more
+Mario
+FPGA Manager
+"While some people might think working in finance may not be too exciting, at
+G-Research
+, it is, especially if you see it as a problem to solve. How do we solve this algorithm? How do we get faster? This is why I think people are really excited to work here."
+Find out more
+Alexander
+Software Engineer
+"I've felt very lucky to work with teams of people across the business who are generous with their time, knowledge and ideas as we collaborate to continuously build and rebuild complex systems with lots of moving parts."
+Find out more
+Simon
+Cyber Security Manager
+"There are lots of people within the business that have started as a junior and progressed – which I think is testament to
+G-Research's
+belief in fostering growth and recognising potential."
+Find out more
+Sebastian
+Senior Quantitative Researcher
+"G-Research makes a lot of effort to have a very open culture and gives a lot of freedom to its individual researchers to pursue directions that they think are valuable, with each researcher very much driving their own research. I didn’t feel like I was losing a lot of freedom compared to academia."
+Find out more
+Mia
+Software Engineer
+"What I appreciate most about working in
+G-Research
+is the supportive and knowledgeable environment. Everyone is incredibly helpful and patient, which ensures there’s a good balance between being challenged and your workload."
+Find out more
+Yang
+Quantitative Researcher
+"What I like the most about my job is it’s super open. I’m able to work with a lot of folks from other teams, too, such as working closely with engineers and other quantitative researchers."
+Find out more
+Yousuf
+Machine Learning Engineer
+"My intern experience was really good. You get the opportunity to impact a business, which is important if you’re preparing to enter the workplace. You get to do something useful and see how it gets used; I worked on a project that is still being used now."
+Find out more
+Clement
+Senior Quantitative Researcher
+"My role focuses on finding signals in real-world data and in many ways, it feels like a continuation of my PhD; I’m looking at unexplored problems and I choose which ones to focus on."
+Find out more
+Dexter
+Software Engineer
+"Work culture is an important aspect for me, so when I was contacted by
+G-Research
+I discovered a company where I could grow as a developer, whilst feeling like the company valued me as a person, not just a code monkey."
+Find out more
+Leon
+Quantitative Research Manager
+"There was a lot I didn't know about
+G-Research
+, so I gained insights from those who interviewed me. They all came across as intelligent, curious and interested in exploring problems from different angles. I figured if people like this enjoy their jobs then I most certainly will."
+Find out more
+Neil
+Corporate IT Manager
+"My favourite part of working for
+G-Research
+is that technology is at the heart of everything we do at the company, driving the business forward and enabling us to stay ahead of the competition."
+Find out more
+Owen
+Software Engineer
+"Before G-Research I’d completed internships at a few companies whilst studying Computer Science at the University of York. Since joining, I’ve progressed from an intern to a graduate to an engineer, having worked on systems and technology core to the business my entire time."
+Find out more
+Fabian
+Senior Quantitative Researcher
+"The two biggest things that I like about working at
+G-Research
+are the smart and incredibly friendly colleagues, as well as being able to strike a really good work-life balance, in contrast to a lot of the finance industry."
+Find out more
+Stay up to date with
+G-Research
+Subscribe to hear about the latest news and events
+Email Address
+*
+First Name
+Last Name
+Read our
+privacy policy
+. You can unsubscribe at any time.
+Do you agree for G-Research to contact you?
+By clicking submit below, you consent to allow G-Research to store and process the personal information submitted here in order to provide you with the updates requested.
+Join our talent network
+Be the first to hear about new roles and opportunites to join our team.
+We're always looking for brilliant minds to join our team. If you don't see a role that fits, leave your details and we'll notify you when something suitable comes up.
+First Name
+*
+Last Name
+*
+Email Address
+*
+Looking for roles in...
+*
+Interested in
+Business Management
+Cyber Security
+Infrastructure Engineering
+Quantitative Research
+Software Engineering
+TIG and Open Source
+Read our
+privacy policy
+. You can unsubscribe at anytime.
+Do you agree for G-Research to contact you?
+By clicking submit below, you consent to allow G-Research to store and process the personal information submitted here in order to provide you with the updates requested.
+Information
+News
+Events
+About us
+Students & graduates
+Vacancies
+G-Research NextGen
+Our commitment
+Our community
+Contact
+Our Teams
+Quantitative research & machine learning
+Engineering
+Technology Innovation Group
+Open-source software
+Contact
+General enquiries
+info@gresearch.com
+Join us
+recruitment@gresearch.com
+Telephone
++44 207 631 7500
+Social
+LinkedIn
+YouTube
+Instagram
+Terms
+Privacy Policy
+Cookies
+© 2026 G-Research

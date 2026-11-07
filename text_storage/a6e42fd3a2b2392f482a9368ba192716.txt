@@ -1,0 +1,481 @@
+Careers at Databricks | Databricks
+Skip to main content
+Login
+Why Databricks
+Discover
+For App Developers
+For Executives
+For Startups
+Lakehouse Architecture
+Databricks AI Research
+Customers
+Customer Stories
+Partners
+Partner Overview
+Explore the Databricks partner ecosystem
+Partner Spotlight
+Featured partner announcements
+Partner Program
+Explore benefits, tiers and how to become a partner
+Cloud Providers
+Databricks on AWS, Azure and GCP
+Find a Partner
+Discover Databricks partners for your needs
+Partner Solutions
+Find custom industry and migration solutions
+Product
+Databricks Data + AI Platform
+Platform Overview
+A unified platform for data, analytics and AI
+Data Engineering
+ETL and orchestration for batch and streaming data
+AI Assistant
+Agentic coworker for business users
+Data Warehousing
+Serverless data warehouse for SQL analytics
+Application Development
+Quickly build secure data and AI apps
+Database
+Postgres for data apps and AI agents
+Artificial Intelligence
+Build and deploy ML and GenAI applications
+Governance
+Unified governance for all data, analytics and AI assets
+Business Intelligence
+Intelligent analytics for real-world data
+Security
+Open agentic SIEM built for the AI era
+Customer Data Platform
+Agentic CDP embedded in Databricks
+Sharing
+Open data sharing for data, analytics and AI
+Integrations and Data
+Marketplace
+Open marketplace for data, analytics and AI
+IDE Integrations
+Build on the Lakehouse in your favorite IDE
+Partner Connect
+Discover and integrate with the Databricks ecosystem
+Pricing
+Databricks Pricing
+Explore product pricing, DBUs and more
+Cost Calculator
+Estimate your compute costs on any cloud
+Open Source
+Open Source Technologies
+Learn more about the innovations behind the platform
+Solutions
+Databricks for Industries
+Telecommunications
+Media and Entertainment
+Financial Services
+Public Sector
+Healthcare & Life Sciences
+Retail
+Manufacturing
+See All Industries
+Cross Industry Solutions
+AI Agents
+AI Governance
+Cybersecurity
+Marketing
+Migration & Deployment
+Data Migration
+Forward Deployed Engineering
+Solution Accelerators
+Explore Accelerators
+Move faster toward outcomes that matter
+Resources
+Learning
+Training
+Discover curriculum tailored to your needs
+Databricks Academy
+Sign in to the Databricks learning platform
+Certification
+Gain recognition and differentiation
+Free Edition
+Learn professional Data and AI tools for free
+University Alliance
+Want to teach Databricks? See how.
+Events
+Data + AI Summit
+Data + AI World Tour
+AI Days
+Event Calendar
+Blog and Podcasts
+Databricks Blog
+Explore news, product announcements, and more
+AI Blog
+Explore our AI research and engineering work
+Data Brew Podcast
+Let’s talk data!
+Get Help
+Customer Support
+Documentation
+Community
+Dive Deep
+Resource Center
+Demo Center
+Architecture Center
+About
+Company
+Who We Are
+Our Team
+Databricks Ventures
+Contact Us
+Careers
+Working at Databricks
+Open Jobs
+Press
+Awards and Recognition
+Newsroom
+Security and Trust
+Security and Trust
+Ready to get started?
+Get a Demo
+Login
+Contact Us
+Try Databricks
+Careers at Databricks
+Join us in building the future of data and AI
+See open jobs
+Overview
+Culture
+Benefits
+Inclusion
+Engineering
+Research
+Go to
+Market
+Interviewing With
+Us
+Internships & Early
+Careers
+Open
+Positions
+Recruitment
+Fraud
+Join the team making AI breakthroughs at the world’s largest companies
+At Databricks, we’re innovators, builders and truthseekers. We have a proven track record as category creators, helping the world’s largest companies use better data to build smarter AI. Over 60% of the Fortune 500 choose the Databricks Data + AI Platform to solve the world’s toughest problems — including agriculture yield optimization, groundbreaking drug discovery and financial services accessibility.
+Why the Databricks Data + AI Platform is the future
+Customer Story
+Protecting 182 million wireless customers from harm
+Read now
+Customer Story
+Prada Group tailors their AI strategy with the Databricks Data + AI Platform
+Read now
+Customer Story
+Mercedes-Benz Tech Innovation transforms the car experience
+Read now
+Customer Story
+Mastercard unlocks opportunity on data and AI
+Read now
+We’re growing fast — and keeping our culture
+Databricks is where the world’s most ambitious builders come to do their best work. Explore our culture, meet our team and see what drives us forward.
+Watch now
+See all awards and recognition
+Find your team
+Administration
+Business Development
+Customer Success
+Engineering
+Field Engineering
+Finance
+IT
+Legal
+Marketing
+Operations
+People and HR
+Product
+Professional Services
+Recruiting
+Sales
+Security
+Internships and Early Career
+Benefits, perks and hybrid work
+To do your best work, your health and well-being are key. That’s why we offer great benefits and perks — including flexible ways of working. It all depends on what works best for you and your team.
+Check out our benefits
+Inclusion, diversity and equity
+We believe different backgrounds, perspectives and skills fuel our success. That’s why we work hard at cultivating an inclusive and supportive environment. Find out how we’re closing the pay gap, removing unconscious bias from recruitment and more.
+See inclusion in action
+Locations
+Headquartered in San Francisco, California, we now have over 30 offices in 20+ countries. With 10,000+ employees worldwide and an ambitious growth strategy, we’re one of the fastest-growing enterprise software cloud companies.
+Check out our offices around the world
+Americas
+San Francisco
+Seattle
+Washington, D.C.
+New York City
+See more
+Europe
+London
+Amsterdam
+Berlin
+Munich
+See more
+Asia-Pacific
+Bengaluru
+Tokyo
+Singapore
+Seoul
+See more
+Opportunities for students and new graduates
+We’re committed to developing the next generation of Databricks leaders. That’s why we’re intentional about having our interns and new college grads play an integral role in developing our platform.
+Our University Program is designed to help you make the most of your experience — from engineering hackathons and Intern Olympics to board game nights and happy hours.
+Explore internships and opportunities
+Health plan transparency in coverage
+(U.S. only)
+Feedback
+Why Databricks
+Discover
+For App Developers
+For Executives
+For Startups
+Lakehouse Architecture
+Databricks AI Research
+Customers
+Customer Stories
+Partners
+Partner Overview
+Partner Program
+Find a Partner
+Partner Spotlight
+Cloud Providers
+Partner Solutions
+Why Databricks
+Discover
+For App Developers
+For Executives
+For Startups
+Lakehouse Architecture
+Databricks AI Research
+Customers
+Customer Stories
+Partners
+Partner Overview
+Partner Program
+Find a Partner
+Partner Spotlight
+Cloud Providers
+Partner Solutions
+Product
+Databricks Data + AI Platform
+Platform Overview
+AI Assistant
+Application Development
+Artificial Intelligence
+Business Intelligence
+Customer Data Platform
+Data Engineering
+Data Warehousing
+Database
+Governance
+Neon
+Security
+Sharing
+Pricing
+Pricing Overview
+Pricing Calculator
+Open Source
+Integrations and Data
+Marketplace
+IDE Integrations
+Partner Connect
+Product
+Databricks Data + AI Platform
+Platform Overview
+AI Assistant
+Application Development
+Artificial Intelligence
+Business Intelligence
+Customer Data Platform
+Data Engineering
+Data Warehousing
+Database
+Governance
+Neon
+Security
+Sharing
+Pricing
+Pricing Overview
+Pricing Calculator
+Open Source
+Integrations and Data
+Marketplace
+IDE Integrations
+Partner Connect
+Solutions
+Databricks For Industries
+Communications
+Financial Services
+Healthcare and Life Sciences
+Manufacturing
+Media and Entertainment
+Public Sector
+Retail
+View All
+Cross Industry Solutions
+AI Agents
+AI Governance
+Cybersecurity
+Marketing
+Data Migration
+Forward Deployed Engineering
+Solution Accelerators
+Solutions
+Databricks For Industries
+Communications
+Financial Services
+Healthcare and Life Sciences
+Manufacturing
+Media and Entertainment
+Public Sector
+Retail
+View All
+Cross Industry Solutions
+AI Agents
+AI Governance
+Cybersecurity
+Marketing
+Data Migration
+Forward Deployed Engineering
+Solution Accelerators
+Resources
+Documentation
+Customer Support
+Community
+Learning
+Training
+Certification
+Free Edition
+University Alliance
+Databricks Academy Login
+Events
+Data + AI Summit
+Data + AI World Tour
+AI Days
+Event Calendar
+Blog and Podcasts
+Databricks Blog
+AI Blog
+Data Brew Podcast
+Resources
+Documentation
+Customer Support
+Community
+Learning
+Training
+Certification
+Free Edition
+University Alliance
+Databricks Academy Login
+Events
+Data + AI Summit
+Data + AI World Tour
+AI Days
+Event Calendar
+Blog and Podcasts
+Databricks Blog
+AI Blog
+Data Brew Podcast
+About
+Company
+Who We Are
+Our Team
+Databricks Ventures
+Contact Us
+Careers
+Open Jobs
+Working at Databricks
+Press
+Awards and Recognition
+Newsroom
+Security and Trust
+About
+Company
+Who We Are
+Our Team
+Databricks Ventures
+Contact Us
+Careers
+Open Jobs
+Working at Databricks
+Press
+Awards and Recognition
+Newsroom
+Security and Trust
+Databricks Inc.
+160 Spear Street, 15th Floor
+San Francisco, CA 94105
+1-866-330-0121
+See Careers
+at Databricks
+© Databricks
+2026
+. All rights reserved. Apache, Apache Spark, Spark, the Spark Logo, Apache Iceberg, Iceberg, and the Apache Iceberg logo are trademarks of the
+Apache Software Foundation
+.
+Privacy Notice
+|
+Terms of Use
+|
+Modern Slavery Statement
+|
+California Privacy
+|
+Your Privacy Choices
+We Care About Your Privacy
+Databricks uses cookies and similar technologies to enhance site navigation, analyze site usage, personalize content and ads, and as further described in our
+Cookie Notice
+. To disable non-essential cookies, click “Reject All”. You can also manage your cookie settings by clicking “Manage Preferences.”
+Manage Preferences
+Reject All
+Accept All
+Privacy Preference Center
+Opt-Out Preference Signal Honored
+Privacy Preference Center
+Your Privacy
+Strictly Necessary Cookies
+Performance Cookies
+Functional Cookies
+Targeting Cookies
+TOTHR
+Your Privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+Opting out of sales, sharing, and targeted advertising
+Depending on your location, you may have the right to opt out of the “sale” or “sharing” of your personal information or the processing of your personal information for purposes of online “targeted advertising.” You can opt out based on cookies and similar identifiers by disabling optional cookies here. To opt out based on other identifiers (such as your email address), submit a request in our
+Privacy Request Center
+.
+More information
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They assist with essential site functionality such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will no longer work.
+Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+TOTHR
+TOTHR
+Back Button
+Cookie List
+Filter Button
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Clear
+checkbox label
+label
+Apply
+Cancel
+Confirm My Choices
+Allow All

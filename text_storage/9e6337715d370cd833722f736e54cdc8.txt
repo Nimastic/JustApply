@@ -1,0 +1,314 @@
+Careers at Google DeepMind — Google DeepMind
+Skip to main content
+Explore our next generation AI systems
+Explore models
+Gemini
+Gemini
+Build intelligent agents
+Gemini Omni
+Create anything from anything
+Nano Banana
+Create and edit detailed images
+Gemini Audio
+Talk, create and control audio
+Specialized models
+Veo
+Generate cinematic video with audio
+Lyria
+Generate high fidelity music and audio
+Genie
+Generate and explore interactive worlds
+Gemini Robotics
+Perceive, reason, use tools and interact
+Open models
+Gemma
+Build responsible AI applications at scale
+Our latest AI breakthroughs and updates from the lab
+Explore research
+Breakthroughs
+SIMA
+An agent that plays, reasons, and learns with you
+Genie
+Generate and explore interactive worlds
+AlphaGo
+Mastering the game of Go
+Gemini Robotics
+Perceive, reason, use tools and interact
+Learn more
+Evals
+Publications
+Responsibility
+Frontier safety
+Unlocking a new era of discovery with AI
+Explore science
+Breakthroughs
+AlphaFold
+Predict protein structures with high accuracy
+AlphaGenome
+Using AI to understand the human genome
+WeatherNext
+Fast and accurate AI weather forecasting
+AlphaEarth
+Map our planet in unprecedented detail
+AlphaEvolve
+Design advanced algorithms for math and applications in computing
+Learn more
+Gemini for Science
+Experimental Tools
+Science on Antigravity
+Our mission is to build AI responsibly to benefit humanity
+About Google DeepMind
+Responsibility
+Ensuring AI safety through proactive security, even against evolving threats
+News
+Discover our latest AI breakthroughs, projects, and updates
+Careers
+We’re looking for people who want to make a real, positive impact on the world
+Learn more
+Education
+Our National Partnerships for AI
+Accelerator programs
+The Podcast
+DeepMind Institute
+Models
+Explore our next generation AI systems
+Explore models
+Gemini
+Gemini
+Build intelligent agents
+Gemini Omni
+Create anything from anything
+Nano Banana
+Create and edit detailed images
+Gemini Audio
+Talk, create and control audio
+Specialized models
+Veo
+Generate cinematic video with audio
+Lyria
+Generate high fidelity music and audio
+Genie
+Generate and explore interactive worlds
+Gemini Robotics
+Perceive, reason, use tools and interact
+Open models
+Gemma
+Build responsible AI applications at scale
+Research
+Our latest AI breakthroughs and updates from the lab
+Explore research
+Breakthroughs
+SIMA
+An agent that plays, reasons, and learns with you
+Genie
+Generate and explore interactive worlds
+AlphaGo
+Mastering the game of Go
+Gemini Robotics
+Perceive, reason, use tools and interact
+Learn more
+Evals
+Publications
+Responsibility
+Frontier safety
+Science
+Unlocking a new era of discovery with AI
+Explore science
+Breakthroughs
+AlphaFold
+Predict protein structures with high accuracy
+AlphaGenome
+Using AI to understand the human genome
+WeatherNext
+Fast and accurate AI weather forecasting
+AlphaEarth
+Map our planet in unprecedented detail
+AlphaEvolve
+Design advanced algorithms for math and applications in computing
+Learn more
+Gemini for Science
+Experimental Tools
+Science on Antigravity
+About
+Our mission is to build AI responsibly to benefit humanity
+About Google DeepMind
+Learn more
+Education
+Our National Partnerships for AI
+Accelerator programs
+The Podcast
+DeepMind Institute
+Responsibility
+Ensuring AI safety through proactive security, even against evolving threats
+News
+Discover our latest AI breakthroughs, projects, and updates
+Careers
+We’re looking for people who want to make a real, positive impact on the world
+Build with Gemini
+Try Gemini
+Google DeepMind
+Google AI
+Learn about all our AI
+Google DeepMind
+Explore the frontier of AI
+Google Labs
+Try our AI experiments
+Google Research
+Explore our research
+Products and apps
+Gemini app
+Chat with Gemini
+Google AI Studio
+Build with our next-gen models
+Google Antigravity
+Our agentic development platform
+Models
+Research
+Science
+About
+Build with Gemini
+Try Gemini
+Careers
+Build AI responsibly to benefit humanity
+View open roles
+Work at the frontier of AI
+Roles
+Locations
+Interview process
+Work at the frontier of AI
+We’re searching for people who share our drive to build the next generation of breakthrough AI systems, safely and responsibly.
+Accelerate science, drive transformation across entire industries – and develop AI products with the potential to improve lives around the globe.
+Help create the technology that will shape the world. Join us – and do the best work of your career.
+Use AI to solve humanity’s biggest challenges
+Your work could positively impact billions of lives.
+So far, our AI models have helped scientists understand how life’s molecules interact. Advanced research into treatments for deadly diseases, like malaria. Discovered new candidate materials for batteries and solar cells. And even helped us generate more accurate weather forecasts – crucial in a world of increasing extremes.
+Help us discover what comes next.
+Work on state-of-the-art models
+Help unlock a new era of intelligence.
+Create state-of-the-art generative AI models with global reach – and work on landmark products like Gemini, Veo, and Gemini's image generator “Nano Banana”. Stay at the forefront of AI development, and invent entirely new product experiences.
+Work with us towards our goal of making AI useful for everyone.
+Collaborate with leading talent
+To develop extraordinary technology, we rely on an extraordinary team.
+Work alongside best-in-class engineers, leading ethicists – and even Nobel Prize-winning scientists. Team up with leading partners building nuclear fusion reactors, gravitational wave detectors, genome databases – and more. All with the support of leaders who have dedicated their careers to pioneering AI research.
+Find endless opportunities to learn, and develop your skills as a leading mind among leading minds.
+Create breakthrough AI for global impact
+We’re the engine room for pioneering AI innovation at Google.
+Our groundbreaking research underpins our cutting-edge models, which are trained on Google’s state-of-the-art infrastructure – which, in turn, is built on chips that we design. And our models are deployed via the same global infrastructure, to rapidly reach billions of users.
+Our unique full-stack approach allows us to push further in every aspect of our work. Step in, and help us shape the next wave of transformation.
+We have a real opportunity to deliver AI research and products that dramatically improve the lives of billions of people, transform industries and advance science.
+Demis Hassabis
+CEO, Google DeepMind
+Roles
+Research Engineer
+Research Engineers are software engineers with a deep understanding of machine learning and deep learning, bringing a combination of engineering, mathematical, and research skills to advance GDM’s mission. They are experimentalists, acting as critical bridge between theory and implementation – designing, building, and scaling complex systems to test and evaluate new ideas. That often leads to co-authorship on leading research papers.
+Key responsibilities include implementing and optimizing frontier models. Building robust infrastructure for distributed computing. And applying expertise across specialized domains, like Gemini or robotics.
+Software Engineer
+Researchers focus on what AI can do. Software engineers make it happen, by scoping, developing, maintaining, and upgrading our software. Their passion for machine learning helps them turn technical solutions into engineering challenges. They define software roadmaps and architecture – and solve long-term problems from end to end.
+Software engineers understand the research environment and use it to inform engineering focus.Key responsibilities include developing reliable and efficient software, built for scale. And sharing deep software engineering expertise across the business.
+Product Manager
+Product Managers set out roadmaps for our AI products, and drive them from concept to implementation – in Google and Google DeepMind applications. They support cross-functional teams of researchers and engineers to launch AI models and platforms that meet user needs. And they translate complex AI technical capabilities into actionable product specifications.
+Key responsibilities include planning and guiding product development through to deployment, alongside balancing business success with societal responsibilities.
+Program Manager
+Our large-scale, strategic, cross-functional initiatives rely on Program Managers. This group is responsible for end-to-end program design, managing complex dependencies and handling risks. They also make sure we maintain operational excellence, while meeting (or exceeding) our strategic goals.
+Key responsibilities include translating strategic ambitions into clear objectives and actionable plans. While aligning stakeholders and communication across the organization.
+Technical Program Manager
+Technical Program Managers are embedded within specific research and engineering units. They use deep technical understanding to manage programs’ entire lifecycles – from early research to production launch and beyond. That means co-developing program strategies, influencing key engineering decisions, and accelerating breakthroughs.
+Key responsibilities include performing technical due-diligence. Evaluating complex and technical proposals. And translating complex concepts for diverse audiences across the organization.
+Research Scientist
+Research Scientists are creative and collaborative, bringing scientific expertise to advance GDM’s mission. They hold deep theoretical knowledge and an interdisciplinary mindset. Think of them the engine of innovation as we work towards our mission to “solve intelligence”.
+Driven to push the boundaries of AI, they formulate novel hypotheses and algorithmic paradigms that spark world-changing breakthroughs. They normally hold a PhD, may plan and execute both large- and small-scale research projects, and frequently contribute to foundational research papers.
+Key responsibilities include identifying core research questions, designing and evaluating novel models, and pioneering new approaches in specialized domains like Gemini.
+Operations
+Our Operations team are multi-disciplinary experts, with a focus on creating and maintaining world-class spaces, infrastructure, and systems – so that our groundbreaking research, programs, and product development can happen.
+Key responsibilities include leading our internal and external engagement strategies, hiring the world’s brightest minds, and fostering a collaborative culture.
+Responsibility
+Our Responsibility team makes sure we build AI models boldly – yet thoughtfully. They partner with internal teams, and the wider AI community, to embed ethics into our work and rigorously test our systems. They also address the societal impacts of our technology to guide our path forward.
+The team consists of experts from areas including CBRN, assurance evaluations, and AI governance. Key responsibilities span policy, research, and engineering – giving us insight from many angles, to help us remain responsible.
+London
+Bay Area
+Bangalore
+Cambridge (US)
+Montreal
+New York City
+Paris
+Tokyo
+Toronto
+Zurich
+Locations
+We’re looking for people from all backgrounds, across the world, who want to collaborate to build AI responsibly. Together, we’ll work to benefit humanity and make a real, positive impact. Our intentional location strategy is designed to create the right environments in the right locations to deliver that impact.
+Our interview process
+We’ve created a process that's as rigorous, fair, and transparent as possible. That way, we can both be sure Google DeepMind is the right next step for your career.
+To help you know what to expect, we’ve mapped out a typical overview of our interview stages. The exact steps are slightly different for every role. So if you're invited to interview we'll send you detailed, role-specific information to help you prepare at every stage.
+View interview guide
+Slide 1 of 4
+1
+Initial interviews
+A 30-minute introductory call with your Recruiter, to cover your background and experiences. They’ll tell you more about the role, and learn more about why you applied. You’ll have the chance to ask questions, then the Recruiter will outline the next stages of the process.
+At this stage, we may also ask you to join an interview with the hiring manager for the role. They’ll ask more questions about specific capabilities, and help you build a better understanding of what their team does.
+2
+Skills interviews
+Over two or three further calls, we’ll evaluate you against the competencies and skills required for success in the position. We’ll make sure you have a good understanding of what to expect and how to prepare.
+You’ll meet potential peers during these conversations, and be able to ask more questions about working life at Google DeepMind.
+3
+Final interviews
+During the final round, you’ll meet Team Leads and leadership – including your potential manager. We’ll still focus on core skills, but through the lens of team goals, future plans, and our culture, mission, and values.
+Think of it as a mutual assessment. We’ll give you plenty of time to ask questions, so you can be confident we’re the right fit for you.
+4
+Decision and offer
+The hiring team will review your application against our criteria. If you’re the best candidate for the role, your Recruiter will share the exciting news and talk you through our competitive compensation and benefits package.
+They’ll then formally invite you to join Google DeepMind.
+We value all perspectives and experiences
+Our team members hold all sorts of experience, knowledge, and backgrounds. Their diversity is invaluable – and all their unique qualities and perspectives help us create extraordinary impact.
+If you have a disability, need assistive technology, or other extra support during the interview process, please let us know. We’re happy to help. The information you share will only be used to make the process more accessible for you, in line with our
+Applicant and Candidate Privacy Policy
+.
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law.
+Student Researcher Program
+Hands-on collaboration with leading minds in AI
+Learn more
+Follow us
+Sign up for updates on our latest innovations
+I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with
+Google's Privacy Policy
+.
+Sign up
+Build AI responsibly to benefit humanity
+Models
+Gemini
+Gemini Omni
+Nano Banana
+Gemini Audio
+Gemma
+Genie
+Lyria
+Veo
+Research
+Gemini Robotics
+Breakthroughs
+Evals
+Publications
+Frontier safety
+Responsibility
+Science
+AlphaFold
+AlphaGenome
+WeatherNext
+AlphaEarth
+AlphaEvolve
+Products
+Gemini app
+Google AI Studio
+Google Antigravity
+Learn more
+About
+News
+Careers
+National Partnerships for AI
+Accelerator programs
+The Podcast
+DeepMind Institute
+About Google
+Google products
+Privacy
+Terms
+Cookies management controls

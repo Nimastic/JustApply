@@ -1,0 +1,217 @@
+Overview :: Jane Street
+Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting “Accept” or “Reject”. For information regarding our cookie practices, see Jane Street’s
+Ad and Cookie Policy
+.
+Accept All
+Reject All
+WHO WE ARE
+WHAT WE DO
+THE LATEST
+CULTURE
+JOIN JANE STREET
+mobile navigation menu toggle
+CLIENT OFFERING
+GLOBAL CAPITAL MARKETS
+BENEFITS
+OUR OFFICES
+STREET VIEW
+PUZZLES
+DEPARTMENTS
+OPEN ROLES
+PROGRAMS AND EVENTS
+INTERNSHIPS
+INTERVIEWING
+Who We Are
+What We Do
+OVERVIEW
+CLIENT OFFERING
+GLOBAL CAPITAL MARKETS
+The Latest
+Culture
+OVERVIEW
+BENEFITS
+OUR OFFICES
+STREET VIEW
+PUZZLES
+Join Jane Street
+OVERVIEW
+DEPARTMENTS
+OPEN ROLES
+PROGRAMS AND EVENTS
+INTERNSHIPS
+INTERVIEWING
+CONTACT US
+Disclosures & Policies
+Privacy
+Fraud and Impersonation
+Warnings
+Work where your
+mind matters
+We look for smart people with curious minds from any background.
+Learn more about who we are, where we're hiring, what it's like to work here, and what we offer our employees. When you're ready, take a look at our open roles.
+Experienced Candidates
+Space to solve hard problems.
+Jane Street is always looking for
+experienced hires to help us grow our capabilities.
+View open roles
+Students and New Grads
+Exceptional opportunities.
+Roles for new grads and interns are an
+investment in the future of Jane Street.
+View open roles
+OUR GROUPS
+TRADING, RESEARCH, AND MACHINE LEARNING
+At Jane Street, trading, research and machine learning roles combine to form a collaborative quantitative team. These teams work together to develop the mathematical models and automated trading strategies that drive our business. Over the past couple decades, we’ve been at the forefront of applying machine learning techniques to quantitative finance, tackling research problems ranging from sub-microsecond trading to uncovering long-term market inefficiencies across trillions of historic events.
+TECHNOLOGY
+Technology is central to everything we do. Most Jane Streeters write
+code as part of their regular work, and we build almost all our
+software in-house with a focus on productivity, real-time visibility,
+and reliability. Twenty years of using and applying the most advanced
+tools available has earned us a reputation for excellence in tech; our
+technical infrastructure and software engineers drive Jane Street’s
+growth and generate our competitive edge.
+INSTITUTIONAL SALES AND TRADING
+Our sales traders and product specialists partner with a wide variety
+of institutional clients to provide trading solutions and access to
+Jane Street’s differentiated liquidity. By combining trading
+expertise, market knowledge, and a deep understanding of the liquidity
+needs of asset managers, pensions, insurance companies, and others,
+these professionals help institutions achieve their trading goals.
+INFRASTRUCTURE
+Our infrastructure teams form the backbone of Jane Street, keeping the
+day-to-day operations of the firm running seamlessly. They handle our
+legal and compliance matters, see to our taxes and finances, manage
+our offices and human resources, and direct our creative projects.
+TAKE A DEEPER LOOK
+Our culture
+Our people are our most important asset and our benefits extend beyond the status quo.
+DIVERSITY MATTERS
+Our company is only as strong as its people, and it’s only by embracing people of all backgrounds that we can reach our full potential.
+BENEFITS
+Our offices and location benefits are each a little bit different
+though there are some features that can be found in every location.
+Each office has an on-site gym, a library, classrooms or auditoriums,
+nursing suites, quiet rooms, recreation spaces and lots of amazing
+food! Below is an overview of the benefits we offer. For a more
+comprehensive look, please visit our
+Benefits
+page
+.
+Health and Wellness
+Gyms, nursing suites, quiet rooms, health services and more
+Food & Amenities
+Daily breakfast and lunch, fully-stocked kitchens, rec areas...
+Learning & Development
+Spaces and programs for learning
+OUR OFFICES
+Beautiful spaces around the globe
+Jane Street has offices in some of the world’s most dynamic cities, including a presence in Amsterdam, Chicago, Hong Kong, London, New York and Singapore. Take a look inside our largest offices:
+New York
+London
+Hong Kong
+Singapore
+Solution
+Show me the answer
+\(\def\V{\mathrm{Var}}\)
+Overview: the self-symmetry of the Sierpinski triangle leads to
+a linear equation that \(\Sigma\) must satisfy; specifically,
+\(\Sigma = \tfrac{1}{4}\Sigma + \tfrac{1}{24}I\), which gives
+\(\fbox{\(\Sigma = \tfrac{1}{18}I\)}\).
+Without rigorously defining the uniform distribution over the
+Sierpinski triangle, we can at least recognize that there are
+certain properties it should have.  The first relevant property is
+that it's invariant under rotation by 120°;
+it follows that \(\Sigma = kI\) for some \(k\).  (Consider:
+The ellipse \(\mathbf{x}^*\Sigma^{-1} \mathbf{x} = 1\) will be invariant under this
+rotation, and the only ellipses invariant under this rotation
+are circles.)  We have \(k = \Sigma_{11} = \V(X_1)\), so we
+have reduced the problem to finding \(\V(X_1)\).
+The next relevant property of the distribution is that it's
+equal to a mixture of 3 equally weighted copies of itself, with
+each copy scaled by 1/2 and translated by
+\((1/4,\text{something}),(-1/4,\text{something})\), or
+\((0,\text{something})\).  (The somethings are respectively
+\(-\sqrt{3}/12,-\sqrt{3}/12,\sqrt{3}/6\), but we don't need
+them.)  In particular, if \(T\) is uniform over
+\(\{-1/4,0,1/4\}\) (and independent of \(X_1\)), then \(X_1\)
+has the same distribution as \(\tfrac{1}{2}X_1 + T\).  We can
+directly compute \(\V(T) = 1/24\), and we then have
+\[
+\begin{align}
+k = \V(X_1) &= \V(\tfrac{1}{2}X_1 + T)\\
+&= \tfrac{1}{4}\V(X_1) + \V(T)\\
+&= \tfrac{1}{4}k + 1/24,
+\end{align}
+\]
+and solving for \(k\) now yields \(k = 1/18\), so \(\Sigma = \tfrac{1}{18}I\).
+A similar approach is to write \(X_1 = \sum_{n=0}^\infty
+\frac{1}{2^n}T_n\) where the \(T_n\) are independent copies of \(T\).
+Then \(\V(X_1) = \sum_{n=0}^\infty \V(\frac{1}{2^n}T_n) =
+\frac{1}{24} \sum_{n=0}^\infty \frac{1}{4^n} = 1/18\).
+If you liked this puzzle, check out more puzzles
+here
+.
+Learn more about Jane Street
+here
+.
+Solution
+Let \(C \subseteq \mathbb{R}^3\) be a closed bounded convex set.
+Let \(B = \partial C\) be its boundary. Let \(D = B + B = \{\,p+q\mid p,q\in B\,\}\).
+Prove that \(D\) is convex.
+Show me the answer.
+Actually, let us start by considering the 2-dimensional case. Let
+\(E = \{\,(p+q)/2\mid p,q\in B\,\}\); this is just a scaled down \(D\), so it
+is enough to show that \(E\) is convex. It suffices to show \(E = C\).
+\(E\subseteq C\) follows by the convexity of \(C\). For \(C\subseteq E\),
+take any point \(p\in C\). If \(p\in B\), then \(p = (p+p)/2 \in E\). If
+\(p\notin B\), imagine drawing a vertical line through \(p\), and then
+continuously rotating that line counterclockwise (about \(p\)) by
+\(180^\circ\). It will intersect \(B\) in two points, one to either side
+of \(p\). By the Intermediate Value Theorem, there will be some angle
+at which these two points are equidistant from \(p\); then \(p\) is the
+average of those other two points, so \(p\in E\). We now have \(E = C\),
+so \(E\) is convex.
+In 3 (or more dimensions) you can apply essentially the same
+argument. When you reach the \(p\notin B\) case, just pick any plane
+containing \(p\), and use the above argument within that plane.
+(In the case \(C = \emptyset\), the above still applies, though
+some aspects are vacuous.)
+If you landed here from the 3Blue1Brown video and are curious for
+more on Fourier, our talk,
+Echoes of Fourier
+is available above and on
+YouTube. If you’re interested in more puzzles,
+click here
+.
+If you’re interested in working at Jane Street,
+click here to
+apply
+.
+Who We Are
+What We Do
+The Latest
+Culture
+Join Jane Street
+Contact Us
+简体中文
+|
+Disclosures and Policies
+|
+Privacy
+|
+Cookies
+|
+Fraud and Impersonation Warnings
+Jane Street is an Equal Opportunity Employer
+© 2026 Jane Street Group, LLC. All rights reserved. Services are provided in the U.S. by Jane Street Capital, LLC and Jane Street Execution Services, LLC, each of which is a SEC-registered broker
+dealer and member of FINRA (
+www.finra.org
+). Regulated activities are undertaken in Europe by Jane Street Financial Limited, an investment firm authorized and regulated by the U.K. Financial
+Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by the Netherlands Authority for the Financial Markets (
+Autoriteit Financiële Markten
+), and in Hong Kong by Jane Street Hong
+Kong Limited, a regulated entity under the Hong Kong Securities and Futures Commission (CE No. BAL548). Each of these entities is a wholly owned subsidiary of Jane Street Group, LLC. This material is provided for informational
+purposes only and does not constitute an offer or solicitation for the purchase or sale of any security or other financial instrument.
+|
+Jane Street and the concentric circle mark are registered
+trademarks of Jane Street.

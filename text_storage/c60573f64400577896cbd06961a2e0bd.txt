@@ -1,0 +1,860 @@
+Careers | Man Group
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+Cookie Manager
+We use cookies to personalise content, provide social media features, and analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You can at any time change or withdraw your consent from the
+Cookies
+page on our website.
+Please be aware that the embedded audio and video players and interactive content require statistics cookies to function.
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection
+Necessary
+Preferences
+Statistics
+Targeting
+Show details
+Details
+Necessary
+25
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Google
+3
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+test_cookie
+Used to check if the user's browser supports cookies.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+rc::a
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+rc::c
+This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Investis Digital
+7
+Learn more about this provider
+AWSALB [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 7 days
+Type
+: HTTP Cookie
+AWSALBCORS [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 7 days
+Type
+: HTTP Cookie
+AWSALBTG
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 7 days
+Type
+: HTTP Cookie
+AWSALBTGCORS
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 7 days
+Type
+: HTTP Cookie
+_cfuvid
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+LinkedIn
+2
+Learn more about this provider
+bcookie
+Used in order to detect spam and improve the website's security.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+li_gc
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+Soundcloud
+1
+Learn more about this provider
+datadome
+Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+col.man.com
+consent.cookiebot.com
+2
+CookieConsent [x2]
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+globalmeet.webcasts.com
+man.kulu.net
+nr-data.net
+3
+JSESSIONID [x3]
+Preserves users states across page requests.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+linkedin.com
+t.co
+tools.investis.com
+4
+__cf_bm [x4]
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+widget.sndcdn.com
+1
+sc_anonymous_id
+Used in context with the 3D-view-function on the website.
+Maximum Storage Duration
+: 10 years
+Type
+: HTTP Cookie
+www.man.com
+2
+SSESS#
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+testcookie
+This cookie determines whether the browser accepts cookies.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+Preferences
+6
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+LinkedIn
+1
+Learn more about this provider
+lidc
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+Qumu
+1
+Learn more about this provider
+i18next
+The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+www.man.com
+4
+CurrentPageFragment
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+fcid
+This cookie stores fund center ID for analytics purposes.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+mobile-help-overlay
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+prev_page
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+Statistics
+16
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+New Relic
+1
+Learn more about this provider
+NRBA_SESSION::#
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Qumu
+2
+Learn more about this provider
+NRBA_SESSION
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+KV_CLIENT_SESSION_ID
+Pending
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Soundcloud
+1
+Learn more about this provider
+number(#)
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+StackAdapt
+2
+Learn more about this provider
+sa-user-id-v4 [x2]
+Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+col.man.com
+1
+_gcl_ls
+This cookie is part of Google's advertising ecosystem, primarily used to store and track conversion data for Google Ads campaigns.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+man.com
+2
+FPID
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+FPLC
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+www.man.com
+6
+domain_tracker/sites/default/files/uploads/embed/ahl-landing-page-who-is-ahl-1/index_v2.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+domain_tracker/sites/default/files/uploads/embed/em-white-paper-chapters/index.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+domain_tracker/sites/default/files/uploads/embed/em-white-paper-header-banner/index.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+experience_tracker/sites/default/files/uploads/embed/ahl-landing-page-who-is-ahl-1/index_v2.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+experience_tracker/sites/default/files/uploads/embed/em-white-paper-chapters/index.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+experience_tracker/sites/default/files/uploads/embed/em-white-paper-header-banner/index.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Targeting
+29
+These cookies gather information about your browsing habits and allow us to better understand your interests. They remember that you've visited our website and share this information with our partners, such as social media and advertisers. The intention is to display content and ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+3
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+IDE
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+Qumu
+4
+Learn more about this provider
+events/1/# [x4]
+Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+Soundcloud
+2
+Learn more about this provider
+dd_testcookie
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+ddSession_datadome
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+StackAdapt
+9
+Learn more about this provider
+sa-user-id [x2]
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+sa-user-id
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+sa-user-id-v2
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+sa-user-id-v2 [x2]
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+sa-user-id-v3
+Collects data on the user across websites - This data is used to make advertisement more relevant.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+sa-user-id-v4
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+sa-user-id-v3
+Collects data on the user across websites - This data is used to make advertisement more relevant.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Twitter Inc.
+3
+Learn more about this provider
+i/adsct [x2]
+The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through Twitter advertisement content.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration
+: 400 days
+Type
+: HTTP Cookie
+col.man.com
+1
+_gcl_au
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+www.googletagmanager.com
+col.man.com
+6
+_ga [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+_ga_# [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+Unclassified
+5
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Qumu
+1
+Learn more about this provider
+browser/blobs
+Pending
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+static.ads-twitter.com
+2
+_twpid
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+_twsid
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+www.man.com
+2
+domain_tracker/sites/default/files/uploads/embed/numeric-landing-page-who-is-numeric/index_v5.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+experience_tracker/sites/default/files/uploads/embed/numeric-landing-page-who-is-numeric/index_v5.html
+Pending
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Cross-domain consent
+[#BULK_CONSENT_DOMAINS_COUNT#]
+[#BULK_CONSENT_TITLE#]
+List of domains your consent applies to:
+[#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 10/13/26 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+We use cookies to personalise content, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+A cookie is a piece of data stored on a user’s hard drive containing information about a user’s use of a website. We use the categories and cookies below.
+When you use the website, you may receive cookies that are set by third parties, including e.g. Google, LinkedIn. We do not control the setting of these third party cookies. In the event you require more information about the use of these third party cookies and how to manage them, we suggest you review the relevant third party websites listed below.
+Do not sell or share my personal information
+Use necessary cookies only
+Allow selected
+Customize
+Allow all cookies
+ETFs & Funds
+ETFs & Funds
+ETFs
+Document centre
+Capabilities
+Investment capabilities
+Asset classes
+Client solutions
+Investment themes
+Strategies in focus
+Alternatives
+Credit
+Equities
+Multi-asset
+Insurance
+Solutions
+Responsible investment
+Trend-following
+Insights
+Insights
+Insights hub
+Global outlook
+Technology
+About us
+About us
+About Man
+Careers
+Diversity, equity & inclusion
+Corporate sustainability
+Media
+News center
+Contact us
+Get in touch
+Search Man Group
+ETFs & Funds
+Capabilities
+Insights
+Technology
+About us
+ETFs & Funds
+ETFs
+Document centre
+Capabilities
+Asset classes
+Alternatives
+Credit
+Equities
+Multi-asset
+Client solutions
+Insurance
+Solutions
+Investment themes
+Responsible investment
+Trend-following
+Strategies in focus
+Insights
+Insights hub
+Global outlook
+About us
+About Man
+Careers
+Diversity, equity & inclusion
+Corporate sustainability
+News center
+Get in touch
+United States
+Public
+Contact
+Careers
+News center
+Shareholders
+Shareholder relations
+Results centre
+AGM
+Dividends
+Corporate Governance
+Login
+Thank you for subscribing to Man Insights!
+Please check your email to confirm your subscription.
+Back
+View investments and research available in your location
+Confirm your region
+Americas
+Americas
+Americas
+Confirm your region
+Americas
+Confirm your country
+United States
+United States
+2 results available
+United States
+Confirm your country
+United States
+United States
+2 results available
+United States
+Select your role
+Institutional Investor
+Financial Professional
+Please select
+Institutional Investor
+Financial Professional
+Select your role
+Institutional Investor
+I consult or invest on behalf of a financial institution.
+Financial Professional
+I manage investments on behalf of my clients.
+Remember my choice
+Decline
+If your country is not listed, visit our
+global website
+to learn more about Man Group
+You are now leaving Man Group’s website
+You are leaving Man Group’s website and entering a third-party website that is not controlled, maintained, or monitored by Man Group. Man Group is not responsible for the content or availability of the third-party website. By leaving Man Group’s website, you will be subject to the third-party website’s terms, policies and/or notices, including those related to privacy and security, as applicable.
+Continue to third-party site
+Cancel
+You are now leaving Man Group’s website
+You are leaving Man Group’s website and entering a third-party website that is not controlled, maintained, or monitored by Man Group. Man Group is not responsible for the content or availability of the third-party website. By leaving Man Group’s website, you will be subject to the third-party website’s terms, policies and/or notices, including those related to privacy and security, as applicable.
+Continue to third-party site
+Cancel
+You are now leaving Man Group’s website
+You are leaving Man Group’s website and entering a third-party website that is not controlled, maintained, or monitored by Man Group. Man Group is not responsible for the content or availability of the third-party website. By leaving Man Group’s website, you will be subject to the third-party website’s terms, policies and/or notices, including those related to privacy and security, as applicable.
+Continue to third-party site
+Cancel
+You are now leaving Man Group’s website
+Stai per uscire dal sito web di Man Group in lingua italiana. Proseguendo, accederai ai contenuti disponibili sul sito web di Man Group in lingua inglese per gli utenti in Italia.
+Continue to third-party site
+Cancel
+Careers at Man
+Work alongside some of the sharpest minds in the industry, in a culture like no other.
+Culture
+Benefits
+Meet our people
+Early careers
+Career returners
+Inclusion
+Take your next step today
+Join a global team of innovators, technologists, and problem-solvers who are driven by curiosity and empowered to make an impact. At Man, we tackle some of the most complex challenges in finance, investment technology and data science. Come and build the future of finance.
+View open roles
+Exceptional careers start here
+Exceptional careers start here
+At Man, excellence isn’t just a goal, it’s the way we work together. We believe in giving people the freedom to explore new perspectives and then the tools to act on them. Our team challenges convention, embraces new ideas, and collaborates to solve complex challenges in an environment that values initiative and rewards success.
+From your first day, you’ll work alongside some of the most inquisitive and driven people in the industry. Success isn’t defined by a single path or outcome - it’s shaped by initiative, adaptability and continual learning.
+Our commitment to you
+Intellectual curiosity
+We champion inquisitive thinking and bold ideas, giving you the freedom to question convention and explore innovative solutions.
+Respectful collaboration
+Our culture thrives on shared knowledge and diverse perspectives, where every voice is valued, and we work together to deliver the best outcomes for our clients.
+Entrepreneurial spirit
+We empower you to take ownership, act decisively, and turn ideas into action in an environment built for adaptability and growth.
+Our principles
+Our principles
+Performance
+First, foremost and always, we focus on achieving superior risk-adjusted performance.
+Clients
+Our clients are at the heart of everything we do.
+Responsibility
+We expect our people to do the right thing and conduct our business with the highest standards of integrity.
+Excellence
+Good is not enough, we strive to be excellent in all we do.
+Differentiation
+We seek to be differentiated and original in our thinking.
+Meritocracy
+We succeed through talent, commitment, diligence and teamwork.
+"I’ve always believed that success comes from bringing together curious, driven individuals who thrive on solving the hardest problems. It’s that collective intellect, creativity, and ambition of our team that has consistently redefined what’s possible in investment management. Together, we’re building a future shaped by innovation and collaboration."
+Robyn Grew
+CEO, Man Group
+View open roles
+Benefits that matter
+Benefits that matter
+Your wellbeing is our priority. We are dedicated to supporting our employees and their families with innovative, competitive benefits that prioritise health, financial security, and personal growth.
+From comprehensive medical coverage and mental wellness programmes to tools for professional development and community giving, we ensure every member of our team has the resources they need to thrive.
+Flexible Working
+Hybrid arrangements and flexible hours to support work-life balance.
+Health & Wellness
+Health benefits, mental health resources, and wellness programs to help you thrive.
+Family Support
+Competitive parental leave and flexible working arrangements.
+Professional Development
+A high-performance culture that supports skill and career development.
+ManKind Volunteering
+Two paid volunteering days per year to support causes you care about.
+Previous
+Next
+Connect with our global talent team
+Connect with our global talent team
+Sarah Salta
+Global Head of Talent Acquisition, Man Group
+sarah.salta@man.com
+LinkedIn
+Danielle Ashley
+Global Talent Acquisition Lead, Man Group
+danielle.ashley@man.com
+LinkedIn
+Amita Chohan
+Senior Talent Acquisition Partner, Man Group
+amita.chohan@man.com
+LinkedIn
+Raneet Shogan
+Senior Talent Acquisition Partner, Man Group
+raneet.shogan@man.com
+LinkedIn
+Slavey Trenin
+Senior Talent Acquisition Partner, Man Group
+slavey.trenin@man.com
+LinkedIn
+Shakey Ullah
+Senior Talent Acquisition Partner, Man Group
+shakey.ullah@man.com
+LinkedIn
+James O'Donnell
+Emerging Talent Partner, Man Group
+james.o'donnell@man.com
+LinkedIn
+Elia Nieto
+Talent Acquisition Associate, Man Group
+elia.nieto@man.com
+LinkedIn
+Petya Petrova
+Talent Acquisition Associate, Man Group
+petya.petrova@man.com
+LinkedIn
+Previous
+Next
+Opportunities for student and early careers
+Opportunities for student and early careers
+Our graduate, internship, and apprenticeship programmes are designed to nurture exceptional talent and shape the future of Man. We're seeking ambitious individuals with intellectual curiosity, energy, and the determination to thrive in our fast-paced, innovative environment. While academic excellence matters, we're equally interested in your unique perspective, problem-solving ability, and drive to make a meaningful impact in global financial markets. Join us to accelerate your career alongside world-class professionals in an environment where diverse thinking drives innovation.
+Graduates
+Internships
+Apprenticeships
+Graduates
+Graduates
+Internships
+Apprenticeships
+Graduates
+Our graduate programmes welcome high-calibre graduates from various degree disciplines to embark on transformative 18–24-month rotational schemes. We offer programmes across our business, from investment management and research to technology and operations, supporting you in developing the skills and expertise needed for a successful long-term career at Man. We run a thorough induction programme, where you will gain insights to departments all across the firm, improving your understanding of how our business works. We're looking for graduates with intellectual curiosity, adaptability, and the ambition to take on increasing responsibility as you discover where your unique talents can make the greatest impact.
+What we offer you
+A buddy from our NextGen working group to help comfortably embed you into the business
+Access to our mentorship programme, where you'll be partnered with an experienced professional to help guide your career development
+Opportunity to undertake professional qualifications such as CFA, IMC, ACCA whilst on the Graduate Programme.
+Dedicated support from the programme lead
+Internships
+Our internship programmes welcome high-potential penultimate year university students from various educational backgrounds to join intensive 12-week placements across our business. From research to technology to responsible investment, you'll gain hands-on experience while developing the foundational skills needed to successfully kickstart a career in investment management. We're looking for interns with a keen desire to learn, proactive mindset, and the curiosity to explore how your academic knowledge translates into real-world impact at one of the world's leading investment management firms.
+"During my internships at Man, I had the unique opportunity to design high-impact systems end to end, from database architecture to algorithm design. I was given the opportunity to learn new systems such as Clickhouse and ArcticDB, yielding a 275x improvement in throughput. Highlights of the internships were the impact of the projects, and incredible teams who would always find time to whiteboard me through the codebase."
+William Sørensen
+Intern, Technology, Man Group
+What we offer you
+A buddy from our NextGen working group to help comfortably embed you into the business
+Additional activities throughout your internship to help improve your knowledge and skillset
+Build your network with industry professionals with the potential for a return offer to our Graduate Programme
+Dedicated support from the programme lead throughout the programme
+Apprenticeships
+Our Apprenticeship programme is designed to empower you from the start. You'll work alongside industry experts, tackling real‒world challenges and contributing to meaningful projects. With mentorship and a supportive learning environment, you'll have the freedom to explore your potential and the agility to adapt as you grow. If you're excited about building a career in financial services and ready to contribute to one of the world's leading investment management firms, we want to hear from you.
+"From day one of my apprenticeship, I’ve been immersed in meaningful projects, working alongside highly skilled professionals who are always willing to share their expertise. I am grateful to have been offered many new responsibilities that has allowed me to meet people from all across the business."
+Alfie Stone
+Analyst, Fund Allocations, Man Group
+What we offer you
+As an employee on an apprenticeship programme, you will receive:
+Highly structured on‒the‒job training leading to a recognised qualification with one of our partner providers
+Up to 1 day per week to allow you time for your studies
+Dedicated support from the Programme Lead throughout your programme
+1-2-1 support from your coach throughout the duration of the apprenticeship
+Learn more
+Career returners
+Career returners
+At Man Group, we understand that careers aren’t always linear. Our Career Returners Programme is designed to support individuals returning to the workforce after an extended break of at least 24 months. Whether you’ve stepped away from work to raise a family, provide care, or pursue other life priorities, we may have the perfect opportunity for you.
+We know from experience that returning to work can feel daunting, so we have partnered with
+Career Returners
+to offer a 6-month returner programme to ease the transition. The programme consists of a series of professional coaching sessions, a mentor programme and a ready-made community of former and current career returners to support with navigating the path ahead.
+"After a long career break, the Returnship programme has been incredible and truly energising. It is well-structured, offering valuable training and mentorship to support the transition back into work. On top of that, being surrounded by such an amazing and supportive team of sharp, driven, and inspiring individuals has been contagious in the best way!"
+Victoria Ilyasova
+Investment Analyst, External Alpha, Solutions, Man Group
+Inclusion at Man
+Finding excellent minds means actively seeking talent from different backgrounds and a broad range of perspectives. The varied insights and approaches we each bring to problems ultimately leads to better results for our clients and a better workplace for our colleagues.
+Learn more
+Contact
+Quick links
+Insights
+Technology
+Careers
+News center
+Shareholders
+About us
+About Man
+Diversity, equity & inclusion
+Corporate responsibility
+Environmental commitment
+Oxford–Man Institute
+Capabilities
+Alternatives
+Credit
+Equities
+Multi-asset
+Client solutions
+Insurance
+Solutions
+Investment themes
+Responsible investment
+Trend-following
+Contact
+Investment management services are offered through Man Group plc’s regulated subsidiaries as identified in the Terms and Conditions.
+Terms & conditions
+Cookies
+Privacy
+Security
+Regulatory disclosures
+Modern slavery
+Glossary
+© 2026 Man. All rights reserved.
+User Country:
+United States (237)
+User Language:
+User Role:
+Public (Guest) (1)
+User Access Groups:
+Global All (1)
+North America All (3)
+Global Non Employees (64)
+All Unauthenticated Users (68)
+North America Unauthenticated (87)
+Global (ex AU) (121)
+Global (ex Individuals) (123)
+Global ex EEA, CH & UK (165)
+Global All (ex UK) (232)
+Global All (ex HK) (239)
+Rest of the World All (ex CH) (241)
+United States All (248)
+United States Public (250)
+North America (Unauth.) - Man.com only (254)
+Global (ex. Individuals, Retail) (272)
+North America Public (275)
+Wealth Insights (Public & Fin. prof) (300)
+Insights (Employees & Public & Insti & Fin. prof) (301)
+Global (ex. Individuals, Retail) Man only (303)
+Node Access Groups:
+1, 29

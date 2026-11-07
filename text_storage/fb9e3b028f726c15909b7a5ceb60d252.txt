@@ -1,0 +1,282 @@
+Career Opportunities
+Career Opportunities
+Joining Sakana AI.
+We are looking for exceptional talent to join our small but ambitious lab in Tokyo. Browse the open positions below and apply for the role that fits you best.
+エンタープライズ・ソリューションのポジションにご興味がある方は、Applied Teamの
+採用情報
+をご覧ください。
+How to Apply
+1
+Find a role
+Review the open positions and identify the one that fits your background.
+2
+Email
+careers@sakana.ai
+Send a brief introduction and indicate which role you are applying for.
+3
+Submit the form
+Complete the
+Google Form
+with your CV and cover letter (English).
+Scam warning:
+Sakana AI recruiters contact candidates only from
+@sakana.ai
+email addresses. Be cautious of messages from Gmail or other free providers. See our notices on
+Twitter
+and
+LinkedIn
+.
+Open Positions
+All
+Research
+Product
+GTM
+Corporate
+GTM
+Account Executive (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Responsible for driving business growth by expanding our products to enterprise clients and other customers.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+GTM
+Forward Deployed Engineer (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Deploy Sakana AI's products inside enterprise customers, drive them from PoC to company-wide adoption, and feed what you learn back into improving our products.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Conversational)
+GTM
+Partner Alliances Manager ISV (GTM)
+Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and Sakana Namazu
+Make Sakana the model layer inside the software that enterprises already use, and grow revenue with ISV partners through integration, co-sell and marketplaces.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+GTM
+Partner Alliances Manager SI (GTM)
+Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and Sakana Namazu
+Scale enterprise delivery through system integrators and consulting firms, so that Sakana reaches more enterprises than our own teams can serve directly.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+GTM
+Customer Success Manager (GTM)
+Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and Sakana Namazu
+Turn every deployment into lasting value: guide enterprise and government customers from go-live to adoption, expansion and renewal.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+GTM
+Marketing Operations Manager
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Build the marketing automation and attribution infrastructure that turns interest into pipeline, on top of our CRM.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+GTM
+Global Account Executive (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Partner-led enterprise sales role: own the customer relationship and deal from first conversation through contract, and build a joint go-to-market motion with a strategic partner.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+GTM
+Enterprise Marketing Manager
+Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and our API
+Generate enterprise demand and scale it with our sales team. Target audience: global enterprises. Initial focus: Japan, following the GTM footprint.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+GTM
+Sales Operations (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Responsible for supporting the growth of our product sales organization by managing CRM data, sales reporting, and the operational backbone of our GTM engine.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+Product
+Business Role (Product Strategy & Operations)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Build the operating backbone of Sakana's product portfolio.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+Product
+Applied Research Engineer (Product)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Spearhead the applied research, development, and productization of advanced AI technologies, including autonomous agents and multi-agent LLM systems, to solve complex customer challenges and turn cutting-edge research into products.
+Tokyo
+Full-time / Contract / Intern
+Japanese (Conversational) & English
+Product
+Software Engineer (Product)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Drive the full-stack development of Sakana AI's in-house products, transforming cutting-edge research into scalable, user-facing applications through rapid prototyping and AI integration.
+Tokyo
+Full-time / Contract
+Japanese (Conversational) & English (Business)
+Research
+Software Engineer (Research and Development)
+Build the full-stack infrastructure that turns ML research into deployed products — data pipelines, benchmarking, and user-facing tools.
+Tokyo
+Full-time
+English
+Research
+Member of Technical Staff (LLM Development)
+Develop Sakana AI's LLMs: the foundation for our products and a technical cornerstone of our RSI research, across pre-training, mid-training, post-training, and evaluation.
+Tokyo
+Full-time
+Japanese (Business) & English
+Research
+Program Manager (RSI Lab)
+Manages budgets, schedules, and handles external communications, enabling researchers and engineers to focus fully on research at maximum velocity.
+Tokyo
+Full-time
+Japanese (Business) & English (Business)
+Research
+Member of Technical Staff (RSI Lab)
+The Sakana AI Recursive Self-Improvement (RSI) Lab is a dedicated research group within Sakana AI, tasked with redesigning the AI development process itself with AI.
+Tokyo
+Full-time / Visiting Researcher / Internship
+English
+Product
+Product Marketing Manager
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Own product launches from pre-launch to post-launch, and keep every product's naming and messaging consistent with the company narrative.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+Product
+Software Engineer (Product, Infrastructure and Platform Reliability)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Infrastructure and Platform Reliability Engineer to keep our products fast, dependable, and cost-efficient as that moment turns into sustained scale
+Tokyo
+Full-time
+Japanese (Conversational) & English (Business)
+Product
+Developer Marketing Manager
+Join the team behind Sakana Fugu 🐡, Sakana Namazu and our API
+Grow the developer community around our models so that engineers inside companies ask for Sakana before sales calls them.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+Product
+Data Engineer (Product)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Build our data infrastructure that enables AI to autonomously analyze data and drive exponential growth.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
+Product
+Business Role (Product Manager)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Define product vision, roadmap, and go-to-market strategy for AI products that redefine what is possible.
+Tokyo
+Full-time
+Japanese (Conversational) & English (Business)
+Product
+Product Designer
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Shaping the vision for a product experience that only Sakana AI can deliver.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
+Product
+Business Intern (Product Team)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Support product managers hands-on across the product lifecycle, from user support and data analysis to go-to-market execution.
+Tokyo
+Internship
+Japanese (Business) & English
+Corporate
+Corporate IT Engineer
+Own Sakana AI's corporate IT—devices, identity, SaaS, procurement, and helpdesk—and continuously rebuild those operations around AI agents and automation.
+Tokyo
+Full-time
+Japanese (Business)
+Corporate
+Business Role (Corporate Development Associate)
+Lead capital strategy, M&A, partnerships, and IPO preparation to scale Sakana AI's business globally.
+Tokyo
+Full-time
+Japanese (Business), English
+Corporate
+Corporate Development Team Assistant
+Support the Corporate Development team with travel logistics, investor and partner meeting coordination, and other administrative operations in Tokyo.
+Tokyo
+Full-time
+Japanese (Business), English (conversational)
+Corporate
+Head of Legal
+Build and safeguard the legal foundation of a fast-moving AI company.
+Tokyo
+Full-time
+Japanese (Native) & English (Business)
+Corporate
+Compliance & Governance Specialist
+Build and run company-wide compliance, privacy, and risk management at a fast-growing AI startup.
+Tokyo
+Full-time
+Japanese (Business) & English (Business)
+Corporate
+Intellectual Property Specialist
+Discover, file, and protect inventions from defense and intelligence AI R&D, and build the IP foundation for economic-security and export-control requirements.
+Tokyo
+Full-time
+Japanese (Business) & English (Business)
+Corporate
+Accountant
+Accountant in the Corporate Department.
+Tokyo
+Full-time
+Japanese (Business)
+Corporate
+Recruiter
+Source and engage exceptional talent across engineering, research, and business roles through direct outreach.
+Tokyo
+Full-time
+Japanese (Business)
+Corporate
+Recruiting Coordinator
+Support the recruiting team with candidate coordination, scheduling, and process management to deliver a seamless hiring experience.
+Tokyo
+Contract
+Japanese (Business)
+Corporate
+Labor & HR Operations Specialist
+Own payroll, social insurance, and labor administration end-to-end, and design the processes that scale with a fast-growing team.
+Tokyo
+Full-time
+Japanese (Fluent) & English (Business)
+Corporate
+Corporate & HR Operations Associate
+Support day-to-day corporate and HR operations (contracts, labor administration, general affairs) at a fast-growing AI startup. Early-career role, 2 openings.
+Tokyo (Hybrid)
+Full-time
+Japanese (Fluent)
+Corporate
+Office & Facilities Coordinator
+Support the smooth operations of our fast-growing Tokyo office — facilities, vendors, and employee experience.
+Tokyo
+Full-time
+Japanese (Business)
+Corporate
+Internal Auditor
+Lead internal audit at a fast-growing AI startup, building risk management, internal controls, and governance from the ground up.
+Tokyo
+Full-time
+Japanese (Business) & English (Business)
+Research
+Member of Technical Staff
+Tokyo
+Internship / Visiting Researcher
+English
+Corporate
+Associate to the Chairman
+Work alongside the Chairman to drive Sakana AI's partnerships with companies and government institutions in Japan and around the world.
+Tokyo
+Full-time
+Japanese (Business), English (Business)
+©
+Sakana AI 株式会社

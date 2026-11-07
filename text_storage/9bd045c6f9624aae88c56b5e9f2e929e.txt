@@ -1,0 +1,128 @@
+Careers | Tenstorrent
+Skip to main content
+Products
+Software
+Solutions
+Support
+Company
+Careers
+Developers
+EN
+JA
+KO
+ZH
+EN
+JA
+KO
+ZH
+Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking "Allow All" you are also directing us to use optional tracking technologies.
+Privacy Notice
+.
+Customize
+Allow All
+Only Necessary
+Build With Us
+We’re looking for first principle thinkers who believe in an open future. We build RISC-V CPUs, Tensor AI processors, and open-source software to unlock the next innovations in AI. Build now, for tomorrow.
+Interested in joining one of our teams?
+Hardware
+Architecture, SoC, RISC-V, Physical Engineering, Silicon, AI Hardware
+Software
+Scale Out, Metal, Low Level Kernel, AI Compiler, Product Software Engineering, Infrastructure, RISC-V, Cloud
+Systems
+FW, SoC Validation, Hardware, Hi-Speed IO, Infra/Tools, Mechanical, PCB/Power, Platform, Silicon + Systems, Si Val/Qual, Systems Software
+Experience
+Go-to-market, Comms, Growth, Product, Customer Experience, Customer Success, Developer Relations, Sites, Creative
+Operations
+Business Ops, Finance, HR, IT, Legal, Quality and Functional Safety, Supply Chain, Program Management, Administrative Support
+University
+Internships, New Grad Roles
+All Departments
+All Offices
+RISC V
+RTL
+Sr. Staff Engineer, RTL Physical Implementation Lead
+Austin, Texas, United States; Santa Clara, California, United States
+Apply
+Silicon
+Physical Design
+Physical Design Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Architecture
+Chiplet Physical Design Engineer
+Santa Clara, California, United States
+Apply
+Advanced Physical Design
+AI/ML Physical Design Flow Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Advanced Physical Design
+Physical Design Engineer, PnR
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Show all postings
+Open Future
+At Tenstorrent, we're committed to building an open future for AI. Open can mean a lot of things. For us, open means affordable, transparent, and modifiable.
+Read more here
+.
+Innovate
+High end CPUs and AI work better together, so we build both alongside open source software and all the teams required to make great products.
+Learn Here
+We are looking for curious and collaborative contributors to join our team. Come with the right mindset, we can help with the rest.
+Our locations
+North America
+Santa Clara
+California, USA
+Fort Collins
+Colorado, USA
+Boston
+Massachusetts, USA
+Austin
+Texas, USA
+Ottawa
+Ontario, Canada
+Toronto
+Ontario, Canada
+Vancouver
+British Columbia, Canada
+Asia
+Bangalore
+Karnataka, India
+Tokyo
+Minato-ku, Tokyo, Japan
+Seoul
+Gyeonggi-do, Korea
+New Taipei
+Taiwan
+Europe
+Cyprus
+Cyprus
+Munich
+Germany
+Athens
+Greece
+Gdansk
+Poland
+Warsaw
+Poland
+Belgrade
+Serbia
+Zurich
+Switzerland
+Due to U.S. Export Control laws and regulations, Tenstorrent is required to ensure compliance with licensing regulations when transferring technology to nationals of certain countries that have been sanctioned by the U.S. government.
+Our positions below will have direct and/or indirect access to information, systems, or technologies that are subject to U.S. Export Control laws and regulations, please note that citizenship/permanent residency, asylee and refugee information and/or documentation will be required and considered as Tenstorrent moves through the employment process.
+Keep up to date with Tenstorrent news.
+Submit
+Support
+Vision
+Careers
+Newsroom
+FAQ
+Terms
+Privacy
+Quality
+Patents
+Trademarks
+Contact Us
+Cookies
+Your Privacy Choices

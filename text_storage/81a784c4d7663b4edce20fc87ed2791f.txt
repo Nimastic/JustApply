@@ -1,0 +1,207 @@
+Stripe Careers | Shape the Future of the Global Economy
+Opportunity
+Compatibility
+Emerging talent
+Open roles
+Open roles
+Implement the conditions for prosperity
+Our mission is to increase economic growth.
+At Stripe, you can make that happen.
+We exist to increase economic growth, and we pursue it on every front: by building tools that make it easier and cheaper for ambitious businesses to start and scale, by
+publishing
+ideas
+that advance progress, and by creating the economic infrastructure for AI. Your work will define how the world transacts.
+Speed and craft compound
+Our goal is to get faster as Stripe grows. We also revere craftsmanship and obsess over every detail. The tension between those two operating principles—speed and craft—defines how we work.
+Better defaults exist
+We don’t assume the best way to do something is the way it’s always been done. We rethink from first principles how financial services should work, and welcome new ideas from every corner of the company.
+Built for the best
+We power the world’s most ambitious companies because we’re obsessed with their success, rigorous about the details, creative in our approach, and always moving with urgency.
+We’re building the economic infrastructure for AI
+AI is replatforming the global economy. Stripe is building infrastructure to make it possible, including real-time agent micropayments, protocols that let software transact autonomously, and fraud prevention for a new generation of threats. These are just some of the challenges you’ll be working on.
+Around 1.7% of global GDP runs on Stripe.
+Behind every transaction is something someone here built.
+Solve the problems that matter at scale
+Stripe is focused on
+improving
+the conditions for economic growth and prosperity. We’re seeing less growth in the 21st century than we did in the 20th. In rich countries, slower growth corresponds to less innovation and more fractious politics. In poor countries, it means sustained material deprivation. In either case, we need to do better, and we want your help.
+Stripe is large enough that individual products and projects can be rapidly deployed to a meaningful fraction of the world’s businesses, but small enough that individual agency still has outsized impact. Small teams can impact how millions of businesses grow.
+Right now the global economy is replatforming around AI, creating new opportunities for growth. We’re at the center of this, and we think the best work is still in front of us.
+To meet this moment, we’re looking for people who move with urgency, like hard problems, and want their work to matter at a time of great change. If that’s you, there’s no better place to build your career.
+100+
+industry leaders each process more than $1B annually on Stripe
+$1.9T
+in payments volume processed in 2025
+88%
+of businesses on the Forbes AI 50 run on Stripe
+50+
+countries where Stripe is available to businesses
+Stay curious
+Explore the latest news and insights.
+Stripe’s product roadmap.
+See a roadmap of the products and features in active development across Stripe.
+View the roadmap
+Businesses on Stripe generated $1.9T in 2025.
+Our annual letter explores the trends defining the internet economy.
+Read the letter
+The Stripe Young Scientist & Technology Exhibition.
+Learn how Stripe is championing the next generation of Irish innovators.
+Learn more
+Meet minions.
+Learn about minions, Stripe’s one-shot, end-to-end AI coding agents.
+Read on Stripe.dev
+Explore Stripe Economics.
+Get insights on internet economy data and analysis from Stripe Chief Economist Ernie Tedeschi’s Substack newsletter.
+Read on Substack
+Stripe’s open source CLI.
+Stripe Projects lets you (or your agents) create and manage your software stack directly from the command line.
+Learn more
+Item 1 of 6: Stripe’s product roadmap.
+Stripe’s product roadmap.
+See a roadmap of the products and features in active development across Stripe.
+View the roadmap
+Businesses on Stripe generated $1.9T in 2025.
+Our annual letter explores the trends defining the internet economy.
+Read the letter
+The Stripe Young Scientist & Technology Exhibition.
+Learn how Stripe is championing the next generation of Irish innovators.
+Learn more
+Meet minions.
+Learn about minions, Stripe’s one-shot, end-to-end AI coding agents.
+Read on Stripe.dev
+Explore Stripe Economics.
+Get insights on internet economy data and analysis from Stripe Chief Economist Ernie Tedeschi’s Substack newsletter.
+Read on Substack
+Stripe’s open source CLI.
+Stripe Projects lets you (or your agents) create and manage your software stack directly from the command line.
+Learn more
+Frequently asked questions
+What does it take to do well at Stripe?
+The bar at Stripe is high, and the people who do well here tend to share a few traits. We find that success depends less on background and more on how Stripes approach their work and handle the challenges that inevitably arise at a fast-moving and dynamic company.
+Successful Stripes tend to be motivated by our mission. That’s what fuels their ambition and their sense of ownership, which extends beyond their own expertise. At Stripe, we’re in this together, and you’ll fix things that don’t “belong” to you. People who thrive here also tend to choose challenge over comfort. When something doesn’t add up, they get curious about why, and they change their mind when the evidence shows they were wrong.
+What does career growth look like at Stripe?
+Fast, if you seek it out. Stripe gives people ownership early, which means you could find yourself leading significant work sooner than you would elsewhere. Promotions are tied to demonstrated impact, not tenure. We invest in development through stretch projects, direct feedback, and options for internal mobility.
+What should I expect during the Stripe hiring process?
+Most processes include a recruiter screen, a technical or skills-based assessment, and a series of interviews with the team you’d be joining. Timelines vary by role, level, and location—some move in a few weeks, others take longer. We try to work quickly and give clear feedback at every stage.
+How do I know if a Stripe recruiter contacting me is legitimate?
+Stripe recruiters reach out through official channels—LinkedIn or an @stripe.com email address—and will never ask for payment, personal financial information, or login credentials at any point in the process. If something feels off, trust that instinct.
+More on careers at Stripe
+Learn how successful Stripes operate, and see if Stripe is right for you.
+Compatibility
+Start your career at the center of the global economy—see what we offer for early career opportunities.
+Emerging talent
+We’re hiring. Explore our open roles and submit your application.
+Open roles
+Products and pricing
+Pricing
+Atlas
+Authorization Boost
+Billing
+Capital
+Capital for platforms
+Checkout
+Climate
+Connect
+Crypto
+Crypto Onramp
+Data Pipeline
+Elements
+Financial Connections
+Global Payouts
+Identity
+Invoicing
+Issuing
+Link
+Managed Payments
+Payment links
+Payment methods
+Payments
+Radar
+Revenue Recognition
+Stripe Sigma
+Subscriptions
+Tax
+Terminal
+Treasury
+Treasury for platforms
+Usage-based billing
+Solutions
+Enterprises
+Startups
+Agentic commerce
+Crypto
+Ecommerce
+Embedded finance
+Finance automation
+Global businesses
+In-app payments
+Marketplaces
+Money management
+Platforms
+SaaS
+AI companies
+Creator economy
+Fintech
+Gaming
+Hospitality, travel, and leisure
+Insurance
+Media and entertainment
+Nonprofits
+Professional services
+Public sector
+Retail
+Developers
+Documentation
+API reference
+API status
+API changelog
+Libraries and SDKs
+Stripe Projects
+Developer blog
+Integrations and custom solutions
+Stripe App Marketplace
+Stripe Partner ecosystem
+Professional services
+Resources
+Product roadmap
+Guides
+Customer stories
+Blog
+Community
+Sessions annual conference
+Privacy and terms
+Prohibited and restricted businesses
+Licenses
+Sitemap
+Cookie settings
+Your privacy choices
+More resources
+Company
+About
+Careers
+Newsroom
+Stripe Press
+Contact sales
+Support
+Get support
+Managed support plans
+CA residents: +1 888 926 2289
+Sign in
+Get industry insights and updates from Stripe
+Enter your company website
+Thanks for subscribing. Look out for Stripe updates in your inbox.
+Subscribed
+Subscribe
+Continue
+Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+unsubscribe
+at any time.
+Privacy Policy
+.
+United States
+(
+English
+)
+©
+2026
+Stripe, LLC.

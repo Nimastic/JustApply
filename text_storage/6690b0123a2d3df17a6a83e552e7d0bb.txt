@@ -1,0 +1,487 @@
+Join 1X
+Neo
+AI
+Factory
+Stories
+Careers
+About
+Order
+Careers
+Careers
+All
+1X World Model Lab
+Artificial Intelligence
+Finance
+Fleet Operations
+Global infrastructure & Services
+Hardware Engineering
+Information Technology
+Legal
+Manufacturing Operations
+People
+R&D
+Software Engineering
+Studio
+Supply Chain Operations
+All
+1X World Model Lab
+Artificial Intelligence
+Finance
+Fleet Operations
+Global infrastructure & Services
+Hardware Engineering
+Information Technology
+Legal
+Manufacturing Operations
+People
+R&D
+Software Engineering
+Studio
+Supply Chain Operations
+1X World Model Lab
+AI Researcher
+San Carlos
+,
+California
+Artificial Intelligence
+AI Researcher - Perception
+San Carlos
+,
+California
+AI Researcher - Robot Learning
+San Carlos
+,
+California
+AI Residency
+San Carlos
+,
+California
+Senior Software Engineer - Robotic Controls
+San Carlos
+,
+California
+Simulation Engineer - Physics Modeling
+San Carlos
+,
+California
+Staff Software Engineer - Applied AI
+San Carlos
+,
+California
+Finance
+Vice President Finance - Corporate Controller
+San Carlos
+,
+California
+Fleet Operations
+Operator - Data Collection (Swing Shift)
+San Carlos
+,
+California
+Robot Operations Manager PM
+San Carlos
+,
+California
+Robot Service Technician
+San Carlos
+,
+California
+Global infrastructure & Services
+Facilities Technician
+San Carlos
+,
+California
+Hardware Engineering
+Electrical Engineer - Hands
+San Carlos
+,
+California
+Integration Engineer - Hands
+San Carlos
+,
+California
+Mechanical Design Engineer - Hands Thermal Systems
+San Carlos
+,
+California
+Mechanical Engineer
+San Carlos
+,
+California
+Mechanical Engineer - Actuators
+San Carlos
+,
+California
+Senior Camera Hardware Engineer, Robot Head
+San Carlos
+,
+California
+Senior Electrical Engineer - Actuators and Drives
+San Carlos
+,
+California
+Senior Motor Control Engineer
+San Carlos
+,
+California
+Senior Softgoods Digital Design Engineer
+San Carlos
+,
+California
+Softgoods Development Engineer
+San Carlos
+,
+California
+Softgoods Development Technician
+San Carlos
+,
+California
+Softgoods Product Design Engineer
+San Carlos
+,
+California
+Staff Loads & Dynamics Engineer
+San Carlos
+,
+California
+Staff Mechanical Engineer, Robot Head
+San Carlos
+,
+California
+Information Technology
+Device Management Engineer
+San Carlos
+,
+California
+Senior Detection and Response Engineer
+San Carlos
+,
+California
+Senior Workplace Platforms Lead - IT and Business Systems
+San Carlos
+,
+California
+Legal
+Head of Intellectual Property
+San Carlos
+,
+California
+Manufacturing Operations
+Assembly Technician - Robot Body
+Hayward
+,
+California
+Assembly Technician - Robot Hands
+San Carlos
+,
+California
+CNC Programmer
+Hayward
+,
+California
+Electrical Harness Technician
+San Carlos
+,
+California
+Engineering Technician
+Hayward
+,
+California
+Inventory Control Analyst
+San Carlos
+,
+California
+Inventory Control Supervisor
+San Carlos
+,
+California
+Manufacturing Test Technician
+San Carlos
+,
+California
+Material Handler - Hayward
+Hayward
+,
+California
+Material Handler - San Carlos
+San Carlos
+,
+California
+Motor Test Technician
+San Carlos
+,
+California
+NPI Engineering Technician
+San Carlos
+,
+California
+Production Supervisor - Body
+Hayward
+,
+California
+Production Supervisor - Hands
+San Carlos
+,
+California
+Prototype Engineer - 3D Printing
+San Carlos
+,
+California
+Prototype Technician
+San Carlos
+,
+California
+Quality Engineer Manufacturing
+Hayward
+,
+California
+Quality Engineering Technician
+San Carlos
+,
+California
+Quality Engineering Technician Polymer
+San Carlos
+,
+California
+Senior Harness Manufacturing Engineer
+San Carlos
+,
+California
+Senior Manager Quality Engineering
+San Carlos
+,
+California
+Senior Manufacturing Electrical Engineer, Hands
+San Carlos
+,
+California
+Senior Manufacturing Electrical Engineer, Joints & Body
+Hayward
+,
+California
+Senior Manufacturing Engineer
+Hayward
+,
+California
+Senior Manufacturing Engineer - Actuators
+San Carlos
+,
+California
+Senior Manufacturing Engineer, Battery
+San Carlos
+,
+California
+Senior Manufacturing Engineer, Hands
+San Carlos
+,
+California
+Senior Safety Compliance Engineer
+San Carlos
+,
+California
+Senior Test Development Engineer
+Hayward
+,
+California
+Staff Engineer ERP Systems
+Hayward
+,
+California
+Test and Validation Lead
+San Carlos
+,
+California
+Test Engineer
+Hayward
+,
+California
+Validation Test Technician
+San Carlos
+,
+California
+People
+Lead Recruiting Coordinator
+San Carlos
+,
+California
+People Operations Generalist
+San Carlos
+,
+California
+Recruiter - Skilled Trades
+San Carlos
+,
+California
+Senior Technical Recruiter - Hardware Engineering
+San Carlos
+,
+California
+Sr HR People Partner
+San Carlos
+,
+California
+Staff Manufacturing Recruiter
+San Carlos
+,
+California
+R&D
+Biomechanics Researcher
+San Carlos
+,
+California
+Materials Scientist, Polymers
+San Carlos
+,
+California
+Mechanical Engineer - Prototyping
+San Carlos
+,
+California
+Open Call – Research Engineer / Scientist
+San Carlos
+,
+California
+Prototyping Fabrication Technician
+San Carlos
+,
+California
+Tactile Sensing Research Engineer
+San Carlos
+,
+California
+Software Engineering
+Firmware Engineer - Testing
+San Carlos
+,
+California
+Principal Tools Engineer, Simulation
+San Carlos
+,
+California
+Product Security Engineer
+San Carlos
+,
+California
+Senior Build Engineer, Automated Build & Release
+San Carlos
+,
+California
+Senior Build Engineer, CI/CD Efficiency
+San Carlos
+,
+California
+Senior DevOps Engineer
+San Carlos
+,
+California
+Senior Frontend Engineer
+San Carlos
+,
+California
+Senior Software Engineer - NEO Reliability
+San Carlos
+,
+California
+Senior Software Engineer - Product
+San Carlos
+,
+California
+Senior to Staff AI Product Engineer
+San Carlos
+,
+California
+Software Engineer - Backend
+San Carlos
+,
+California
+Staff Firmware Engineer - Charger
+San Carlos
+,
+California
+Staff Firmware Engineer - Motor Controls
+San Carlos
+,
+California
+Staff Graphics Engineer - VR Teleoperation
+San Carlos
+,
+California
+Staff Systems Engineer - Camera
+San Carlos
+,
+California
+Staff Systems Engineer - Core
+San Carlos
+,
+California
+Staff Systems Engineer - Network
+San Carlos
+,
+California
+Staff Technical Program Manager, Platform
+San Carlos
+,
+California
+Studio
+CAD Sculptor
+San Carlos
+,
+California
+Director of Product - Platform
+San Carlos
+,
+California
+Prototyping Electrical Engineer
+San Carlos
+,
+California
+Staff Model Maker, Machining
+San Carlos
+,
+California
+Supply Chain Operations
+Global Supply Manager, Motors & Magnets
+San Carlos
+,
+California
+Materials Planner
+San Carlos
+,
+California
+Sourcing Manager- Facilities and Construction
+San Carlos
+,
+California
+Sr. Buyer- Structures
+San Carlos
+,
+California
+Supplier Development Engineer- Motors and Magnets
+San Carlos
+,
+California
+Experience
+NEO
+Join waitlist
+Opt in to receive updates. Unsubscribe anytime.
+1X ©
+2026
+NEO
+Careers
+AI
+Factory
+About
+Stories
+Robot Fleet
+Logs
+LinkedIn
+YouTube
+Instagram
+TikTok
+X
+Terms of Use
+Privacy & Cookies
+Press
+Support
+Get Updates
+Investor Relations

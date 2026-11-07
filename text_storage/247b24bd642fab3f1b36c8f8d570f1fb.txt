@@ -1,0 +1,1009 @@
+Careers at Scale AI | Build the Future of AI | Scale AI
+Products
+Solutions
+Research
+Resources
+Log in
+Get Started
+Get Started
+Scale
+is
+growing.
+Grow
+with
+Us.
+Join
+us
+as
+we
+develop
+reliable
+AI
+systems
+for
+the
+world’s
+most
+important
+decisions.
+View Open Positions
+In The News
+Scale In The News
+Axios
+Scale AI CEO Jason Droege pushes 'reliability' reality
+Read Article
+Semafor
+Scale's CEO says AI-related layoffs are often theater
+Read Article
+Big Technology
+Most AI Training Is Moving To Reinforcement Learning, Scale AI Says
+Read Article
+Why
+Our Mission
+At Scale, our mission is to develop reliable AI systems for the world's most important decisions.
+Every industry across the private and public sectors is bringing AI to the center of operations. Yet despite this explosion of investment, there's still no clear blueprint for organizations to move from pilot to profit.
+Our products for RLHF, image annotation, semantic segmentation, 3D point cloud annotation, and LiDAR and RADAR annotation are trusted by industry leaders and deliver world-class accuracy.
+Our proprietary
+Data Engine
+powers the most advanced LLMs, generative models, and computer vision models with high-quality data. We then apply our experience partnering with leading AI companies building these models to help more organizations customize and
+Apply AI
+in their organizations.
+And we encode our tradecraft into the Scale GenerativeAI Platform to help organizations successfully apply AI to their most critical business and government decisions.
+OUR CREDOS
+Our Internal Core Values
+Our credos provide a framework for us to make decisions and work effectively as a team, ensuring we are aligned in executing on our mission.
+Earn Customer Love
+We are passionate about our customers and contributors and are devoted to their success. We know that trust and confidence is earned, not given, with every interaction, every delivery, and every time we solve their problems.
+Team Flow
+We work as one Scale. Ideas, energy, and support flow freely across teams because we are invested in each other's success. Optimize for the whole.
+Quality is Our Cheat Code
+The systems that deliver quality are rare enough to be a structural advantage. When we deliver effectively and consistently, the economics change. Deals get bigger, cycles get shorter, and growth stops being incremental.
+Find the 20%
+Not all hard work is equal. 80% of outcomes come from 20% of inputs. We find that 20% and execute completely, even when the work is tedious or meticulous. What we reject is effort without impact.
+Write the Market
+We don't read the market. We write it. Our research puts us at the frontier before anyone else, and our job is to bring our partners there first.
+Three Moves Ahead
+When making decisions, consider the consequences of consequences. Plan accordingly.
+OUR BENEFITS
+Supporting You To Do Your Best Work
+At Scale, we believe your talent and achievements deserve to be met with a supportive community and flexible environment.
+Health & Wellbeing
+Our holistic approach to supporting Scaliens includes comprehensive health coverage, dental and vision insurance, mental healthcare services, and more. PTO policies and accommodating schedules ensure you'll get time off when you need it to relax and recharge. Note that our offerings may vary by region as we strive to respond to the unique needs of Scaliens around the globe.
+Personal & Career Growth
+Continuously learn and grow through annual learning & development stipend, attending leadership breakfasts, manager training, speaker series, and joining an ERG.
+Building Scale Community
+We welcome guests to our offices, and you can expect to see Scalien families and friends around. Join local happy hours, and accept invites to game nights, book clubs, and many other employee-led community events.
+Parental Support
+Balancing work and family is essential, and Scale understands the importance of having adequate leave policies in place to promote a healthy home and work life.
+Open positions
+Help us bring human intelligence to software
+All Departments
+All Locations
+266
+roles across
+15
+departments
+Expand all
+Data Science and Analytics
+2 roles
+Finance Systems Integration Lead
+San Francisco, CA
+Apply →
+Senior Data Analyst, Public Sector
+Washington, DC
+Apply →
+Engineering
+65 roles
+Applied AI Engineer
+Kuwait City, Kuwait
+Apply →
+Engineering Manager, Customer Platform (GenAI)
+New York, NY
+Apply →
+Engineering Manager, Saudi Arabia
+Riyadh, Saudi Arabia
+Apply →
+Frontier Agent Engineering Manager, Enterprise
+New York, NY
+Apply →
+Frontier Agent Engineering Manager, Enterprise
+San Francisco, CA
+Apply →
+Frontier Agent Engineering Manager, Enterprise
+London, UK
+Apply →
+Frontier Agents Engineer (Applied AI)
+San Francisco, CA
+Apply →
+Frontier Agents Engineer (Forward Deployed Engineering)
+San Francisco, CA
+Apply →
+Full-Stack Software Engineer, (Forward Deployed), GPS
+Kuwait City, Kuwait
+Apply →
+Infrastructure Software Engineer, Apps Platform
+London, UK
+Apply →
+Infrastructure Software Engineer, Enterprise GenAI
+San Francisco, CA
+Apply →
+Infrastructure Software Engineer, Enterprise GenAI
+New York, NY
+Apply →
+Principal Software Engineer, GPS
+London, UK
+Apply →
+Security Engineer, Infrastructure
+New York, NY
+Apply →
+Security Engineer, Infrastructure
+San Francisco, CA
+Apply →
+Security Engineer, Infrastructure
+Seattle, WA
+Apply →
+Security Engineer, Infrastructure
+Washington, DC
+Apply →
+Security Engineer, Product Security
+New York, NY
+Apply →
+Security Engineer, Product Security
+San Francisco, CA
+Apply →
+Security Engineer, Product Security
+Seattle, WA
+Apply →
+Security Engineer, Product Security
+Washington, DC
+Apply →
+Senior Applied AI Engineer
+London, UK
+Apply →
+Senior Frontier Agents Engineer (Applied AI)
+San Francisco, CA
+Apply →
+Senior Frontier Agents Engineer (Forward Deployed Engineering)
+San Francisco, CA
+Apply →
+Senior Full-Stack Software Engineer, (Forward deployed), GPS
+Riyadh, Saudi Arabia
+Apply →
+Senior Full-Stack Software Engineer, (Forward deployed), GPS
+Kuwait City, Kuwait
+Apply →
+Senior Full-Stack Software Engineer, (Forward Deployed), GPS
+London, UK
+Apply →
+Senior Infrastructure Software Engineer, Apps Platform
+London, UK
+Apply →
+Senior Infrastructure Software Engineer, Enterprise AI
+New York, NY
+Apply →
+Senior Infrastructure Software Engineer, Enterprise AI
+San Francisco, CA
+Apply →
+Senior Software Engineer, AI Operations, GPS
+Doha, Qatar
+Apply →
+Senior Software Engineer, Orchestration Platform
+San Francisco, CA
+Apply →
+Senior Software Engineer, Orchestration Platform
+New York, NY
+Apply →
+Senior Software Engineer, Platform
+San Francisco, CA
+Apply →
+Senior Software Engineer, Platform
+New York, NY
+Apply →
+Senior Staff Frontier Agents Engineer
+San Francisco, CA
+Apply →
+Senior Staff Frontier Agents Engineer
+New York, NY
+Apply →
+Software Engineer, Enterprise AI
+New York, NY
+Apply →
+Software Engineer, Enterprise AI
+San Francisco, CA
+Apply →
+Software Engineer, Platform
+San Francisco, CA
+Apply →
+Software Engineer, Platform
+New York, NY
+Apply →
+Staff Applied AI Engineer
+London, UK
+Apply →
+Staff Frontier Agents Engineer (Applied AI)
+San Francisco, CA
+Apply →
+Staff Frontier Agents Engineer (Forward Deployed Engineering)
+San Francisco, CA
+Apply →
+Staff Full-Stack Software Engineer, (Forward Deployed), GPS
+Riyadh, Saudi Arabia
+Apply →
+Staff Full-Stack Software Engineer, (Forward Deployed), GPS
+London, UK
+Apply →
+Staff FullStack Software Engineer, (Forward Deployed), GPS
+Doha, Qatar
+Apply →
+Staff Software Engineer, AI Developer Tooling
+San Francisco, CA
+Apply →
+Staff Software Engineer, AI Developer Tooling
+New York, NY
+Apply →
+Staff Software Engineer, Data Platform
+San Francisco, CA
+Apply →
+Staff Software Engineer, Data Platform
+New York, NY
+Apply →
+Staff Software Engineer, Enterprise GenAI
+San Francisco, CA
+Apply →
+Staff Software Engineer, Enterprise GenAI
+New York, NY
+Apply →
+Staff Software Engineer, Full Stack - Gen AI
+New York, NY
+Apply →
+Staff Software Engineer, Full Stack - Gen AI
+San Francisco, CA
+Apply →
+Staff Software Engineer, Full Stack - Gen AI
+Seattle, WA
+Apply →
+Staff Software Engineer, Full Stack - Gen AI
+New York, NY
+Apply →
+Staff Software Engineer, Public Sector
+San Francisco, CA
+Apply →
+Staff Software Engineer, Public Sector
+St. Louis, MO
+Apply →
+Staff Software Engineer, Public Sector
+New York, NY
+Apply →
+Staff Software Engineer, Public Sector
+Washington, DC
+Apply →
+Staff Software Engineer, RL Environments
+San Francisco, CA
+Apply →
+Staff Software Engineer, RL Environments
+New York, NY
+Apply →
+Staff/Senior Machine Learning Research Engineer, Intelligent Systems
+San Francisco, CA
+Apply →
+Staff/Senior Machine Learning Research Engineer, Intelligent Systems
+New York, NY
+Apply →
+Finance
+9 roles
+Enterprise Pricing Manager
+San Francisco, CA
+Apply →
+Enterprise Pricing Manager
+New York, NY
+Apply →
+Global Procurement Analyst
+Mexico City, MX
+Apply →
+Head of Corporate Accounting
+San Francisco, CA
+Apply →
+Senior Accountant
+New York, NY
+Apply →
+Senior Accountant
+San Francisco, CA
+Apply →
+Strategic Finance Manager, BU Partnership
+San Francisco, CA
+Apply →
+Technical Revenue Accounting Manager
+San Francisco, CA
+Apply →
+US Payroll Analyst
+Mexico City, MX
+Apply →
+GPS Product
+1 role
+Product Manager, AI Applications
+Kuwait City, Kuwait
+Apply →
+Human Frontier Collective
+19 roles
+AI Safety Residency - SLPreP
+Canada
+Apply →
+AI Safety Residency - SLPreP
+United Kingdom
+Apply →
+AI Safety Residency - SLPreP
+United States
+Apply →
+Creative Advisor - Human Frontier Collective
+United States
+Apply →
+Finance Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+Legal Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+Legal Fellow - Human Frontier Collective (US)
+United States
+Apply →
+Machine Learning Fellow - Human Frontier Collective
+United States
+Apply →
+Machine Learning Fellow - Human Frontier Collective (Canada)
+Canada
+Apply →
+Machine Learning Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+Medical Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+Medical Fellow - Human Frontier Collective (US)
+United States
+Apply →
+Research Advisor - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+Research Advisor - Human Frontier Collective (US)
+United States
+Apply →
+STEM Fellow - Human Frontier Collective
+United States
+Apply →
+STEM Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+SWE Fellow - Human Frontier Collective (Canada)
+Canada
+Apply →
+SWE Fellow - Human Frontier Collective (UK)
+United Kingdom
+Apply →
+SWE Fellow - Human Frontier Collective (US)
+United States
+Apply →
+IT
+1 role
+IT Systems Engineer
+Washington, DC
+Apply →
+Marketing and Communications
+11 roles
+Account Based Marketing Lead
+San Francisco, CA
+Apply →
+Account Based Marketing Lead
+New York, NY
+Apply →
+Director of Partner Marketing
+San Francisco, CA
+Apply →
+Director of Partner Marketing
+New York, NY
+Apply →
+Field Marketing & Events Manager, Frontier Data
+San Francisco, CA
+Apply →
+Field Marketing & Events Manager, Frontier Data
+New York, NY
+Apply →
+Product Marketing Lead, Enterprise
+San Francisco, CA
+Apply →
+Product Marketing Lead, Enterprise
+New York, NY
+Apply →
+Product Marketing Manager, Global Public Sector
+Doha, Qatar
+Apply →
+Web Designer, Brand Web Experience
+New York, NY
+Apply →
+Web Designer, Brand Web Experience
+San Francisco, CA
+Apply →
+Operations
+20 roles
+Contributor Experience Manager, Community
+San Francisco, CA
+Apply →
+Contributor Experience Manager, Community
+New York, NY
+Apply →
+Data Acquisition Lead, Frontier Environments
+San Francisco, CA
+Apply →
+Data Acquisition Lead, Frontier Environments
+New York, NY
+Apply →
+Frontier Data Strategist
+San Francisco, CA
+Apply →
+Frontier Data Strategist
+New York, NY
+Apply →
+GenAI Compliance Operations & Programs Associate
+Mexico City, MX
+Apply →
+Growth Program Manager
+San Francisco, CA
+Apply →
+Growth Program Manager
+New York, NY
+Apply →
+Growth Recruiter, High Volume - Contract
+San Francisco, CA
+Apply →
+Growth Recruiter, High Volume - Contract
+New York, NY
+Apply →
+Growth Strategy & Operations Lead
+San Francisco, CA
+Apply →
+Growth Strategy & Operations Lead
+New York, NY
+Apply →
+Program Manager - Growth Operations, Contract
+San Francisco, CA
+Apply →
+Program Manager - Growth Operations, Contract
+New York, NY
+Apply →
+Quality Operations Lead, Gen AI
+San Francisco, CA
+Apply →
+Quality Operations Lead, Gen AI
+New York, NY
+Apply →
+SME, Support Systems Specialist
+India
+Apply →
+Strategic Projects Lead, Generative AI
+San Francisco, CA
+Apply →
+Strategic Projects Lead, Generative AI
+New York, NY
+Apply →
+People
+1 role
+Global Head of Workplace
+San Francisco, CA
+Apply →
+Product and Design
+22 roles
+AI Product Manager (Coding/Multimodal)
+San Francisco, CA
+Apply →
+Forward Deployed Product Manager, Enterprise
+New York, NY
+Apply →
+Product Designer, Global Public Sector
+Doha, Qatar
+Apply →
+Product Designer, Global Public Sector
+Dubai, UAE
+Apply →
+Product Designer, Global Public Sector
+London, UK
+Apply →
+Product Leadership, Forward Deployed & Strategy
+London, UK
+Apply →
+Product Manager of AI Applications, Global Public Sector
+Riyadh, Saudi Arabia
+Apply →
+Product Manager of AI Applications, Global Public Sector
+Doha, Qatar
+Apply →
+Product Manager of AI Applications, Global Public Sector
+Dubai, UAE
+Apply →
+Product Manager, Enterprise Core Platform
+New York, NY
+Apply →
+Product Manager, Enterprise Core Platform
+San Francisco, CA
+Apply →
+Senior AI Product Manager
+New York, NY
+Apply →
+Senior AI Product Manager
+San Francisco, CA
+Apply →
+Senior Product Design Manager, Enterprise
+London, UK
+Apply →
+Senior Product Design Manager, Enterprise
+New York, NY
+Apply →
+Staff Product Designer
+New York, NY
+Apply →
+Staff Product Designer
+Washington, DC
+Apply →
+Staff Product Designer, Enterprise
+New York, NY
+Apply →
+Staff Product Designer, Enterprise
+London, UK
+Apply →
+Staff Product Manager, Agentic Platform
+New York, NY
+Apply →
+Staff Product Manager, Agentic Platform
+San Francisco, CA
+Apply →
+Staff Product Manager, Agentic Platform
+Washington, DC
+Apply →
+Public Sector
+56 roles
+Contracts Manager
+Washington, DC
+Apply →
+Deployment Strategist, Space Systems Command
+Colorado Springs, CO
+Apply →
+Deployment Strategist, Space Systems Command
+Los Angeles, CA
+Apply →
+Deployment Strategist, Space Systems Command
+Washington, DC
+Apply →
+DevOps Engineer, Infrastructure & Security
+Washington, DC
+Apply →
+Engagement Manager (Hawaii), Public Sector
+Honolulu, HI
+Apply →
+Engagement Manager (Homeland Layered Defense), Public Sector
+Washington, DC
+Apply →
+Engagement Manager, Public Sector
+Washington, DC
+Apply →
+Engagement Manager, Public Sector (CO Springs)
+Colorado Springs, CO
+Apply →
+Engagement Manager, Public Sector (Miami, FL)
+Miami, FL
+Apply →
+Engagement Manager, Public Sector (Midwest)
+Omaha, NE
+Apply →
+Engineering Manager, Frontier AI Infrastructure - Public Sector
+Washington, DC
+Apply →
+Executive Assistant
+Washington, DC
+Apply →
+Field Engineer, Public Sector
+Honolulu, HI
+Apply →
+Field Engineer, Public Sector
+Omaha, NE
+Apply →
+Field Engineer, Public Sector
+St. Louis, MO
+Apply →
+Field Engineer, Public Sector
+Washington, DC
+Apply →
+Forward Deployed Product Manager, Public Sector
+New York, NY
+Apply →
+Forward Deployed Product Manager, Public Sector
+Washington, DC
+Apply →
+Forward Deployed Software Engineer, Public Sector
+Austin, TX
+Apply →
+Forward Deployed Software Engineer, Public Sector
+Colorado Springs, CO
+Apply →
+Forward Deployed Software Engineer, Public Sector
+Honolulu, HI
+Apply →
+Forward Deployed Software Engineer, Public Sector
+Omaha, NE
+Apply →
+Forward Deployed Software Engineer, Public Sector
+St. Louis, MO
+Apply →
+Forward Deployed Software Engineer, Public Sector
+Washington, DC
+Apply →
+Machine Learning Engineer, Public Sector
+Denver, CO
+Apply →
+Machine Learning Engineer, Public Sector
+Honolulu, HI
+Apply →
+Machine Learning Engineer, Public Sector
+Washington, DC
+Apply →
+Principal Architect
+Washington, DC
+Apply →
+Senior Data Engineer, Public Sector
+Washington, DC
+Apply →
+Senior Machine Learning Engineer, Public Sector
+Denver, CO
+Apply →
+Senior Machine Learning Engineer, Public Sector
+Honolulu, HI
+Apply →
+Senior Machine Learning Engineer, Public Sector
+Washington, DC
+Apply →
+Senior Mission Software Engineer, Public Sector
+Austin, TX
+Apply →
+Senior Mission Software Engineer, Public Sector
+Colorado Springs, CO
+Apply →
+Senior Mission Software Engineer, Public Sector
+Honolulu, HI
+Apply →
+Senior Mission Software Engineer, Public Sector
+Omaha, NE
+Apply →
+Senior Mission Software Engineer, Public Sector
+St. Louis, MO
+Apply →
+Senior Mission Software Engineer, Public Sector
+Washington, DC
+Apply →
+Software Engineer, ARC Team
+San Francisco, CA
+Apply →
+Software Engineer, ARC Team
+St. Louis, MO
+Apply →
+Software Engineer, ARC Team
+New York, NY
+Apply →
+Software Engineer, ARC Team
+Washington, DC
+Apply →
+Software Engineer, Frontier AI Infrastructure
+San Francisco, CA
+Apply →
+Software Engineer, Frontier AI Infrastructure
+St. Louis, MO
+Apply →
+Software Engineer, Frontier AI Infrastructure
+New York, NY
+Apply →
+Software Engineer, Frontier AI Infrastructure
+Washington, DC
+Apply →
+Solutions Engineer (Clearance Required)
+Washington, DC
+Apply →
+Staff Machine Learning Engineer, Public Sector
+Denver, CO
+Apply →
+Staff Machine Learning Engineer, Public Sector
+Washington, DC
+Apply →
+Subcontracts Manager, Public Sector
+Washington, DC
+Apply →
+Systems Engineering Integration & Test Lead, Public Sector
+Washington, DC
+Apply →
+Team Lead, ARC Software Engineering Team
+Washington, DC
+Apply →
+Technical Program Lead, Public Sector
+Washington, DC
+Apply →
+Technical Program Manager (Homeland Layered Defense), Public Sector
+Washington, DC
+Apply →
+Technical Program Manager, Public Sector
+Washington, DC
+Apply →
+Research
+22 roles
+Machine Learning Research Scientist, Evaluations
+San Francisco, CA
+Apply →
+Machine Learning Research Scientist, Evaluations
+Seattle, WA
+Apply →
+Machine Learning Research Scientist, Evaluations
+New York, NY
+Apply →
+Machine Learning Research Scientist, Post-Training
+San Francisco, CA
+Apply →
+Machine Learning Research Scientist, Post-Training
+Seattle, WA
+Apply →
+Machine Learning Research Scientist, Post-Training
+New York, NY
+Apply →
+ML Research Engineer, ML Systems
+San Francisco, CA
+Apply →
+ML Research Engineer, ML Systems
+Seattle, WA
+Apply →
+ML Research Engineer, ML Systems
+New York, NY
+Apply →
+Research Scientist, AI Safety and Alignment
+San Francisco, CA
+Apply →
+Research Scientist, AI Safety and Alignment
+New York, NY
+Apply →
+Senior / Staff Machine Learning Research Scientist, Agents
+San Francisco, CA
+Apply →
+Senior / Staff Machine Learning Research Scientist, Agents
+Seattle, WA
+Apply →
+Senior / Staff Machine Learning Research Scientist, Agents
+New York, NY
+Apply →
+Senior Manager, Research Scientist
+San Francisco, CA
+Apply →
+Senior Manager, Research Scientist
+New York, NY
+Apply →
+Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI
+San Francisco, CA
+Apply →
+Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI
+New York, NY
+Apply →
+Tech Lead Manager- MLRE, ML Systems
+San Francisco, CA
+Apply →
+Tech Lead Manager- MLRE, ML Systems
+New York, NY
+Apply →
+VP, Research
+San Francisco, CA
+Apply →
+VP, Research
+New York, NY
+Apply →
+Sales
+26 roles
+Deployment Strategist - DHS/DOJ
+Washington, DC
+Apply →
+Engagement Manager
+Kuwait City, Kuwait
+Apply →
+Enterprise Account Executive
+San Francisco, CA
+Apply →
+Enterprise Account Executive (Financial Services)
+New York, NY
+Apply →
+Enterprise Account Executive (Financial Services)
+San Francisco, CA
+Apply →
+Enterprise Account Executive (Healthcare & Life Sciences)
+New York, NY
+Apply →
+Enterprise Account Executive (Healthcare & Life Sciences)
+San Francisco, CA
+Apply →
+Enterprise AI Development Strategist
+New York, NY
+Apply →
+Enterprise AI Development Strategist
+San Francisco, CA
+Apply →
+Expansion Specialist, Bids & Business Development
+London, UK
+Apply →
+GTM Business Operations Associate
+London, UK
+Apply →
+Head of GTM Strategy & Operations, Enterprise
+San Francisco, CA
+Apply →
+Head of Strategic Partnerships, Global Systems Integrators
+San Francisco, CA
+Apply →
+Head of Strategic Partnerships, Labs
+San Francisco, CA
+Apply →
+Program Manager, Sales Enablement
+Washington, DC
+Apply →
+Program Manager, Technical Enablement
+San Francisco, CA
+Apply →
+Program Manager, Technical Enablement
+New York, NY
+Apply →
+Public Sector Lead, Central & Local Government
+London, UK
+Apply →
+Public Sector Lead, Defence & Security
+London, UK
+Apply →
+Revenue Operations Manager
+San Francisco, CA
+Apply →
+Solutions Architect, Enterprise
+San Francisco, CA
+Apply →
+Solutions Architect, Enterprise
+New York, NY
+Apply →
+Staff Solutions Architect, Enterprise
+New York, NY
+Apply →
+Staff Solutions Architect, Enterprise
+San Francisco, CA
+Apply →
+Strategist
+Kuwait City, Kuwait
+Apply →
+Strategist, Qatar
+Doha, Qatar
+Apply →
+Specialist
+2 roles
+Subject Matter Expert
+Canada
+Apply →
+Subject Matter Expert
+United States
+Apply →
+University
+9 roles
+Machine Learning Research Intern (Summer 2027)
+New York, NY
+Apply →
+Machine Learning Research Intern (Summer 2027)
+San Francisco, CA
+Apply →
+Software Engineer - New Grad
+Doha, Qatar
+Apply →
+Software Engineer - New Grad
+San Francisco, CA
+Apply →
+Software Engineer - New Grad
+London, UK
+Apply →
+Software Engineer, Public Sector - New Grad
+San Francisco, CA
+Apply →
+Software Engineering Intern (Summer 2027)
+London, UK
+Apply →
+Software Engineering Intern (Summer 2027)
+San Francisco, CA
+Apply →
+Software Engineering Intern (Summer 2027)
+Doha, Qatar
+Apply →
+Join
+University
+Student
+Careers
+Explore Opportunities
+Products
+Scale data engine
+Scale GenAI Portfolio
+Scale Donovan
+Solutions
+Enterprise
+Insurance
+Healthcare
+National Security
+US Public Sector
+Global Public Sector
+Company
+About
+Careers
+Security
+Terms
+Privacy
+Modern Slavery Statement
+Resources
+Blog
+Contact Us
+Events
+Partnerships
+Data Partnerships
+Documentation
+Brand Guidelines
+Guides
+Data Labeling
+ML Model Training
+Diffusion Models
+Guide to AI for eCommerce
+Computer Vision Applications
+Large Language Models
+Reliable AI for the world’s most important decisions
+Manage your
+cookie preferences
+Copyright © 2026 Scale AI, Inc. All rights reserved
+Terms of Use
+&
+Privacy Policy
+This website uses cookies and similar technologies to ensure functionality, evaluate website usage, and to serve marketing content. Visit our
+Cookie Policy
+and
+Privacy Policy
+for more information.
+Cookie Preferences
+Reject Cookies
+Accept Cookies
+Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More Information
+Allow All
+Manage Consent Preferences
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+Cookies Details‎
+Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us understand how visitors move around the site and which pages are most frequently visited.
+Cookies Details‎
+Functional Cookies
+Functional Cookies
+These cookies are used to record your choices and settings, maintain your preferences over time and recognize you when you return to our website. These cookies help us to personalize our content for you and remember your preferences.
+Cookies Details‎
+Targeting Cookies
+Targeting Cookies
+These cookies are deployed to our site by our advertising partners to build a profile of your interests and provide you with content that is relevant to you, including to show you relevant ads on other sites.
+Cookies Details‎
+Back Button
+Back
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+View Cookies
+Name
+cookie name
+Confirm My Choices

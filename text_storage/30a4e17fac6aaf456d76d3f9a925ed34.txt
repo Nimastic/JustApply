@@ -1,0 +1,460 @@
+Modular: Careers
+MiniMax M3.1 Flash - Day 0! Try it now ➔
+Back
+Product
+Inference Products
+Shared Endpoints
+Access frontier models via an API
+Dedicated Endpoints
+Mission critical reliability
+Custom models
+Your model, peak performance
+Deployment Options
+Our Cloud
+Fully managed, pay by usage
+Your Cloud
+Modular stack in your VPC
+Pricing
+Flexible plans for every team
+Models
+FLUX.2 Klein 4B
+GLM 5.3 Flash
+MiniMax M3.1 Flash
+MiniMax M3
+GLM 5.3
+View All
+Solutions
+Text to audio
+Turn text into natural speech
+Image generation
+Generate images from text prompts
+Code generation
+Generate production-ready code
+Video generation
+Generate video from text + image
+Agentic
+Deploy AI agents anywhere
+Custom Models
+Kernel-level model control
+Case Studies
+Proven results from real customers
+Models
+FLUX.2 Klein 4B
+GLM 5.3 Flash
+MiniMax M3.1 Flash
+MiniMax M3
+GLM 5.3
+View All
+Resources
+Model Library
+Latest supported open models
+LLM Inference Handbook
+How inference works, from basics to production
+MAX LLM Book
+Build a modern LLM from the ground up
+Mojo Quest
+Learn Mojo through guided challenges
+Mojo GPU Puzzles
+Hands-on GPU programming, puzzle by puzzle
+Open Source
+MAX
+GenAI native modeling & serving
+Mojo
+The systems language for the AI era
+Modular alliance program
+LLVM, but for AI
+Self-Hosted
+MAX+Mojo self-hosted by you
+Community
+Build the future of AI together
+Agentic Skills
+Official AI agent skills from Modular
+Docs
+Modular Cloud
+Deploy GenAI models, our cloud or yours
+MAX
+GenAI native modeling & serving
+Mojo
+The systems language for the AI era
+Blog
+Company
+About
+Build AI for anyone, anywhere.
+Careers
+👋  We’re currently hiring!
+Culture
+What we believe
+Contact Us
+Request a demo
+Request a demo
+Sign up
+Request a demo
+Sign up
+close
+Join us in building the
+future of AI
+View job openings
+About Modular
+Why Modular?
+Grow with the best
+Build with some of the industry's best AI leaders with decades of experience building AI infrastructure across the stack at big tech.
+Maximize how you work
+We will always push the limits to create the best possible environment for our people and teams.
+Build AI for the world
+We're bringing the smartest minds together to make a lasting impact for everyone. Bring your knowledge to a platform where the world can benefit, not just a few.
+Have fun, live life
+We encourage work/life balance and have many opportunities to work flexibly, take time off, travel, and maximize the value of work-from-home or hybrid work.
+Work and life, balanced.
+Leading medical, dental & vision packages
+Strong compensation
+& equity packages
+Generous parental leave
+Retirement plans with company contribution
+Generous paid vacation
+Corporate perks
+& epic team fun
+Current Job Openings
+Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
+All
+(23)
+Mojo
+(9)
+MAX
+(6)
+Product Management
+(2)
+Developer Relations
+(3)
+Marketing
+(1)
+Platform Engineering
+(1)
+Technical Program Management
+(1)
+Mojo Libraries Engineer
+United States / Canada · Remote
+Apply now
+Senior AI Kernel Engineer
+United States / Canada · Remote
+Apply now
+AI Cloud Product Manager
+United States / Canada · Remote
+Apply now
+Software Engineer, Hardware Enablement
+United States / Canada · Remote
+Apply now
+Driver Engineer
+United States / Canada · Remote
+Apply now
+Senior AI Framework Engineer
+United States / Canada · Remote
+Apply now
+Mojo Tooling Engineer
+United States / Canada · Remote
+Apply now
+Staff Mojo Compiler Engineer
+United States / Canada · Remote
+Apply now
+Developer Relations Engineer, MAX Inference & Serving
+United States / Canada · Remote
+Apply now
+Developer Relations Engineer, Mojo
+United States / Canada · Remote
+Apply now
+Senior AI Inference Tools Engineer
+United Kingdom · Remote
+Apply now
+Engineering Manager, Hardware Bringup
+United States / Canada · Remote
+Apply now
+Inference Systems Engineer
+United States · Remote
+Apply now
+Senior Technical Community Manager
+United States / Canada · Remote
+Apply now
+AI Runtime Engineer
+Edinburgh · Hybrid
+Apply now
+Technical Product Marketing Manager
+United States · Remote
+Apply now
+AI Performance Engineer
+Europe · Remote
+Apply now
+AI Kernel Engineering Manager
+United States · Remote
+Apply now
+Platform Engineer, Workplace Engineering
+Los Altos, CA · Hybrid
+Apply now
+Mojo Debugger Engineer
+Remote · Remote
+Apply now
+Technical Program Manager, Platform Engineering
+SF Bay Area · Remote
+Apply now
+Staff AI Inference Tools Engineer
+United Kingdom · Remote
+Apply now
+Director of Business Development & Operations, Modular Alliance Program
+Japan · Remote
+Apply now
+What you expect from the interview
+Modular has a straight-forward interview process and a large majority of the roles follow the same steps:
+Step 01
+Application Review
+The first step of the process is to submit your resume. We aim to review all resumes within 2 weeks and we respond to every single application made.
+Step 02
+Call with Recruiting
+Typically you will first have a short 20-30min call with recruiting to just go over some basic information about you and the company, and to discuss next steps.
+Step 03
+Call with Hiring Manager
+The Hiring Manager will dig a bit deeper into your background and previous experience to determine mutual fit. This will also be your opportunity to learn more about what the team is working on and what the role entails. In case you have applied for more than one role on different teams, we often schedule you for two separate calls with two separate Hiring Managers.
+Step 04
+Team Interviews
+There are typically 4 team interviews, usually 45-60 minutes each. These may be scheduled all at once or separately, depending on the role. The focus areas for these team interviews vary by role. For example, for Engineering roles, you can expect coding and system design type interviews; for Product roles, we often talk about the industry and product strategy. For Leadership roles, we may ask for a presentation.
+We believe that team culture is a critical part of a great company, so every candidate also has a Culture interview that focuses on communication skills, team work, and so on.  We will let you know what to expect in each interview when we send you a schedule confirmation.
+Step 05
+Offer
+If we make you an offer, we share an extensive offer deck for you and schedule a walk-through call to go over the information in detail and again answer any final questions you may have. We also aim to give you enough time to make a decision after that.
+Every day is an opportunity
+Working at Modular is exciting because it's a chance to build cutting-edge deep learning infrastructure from silicon to system. Every day is an opportunity to gain full-stack mastery in how the AI software/hardware stack works, from distributed computation graphs to low-level GPU kernel programming.
+Brendan Duke
+Staff Engineer
+Work with the best engineers
+I joined Modular because I was looking for ways to overcome the software fragmentation of AI frameworks and resonate with Modular's goal to build a better unified framework using compiler approach. My favorite part at Modular is to work with the best engineers in the field under a very collaborative culture.
+Hengjie Wang
+AI Performance Engineer
+Make a difference
+I picked Modular because of the people and what they believe in and what they want to do. I want to be a part of something that makes a difference for the better.
+Paige Bedwell
+Program Manager
+Work on the most challenging problems
+The best part of working here is a strong commitment to culture. I work on the most challenging problems, have the freedom to do it anywhere, and have a huge impact on AI.
+Eric Johnson
+Product Lead
+Team is incredible
+The team is incredible. They're very smart. They're experts in their field, and we're solving the hardest computational problems in the world.
+Abdul Dakkak
+AI Compiler Engineer
+Prev
+Next
+Frequently asked questions
+Are interviews conducted in-person?
+Typically all of our interviews are conducted over Zoom video. For coding interviews, we use Coderpad and you will receive a link from your interviewer. In some cases we may fly you in to meet some of our leaders for the last interview.
+What do you look for in a candidate?
+There is no “one size fits all” answer here however Modulers are passionate about their work, intellectually curious, humble, and ready to roll up their sleeves. We like to have discussions in interviews and expect you to ask clarifying questions and talk us through your thought process — sometimes there is no right or wrong answer, we just want to understand how you think and work through challenging problems. We also look for strong alignment with
+Modular’s Culture and values
+.
+I don’t meet all of the requirements for a role, can I still be considered?
+We would love to receive your application even if it doesn’t meet all criteria! We review applications with all roles and opportunities in mind. Sometimes we may reach out to you to offer or suggest another role or team that might be a better fit for you, or we offer to keep your application on file and reach out a few months down the line once more suitable opportunities open up.
+How long does the interview process take?
+On average it takes candidates about 4 weeks to go through the full interview process however if you require a decision by a certain date, please speak to your recruiter.
+Do you offer internships?
+Our internship opportunities for Summer 2027 are posted on the
+Qualcomm Careers site
+. Please apply directly to be considered.
+How does the onboarding process work?
+Our onboarding process for new employees is conducted onsite at our Los Altos, CA office. It includes a comprehensive introduction to our company culture, team meetings, and training sessions to ensure a smooth transition into your new role.
+I applied some time ago but haven’t heard back?
+We aim to respond to every single candidate, and if you have applied to more than one role, we process all of your applications separately. Sometimes these emails end up in spam, so please check your spam folder. If you haven’t heard from us, you can contact your recruiter or
+careers@modular.com
+to follow up.
+What benefits do you offer?
+We offer a wide range of benefits designed to help you do your best work and live well outside of it too.
+While benefits vary by location, they may include comprehensive healthcare coverage, retirement and savings programs, employee stock purchase opportunities, paid time off, wellbeing resources, family support programs, and learning and development opportunities.
+Ask your recruiter to provide more details based on your location and role.
+Build the future of AI with Modular
+Get started - FREE
+View Editions
+Sign up today
+Signup to our Cloud Platform today to get started easily.
+Sign Up
+Browse open models
+Browse our model catalog, or deploy your own custom model
+Browse models
+Latest from our blog:
+New
+MAX is now source available and open to everyone
+Get the latest news,
+announcements & updates:
+Join our Newsletter
+INFERENCE
+Shared Endpoints
+Dedicated Endpoints
+Custom Models
+DEPLOYMENTS
+Our Cloud
+Your Cloud
+Pricing
+Solutions
+Text to audio
+Image generation
+Code generation
+AI Agents
+Open SOURCE
+MAX
+Mojo🔥
+Agent Skills
+Modular alliance program
+Connect
+Blog
+Community
+Report a security issue
+Company
+About Us
+Culture
+Careers
+Request a demo
+Copyright ©
+2026
+Modular Inc, A Qualcomm Company
+Do not sell or share my personal information
+Terms
+,
+Privacy
+&
+Acceptable Use
+Join our newsletter
+Get all our latest news, announcements and updates delivered directly to your inbox. Unsubscribe at anytime.
+Email*
+First Name
+Last Name
+Your data is handled in accordance with Modular's
+Privacy Policy
+.
+Thanks for signing up to our newsletter! 🚀
+Thank you,
+Modular Sales Team
+Oops! Something went wrong while submitting the form.
+Return to page
+Modular Champions
+X
+/
+X
+Owen Hilyard
+I'm a PhD student at the University of New Hampshire in the Cloud Computing Lab, where I conduct research on hardware acceleration of networking and distributed systems reliability. I'm also a former component maintainer for DPDK, the Data Plane Development Kit, which is where I got my start looking "under the hood" at networking before resigning to work in my PhD. All of this means I like making computers go fast, and Mojo + MAX is a great place to combine my love of hardware, high performance software, and my interest in programming languages. I also act as one of the community moderators for Modular on the Discord server and Discourse forum.
+Connect with
+Owen Hilyard
+Seth Stadick
+I'm a Bioinformatics Software Engineer passionate about building high-performance systems. For the past six years, I've developed in Rust across environments ranging from Raspberry Pi devices to full-scale HPC clusters in the cloud. I'm excited about Mojo's potential to reshape how we approach performance-critical computing.When I'm not coding, I’m usually spending time with my family — or trying to land new tricks on a skateboard (I just learned to Ollie)!
+Connect with
+Seth Stadick
+Brian Grenier
+I am C++ developer working for a cardiac image processing company. I've been a Mojo standard library contributor since 2024. I also actively maintain two libraries, EmberJSON, a JSON library written in pure Mojo, and Kelvin, a type safe dimensional analysis library. I often hang out in the Mojo discord and forum!
+Connect with
+Brian Grenier
+Martin Vuyk
+I'm a Mechatronics Engineer who pivoted into Software Development. I like tackling complex problems and building lasting solutions. I invest my time into things that I think will be impactful.
+Connect with
+Martin Vuyk
+Sawyer Bergeron
+Compiler, PL, and systems/performance engineering enthusiast with an eyebrow-raising amount of VAX assembly experience. Collector (of hobbies). Enjoys bagels just a bit too much.
+Connect with
+Sawyer Bergeron
+Valentin Erokhin
+Author of Lightbug, a Mojo HTTP Framework (https://github.com/Lightbug-HQ/lightbug_http)
+Connect with
+Valentin Erokhin
+Sora
+Connect with
+Sora
+Maxim Zaks
+I tell computers how to waste electricity, hopefully in an efficient or at least useful way.
+Connect with
+Maxim Zaks
+Gabriel de Marmiesse
+Former core dev of Keras, author of Python-on-whales, currently working at Kyutai to democratize AI through open science
+Connect with
+Gabriel de Marmiesse
+Max Brylski
+Explorer of the computational universe
+Connect with
+Max Brylski
+Tilli Fe
+Connect with
+Tilli Fe
+Return to page
+Leadership team
+X
+/
+X
+Chris Lattner
+Distinguished Leader
+who founded and scaled critical infrastructure including
+LLVM
+,
+Clang
+,
+MLIR
+,
+Cloud TPUs
+and the
+Swift
+programming language. Chris built AI and core systems at multiple world leading technology companies including Apple, Google, SiFive and Tesla.
+Connect with
+Chris Lattner
+Tim Davis
+Repeat Entrepreneur
+and Product Leader. Tim helped build, found and scale large parts of Google's AI infrastructure at
+Google Brain
+and Core Systems from APIs (
+TensorFlow
+), Compilers (
+XLA
+&
+MLIR
+) and runtimes for server (CPU/GPU/TPU) and
+TF
+Lite
+(Mobile/Micro/Web),
+Android ML
+&
+NNAPI
+, large model infrastructure & OSS for billions of users and devices. Loves running, building and scaling products to
+help people
+, and
+the world
+.
+Connect with
+Tim Davis
+Mostafa Hagog
+Mostafa is a seasoned engineering leader in high-performance computing. During his tenure at
+NVIDIA
+, he served as Engineering Director and led teams to develop optimized deep learning libraries like cuDNN and CUTLASS, revolutionizing GPU-accelerated AI. At
+SiFive
+, as VP of Software, Mostafa assumed a leadership role guiding teams in the development of an MLIR/LLVM-based software stack for SiFive Intelligence & performance cores. His contributions also extend to optimizing
+Intel
+GPU hardware/software features, playing a pivotal role in developing the AVX1/2 SIMD ISA for Intel CPUs, and contributing to the GNU C Compiler. Mostafa holds a Master of Science in Electrical Engineering from the
+Technion
+, with a specialization in compiler optimizations. His unwavering passion for innovation continues to drive advancements in the field of high-performance computing.
+Connect with
+Mostafa Hagog
+Kalor Lewis
+Kalor is Modular's VP, Finance and leads all our Finance operations. Prior to Modular, Kalor was a VP, Finance at
+Fivetran
+where he was the first finance hire in 2018 and built out the companies entire finance function. Before Fivetran, Kalor was part of
+Palantir Technologies
+, where he scaled their strategic finance function.
+Connect with
+Kalor Lewis
+Eric Johnson
+Product leader who has built and scaled AI applications and infrastructure. Eric led the TensorFlow API, Compiler, and Runtime teams at
+Google Brain
+and Core Systems, including the founding of
+TFRT
+and the productionization of
+JAX
+. He holds an MBA from
+Wharton
+and Computer Science MS from Penn and loves soccer, fitness, and the great outdoors.
+Connect with
+Eric Johnson
+Mike Edwards
+Mike has spent over 25 years working in the fields of IT, corporate operations, and software development - most recently at Apple. Mike volunteers his time serving as a Board member with the
+LLVM Foundation
+, focusing on finance and operations. Mike truly believes in the power of AI to help address some of the world’s greatest needs.
+Connect with
+Mike Edwards
+Return to page

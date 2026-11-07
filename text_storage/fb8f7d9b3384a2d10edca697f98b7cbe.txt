@@ -1,0 +1,645 @@
+Careers | Boston Dynamics
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+Customize
+Reject All
+Accept All
+Customize Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...
+Show more
+Necessary
+Always Active
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+Cookie
+__hssrc
+Duration
+session
+Description
+This cookie is set by Hubspot whenever it changes the session cookie. The __hssrc cookie set to 1 indicates that the user has restarted the browser, and if the cookie does not exist, it is assumed to be a new session.
+Cookie
+__hssc
+Duration
+1 hour
+Description
+HubSpot sets this cookie to keep track of sessions and to determine if HubSpot should increment the session number and timestamps in the __hstc cookie.
+Cookie
+_GRECAPTCHA
+Duration
+6 months
+Description
+Google Recaptcha service sets this cookie to identify bots to protect the website against malicious spam attacks.
+Cookie
+wpEmojiSettingsSupports
+Duration
+session
+Description
+WordPress sets this cookie when a user interacts with emojis on a WordPress site.  It helps determine if the user's browser can display emojis properly.
+Cookie
+cookietest
+Duration
+session
+Description
+The cookietest cookie is typically used to determine whether the user's browser accepts cookies, essential for website functionality and user experience.
+Cookie
+cookieyes-*
+Duration
+1 year
+Description
+CookieYes sets this cookie for consent solution management.
+Functional
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+Cookie
+lidc
+Duration
+1 day
+Description
+LinkedIn sets the lidc cookie to facilitate data center selection.
+Cookie
+li_gc
+Duration
+6 months
+Description
+Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.
+Cookie
+__cf_bm
+Duration
+1 hour
+Description
+Cloudflare set the cookie to support Cloudflare Bot Management.
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+Cookie
+_gcl_au
+Duration
+3 months
+Description
+Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.
+Cookie
+_ga
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+Cookie
+_gid
+Duration
+1 day
+Description
+Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously.
+Cookie
+_gat_UA-*
+Duration
+1 minute
+Description
+Google Analytics sets this cookie for user behaviour tracking.
+Cookie
+_ga_*
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to store and count page views.
+Cookie
+__hstc
+Duration
+6 months
+Description
+Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+Cookie
+hubspotutk
+Duration
+6 months
+Description
+HubSpot sets this cookie to keep track of the visitors to the website. This cookie is passed to HubSpot on form submission and used when deduplicating contacts.
+Cookie
+_scor_uid
+Duration
+1 year 24 days
+Description
+Stores a unique identifier to measure audience size, analyze browsing behavior, and improve advertising relevance and content performance across websites.
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Cookie
+_uetsid
+Duration
+1 day
+Description
+Bing Ads sets this cookie to engage with a user that has previously visited the website.
+Cookie
+_uetvid
+Duration
+1 year 24 days
+Description
+Bing Ads sets this cookie to engage with a user that has previously visited the website.
+Cookie
+__Secure-YEC
+Duration
+past
+Description
+Description is currently not available.
+Advertisement
+Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.
+Cookie
+MUID
+Duration
+1 year 24 days
+Description
+Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.
+Cookie
+bcookie
+Duration
+1 year
+Description
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+Cookie
+YSC
+Duration
+session
+Description
+Youtube sets this cookie to track the views of embedded videos on Youtube pages.
+Cookie
+VISITOR_INFO1_LIVE
+Duration
+6 months
+Description
+YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.
+Cookie
+tvid
+Duration
+1 year
+Description
+No description available.
+Cookie
+tv_UIDM
+Duration
+1 year 1 month 4 days
+Description
+Description is currently not available.
+Cookie
+VISITOR_PRIVACY_METADATA
+Duration
+6 months
+Description
+YouTube sets this cookie to store the user's cookie consent state for the current domain.
+Cookie
+tuuid
+Duration
+1 year 1 month
+Description
+The tuuid cookie, set by BidSwitch, stores an unique ID to determine what adverts the users have seen if they have visited any of the advertiser's websites. The information is used to decide when and how often users will see a certain banner.
+Cookie
+tuuid_lu
+Duration
+1 year 1 month
+Description
+This cookie, set by BidSwitch, stores a unique ID to determine what adverts the users have seen while visiting an advertiser's website. This information is then used to understand when and how often users will see a certain banner.
+Cookie
+CMID
+Duration
+1 year
+Description
+Casale Media sets this cookie to collect information on user behaviour for targeted advertising.
+Cookie
+CMPS
+Duration
+3 months
+Description
+CasaleMedia sets CMPS cookie for anonymous user tracking based on users' website visits to display targeted ads.
+Cookie
+CMPRO
+Duration
+3 months
+Description
+CasaleMedia sets CMPRO cookie for anonymous usage tracking and targeted advertising.
+Cookie
+__Secure-ROLLOUT_TOKEN
+Duration
+6 months
+Description
+YouTube sets this cookie to manage feature rollout and experimentation. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience for a given user during an experiment.
+Cookie
+__Secure-YNID
+Duration
+6 months
+Description
+YouTube cookie used to protect user security and prevent fraud, especially during the login process.
+Uncategorized
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+No cookies to display.
+Reject All
+Save My Preferences
+Accept All
+Powered by
+Products
+Explore All Products
+Back
+Spot
+Spot
+Spot
+Our agile mobile robot for dynamic sensing and industrial inspection
+Read More
+Arm
+An integrated arm to enable mobile manipulation
+Read More
+Payload
+Additional sensors and hardware to expand Spot’s functionality
+Read More
+Extras
+Add-ons and accessories to keep Spot ready for work
+Read More
+Atlas
+Stretch
+Orbit
+Solutions
+Explore All Solutions
+Back
+Inspection
+Inspection
+Inspection
+Automate industrial inspection
+Read More
+Thermal
+Detect hotspots and thermal anomalies
+Read More
+Visual
+Perform visual inspections and integrate computer vision
+Read More
+Acoustic
+Listen for air leaks and other noise anomalies
+Read More
+Perimeter
+Automate routine health and safety checks
+Read More
+Back
+Safety & Response
+Safety & Response
+Safety & Response
+Remotely investigate and de-escalate hazardous situations
+Read More
+Remote Investigation
+Reduce risk to personnel and provide situational awareness
+Read More
+Nuclear Decommissioning
+Protect workers during nuclear decommissioning
+Read More
+CBRNE
+Identify chemical, biological, or radiological hazards
+Read More
+EOD
+Assess and render safe potentially explosive threats
+Read More
+Back
+Digital Twin
+Digital Twin
+Digital Twin
+Capture data for work sites planning and maintenance
+Read More
+Laser Scanning
+Capture reliable 3D scans
+Read More
+Site Documentation
+Monitor and document construction progress
+Read More
+Back
+Warehouse Automation
+Warehouse Automation
+Warehouse Automation
+Automate case handling to keep goods moving
+Read More
+Container Unloading
+Speed inbound operations with automated unloading
+Read More
+Case Picking
+Build every order with power and precision
+Read More
+Research & Development
+Industries
+Back
+Industry
+Industry
+Industries Overview
+Manufacturing
+Ensure reliable manufacturing operations
+Read More
+Energy & Natural Resources
+Reduce downtime with automated inspections
+Read More
+Academia & Education
+Explore innovations and opportunities for robotics
+Read More
+Construction
+Power comprehensive job site visibility
+Read More
+Government
+Keep people out of harm’s way and respond to hazards
+Read More
+Warehouse & Logistics
+Automate inbound warehouse tasks
+Read More
+Customers
+Case Studies
+Back
+Customer Success
+Customer Success
+Customer Success
+Build long-term success with Boston Dynamics
+Read More
+Integration Services
+Evaluate your facilities and implement a tailored solution
+Read More
+Spot Care
+Ensure long term reliable service with Spot
+(opens in new tab)
+Read More
+Stretch Care
+Ensure long term reliable service with Stretch
+Read More
+Back
+Support & Training
+Support & Training
+Support Center
+Review documentation and connect with expert support
+(opens in new tab)
+Read More
+Boston Dynamics University
+Access training to build and certify your skills
+(opens in new tab)
+Read More
+Development Documentation
+Develop applications and payloads for Spot
+(opens in new tab)
+Read More
+Consulting
+Company
+Shop Merch
+Back
+Company
+Company
+About Boston Dynamics
+Learn how we develop and deploy robots to tackle industry’s toughest challenges
+Read More
+History
+Discover the past innovations that inform our current products
+Read More
+Events
+Find upcoming events to connect with our team
+Read More
+Careers
+Ethics
+News
+Partners
+Resources
+Back
+Resources
+Resources
+Resources Overview
+Case Studies
+Discover success stories from our customers
+Read More
+Blogs
+Stay up-to-date on the latest robotics trends and industry insights
+Read More
+Videos
+Watch Boston Dynamics robots in action
+Read More
+Webinars
+Join live and on-demand webinars to hear from our experts and industry leaders
+Read More
+White Papers & eBooks
+Learn about the development, implementation, and value of robots and automation solutions
+Read More
+Development Documentation
+Develop applications and payloads for Spot using the Boston Dynamics Spot SDK
+Read More
+Partners
+Support
+Contact Sales
+×
+Merch
+Support
+Contact Sales
+Join Our Team
+Boston Dynamics is in search of trusted partners and innovators, those who take ownership, move with speed, and turn intelligent failures into progress.
+View Open Positions
+Grow your career at Boston Dynamics
+Boston Dynamics provides employees with the tools they need to thrive, bringing together diverse perspectives and hands-on expertise. As we continue to grow and commercialize, Boston Dynamics prioritizes career growth through mentoring, internal mobility, and learning opportunities. From our interns to our executives, our team members work collaboratively and expand their capabilities in a productive environment.
+Watch Video
+X
+Boston Dynamics Benefits
+We offer competitive packages to all our employees to ensure they feel their best and have their needs secured.
+Parental Leave
+12 weeks of fully paid parental leave for birth and non birth parents.
+Tuition Assistance
+Up to $60,000 in tuition assistance.
+Catered Lunch
+Daily catered lunch, coffee and snacks in our town hall.
+Fitness Benefit
+Onsite fitness center with a variety of equipment.
+Public Transportation
+Free commuter shuttle services.
+Student Loan Repayment Assistance
+Boston Dynamics will contribute to your student loan payments.
+Learning & Development
+Outreach & Events
+Belonging at BD
+Internships
+Our Passion Shapes Our Culture
+We see a world where robotics drives global progress, makes work safer, strengthens economies, and expands human potential. We're a team of multi-disciplinary, world-class professionals working every day to make that vision a reality, building a commercial company from our core in robotics research and development.
+See what working at Boston Dynamics is really like!
+Employee Learning & Development
+At Boston Dynamics, we are committed to the growth and development of our employees. Our training programs and initiatives provide a range of opportunities to help our people build new skills, expand their knowledge, and advance in their careers. Through tailored training programs, on-demand learning, expert speaker-led sessions, and networking events, we invest in our people to help them succeed. Whether you’re honing your technical abilities or developing new leadership skills, we provide the resources and opportunities to support your professional development every step of the way.
+Events & Outreach
+Boston Dynamics takes immense pride in our vibrant employee community and the meaningful impact we have on the community around us.
+We actively foster a culture of inclusivity, ensuring that every employee feels valued and empowered to contribute.  By bringing together the amazing staff here, we make a tangible difference by engaging in a variety of celebrations, networking events, donation drives, and volunteer opportunities.
+Dedicated to Inclusion and Belonging
+We are committed to supporting Employee Resource Groups that inspire inclusivity and a sense of belonging in the workplace.
+BD ERGs are voluntary, employee-led, employer-recognized groups that are open to all and align with the company’s mission. Our ERGs have made remarkable strides in organizing impactful events and delivering resources that cultivate a supportive work environment for all employees.
+Boston Dynamics Internship Program
+Boston Dynamics offers paid internship opportunities and developmental programs designed for talented and qualified students who are enrolled full-time and pursuing a bachelor’s degree, master’s degree, or PhD in technical or nontechnical fields.
+These early career programs bring together diverse perspectives and provide invaluable hands-on industry experiences. Whether you’re searching for a 10 to 12-week internship or 6-month co-op opportunity, our programs offer meaningful experiences within the unique world of commercialized robotics.
+Internship recruiting season kicks off in the new year
+For consideration of future positions, upload your resume to our
+Talent Hub
+Behaviors
+& Mindsets
+We are trusted partners
+to our customers.
+We act with courage to do
+what’s right for our customers.
+We listen to our customers and leverage our expertise to drive value.
+We innovate to solve
+our customers’ problems.
+We act as one team to deliver for
+our customers.
+We channel innovation
+to drive performance.
+We act with passion and
+urgency to deliver on our goals.
+We identify and solve hard
+problems to make real progress.
+We do what we say.
+We deliver reliable, delightful solutions.
+We choose progress over perfection.
+Find your career at Boston Dynamics
+Explore our open opportunities and apply today to start your journey with us.
+Boston Dynamics does not accept unauthorized solicitations from recruiting agencies and will not pay any associated fees with said solicitations.
+Location
+Waltham, MA
+Waltham Office (POST)
+Indiana (Remote)
+Savannah
+Billerica (MA)
+Austria (Remote)
+Georgia (Remote)
+Time Type
+Full Time
+Job Type
+Regular
+International Employee
+Intern
+Specialization
+Accounting
+Administrative Support
+Applications/Systems Engineering
+Artificial Intelligence
+Compliance
+Data Management & Analytics
+Development Engineering
+Field Support
+Finance Operations
+Hardware
+IT Operations
+Logistics
+Machine Shop
+Manufacturing Engineering
+Product Management
+Product Marketing
+Program/Project Management
+Project Management
+Purchasing/Procurement
+R&D
+Sales Job Group
+Software
+Support
+Reset
+Senior Staff Manufacturing Test Development Engineer
+(opens in new tab)
+Waltham, MA
+Full time
+Staff Machine Learning Engineer, Agentic Systems
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Atlas Staff Perception Engineer, Tactile Sensing
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Senior Staff Firmware Engineer
+(opens in new tab)
+Waltham, MA
+Full time
+Senior Staff Product Marketing Manager - Atlas
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Staff, ML Research Scientist
+(opens in new tab)
+Waltham Office (POST)
+Principal Mechanical Engineer
+(opens in new tab)
+Waltham, MA
+Full time
+Sales Development Representative
+(opens in new tab)
+Waltham Office (POST)
+Senior Engineering Manager, ML Platform
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Atlas Research Engineer, SLAM & Spatial AI
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Manager, Machine Learning on Orbit
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Senior Field Service Engineer (Indianapolis, Indiana)
+(opens in new tab)
+Indiana (Remote)
+Full time
+Senior Technical Support Engineer
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Technical Project Manager (TPM), Partner Ecosystems and Integration - French Speaking
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Senior Global Supply Chain Manager (Strategic Sourcing)
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Staff Full Stack Software Engineer
+(opens in new tab)
+Waltham, MA
+Full time
+Senior Staff Manufacturing Engineer
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Staff Reinforcement Learning Research Engineer
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Senior Staff Mechanical Engineer - Atlas
+(opens in new tab)
+Waltham, MA
+Full time
+Senior Staff Electrical Test Engineer - Atlas
+(opens in new tab)
+Waltham Office (POST)
+Full time
+Previous
+1
+2
+3
+4
+5
+Page 1 of 5
+Next
+JOIN OUR TEAM!
+Learn more about Boston Dynamics and connect with our team members!
+Follow Us On LinkedIn
+(opens in new tab)
+NAVIGATION
+Products
+Solutions
+Customers
+About
+Careers
+Merch Store
+RESOURCES
+Boston Dynamics University
+Developer Documentation
+Case Studies
+Blogs
+Events
+Videos
+QUICK LINKS
+Contact Sales
+Press Inquiries
+Support
+Partners
+FAQ
+Security
+(opens in new tab)
+(opens in new tab)
+(opens in new tab)
+(opens in new tab)
+(opens in new tab)
+(opens in new tab)
+©2026 Boston Dynamics. All rights reserved.
+Privacy Policy
+Terms of Use
+Ethics Statement

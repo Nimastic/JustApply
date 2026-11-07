@@ -1,0 +1,330 @@
+Cerebras Open Positions | AI Careers and Jobs
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. You can accept all cookies, reject nonessential cookies, or manage your preferences.
+For more details, see our Cookie Policy.
+Cookie Policy
+Manage Preferences
+Reject All
+Accept All
+Manage Preferences
+You can manage how Cerebras uses cookies and similar technologies on this browser or device. Necessary cookies are required to operate the site, keep it secure, enable login, remember your cookie choices, and provide services you request. These cookies cannot be turned off in this preference center....
+Show more
+Necessary
+Always Active
+These cookies are necessary for the website to function and cannot be disabled.
+Performance
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. This data is anonymized and aggregated to help us understand how the site is used.
+Personalization
+These cookies collect data about how you have interacted with our website to help us improve your web experience and to personalize the content and marketing message to be more relevant to your interests.
+Targeting
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+Reject All
+Confirm Preferences
+Accept All
+Skip to main content
+Products
+Customers
+Partners
+Developers
+Resources
+Pricing
+Company
+Contact us
+Get Started
+From our CEO: What It Took to Build Wafer Scale, and Why It Lasts — read more >
+Open positions
+All locations
+All departments
+Software Engineering
+FPGA Engineer
+Sunnyvale, CA, Toronto, CAN
+Principal Network Systems Architect
+Sunnyvale, CA
+Staff Software Engineer, Inference Platform
+Sunnyvale, CA, Toronto, CAN
+Senior Software Engineer, Inference Cloud
+Sunnyvale, CA
+Senior Manager - Cluster Security
+Sunnyvale, CA
+Full Stack LLM Engineer
+Toronto, CAN
+Manager kernel software
+Bengaluru, IND
+Senior Runtime Engineer
+United States and Canada
+Software Engineer, GPU Inference
+Sunnyvale, CA, Toronto, CAN
+Principal ML Investigator
+Sunnyvale, CA
+CoDesign & NextGen - New College Grad
+Sunnyvale, CA
+Engineering Lead, Kernel Reliability
+Sunnyvale, CA
+Applied AI/ML Scientist
+Abu Dhabi, UAE
+ML Systems Performance Engineer
+United States and Canada
+Kernel Engineer
+Sunnyvale, CA
+Staff Kernel Optimzation Engineer
+Sunnyvale, CA
+AI Inference Core - Software Integration Engineer
+Sunnyvale, CA, Toronto, CAN
+ML Software Tool Development Engineer
+Sunnyvale, CA
+Compute Server Platform Architect
+Sunnyvale, CA
+Applied Machine Learning Research Scientist
+Toronto, CAN, Sunnyvale, CA
+Technical Lead Manager, Infrastructure Hardware (Server and Network Systems)
+Sunnyvale, CA, Toronto, CAN
+Software Engineer, Kernel Reliability
+Sunnyvale, CA
+AI Engineer, Model Quality and Performance
+Sunnyvale, CA
+ML Systems Performance Engineer
+Bengaluru, IND
+Cloud Quality Engineer
+Bengaluru, IND
+Software Engineer, Inference Platform
+Sunnyvale, CA, Toronto, CAN
+Senior Inference ML API SDET
+Sunnyvale, CA, Toronto, CAN
+Cloud Infrastructure Engineer
+Sunnyvale, CA, Toronto, CAN
+Senior SDET, Inference Platform
+Sunnyvale, CA, Toronto, CAN
+Software Engineer - Tools & Infrastructure / DevOps
+Sunnyvale, CA, Toronto, CAN
+Senior Software Development Engineer in Test (SDET)  - AI Cluster
+Sunnyvale, CA
+CoDesign & NextGen Performance Engineer
+Sunnyvale, CA, Toronto, CAN
+Infrastructure Engineer (Data Center Operations)
+Sunnyvale, CA
+Senior Software Development Engineer in Test (SDET)  - AI Cluster Networking and Security
+Bengaluru, IND
+Release Qualification Team Lead
+Bengaluru, IND
+Software Engineer, Cluster Deployment
+Sunnyvale, CA
+Director/Sr. Manager, AI Inference Model Scaling
+Sunnyvale, CA
+AI Inference Core - Senior SDET, Release Integration Testing
+Sunnyvale, CA, Toronto, CAN
+AI Inference Core - Senior Senior Software Engineer for DevOps
+Sunnyvale, CA, Toronto, CAN
+AI Inference Core - Technical Lead Manager, Release Qual & Integration
+Sunnyvale, CA, Toronto, CAN
+AI Inference Core - Senior Infrastructure Software Engineer
+Sunnyvale, CA, Toronto, CAN
+Staff Software Engineer, GPU Inference
+Toronto, CAN, Sunnyvale, CA
+Cluster Operations Software Engineer
+Sunnyvale, CA, Toronto, CAN, Bengaluru, IND
+Senior Backend Engineer, Inference Cloud
+Sunnyvale, CA, Toronto, CAN
+Staff Software Engineer - Tools & Infrastructure / DevOps
+Sunnyvale, CA, Toronto, CAN
+Staff Cloud Infrastructure Engineer
+Sunnyvale, CA, Toronto, CAN
+Distributed Software Engineer
+Toronto, CAN
+Staff GPU Inference SDET
+Sunnyvale, CA, Toronto, CAN
+Software Engineer - Host and Network IO
+Sunnyvale, CA, Toronto, CAN
+AI Datacenter Infra engineer
+Toronto, CAN, Remote (US), Sunnyvale, CA
+Staff Software Engineer, Inference API
+Sunnyvale, CA, Toronto, CAN
+ML Runtime and Kernel Engineer - Core ML
+Sunnyvale, CA, Toronto, CAN
+ML Algorithm Mapping and Performance Engineer, Core ML
+Sunnyvale, CA
+Full Stack Machine Learning Engineer
+Bengaluru, IND
+AI Fleet Platform Software Engineer
+Sunnyvale, CA, Toronto, CAN
+ML Research Scientist - Inference ML
+United States and Canada
+Cloud Infrastructure Engineer
+Sunnyvale, CA
+Senior Software Engineer, ML API – AI Inference
+Toronto, CAN, Sunnyvale, CA
+Staff Software Engineer, Observability
+Sunnyvale, CA
+IT & Security
+Software Supply Chain Security Engineer
+Sunnyvale, CA
+Senior Staff Security Engineer, Distributed Systems
+Sunnyvale, CA
+Security & IT General Opportunities
+United States and Canada
+IT SRE Team Lead
+Sunnyvale, CA
+Manufacturing Linux Network Engineer
+Sunnyvale, CA
+Network Security Engineer (Remote)
+Remote (US)
+Principal Network Security Architect
+Sunnyvale, CA
+Principal AI Security Engineer
+Sunnyvale, CA
+Senior Systems Administrator, Business Systems
+Sunnyvale, CA
+Staff Business Systems Analyst
+Sunnyvale, CA
+Application Security Engineer
+Sunnyvale, CA
+AI and Automation Engineer - Business Systems
+Sunnyvale, CA
+Physical Security Lead, Manufacturing Operations
+Sunnyvale, CA
+Senior Detection and Response Engineer
+Sunnyvale, CA
+Network Security Engineer
+Sunnyvale, CA
+ERP Engineer - Business Systems
+Sunnyvale, CA
+Product
+Developer Relations
+Sunnyvale, CA
+Senior Product Manager, AI Models
+Sunnyvale, CA, Remote (US)
+Head of Developer Relations
+Sunnyvale, CA
+Hardware Research Analyst
+Sunnyvale, CA
+DevX Technical Writer
+Sunnyvale, CA
+AI Engineer
+Sunnyvale, CA
+Hardware
+Lead RTL Design Engineer
+Sunnyvale, CA
+Senior Staff Design Verification Engineer
+Sunnyvale, CA
+Design Verification Engineer
+Sunnyvale, CA
+Physical Design Engineer
+Sunnyvale, CA
+Manufacturing Automation Engineer
+Sunnyvale, CA
+Systems Debug Engineer- EE
+Sunnyvale, CA
+Staff Design Verification Engineer
+Sunnyvale, CA
+Lead Systems Signal Integrity/Power Integrity Engineer
+Sunnyvale, CA
+Staff Systems Technical Program Manager  (Hardware)
+Sunnyvale, CA
+Senior Staff AI Accelerator Performance Architect
+Sunnyvale, CA
+Senior ASIC RTL Design Engineer, AI Hardware
+Sunnyvale, CA
+Senior Product, Test and Yield Enhancement Engineer - Taiwan
+Sunnyvale, CA
+Power Manufacturing Test Development Engineer
+Sunnyvale, CA
+Corporate
+Director, Strategic Finance - Corporate FP&A
+Sunnyvale, CA
+Director, Intellectual Property Counsel
+Sunnyvale, CA
+Accounting Manager
+Sunnyvale, CA
+Head of SOX Internal Audit
+Sunnyvale, CA
+Senior Operations Accountant
+Sunnyvale, CA
+Managing Counsel,  Data Center & Infrastructure
+Sunnyvale, CA
+Senior Counsel, Data Center & Infrastructure
+Sunnyvale, CA, Remote (US)
+SEC Reporting & Technical Accounting Manager
+Sunnyvale, CA
+Datacenters
+Staff Technical Program Manager, Data Center New Product Introduction
+Sunnyvale, CA, Remote (CAN), Remote (US)
+Regional Data Center Manager - Finland
+Sunnyvale, CA
+Regional Data Center Manager - Western Canada
+Vancouver, CAN
+Deployment Network Manager – Global Data Center Build and Deploy
+Sunnyvale, CA, Remote
+Sr. Data Center Network Provisioning Engineer
+Sunnyvale, CA, Norway, Toronto, CAN, Finland
+Senior Datacenter Construction Manager
+Finland, Remote (US)
+Senior Manager, Service Operations & Enablement
+Sunnyvale, CA
+Cluster Datacenter Manager
+United States | Alabama
+Senior Manager, Production & Fleet Operations
+Sunnyvale, CA
+Infrastructure Systems Engineer – Linux, Storage & Automation
+Sunnyvale, CA
+Staff Technical Program Manager, Data Center Supply Chain
+Sunnyvale, CA
+Staff TPM - Datacenter Delivery (E2E)
+Sunnyvale, CA, Remote (CAN), Remote (US), Finland
+Staff Technical Program Manager, Data Center Data & Tooling
+Sunnyvale, CA, Toronto, CAN, Remote (CAN), Remote (US)
+BMS / EPMS Controls Lead
+Remote (US)
+University Departments
+Software Engineer - New Grad 2026
+Toronto, CAN
+DevOps Engineer - New Grad 2026
+Toronto, CAN
+Kernel Engineer - New Grad
+Sunnyvale, CA
+Supplier Quality Engineer - New Grad
+Sunnyvale, CA
+Sales & Partnerships
+Technical Business Development Manager
+Sunnyvale, CA
+Follow
+Get Updates
+Newsletter Signup
+Company
+About Us
+Careers
+Contact Us
+Investor Relations
+Website Terms of Use
+Privacy Policy
+Cookie Policy
+Other Terms & Policies
+Service Status
+Trust Center
+News
+Newsroom
+In the News
+Press kit
+Insights
+Customer Spotlight
+Blog
+Publications
+Whitepapers
+Performance comparisons are based on third-party benchmarking or internal testing. Observed inference speed improvements versus GPU-based systems may vary depending on workload, configuration, date and models being tested.
+info@cerebras.ai
+1237 E. Arques Ave
+Sunnyvale, CA 94085
+©
+2026
+Cerebras.
+All rights reserved.
+Close
+Recruitment Fraud Awareness Notice
+Recruitment Fraud Awareness Notice
+Cerebras has become aware of fraudulent communications from individuals falsely claiming to be members of the Cerebras Systems Talent Acquisition team regarding employment opportunities. These fraudulent messages may contain enough accurate information to appear legitimate.
+These messages are being sent by email from domains that do not belong to Cerebras and may claim that a job offer is being made in an attempt to collect personal or financial information from job seekers.
+Please be aware:
+Cerebras will only communicate with candidates using official company email addresses.
+Cerebras posts open positions on this Careers page, which is the only official way to apply.
+If you receive a suspicious communication claiming to be from Cerebras that does not come from an official Cerebras email address or domain, please do not respond, click links, open attachments, or provide personal information. Instead, verify opportunities or check your application status directly through this Careers page.
+If you believe you have been targeted by a fraudulent recruiting communication impersonating Cerebras, please contact us at
+security@cerebras.net
+.

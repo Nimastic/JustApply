@@ -1,0 +1,317 @@
+Careers at Intrinsic | Intrinsic
+Platform
+Learn more about the Intrinsic platform, our products and ecosystem.
+Platform
+Intrinsic Flowstate
+Capabilities & skills
+Architecture
+Artificial Intelligence
+Intrinsic Intelligence
+Intrinsic Vision Model
+Open Source
+Intrinsic Core
+Company
+Learn more about Intrinsic’s mission, our team and open roles.
+Mission
+Mission
+Careers
+Working at Intrinsic
+Open roles
+Connect
+Reach out for a chat, request a product demo or meet us at an upcoming event.
+Contact
+Request a demo
+Get in touch
+Press inquiry
+Events
+Upcoming events
+Past events
+Blog
+Intrinsic Core
+Platform
+Company
+Connect
+Blog
+Intrinsic Core
+Platform
+Intrinsic Flowstate
+Capabilities & skills
+Architecture
+Artificial Intelligence
+Intrinsic Intelligence
+Intrinsic Vision Model
+Open Source
+Intrinsic Core
+Mission
+Mission
+Careers
+Working at Intrinsic
+Open roles
+Contact
+Request a demo
+Get in touch
+Press inquiry
+Events
+Upcoming events
+Past events
+Democratize access to robotics
+Our team has a clear and audacious mission that drives how we work, act and make decisions together. To democratize access to robotics, we consistently build for others with curiosity, purpose and a sense of urgency.
+Join us
+Who we are
+A global team at the forefront of applied AI and automation
+We are a steadily growing, multidisciplinary team of professionals. At Intrinsic, you’ll collaborate with some of the brightest minds in the field who care about solving big, seemingly intractable problems. Our culture empowers individual autonomy and impact from day one.
+Where we are
+A global perspective
+With labs and offices in Mountain View, Munich and Singapore, we are bringing together a global team of experts with different backgrounds, skillsets and perspectives. This helps us approach old problems in new ways, which is what we do every day. Learn more about our team,  and meet some of us below.
+Mountain View
+Munich
+Singapore
+She/Her
+Saskia
+Software Engineer
+I love the idea of enabling people to solve complex problems using robotics, without having to have years of experience or education. Robots are so versatile in how they can be implemented and what problems they can solve, and this should also be reflected in who can use them to solve these problems.
+1 / 4
+he/him
+Marc
+Automation Engineer
+Hands-on work has always been part of my personal life, working with my father to maintain the family catamaran, and recently restoring a century-old, 10,000+ sq-ft machine shop. Professionally, making the switch from pure software engineering to automation felt like finally being able to bring my whole self to work. It filled me with child-like excitement to watch software step beyond abstract information processing to perform tangible actions in the real world.
+2 / 4
+He/Him
+Thomas
+Product Manager
+I've always had a very broad interest in different fields of technology. It's interesting to see how people work together across disciplines to produce innovative products. What I love about my role at Intrinsic is the diversity of responsibilities – on the boundary of technology, project management and product. Also, I get to work with the brightest minds in different fields of technology and can learn from them everyday.
+3 / 4
+She/Her
+Martina
+Software Engineer
+I'm excited by the prospect of making production radically simpler and affordable, and bringing advanced capabilities to the production floor that aren't possible today. My hope is that we'll be able to unlock more local production for shorter supply chains and more efficient manufacturing – and to help more businesses bring automation to their production.
+4 / 4
+Meet the team
+The people that make us Intrinsic
+Learn more about what drives the people who make a difference at Intrinsic day-to-day.
+VALUE-DRIVEN Benefits
+We want you to thrive
+As an Alphabet company, we offer competitive benefits to enable our employees to bring their best selves to work. You can expect generous healthcare choices, parental leave policies, retirement savings plans, and other benefits designed to support you and your loved ones.
+Health and wellness
+‍
+Medical, dental, and vision insurance for employees and dependents
+Employee assistance programs focused on mental health
+Workplace accommodations for physical or mental health concerns
+Access to mental health apps
+Financial wellbeing
+‍
+Competitive compensation package that includes base salary, an annual performance bonus target, and equity
+401(k) and regional retirement plans
+Student loan reimbursement
+Flexibility and time off
+‍
+Paid time off, including vacation, bereavement, jury duty, sick leave, parental leave, disability, and holidays
+Hybrid work model that balances in-person collaboration and productivity with individual flexibility
+Family care and support
+‍
+Parental leave and baby bonding leave
+Fertility and growing family support
+Back-up childcare
+Community and personal development
+‍
+Educational reimbursement
+Donation matching and time off to volunteer
+open roles
+Interested? Check out the open roles below.
+ALL LOCATIONS
+Mountain View, California
+Munich, Germany
+Singapore
+Zurich, Switzerland
+ALL DEPARTMENTS
+Administration
+Hardware
+Legal
+Product
+Software
+Technical Program Management
+Customer Success Engineer, Robotics Software and Automation
+Mountain View, California
+Software
+As a Customer Success Engineer, you will partner closely with our customers to drive the end-to-end delivery of complex robotic automation systems. You will contribute to high-impact initiatives across the North America region, from architecting technical solutions to delivering first-of-a-kind production deployments and managing long-term lifecycle success. By both enabling users to fully leverage Intrinsic’s product suite and co-developing software features for our customers, you will accelerate the strategic adoption of next-generation industrial automation in diverse and challenging production environments.
+Apply now
+Executive Business Partner
+Mountain View, California
+Administration
+As an Executive Business Partner (Lead) at Intrinsic, you are the Strategic Architect of our leadership operations and a driving force behind our administrative community. Partnering directly with senior VPs, you use independent judgment and absolute discretion to prescribe operational improvements, navigate highly complex stakeholder landscapes, and prevent organizational collisions before they materialize.
+Apply now
+Full Stack Software Engineer - Rust
+Mountain View, California
+Software
+The Intrinsic Factory Experience is an integrated human interface to define, manage, and monitor highly orchestrated factory operations. We build tools to help forward-thinking factories deploy intelligent, flexible manufacturing workflows at scale. Our tools help manufacturing process designers to optimize their resources, factory managers to make sense of their operations, and floor workers to strategically direct their attention.
+Apply now
+Legal Operations Manager
+Mountain View, California
+Legal
+As the Legal Operations Lead for Intrinsic and other Alphabet portfolio projects, including
+Tapestry
+, you will develop and scale processes that enable legal teams to deliver efficient, consistent, and high-quality services.
+Apply now
+Mechanical Design Engineer
+Mountain View, California
+Hardware
+As a Mechanical Engineer within the Lab Infrastructure team, you will design and build robotic automation systems, with a significant focus on custom End-of-Arm Tooling and intelligent automation. You will be a key contributor throughout the entire project lifecycle, from initial concept to implementation, navigating ambiguity to solve complex engineering challenges. Your core responsibilities include translating project requirements into detailed designs, creating efficient and scalable automation solutions, performing structural analysis, reviewing designs and procuring components. You will closely collaborate with research groups and industry partners to execute physical builds and automation solutions.
+Apply now
+Robotics & Automation Technician
+Munich, Germany
+Hardware
+Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for industrial robotics in the near future – with software and data at the core.
+Apply now
+Robotics Software Engineer - Grasping
+Munich, Germany
+Software
+As a Robotics Software Engineer, you will develop innovative algorithms and strategies to facilitate robust grasping and manipulation in complex, real-world manufacturing environments. You will be responsible for abstracting the inherent complexity of robotic manipulation into intuitive, seamless workflows. By building a software layer that possesses a deep understanding of manufacturing tasks, you enable users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
+Apply now
+Robotics Software Engineer - Grasping
+Mountain View, California
+Software
+As a Robotics Software Engineer, you will develop innovative algorithms and strategies to facilitate robust grasping and manipulation in complex, real-world manufacturing environments. You will be responsible for abstracting the inherent complexity of robotic manipulation into intuitive, seamless workflows. By building a software layer that possesses a deep understanding of manufacturing tasks, you enable users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
+Apply now
+Robotics Software Engineer - Grasping
+Mountain View, California
+Software
+As a Robotics Software Engineer, you will develop and implement robust algorithms to facilitate complex robotic operations in real-world manufacturing environments. Our team is responsible for both motion planning and grasping, with this role dedicated specifically to advancing our grasping capabilities. To succeed, you will bring a strong foundation in robotics—whether from a background in motion planning, control systems, or manipulation—to write excellent, production-quality code. You will help abstract the inherent complexity of robotic tasks into intuitive, seamless workflows, enabling users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
+Apply now
+Robotics Software Engineer - Grasping
+Zurich, Switzerland
+Software
+As a Robotics Software Engineer, you will develop and implement robust algorithms to facilitate complex robotic operations in real-world manufacturing environments. Our team is responsible for both motion planning and grasping, with this role dedicated specifically to advancing our grasping capabilities. To succeed, you will bring a strong foundation in robotics—whether from a background in motion planning, control systems, or manipulation—to write excellent, production-quality code. You will help abstract the inherent complexity of robotic tasks into intuitive, seamless workflows, enabling users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
+Apply now
+Senior Automation and Controls Engineer
+Mountain View, California
+Hardware
+As a Senior Automation and Controls Engineer, you will design, build, and deploy robotic automation systems. You will collaborate with cross-functional teams and customers to determine system requirements, suggest automation layouts, and select and source hardware. You will actively program automation workcells and bring robotics solutions from initial concept through the execution of a successful delivery. Your work will involve continuous collaboration with software developers, product managers, and researchers to invent, maintain, and refine our robotic platforms.
+Apply now
+Senior Full Stack Software Engineer, Platform
+Mountain View, California
+Software
+As a Senior Full Stack Platform Software Engineer, you and the team will own the design and implementation of a distributed cloud and on-premises system that enables users across the world to develop new robotics capabilities, share them with the community, and build and deploy real-world automation solutions. Your work will be a hub and central enabler for many other teams, partners, and users. To be successful, you will need to have an eye for architecture and interface design, be comfortable diving into and working in complex systems, and be excited to expand your experience into new areas of cloud and real-time computing and robotics software and hardware.
+Apply now
+Senior Robotics Application Engineer, Customer Success
+Singapore
+Software
+As a Senior Robotics Application Engineer, you will partner closely with our customers to drive the end-to-end delivery of complex robotic automation systems. You will lead high-impact initiatives across the APAC region, from architecting technical solutions to delivering first-of-a-kind production deployments and managing long-term lifecycle success. By enabling users to fully leverage Intrinsic’s product suite, you will accelerate the strategic adoption of next-generation industrial automation in diverse and challenging production environments.
+Apply now
+Senior UX Researcher
+Mountain View, California
+Product
+As a UX Researcher at Intrinsic, you will lead end-to-end user research to shape the developer tools, operational interfaces, and platform capabilities that enable intelligent industrial robotics in manufacturing and factory environments.  Working as part of an embedded product research team inside Intrinsic, you will partner closely with product managers, engineers, and industrial designers to turn complex technical workflows into intuitive, efficient human-machine experiences for robotics developers, system integrators, machine operators, technicians, and plant managers.
+Apply now
+Software Engineer, Data Infrastructure
+Mountain View, California
+Software
+As a Software Engineer on the Data Infrastructure team, you will be responsible for designing, building, and maintaining the data infrastructure that powers our cutting-edge robotics systems. Your software will enable design, development, and operational robotic workflows, integrating with Kubernetes based cloud and on-device services. This includes the systems that collect and process data from our robots in the real world, and feed that data into our machine learning pipelines to train and evaluate the models that make our robots intelligent.
+You will collaborate with a passionate Product and Engineering team creating software that enables fleets of robots to build better.
+Apply now
+Software Engineer, Perception
+Singapore
+Software
+As a Software Engineer in the Perception team,  you will apply your strong skills in software engineering, deep learning, 3D computer vision to implement, optimize and deploy robust and reliable perception capabilities for industrial robots. You will be instrumental in developing and deploying advanced AI models for object detection, object pose estimation, 3D reconstruction, and grasping. Your work will enable robots to intelligently interact with their environment in real-world industrial settings, translating cutting-edge deep learning research into robust, deployable solutions that make industrial robotics more intelligent and accessible.
+Apply now
+Staff Robotics Software Engineer - Grasping
+Mountain View, California
+Software
+As a Staff Robotics Software Engineer and Researcher, you will take full technical ownership of developing and deploying robotics grasping and manipulation algorithms, leading the end-to-end lifecycle from foundational research to global deployment. You will help define the architecture and long-term strategy that enables robots to interact with the physical world, researching and scoping innovative solutions for robust grasping in industrial settings. By abstracting the inherent complexity of robotic manipulation into intuitive workflows, you will work with a multidisciplinary team to integrate and validate high-availability software within complex, real-world industrial applications for manufacturing environments.
+Apply now
+Technical Program Manager, Robotics Solution Delivery
+Mountain View, California
+Technical Program Management
+As a Technical Program Manager (TPM), you’ll manage the delivery of cutting edge automation technology and robotic solutions to our customers and partners. You will have the opportunity to collaborate with some amazing and talented people, who also happen to be working on highly creative and ambitious efforts.
+Apply now
+There are no matches for the searches/filters you have applied. Please try removing some filters and/or other search terms.
+Don't see an open role that fits what you’re looking for?
+You can still express your interest and send us your resume for any of the functional areas below.
+Prospect Heading
+Prospect Location
+Lorem Ipsum
+is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+learn more
+Everything Else
+Mountain View, California | Munich, Germany | Singapore
+We encourage you to apply to this role if you’re interested in opportunities at Intrinsic, but don’t see the right fit in our actively posted roles. This is best suitable for non-technical functions (e.g. people, finance, legal, etc).
+learn more
+Robotics
+Mountain View, California | Munich, Germany | Singapore
+We encourage you to apply to this role if you’re interested in roboticist roles but don’t see the right fit in our actively posted roles. When we post new roles, our recruiting team will review applicants and will reach out in case of a potential fit.
+learn more
+Software Engineering
+Mountain View, California | Munich, Germany | Singapore
+We encourage you to apply to this post if you’re interested in software engineering roles but don’t see the right fit in our actively posted roles. When we post new roles, our recruiting team will review applicants and will reach out in case of a potential fit.
+learn more
+FAQ
+More questions?
+Does Intrinsic offer internships?
+Yes, we have an internship program. Roles are usually posted at the beginning of the year. If a role is posted, we are currently accepting applications.
+When will I hear back regarding my application?
+If there is an interest in moving forward, a recruiter from Intrinsic will reach out to you.
+A recruiter reached out to me from a company acquired by Intrinsic (Vicarious, Akasha, Open Source Robotics Corporation, etc.). Is this a legitimate point of contact for Intrinsic?
+It is likely not legitimate. We are aware of several recruiting scams where people are posing as hiring managers for non-existent roles at Intrinsic. Please confirm the email address ends in @intrinsic.ai for anyone that reaches out to you.
+Subscribe for occasional news and updates
+hbspt.forms.create({     region: "na1",     portalId: "44706966",     formId: "56c67104-07ae-4180-b623-d083e7d5dadb"   });
+Email
+*
+The information you provide through this form will be used in accordance with our
+privacy policy
+. If you wish to change or remove any information you provide through this form, please email legal-notices@intrinsic.ai.
+Architecture
+Capabilities & Skills
+Intrinsic Flowstate
+Events
+Mission
+Blog
+Working at Intrinsic
+Job Openings
+Request a Demo
+Become a Beta Tester
+Get in Touch
+Press Inquiries
+privacy
+terms
+Cookies Settings
+CA Privacy Notice
+Impressum
+©2026 Intrinsic
+Please be aware that we store cookies and other tracking technologies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. We use cookies to personalize content and, on occasion, advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our site with our social media, advertising and analytics partners. You may opt-out of cookies other than strictly necessary cookies and adjust your cookie settings at any time. To learn more about the cookies we use and your choices, please view our
+Cookies Settings
+Ok
+Do Not Sell or Share My Personal Data
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+Allow All
+Manage Consent Preferences
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Share Or Sale of Personal Data
+Share Or Sale of Personal Data
+Under the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
+Targeting Cookies
+Switch Label
+label
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Performance Cookies
+Switch Label
+label
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Confirm My Choices
