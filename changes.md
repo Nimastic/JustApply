@@ -1,9 +1,43 @@
 # Latest role check
 
-## 2026-11-07 12:48:23
+## 2026-11-08 10:23:44
 
-No role changes.
+<b>Amazon</b>
++ Software Development Engineer | Worldwide Amazon Stores | London, England
+<a href="https://www.amazon.jobs/">open the board</a>
 
+<b>Airwallex</b>
++ Senior Software Engineer, AI Tooling, Information Security
++ Staff Software Engineer, AI Tooling, Information Security
++ Senior Product Security Engineer
++ Senior Software Engineer, Payments Platform
++ Staff Product Security Engineer
+closed: Staff Software Engineer, Business Accounts
+closed: Senior Software Engineer, AI Infrastructure
+closed: Senior Network Engineer, Australia
+closed: Staff Software Engineer, Growth
+<a href="https://careers.airwallex.com/">open the board</a>
 
-Baselines stored, no alert: Citadel, Citadel Securities, Hudson River Trading, Jane Street, Optiver, IMC, DRW, Jump Trading, Two Sigma, D. E. Shaw, SIG, Akuna Capital, Belvedere Trading, Old Mission Capital, Tower Research, Goldman Sachs, BlackRock, Headlands, GSA Capital, GSR, Squarepoint, WorldQuant, Point72, Flow Traders, Qube RT, XTX Markets, Balyasny, Aquatic Capital, G-Research, Marshall Wace, Man Group, Virtu, Geneva Trading, AQR, Bridgewater, Chicago Trading Company, Five Rings, Eclipse Trading, DV Trading, Millennium, Jump Crypto, Winton, PDT Partners, Renaissance Technologies, Google, Microsoft, Apple, Meta, Amazon, ByteDance, Cloudflare, Palantir, Bloomberg, Databricks, NVIDIA, Stripe, Airwallex, Coinbase, Anthropic, OpenAI, Google DeepMind, Mistral, Cohere, Cursor, Cognition, xAI, Sakana, Isomorphic Labs, Poolside, Reflection, AI21, Reka, AMI, Figma, Scale AI, dConstruct, BGarage, Venti, Bifrost AI, SGInnovate, Physical Intelligence, Skild AI, Figure AI, 1X, Apptronik, Agility Robotics, Boston Dynamics, Applied Intuition, Waymo, Zoox, Nuro, Kodiak, Intrinsic, Gecko Robotics, Ambi Robotics, Verkada, Modular, Groq, Cerebras, Tenstorrent, Etched, Luma AI
+<b>Applied Intuition</b>
+closed: GNC Engineer (Guidance, Navigation &amp; Control)
+closed: Embedded AI Engineer – Android Automotive (On-Device Intelligence)
+closed: Android Software Engineer - Applications
+closed: Senior Android Software Engineer - Platform
+<a href="https://appliedintuition.com/careers">open the board</a>
+
+<b>Modular</b>
++ AI Framework Engineer
+<a href="https://www.modular.com/careers">open the board</a>
+
+<b>Tenstorrent</b>
++ Midcore Design Verification Engineer
++ System Engineering: Systems SW
++ Staff, Firmware Engineer
++ Field Application Engineer - AI Software &amp; Hardware
+closed: Sr. Staff Engineer, RTL Physical Implementation Lead
+closed: Physical Design Engineer
+closed: Chiplet Physical Design Engineer
+closed: AI/ML Physical Design Flow Engineer
+closed: Physical Design Engineer, PnR
+<a href="https://tenstorrent.com/careers/">open the board</a>
 

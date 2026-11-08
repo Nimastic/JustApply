@@ -1,1 +1,38 @@
-NONE
+<b>Amazon</b>
++ Software Development Engineer | Worldwide Amazon Stores | London, England
+<a href="https://www.amazon.jobs/">open the board</a>
+
+<b>Airwallex</b>
++ Senior Software Engineer, AI Tooling, Information Security
++ Staff Software Engineer, AI Tooling, Information Security
++ Senior Product Security Engineer
++ Senior Software Engineer, Payments Platform
++ Staff Product Security Engineer
+closed: Staff Software Engineer, Business Accounts
+closed: Senior Software Engineer, AI Infrastructure
+closed: Senior Network Engineer, Australia
+closed: Staff Software Engineer, Growth
+<a href="https://careers.airwallex.com/">open the board</a>
+
+<b>Applied Intuition</b>
+closed: GNC Engineer (Guidance, Navigation &amp; Control)
+closed: Embedded AI Engineer – Android Automotive (On-Device Intelligence)
+closed: Android Software Engineer - Applications
+closed: Senior Android Software Engineer - Platform
+<a href="https://appliedintuition.com/careers">open the board</a>
+
+<b>Modular</b>
++ AI Framework Engineer
+<a href="https://www.modular.com/careers">open the board</a>
+
+<b>Tenstorrent</b>
++ Midcore Design Verification Engineer
++ System Engineering: Systems SW
++ Staff, Firmware Engineer
++ Field Application Engineer - AI Software &amp; Hardware
+closed: Sr. Staff Engineer, RTL Physical Implementation Lead
+closed: Physical Design Engineer
+closed: Chiplet Physical Design Engineer
+closed: AI/ML Physical Design Flow Engineer
+closed: Physical Design Engineer, PnR
+<a href="https://tenstorrent.com/careers/">open the board</a>

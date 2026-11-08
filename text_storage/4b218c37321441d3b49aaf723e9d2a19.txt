@@ -271,6 +271,8 @@ London
 Clear
 Apply Filters
 Business Management
+Talent Acquisition Specialist
+London
 HR Placement Year
 London
 Technology Operations Manager
@@ -279,16 +281,14 @@ Liquidity Program Manager
 London
 Security Operations and Risk Analyst
 London
-Talent Acquisition Specialist
-London
 Analytics Engineer
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Centre Manager
-London
 Security Operations Placement Year
+London
+Security Operations Centre Manager
 London
 Senior Red Team Operator
 London
@@ -296,13 +296,13 @@ Red Team Operations Manager
 London
 Penetration Tester
 London
+Chief Business Risk Officer
+London
 IAM Platform Engineer – Authentication, Credentials & PAM
 London
 Security Assurance Specialist
 London
 Senior CSIRT Analyst
-London
-Chief Business Risk Officer
 London
 IAM Platform Engineer – Identity, Entitlements & Authorisation
 London
@@ -328,13 +328,13 @@ London
 Lead Network Reliability Engineer
 London
 Quant Research
+Data Science Internship
+London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
 Quant Research Internship
-London
-Data Science Internship
 London
 Quantitative Researcher – Fundamental Equity Research
 London
@@ -363,15 +363,15 @@ Software Engineer
 London
 Data Software Engineer
 London
-Software Engineer – Core IP Security
-London
 NLP Performance Engineer
+London
+Software Engineer – Core IP Security
 London
 Software Engineer – Security
 London
-Core AI Engineer
-London
 Software Engineer — Observability Instrumentation
+London
+Core AI Engineer
 London
 Applied AI Engineer
 London
@@ -379,23 +379,23 @@ Research Engineer
 London
 Engineering Manager
 London
+Observability Engineer
+London
 Machine Learning Engineer
 London
 Software Engineer – Compute Orchestration
 London
 Machine Learning Workflow Engineer
 London
-Machine Learning Engineer
-London
-Observability Engineer
-London
 Performance Engineering Manager
 London
-Software Engineer – Trade Technology
+Machine Learning Engineer
 London
 Quantitative Developer
 London
 C++ Software Engineer
+London
+Software Engineer – Trade Technology
 London
 Data Software Engineer
 London

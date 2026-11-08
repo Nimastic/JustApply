@@ -116,11 +116,11 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(23)
+(24)
 Mojo
 (9)
 MAX
-(6)
+(7)
 Product Management
 (2)
 Developer Relations
@@ -166,6 +166,9 @@ United Kingdom · Remote
 Apply now
 Engineering Manager, Hardware Bringup
 United States / Canada · Remote
+Apply now
+AI Framework Engineer
+Los Altos, CA · Hybrid
 Apply now
 Inference Systems Engineer
 United States · Remote

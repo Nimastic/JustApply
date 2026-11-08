@@ -104,12 +104,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Sunnyvale
-Sunnyvale
+Seoul
+Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Sunnyvale
+Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
@@ -244,12 +244,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Senior People Business Partner
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Senior People Business Partner
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Senior People Business Partner - EMEA
 Munich
@@ -320,12 +320,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -357,16 +357,16 @@ Sunnyvale
 Apply
 Sales
 Global Account Manager - Automotive
-Sunnyvale
-Sunnyvale
-Apply
-Global Account Manager - Automotive
 Munich
 Munich
 Apply
 Global Account Manager - Automotive
 Tokyo
 Tokyo
+Apply
+Global Account Manager - Automotive
+Sunnyvale
+Sunnyvale
 Apply
 Global Account Manager - North America Automotive
 Ann Arbor
@@ -566,10 +566,6 @@ Apply
 Full-Stack Software Engineer -  Command & Control
 Sunnyvale
 Sunnyvale
-Apply
-GNC Engineer (Guidance, Navigation & Control)
-Washington, D.C.
-Washington, D.C.
 Apply
 Information Security System Officer (ISSO)
 Poway, CA
@@ -895,12 +891,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
@@ -979,12 +975,12 @@ Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 IT Operations Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Product Security Engineer
 Sunnyvale
@@ -1221,20 +1217,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Electrical Integration Engineer
 Bangalore
 Bangalore
-Apply
-Embedded AI Engineer – Android Automotive (On-Device Intelligence)
-Sunnyvale
-Sunnyvale
 Apply
 Engineering Manager - Axion
 Sunnyvale
@@ -1319,15 +1311,6 @@ Apply
 Technical Project Manager
 Tokyo
 Tokyo
-Apply
-Consumer Experience
-Android Software Engineer - Applications
-Sunnyvale
-Sunnyvale
-Apply
-Senior Android Software Engineer - Platform
-Sunnyvale
-Sunnyvale
 Apply
 Control Center
 Software Engineer - Control Center
