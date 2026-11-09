@@ -48,6 +48,8 @@ The notify step interpolates `changes.md` into a JSON string and sets `parse_mod
 
 Caladan was on the old scraper and is not in the tracker, so it is gone.
 
+NYC pages are extra watches, not replacements: Jane Street open roles filtered to New York, Stripe New York, IMC US, and Google, Meta, Apple, and Amazon New York software searches. Company-wide boards that already list every office stay as they are. A new NYC page stores a baseline on its first run and stays quiet that day.
+
 ## What Telegram sends
 
 `daily_scraper.py` still stores the page text in `text_storage/`. The message is not that diff. A line is a role when it looks like a job title. Cookie banners, certificate errors, and intern titles are dropped. The alert names the company, lists titles that appeared (`+`) and titles that disappeared (`closed:`), and links the board. `alert.txt` is `NONE` when nothing qualifies, and `notify.py` sends nothing.

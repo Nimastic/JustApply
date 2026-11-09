@@ -113,4 +113,14 @@ BOARDS = [
     ("Tenstorrent", "https://tenstorrent.com/careers/"),
     ("Etched", "https://www.etched.com/careers"),
     ("Luma AI", "https://lumalabs.ai/careers"),
+    # NYC listings. Extra pages, not replacements. The company-wide
+    # boards stay. These are the pages that were Singapore-only,
+    # APAC-only, or a homepage that does not list New York jobs.
+    ("Jane Street NYC", "https://www.janestreet.com/join-jane-street/open-roles/?location=new-york"),
+    ("Stripe NYC", "https://stripe.com/jobs/search?office_locations=North+America--New+York"),
+    ("IMC US", "https://www.imc.com/us/careers/"),
+    ("Google NYC", "https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&q=software%20engineer"),
+    ("Meta NYC", "https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY"),
+    ("Apple NYC", "https://jobs.apple.com/en-us/search?location=new-york-NY-USA"),
+    ("Amazon NYC", "https://www.amazon.jobs/en/search?base_query=software%20engineer&loc_query=New%20York"),
 ]
