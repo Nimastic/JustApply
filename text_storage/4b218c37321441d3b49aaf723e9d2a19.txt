@@ -290,19 +290,19 @@ Security Operations Placement Year
 London
 Security Operations Centre Manager
 London
-Senior Red Team Operator
-London
 Red Team Operations Manager
 London
 Penetration Tester
-London
-Chief Business Risk Officer
 London
 IAM Platform Engineer – Authentication, Credentials & PAM
 London
 Security Assurance Specialist
 London
+Senior Red Team Operator
+London
 Senior CSIRT Analyst
+London
+Chief Business Risk Officer
 London
 IAM Platform Engineer – Identity, Entitlements & Authorisation
 London
@@ -336,13 +336,13 @@ Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Quantitative Researcher – Fundamental Equity Research
-London
-Quantitative Researcher – Experienced
-London
 Natural Language Processing Researcher
 London
 Machine Learning Researcher
+London
+Quantitative Researcher – Fundamental Equity Research
+London
+Quantitative Researcher – Experienced
 London
 Quantitative Researcher – Postgraduate
 London
@@ -363,15 +363,15 @@ Software Engineer
 London
 Data Software Engineer
 London
-NLP Performance Engineer
-London
 Software Engineer – Core IP Security
+London
+NLP Performance Engineer
 London
 Software Engineer – Security
 London
-Software Engineer — Observability Instrumentation
-London
 Core AI Engineer
+London
+Software Engineer — Observability Instrumentation
 London
 Applied AI Engineer
 London
@@ -379,23 +379,23 @@ Research Engineer
 London
 Engineering Manager
 London
-Observability Engineer
+Software Engineer – Compute Orchestration
 London
 Machine Learning Engineer
 London
-Software Engineer – Compute Orchestration
+Observability Engineer
+London
+Machine Learning Engineer
 London
 Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London
-Machine Learning Engineer
+Software Engineer – Trade Technology
 London
 Quantitative Developer
 London
 C++ Software Engineer
-London
-Software Engineer – Trade Technology
 London
 Data Software Engineer
 London

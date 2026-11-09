@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-675 jobs
+677 jobs
 AI Research & Engineering
 Job
 Anthropic Fellows Program, AI Safety & Security
@@ -60,7 +60,8 @@ Research Engineer, Code RL (Reinforcement Learning)
 San Francisco, CA | New York City, NY
 Research Engineer, Computer Use
 San Francisco, CA | New York City, NY | Seattle, WA
-Research Engineer, Cybersecurity RL (Reinforcement Learning)
+Research Engineer, Cybersecurity RL
+New
 San Francisco, CA | New York City, NY
 Research Engineer, Cybersecurity RL (Reinforcement Learning)
 New
@@ -106,7 +107,6 @@ London, UK
 Research Engineer / Scientist, Alignment
 San Francisco, CA
 Research Engineer / Scientist, Pre-training
-New
 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY
 Research Engineer, Visual Knowledge Work
 New York City, NY; San Francisco, CA; Seattle, WA

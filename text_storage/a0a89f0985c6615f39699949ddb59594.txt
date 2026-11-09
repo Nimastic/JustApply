@@ -8,8 +8,8 @@ Investors
 Foundation
 Strategic Capital
 Menu
-AMS €23.42
-+0.14
+AMS €23.20
+-0.22
 About
 About
 Where We Operate
@@ -139,13 +139,10 @@ Select a division
 Locations
 Select a location
 Search
-Displaying 10 of 42 results
+Displaying 10 of 40 results
 Amsterdam | Data
 AI Engineering Manager
 AI Engineering ManagerWe're setting up a new AI team within Data and AI and are looking for an Engineering Manager to lead it. Good engineering management makes a big difference to how well teams grow, keep their people and deliver, and that is what we want from this role.You'll look after the planning and people side: delivery, growth, performance, culture and hiring. You work alongside technical leads who own architecture, technical direction and hands-on execution. You need each other, so expect to work closely.We'll judge you on how your engineers develop and what your team delivers. Most of your time goes to understanding how the business works and unlocking use cases where AI makes a real difference, next to leading your people and your delivery.What you'll do:
-About this role
-Amsterdam | Data
-Business Analyst
 About this role
 New York | Facilities & Office Management
 Corporate Receptionist
@@ -156,16 +153,12 @@ Delta One Trader
 Flow Traders is looking for a Delta One Trader to join our growing trading team in Hong Kong. This is a unique opportunity to join a leading proprietary trading firm, working alongside some of the brightest minds in the industry.
 About this role
 Amsterdam | Trading
-Digital Assets Options Trader
-Flow Traders is looking for a Digital Assets Options Trader to join our global Digital Assets Trading team in Amsterdam. We are seeking candidates with ideally experience in digital asset options, volatility trading, market making, or related derivatives strategies. The ideal candidate has a strong understanding of crypto options market structure and is motivated to help build and develop our digital assets options trading capabilities.
+Digital Assets Trader
+Flow Traders is looking for an Experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in Amsterdam. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
 About this role
 New York | Trading
 Digital Assets Trader
 Flow Traders is looking for an experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in New York. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
-About this role
-Amsterdam | Trading
-Digital Assets Trader
-Flow Traders is looking for an Experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in Amsterdam. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
 About this role
 Hong Kong | Trading
 Digital Assets Trader
@@ -178,6 +171,14 @@ About this role
 Hong Kong | Trading
 Experienced MFT Quantitative Researcher
 Flow Traders is looking for an Experienced Quantitative Researcher who specializes in mid-frequency research to join us in our Hong Kong office. This is a unique opportunity to join a leading proprietary trading firm where quantitative research, technology, and an entrepreneurial culture are at the heart of our business.
+About this role
+New York | Trading
+Experienced Quantitative Researcher
+Flow Traders is looking for a experienced Quantitative Researcher who specializes in high-frequency research to join us in our New York office. This is a unique opportunity to join a leading proprietary trading firm with an entrepreneurial and quantitative culture at the heart of its business.
+About this role
+Hong Kong | Trading
+Experienced Quantitative Researcher
+Flow Traders is looking for a Senior Quantitative Researcher to join us in our Hong Kong office. This is a unique opportunity to join a leading proprietary trading firm where quantitative research, technology, and an entrepreneurial culture are at the heart of our business. In this role, you will identify and develop new trading opportunities by leveraging Flow Traders’ advanced research capabilities and quantitative trading platform
 About this role
 Show more
 We

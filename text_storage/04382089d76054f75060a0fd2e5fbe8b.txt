@@ -203,7 +203,6 @@ Manager, Software Engineering - Billing
 Manager, Software Engineering - Design Systems Adherence
 Manager, Software Engineering - DevEx AI Tools
 Manager, Software Engineering - External Platform
-Manager, Software Engineering - Growth Platform
 Manager, Software Engineering - Production Engineering
 Manager, Software Engineering - UX Platform
 Security Engineer

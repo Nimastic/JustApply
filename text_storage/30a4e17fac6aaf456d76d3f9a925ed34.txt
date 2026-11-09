@@ -116,9 +116,9 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(24)
+(26)
 Mojo
-(9)
+(11)
 MAX
 (7)
 Product Management
@@ -179,6 +179,9 @@ Apply now
 AI Runtime Engineer
 Edinburgh · Hybrid
 Apply now
+Mojo Back-End Compiler Engineer
+Remote · Remote
+Apply now
 Technical Product Marketing Manager
 United States · Remote
 Apply now
@@ -202,6 +205,9 @@ United Kingdom · Remote
 Apply now
 Director of Business Development & Operations, Modular Alliance Program
 Japan · Remote
+Apply now
+Mojo Libraries Engineer (Copy)
+United States / Canada · Remote
 Apply now
 What you expect from the interview
 Modular has a straight-forward interview process and a large majority of the roles follow the same steps:

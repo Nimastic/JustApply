@@ -498,29 +498,6 @@ Regular
 International Employee
 Intern
 Specialization
-Accounting
-Administrative Support
-Applications/Systems Engineering
-Artificial Intelligence
-Compliance
-Data Management & Analytics
-Development Engineering
-Field Support
-Finance Operations
-Hardware
-IT Operations
-Logistics
-Machine Shop
-Manufacturing Engineering
-Product Management
-Product Marketing
-Program/Project Management
-Project Management
-Purchasing/Procurement
-R&D
-Sales Job Group
-Software
-Support
 Reset
 Senior Staff Manufacturing Test Development Engineer
 (opens in new tab)

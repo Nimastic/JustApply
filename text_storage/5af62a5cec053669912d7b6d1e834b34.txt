@@ -231,7 +231,7 @@ San Francisco
 Apply
 Customer Engineering
 (
-23
+25
 )
 AI Support Engineer
 San Francisco
@@ -317,6 +317,12 @@ Partner Deployed Engineer - Europe
 London
 •
 Southern Europe
+Apply
+Program Manager - Field CTOs - EMEA
+London
+Apply
+Program Manager - Field CTOs - US
+San Francisco
 Apply
 QA Engineer - APAC
 India

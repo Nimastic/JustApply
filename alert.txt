@@ -1,38 +1,80 @@
-<b>Amazon</b>
-+ Software Development Engineer | Worldwide Amazon Stores | London, England
-<a href="https://www.amazon.jobs/">open the board</a>
+<b>WorldQuant</b>
++ Data  Scientist
+<a href="https://www.worldquant.com/career-listing/">open the board</a>
+
+<b>Flow Traders</b>
++ Experienced Quantitative Researcher
+closed: Digital Assets Options Trader
+<a href="https://www.flowtraders.com/careers/job-search/">open the board</a>
+
+<b>Qube RT</b>
+closed: Infrastructure Implementation Manager – Electronic Trading
+closed: Senior Software Engineer - Quant Research Framework
+<a href="https://www.qube-rt.com/careers/">open the board</a>
+
+<b>Cloudflare</b>
+closed: Senior Director Digital Native, Customer Engineering
+<a href="https://www.cloudflare.com/careers/">open the board</a>
 
 <b>Airwallex</b>
-+ Senior Software Engineer, AI Tooling, Information Security
-+ Staff Software Engineer, AI Tooling, Information Security
-+ Senior Product Security Engineer
-+ Senior Software Engineer, Payments Platform
-+ Staff Product Security Engineer
-closed: Staff Software Engineer, Business Accounts
-closed: Senior Software Engineer, AI Infrastructure
-closed: Senior Network Engineer, Australia
-closed: Staff Software Engineer, Growth
++ Senior IT Engineer, LRC
++ Software Engineer, Spend
++ Product Director, Financial Markets (FX) &amp; Financial Platform (Relocation to San Francisco or Singapore)
++ Principal AI Engineer, Business Accounts
+closed: Senior Software Engineer, AI Tooling, Information Security
+closed: Staff Product Designer
+closed: Staff Software Engineer, AI Tooling, Information Security
+closed: Senior Software Engineer, Observability
+closed: Senior Software Engineer, Payments Platform
+closed: 2 more
 <a href="https://careers.airwallex.com/">open the board</a>
 
-<b>Applied Intuition</b>
-closed: GNC Engineer (Guidance, Navigation &amp; Control)
-closed: Embedded AI Engineer – Android Automotive (On-Device Intelligence)
-closed: Android Software Engineer - Applications
-closed: Senior Android Software Engineer - Platform
-<a href="https://appliedintuition.com/careers">open the board</a>
+<b>Anthropic</b>
++ Research Engineer, Cybersecurity RL
+<a href="https://job-boards.greenhouse.io/anthropic">open the board</a>
+
+<b>OpenAI</b>
++ Forward Deployed Engineering (38)
++ Manager, Forward Deployed Engineering - Munich
++ Controls Engineer, Power Generation &amp; Microgird
++ Strategic Sourcing Manager, Data Center Infrastructure, Electrical &amp; Mechanical
+closed: Forward Deployed Engineering (37)
+closed: Controls Engineer, Power Generation and Microgird
+closed: Strategic Sourcing Manager,  Compute Infrastructure
+closed: Strategic Sourcing Manager, Data Center Infrastructure, Electrical
+closed: Strategic Sourcing Manager, Data Center Infrastructure, Mechanical
+closed: 1 more
+<a href="https://jobs.ashbyhq.com/openai">open the board</a>
+
+<b>Figma</b>
+closed: Manager, Software Engineering - Growth Platform
+<a href="https://www.figma.com/careers/">open the board</a>
+
+<b>Boston Dynamics</b>
+closed: Applications/Systems Engineering
+closed: Development Engineering
+closed: Manufacturing Engineering
+<a href="https://bostondynamics.com/careers">open the board</a>
+
+<b>Ambi Robotics</b>
+closed: Solutions Engineer
+closed: Senior Project Engineer - Mechanical Systems
+closed: Software Development
+closed: Senior Robotics Research Engineer
+<a href="https://ambirobotics.com/careers">open the board</a>
 
 <b>Modular</b>
-+ AI Framework Engineer
++ Mojo Back-End Compiler Engineer
++ Mojo Libraries Engineer (Copy)
 <a href="https://www.modular.com/careers">open the board</a>
 
 <b>Tenstorrent</b>
-+ Midcore Design Verification Engineer
-+ System Engineering: Systems SW
-+ Staff, Firmware Engineer
-+ Field Application Engineer - AI Software &amp; Hardware
-closed: Sr. Staff Engineer, RTL Physical Implementation Lead
-closed: Physical Design Engineer
-closed: Chiplet Physical Design Engineer
-closed: AI/ML Physical Design Flow Engineer
-closed: Physical Design Engineer, PnR
++ C++ Machine Learning Engineer, Models Training
++ Sr. Engineer, Performance Infrastructure (RISC-V)
++ Systems Engineering
++ Forward Deployed Engineer
+closed: Midcore Design Verification Engineer
+closed: System Engineering: Systems SW
+closed: Staff, Firmware Engineer
+closed: Field Application Engineer - AI Software &amp; Hardware
 <a href="https://tenstorrent.com/careers/">open the board</a>

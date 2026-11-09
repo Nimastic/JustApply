@@ -19,7 +19,7 @@ Operations
 8
 Openings
 Technology
-91
+90
 Openings
 Trading
 16
@@ -41,7 +41,7 @@ Singapore
 15
 Openings
 United Kingdom
-46
+45
 Openings
 United States
 83
