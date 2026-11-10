@@ -47,7 +47,7 @@ Catered Lunch
 Commuter Benefits
 Wellness
 Opportunities
-27
+16
 open
 roles
 We're looking for people who are excited to build what's next — from research and systems engineering to design and product.
@@ -64,8 +64,6 @@ Product & Engineering
 Research & AI
 Go-To-Market
 Customer Success
-Senior Customer Success Manager
-London, UK
 Senior Customer Success Manager (German speaking)
 Munich, GER
 Sales
@@ -91,12 +89,6 @@ Editor + Motion Graphics
 Los Angeles, CA
 Research & AI
 Compute
-Research Scientist / Engineer – Performance Optimization
-Redwood City, CA  ·  Remote, US  ·  Remote, EU  ·  New York, NY  ·  Seattle, WA  ·  London, UK
-Research Scientist / Engineer – Performance Optimization
-Remote, EU
-Research Scientist / Engineer – Performance Optimization
-London, UK  ·  Remote, UK
 Research Scientist / Engineer – Reinforcement Learning Infrastructure
 Redwood City, CA  ·  Remote, US  ·  New York, NY  ·  Seattle, WA
 Research Scientist / Engineer – Reinforcement Learning Infrastructure
@@ -109,21 +101,6 @@ Research Scientist / Engineer – Training Infrastructure
 Remote, EU
 Research Scientist / Engineer – Training Infrastructure
 London, UK  ·  Remote, UK
-Software Engineer, Inference
-Redwood City, CA  ·  Remote, US  ·  New York, NY  ·  Seattle, WA
-Software Engineer, Inference
-Remote, EU
-Software Engineer, Inference
-London, UK  ·  Remote, UK
-Frontier Research
-Research Scientist - World Model
-Redwood City, CA
-Research Scientist / Engineer — Foundation Model (Agent)
-Redwood City, CA
-Simulation Researcher/Engineer
-Redwood City, CA
-Software Engineer - Data Infrastructure
-Redwood City, CA
 Don't see the right role for you?
 Send us your details and a link to your work — a portfolio, GitHub, papers, anything you're proud of. We review everything that comes in and will reach out if there's a fit now or further down the line.
 Apply anyway

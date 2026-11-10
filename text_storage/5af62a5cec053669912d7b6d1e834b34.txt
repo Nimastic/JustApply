@@ -45,7 +45,7 @@ All teams
 All locations
 General & Administrative
 (
-27
+28
 )
 Business Operations
 San Francisco
@@ -61,6 +61,9 @@ Tokyo
 Apply
 Founding Recruiting Operations Coordinator - APJ
 Singapore
+Apply
+Front Desk Coordinator
+San Francisco
 Apply
 General Application - Cognition
 San Francisco
@@ -175,7 +178,7 @@ New York City
 Apply
 Marketing
 (
-14
+16
 )
 ABM/Enterprise Demand
 San Francisco
@@ -207,8 +210,10 @@ Apply
 Head of LATAM Marketing
 Sao Paulo
 Apply
-Integrated Marketing & Campaigns
+Integrated Campaign Manager, Brand
 San Francisco
+•
+New York City
 Apply
 Japan Partner Marketing
 Tokyo
@@ -221,6 +226,9 @@ San Francisco
 •
 New York City
 Apply
+Paid Social & Influencer Lead
+New York City
+Apply
 Product Marketer
 San Francisco
 •
@@ -228,6 +236,9 @@ New York City
 Apply
 SEO & AEO
 San Francisco
+Apply
+Social Media Lead
+New York City
 Apply
 Customer Engineering
 (
@@ -332,7 +343,7 @@ San Francisco
 Apply
 Sales
 (
-30
+28
 )
 Account Director
 San Francisco
@@ -386,18 +397,12 @@ Apply
 Applied AI Transformation Manager - APAC
 Singapore
 Apply
-Applied AI Transformation Manager - Europe
-London
-Apply
 Applied AI Transformation Manager - MENA
 Riyadh
 •
 Doha
 •
 Dubai
-Apply
-Commercial Partner Manager
-San Francisco, Austin, New York City
 Apply
 Country Leader - South Korea
 South Korea

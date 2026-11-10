@@ -92,10 +92,6 @@ San Carlos
 ,
 California
 Hardware Engineering
-Electrical Engineer - Hands
-San Carlos
-,
-California
 Integration Engineer - Hands
 San Carlos
 ,
@@ -167,14 +163,6 @@ San Carlos
 ,
 California
 Manufacturing Operations
-Assembly Technician - Robot Body
-Hayward
-,
-California
-Assembly Technician - Robot Hands
-San Carlos
-,
-California
 CNC Programmer
 Hayward
 ,

@@ -3,7 +3,9 @@ Your Privacy
 Welcome to Kodiak. We respect your privacy and your right to control how we collect, use, and share your personal data. Please read our
 Privacy Policy
 to learn about our privacy practices.
-I understand
+Accept
+Reject
+Manage
 Skip to main content
 Technology
 Industries
@@ -131,8 +133,6 @@ Mountain View, CA
 AI & Machine Learning
 Senior AI Infrastructure Engineer - Model Training
 Mountain View, CA
-Technical Lead, Multimodal Transformers
-Mountain View, CA
 Autonomy Safety
 Senior Autonomy Engineer
 Mountain View, CA
@@ -154,9 +154,6 @@ Mountain View, CA
 Staff Software Engineer, Learned & Hybrid Behavior Planning
 Mountain View, CA
 Tech Lead Manager, Motion Planning
-Mountain View, CA
-Controls
-Software Engineer, Controls (C++)
 Mountain View, CA
 Software Quality
 Software Quality Triage Specialist

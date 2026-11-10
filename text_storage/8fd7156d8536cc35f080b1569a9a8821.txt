@@ -153,6 +153,7 @@ Atlanta, GA United States
 Austin, TX United States
 Boston, MA United States
 Calgary, Canada
+Central, United States
 Chicago, IL United States
 Denmark
 Denver, CO United States
@@ -162,7 +163,6 @@ Germany
 Houston, TX United States
 Ireland
 Italy
-Jacksonville, FL United States
 London
 Los Angeles, CA United States
 Melbourne, Australia
@@ -179,7 +179,6 @@ Philadelphia, PA United States
 Phoenix, AZ United States
 Poland
 Quebec, Canada
-Raleigh, NC United States
 Salt Lake City, UT United States
 San Mateo, CA United States
 Seattle, WA United States
@@ -296,9 +295,9 @@ Austin, TX United States
 Privacy Counsel
 San Mateo, CA United States
 Senior Product Counsel
-Austin, TX United States
-Senior Product Counsel
 San Mateo, CA United States
+Senior Product Counsel
+Austin, TX United States
 IT
 IT Engineer
 San Mateo, CA United States
@@ -366,6 +365,8 @@ Enterprise Account Executive (Washington - SLED)
 Seattle, WA United States
 Regional Sales Director, Enterprise - Muni
 Atlanta, GA United States
+Regional Vice President,  Central - Education
+Central, United States
 Enterprise CORP
 Enterprise Account Executive, Montreal
 Montreal, Canada
@@ -438,11 +439,11 @@ Lead Field Content Marketer
 San Mateo, CA United States
 Localization Manager
 San Mateo, CA United States
-Product Marketing Manager, Privacy and Data Security
-San Mateo, CA United States
 Product Marketing Manager, Solutions
 San Mateo, CA United States
 Product Marketing Manager, Workplace
+San Mateo, CA United States
+Senior Product Marketing Manager, Privacy and Data Security
 San Mateo, CA United States
 Senior Product Marketing Manager, Solutions
 San Mateo, CA United States
@@ -460,25 +461,25 @@ Vancouver, Canada
 Senior Field Marketing Manager - Enterprise
 San Mateo, CA United States
 Senior Field Marketing Manager, Enterprise
-Phoenix, AZ United States
-Senior Field Marketing Manager, Enterprise
 Salt Lake City, UT United States
+Senior Field Marketing Manager, Enterprise
+Phoenix, AZ United States
 Senior Regional Field Marketing Manager, East
 Philadelphia, PA United States
 Senior Regional Field Marketing Manager, East
-New York City, NY United States
-Senior Regional Field Marketing Manager, East
 Tampa, FL United States
+Senior Regional Field Marketing Manager, East
+New York City, NY United States
 Senior Regional Field Marketing Manager, West
 Los Angeles, CA United States
 Senior Regional Field Marketing Manager, West
-Phoenix, AZ United States
+Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
 Austin, TX United States
 Senior Regional Field Marketing Manager, West
 San Mateo, CA United States
 Senior Regional Field Marketing Manager, West
-Salt Lake City, UT United States
+Phoenix, AZ United States
 Growth
 Growth Manager
 San Mateo, CA United States
@@ -524,9 +525,9 @@ Pricing and Commercial Operations
 Analyst / Associate, Pricing & Commercial Operations (Bilingual English and German/Dutch)
 London
 Senior Associate, Pricing & Commercial Operations
-New York City, NY United States
-Senior Associate, Pricing & Commercial Operations
 San Mateo, CA United States
+Senior Associate, Pricing & Commercial Operations
+New York City, NY United States
 Product Management
 Group Product Manager, Video Platform
 San Mateo, CA United States
@@ -572,6 +573,8 @@ Sales/GTM Recruiter, LATAM (Bilingual) )
 Mexico City, Mexico
 Sales Recruiter, EMEA
 London
+Senior Sales Recruiter, Early Careers
+San Mateo, CA United States
 Sr. Global Sales Recruiter
 New York City, NY United States
 Verkademy Program Coordinator
@@ -629,25 +632,25 @@ Mid-Market Territory
 Account Executive, Territory, Chicago
 Chicago, IL United States
 Account Executive, Territory (Mid-Market)
-Austin, TX United States
-Account Executive, Territory (Mid-Market)
-Atlanta, GA United States
-Account Executive, Territory (Mid-Market)
-Los Angeles, CA United States
+New York City, NY United States
 Account Executive, Territory (Mid-Market)
 Boston, MA United States
 Account Executive, Territory (Mid-Market)
+Austin, TX United States
+Account Executive, Territory (Mid-Market)
 San Mateo, CA United States
 Account Executive, Territory (Mid-Market)
-New York City, NY United States
-Account Executive, Territory (Mid-Market)
-Philadelphia, PA United States
+Atlanta, GA United States
 Account Executive, Territory (Mid-Market)
 St. Petersburg, FL United States
 Account Executive, Territory (Mid-Market)
-Salt Lake City, UT United States
+Los Angeles, CA United States
 Account Executive, Territory (Mid-Market)
 Tempe, AZ United States
+Account Executive, Territory (Mid-Market)
+Philadelphia, PA United States
+Account Executive, Territory (Mid-Market)
+Salt Lake City, UT United States
 Office Coordinator, LA (Fixed-Term/ Part-Time)
 Los Angeles, CA United States
 Office Coordinator, PHL (Fixed-Term/ Part-Time)
@@ -658,17 +661,17 @@ San Mateo, CA United States
 Associate Solutions Engineer, San Mateo
 San Mateo, CA United States
 Channel Solutions Engineer
-Atlanta, GA United States
-Channel Solutions Engineer
-Denver, CO United States
-Channel Solutions Engineer
-Toronto, Canada
+Chicago, IL United States
 Channel Solutions Engineer
 San Mateo, CA United States
 Channel Solutions Engineer
+Toronto, Canada
+Channel Solutions Engineer
+Atlanta, GA United States
+Channel Solutions Engineer
 Seattle, WA United States
 Channel Solutions Engineer
-Chicago, IL United States
+Denver, CO United States
 Enterprise Solutions Engineer
 Italy
 Enterprise Solutions Engineer
@@ -692,9 +695,9 @@ Boston, MA United States
 Enterprise Solutions Engineer, Quebec
 Quebec, Canada
 Enterprise Solutions Engineer, State
-Oklahoma City, OK United States
-Enterprise Solutions Engineer, State
 Philadelphia, PA United States
+Enterprise Solutions Engineer, State
+Oklahoma City, OK United States
 Federal Solutions Engineer, West Coast
 San Mateo, CA United States
 Global Solutions Engineer
@@ -706,11 +709,11 @@ New Zealand
 Solutions Engineering Manager, EMEA
 London
 Solutions Engineering Manager, Select & Territory
-San Mateo, CA United States
-Solutions Engineering Manager, Select & Territory
 St. Petersburg, FL United States
 Solutions Engineering Manager, Select & Territory
 Tempe, AZ United States
+Solutions Engineering Manager, Select & Territory
+San Mateo, CA United States
 Solutions Engineer, Perth
 Perth, Australia
 Solutions Engineer, Sydney
@@ -740,14 +743,6 @@ Director, Channel Sales EMEA
 London
 Head of Federal Channel
 Washington, D.C. United States
-National Channel Sales Manager, Convergint (Eastern US)
-Jacksonville, FL United States
-National Channel Sales Manager, Convergint (Eastern US)
-Raleigh, NC United States
-National Channel Sales Manager, Convergint (Eastern US)
-New York City, NY United States
-National Channel Sales Manager, Convergint (Eastern US)
-Philadelphia, PA United States
 Strategy/Operations
 Data Trust Associate, Global Revenue Informatics
 San Mateo, CA United States
@@ -785,9 +780,9 @@ Tempe, AZ United States
 Sales Development Representative (AAE), Tampa
 St. Petersburg, FL United States
 Sales Development Representative, Internship
-Austin, TX United States
-Sales Development Representative, Internship
 San Mateo, CA United States
+Sales Development Representative, Internship
+Austin, TX United States
 VU Athlete
 San Mateo, CA United States
 Manager/Director
@@ -811,6 +806,8 @@ Phoenix, AZ United States
 Regional Sales Manager, LATAM
 Mexico City, Mexico
 Enterprise
+Enterprise Development Representative - Dutch or Swedish Speaking
+London
 Enterprise Development Representative - German Speaking
 London
 Enablement
@@ -844,6 +841,8 @@ San Mateo, CA United States
 Senior Embedded Engineer - Cameras BSP
 San Mateo, CA United States
 Senior Embedded Engineer - Command Connector
+San Mateo, CA United States
+Senior Frontend Engineer - Fleet Management
 San Mateo, CA United States
 Senior Frontend Engineer - Streaming
 San Mateo, CA United States
@@ -1013,9 +1012,9 @@ Technical Support Engineering
 Senior Technical Support Engineer
 San Mateo, CA United States
 Technical Support Engineer
-San Mateo, CA United States
-Technical Support Engineer
 Sydney, Australia
+Technical Support Engineer
+San Mateo, CA United States
 Technical Support Engineer (Bilingual English/Japanese)
 Tokyo, Japan
 Technical Support Engineer - Industrial Placement 2027 (12-months)

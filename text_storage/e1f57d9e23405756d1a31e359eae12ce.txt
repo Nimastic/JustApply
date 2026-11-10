@@ -1,0 +1,762 @@
+Search Jobs — Google Careers
+Careers
+Careers
+Careers
+Skip navigation links
+home
+home
+Home
+Home
+work_outline
+work_outline
+Jobs
+Jobs
+noogler_hat
+noogler_hat
+Students
+Students
+google
+google
+How we work
+How we work
+handyman
+handyman
+How we hire
+How we hire
+person_outline
+person_outline
+Your career
+Your career
+help_outline
+Help link
+feedback
+Send feedback
+more_vert
+Help
+Send Feedback
+Sign in
+home
+Home
+work_outline
+Jobs
+expand_less
+Job search
+Recommended jobs
+Saved jobs
+Job alerts
+AI at Google
+Google Cloud
+YouTube
+noogler_hat
+Students
+expand_more
+google
+How we work
+expand_more
+handyman
+How we hire
+expand_more
+person_outline
+Your career
+expand_more
+Search Jobs
+Search sidebar
+146
+jobs matched
+Clear filters
+What do you want to do?
+Locations
+expand_less
+New York, NY, USA
+Remove
+Which location(s) do you prefer?
+search
+1 / 4
+Locations
+Remote eligible
+info_outline
+The remote filter will show you jobs that are eligible for remote work. Some roles allow for remote work and/or in-office work.
+Candidates will be able to share location preferences later in the hiring process.
+Experience
+expand_more
+Skills & qualifications
+expand_more
+Degree
+expand_more
+Job types
+expand_more
+Organizations
+expand_more
+Sort by
+expand_more
+Follow Life at Google on
+More about us
+About us
+open_in_new
+Contact us
+open_in_new
+Press
+open_in_new
+Related Information
+Investor relations
+open_in_new
+Blog
+open_in_new
+Equal Opportunity
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+Google's EEO Policy
+,
+Know your rights: workplace discrimination is illegal
+,
+Belonging at Google
+, and
+How we hire
+.
+More about us
+expand_more
+Related information
+expand_more
+Equal opportunity
+expand_more
+Privacy
+open_in_new
+Applicant & Candidate Privacy
+open_in_new
+Terms
+open_in_new
+Manage cookies
+help
+Help
+open_in_new
+language
+English
+English
+Français (Canada)
+Jobs search results
+146
+jobs matched
+filter_list
+Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +9 more
+; +8 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +9 more
+; +8 more
+Minimum qualifications
+PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: Python, C, C++, Java, JavaScript or Golang.
+Experience in Machine Learning or Artificial Intelligence.
+Learn more
+share
+Share Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Search Security Engineering
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; Cambridge, MA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Mountain View, CA, USA
+; Cambridge, MA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in one or more programming languages.
+5 years of experience building software for security or anti-abuse (e.g., threat detection, threat intelligence, or fraud prevention systems).
+3 years of experience building software for data privacy or security (e.g., identity and access management).
+3 years of experience testing, maintaining, or launching software products.
+1 year of experience with software design and architecture.
+Learn more
+share
+Share Senior Software Engineer, Search Security Engineering
+link
+Copy link
+email
+Email a friend
+Software Engineer II, Early Career
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; Kirkland, WA, USA
+; +11 more
+; +10 more
+bar_chart
+Early
+Early
+Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes.
+Google |
+Mountain View, CA, USA
+; Kirkland, WA, USA
+; +11 more
+; +10 more
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript) in an industry setting.
+Experience working with one or more of the following: Web or Mobile Application Development, Unix/Linux environments, Distributed and Parallel Systems, Machine Learning or AI, Information Retrieval, Natural Language Processing, Networking, Developing Software Systems, or Security Software Development.
+Experience utilizing AI productivity tools to streamline business or development workflows.
+Learn more
+share
+Share Software Engineer II, Early Career
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Search Security Engineering
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; Cambridge, MA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Mountain View, CA, USA
+; Cambridge, MA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience building software for data privacy or security (e.g., identity and access management).
+Learn more
+share
+Share Software Engineer III, Search Security Engineering
+link
+Copy link
+email
+Email a friend
+Software Engineer, AI Infrastructure, Core
+corporate_fare
+Google
+place
+Austin, TX, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Austin, TX, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in Java.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+1 year of experience with GenAI techniques (e.g., LLMs,
+Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
+Experience in machine learning infrastructure.
+Learn more
+share
+Share Software Engineer, AI Infrastructure, Core
+link
+Copy link
+email
+Email a friend
+Software Engineer, Generative Media AI, Apparel ML
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; Seattle, WA, USA
+; +2 more
+; +1 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Mountain View, CA, USA
+; Seattle, WA, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+Learn more
+share
+Share Software Engineer, Generative Media AI, Apparel ML
+link
+Copy link
+email
+Email a friend
+Staff Software Engineer, Infrastructure, Google Cloud AI
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; New York, NY, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+Sunnyvale, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+Learn more
+share
+Share Staff Software Engineer, Infrastructure, Google Cloud AI
+link
+Copy link
+email
+Email a friend
+Software Engineer, Generative AI, Geo Data
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+1 year of experience with end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging).
+Experience with GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
+Learn more
+share
+Share Software Engineer, Generative AI, Geo Data
+link
+Copy link
+email
+Email a friend
+Software Engineer, Applied AI, Model Quality
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in one or more programming languages.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+Learn more
+share
+Share Software Engineer, Applied AI, Model Quality
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++, Python, or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
+link
+Copy link
+email
+Email a friend
+Software Engineer, AI/ML, Ads Quality
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience with software development with C++ programming language.
+1 year of experience with end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging).
+1 years of experience with quantitative data analysis.
+Learn more
+share
+Share Software Engineer, AI/ML, Ads Quality
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Infrastructure, Core
+corporate_fare
+Google
+place
+San Jose, CA, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+San Jose, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience programming in C++.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Senior Software Engineer, Infrastructure, Core
+link
+Copy link
+email
+Email a friend
+Staff Software Engineer, AI/ML GenAI, Google Workspace
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of experience leading ML design and optimizing industry-scale end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+2 years of experience with state of the art GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
+Learn more
+share
+Share Staff Software Engineer, AI/ML GenAI, Google Workspace
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Infrastructure, Google Cloud Platforms
+corporate_fare
+Google
+place
+Kirkland, WA, USA
+; New York, NY, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Kirkland, WA, USA
+; New York, NY, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience programming in C++ or Go.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Senior Software Engineer, Infrastructure, Google Cloud Platforms
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Ads
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; Los Angeles, CA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Mountain View, CA, USA
+; Los Angeles, CA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Ads
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Cloud Platforms
+corporate_fare
+Google
+place
+New York, NY, USA
+; Madison, WI, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+; Madison, WI, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++ or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Cloud Platforms
+link
+Copy link
+email
+Email a friend
+Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+Minimum qualifications
+PhD degree in Computer Science, a related field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
+Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+Learn more
+share
+Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Front End
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience with front-end and user interface development.
+Learn more
+share
+Share Software Engineer III, Front End
+link
+Copy link
+email
+Email a friend
+Senior Staff Software Engineer, Cloud SDK
+corporate_fare
+Google
+place
+Kirkland, WA, USA
+; New York, NY, USA
+; +2 more
+; +1 more
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+Kirkland, WA, USA
+; New York, NY, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+8 years of experience programming in Java, Go, Python, Node.js, Rust, C++, C#, Ruby or PHP.
+5 years of experience with design and architecture; and testing/launching software products.
+5 years of experience working on developer tools.
+5 years of experience building Software Development Kits (SDKs).
+5 years of experience with Cloud APIs.
+Learn more
+share
+Share Senior Staff Software Engineer, Cloud SDK
+link
+Copy link
+email
+Email a friend
+Staff Software Engineer, AI/ML, ML Infrastructure, Search Ads
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+8 years of experience programming in Python or C++.
+5 years of experience leading ML design and optimizing end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+2 years of experience with GenAI techniques (e.g., large language models, multi-modal, large vision models) or with GenAI-related concepts (e.g., language modeling, computer vision).
+Learn more
+share
+Share Staff Software Engineer, AI/ML, ML Infrastructure, Search Ads
+link
+Copy link
+email
+Email a friend
+Showing 1 to 20 of 146 rows
+1‑20 of 146
+navigate_next
+Go to next page
+Follow Life at Google on
+More about us
+About us
+open_in_new
+Contact us
+open_in_new
+Press
+open_in_new
+Related Information
+Investor relations
+open_in_new
+Blog
+open_in_new
+Equal Opportunity
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+Google's EEO Policy
+,
+Know your rights: workplace discrimination is illegal
+,
+Belonging at Google
+, and
+How we hire
+.
+More about us
+expand_more
+Related information
+expand_more
+Equal opportunity
+expand_more
+Privacy
+open_in_new
+Applicant & Candidate Privacy
+open_in_new
+Terms
+open_in_new
+Manage cookies
+help
+Help
+open_in_new
+language
+English
+English
+Français (Canada)
+Follow Life at Google on
+More about us
+About us
+open_in_new
+Contact us
+open_in_new
+Press
+open_in_new
+Related Information
+Investor relations
+open_in_new
+Blog
+open_in_new
+Equal Opportunity
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+Google's EEO Policy
+,
+Know your rights: workplace discrimination is illegal
+,
+Belonging at Google
+, and
+How we hire
+.
+More about us
+expand_more
+Related information
+expand_more
+Equal opportunity
+expand_more
+Privacy
+open_in_new
+Applicant & Candidate Privacy
+open_in_new
+Terms
+open_in_new
+Manage cookies
+help
+Help
+open_in_new
+language
+English
+English
+Français (Canada)
+Careers
+Main menu
+Google apps

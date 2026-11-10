@@ -64,10 +64,6 @@ Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA
 APPLY →
 Apply for Payroll Specialist  in Accounting and Finance, Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA
 Commercial
-Strategic Account Manager
-Remote
-APPLY →
-Apply for Strategic Account Manager in Commercial , Remote
 Senior Technical Support Specialist
 Onsite- Pittsburgh, PA
 APPLY →
@@ -171,11 +167,6 @@ Senior Enterprise Applications Developer
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
 APPLY →
 Apply for Senior Enterprise Applications Developer in Information Technology , Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
-Innovation
-Senior Robotics Mechanical Engineer
-Hybrid- Fremont, CA
-APPLY →
-Apply for Senior Robotics Mechanical Engineer in Innovation, Hybrid- Fremont, CA
 Legal
 Senior Manager, Legal Operations
 Remote
@@ -247,10 +238,6 @@ Buyer
 Onsite- Salem, OR
 APPLY →
 Apply for Buyer in Operations, Onsite- Salem, OR
-Senior Supply Planner - Raw Components
-Onsite- Salem, OR
-APPLY →
-Apply for Senior Supply Planner - Raw Components in Operations, Onsite- Salem, OR
 Maintenance & Repair Technician
 Onsite- Salem, OR
 APPLY →
@@ -305,10 +292,6 @@ Senior Robot Test Operations Manager
 Onsite- Pittsburgh, PA
 APPLY →
 Apply for Senior Robot Test Operations Manager in SEIT, Onsite- Pittsburgh, PA
-Data Collection Manager
-Onsite- Fremont, CA
-APPLY →
-Apply for Data Collection Manager in SEIT, Onsite- Fremont, CA
 Senior Hardware Reliability Engineer
 Hybrid- Fremont, CA
 APPLY →
@@ -354,6 +337,10 @@ Senior Software Engineer, AI/ML Platform
 Remote
 APPLY →
 Apply for Senior Software Engineer, AI/ML Platform in Software Engineering, Remote
+Data Collection Manager
+Onsite- Fremont, CA
+APPLY →
+Apply for Data Collection Manager in Software Engineering, Onsite- Fremont, CA
 Senior AI Software Engineer, Perception
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
@@ -374,6 +361,10 @@ Senior Data Engineer, Data Analytics
 Remote
 APPLY →
 Apply for Senior Data Engineer, Data Analytics in Software Engineering, Remote
+Staff Software Engineer, Simulation
+Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Hybrid- Fremont, CA; Remote
+APPLY →
+Apply for Staff Software Engineer, Simulation in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Hybrid- Fremont, CA; Remote
 Software Engineer III, Simulation
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →

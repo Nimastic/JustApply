@@ -79,9 +79,9 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-266
+269
 roles across
-15
+16
 departments
 Expand all
 Data Science and Analytics
@@ -104,13 +104,13 @@ Engineering Manager, Saudi Arabia
 Riyadh, Saudi Arabia
 Apply →
 Frontier Agent Engineering Manager, Enterprise
-New York, NY
+London, UK
 Apply →
 Frontier Agent Engineering Manager, Enterprise
 San Francisco, CA
 Apply →
 Frontier Agent Engineering Manager, Enterprise
-London, UK
+New York, NY
 Apply →
 Frontier Agents Engineer (Applied AI)
 San Francisco, CA
@@ -388,7 +388,7 @@ IT Systems Engineer
 Washington, DC
 Apply →
 Marketing and Communications
-11 roles
+10 roles
 Account Based Marketing Lead
 San Francisco, CA
 Apply →
@@ -412,9 +412,6 @@ San Francisco, CA
 Apply →
 Product Marketing Lead, Enterprise
 New York, NY
-Apply →
-Product Marketing Manager, Global Public Sector
-Doha, Qatar
 Apply →
 Web Designer, Brand Web Experience
 New York, NY
@@ -489,6 +486,20 @@ People
 Global Head of Workplace
 San Francisco, CA
 Apply →
+Policy
+4 roles
+AI Policy Lead
+New York, NY
+Apply →
+AI Policy Lead
+San Francisco, CA
+Apply →
+AI Policy Lead
+Washington, DC
+Apply →
+US Executive Branch Policy & International Engagement Lead
+Washington, DC
+Apply →
 Product and Design
 22 roles
 AI Product Manager (Coding/Multimodal)
@@ -558,7 +569,7 @@ Staff Product Manager, Agentic Platform
 Washington, DC
 Apply →
 Public Sector
-56 roles
+57 roles
 Contracts Manager
 Washington, DC
 Apply →
@@ -594,6 +605,9 @@ Omaha, NE
 Apply →
 Engineering Manager, Frontier AI Infrastructure - Public Sector
 Washington, DC
+Apply →
+Executive Assistant
+San Francisco, CA
 Apply →
 Executive Assistant
 Washington, DC
@@ -728,7 +742,7 @@ Technical Program Manager, Public Sector
 Washington, DC
 Apply →
 Research
-22 roles
+21 roles
 Machine Learning Research Scientist, Evaluations
 San Francisco, CA
 Apply →
@@ -758,9 +772,6 @@ New York, NY
 Apply →
 Research Scientist, AI Safety and Alignment
 San Francisco, CA
-Apply →
-Research Scientist, AI Safety and Alignment
-New York, NY
 Apply →
 Senior / Staff Machine Learning Research Scientist, Agents
 San Francisco, CA
@@ -892,25 +903,25 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-Doha, Qatar
+London, UK
 Apply →
 Software Engineer - New Grad
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-London, UK
+Doha, Qatar
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-London, UK
+Doha, Qatar
 Apply →
 Software Engineering Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-Doha, Qatar
+London, UK
 Apply →
 Join
 University

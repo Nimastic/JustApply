@@ -38,26 +38,26 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Architecture
-Performance Model
-Performance Architect, CPU Cluster
-Austin, Texas, United States; Santa Clara, California, United States; Santa Clara, California, United States
+AI Hardware
+Staff Design Verification Engineer, AI HW
+Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada; Zürich, Switzerland
 Apply
-AI SW
-C++ Machine Learning Engineer, Models Training
-Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland
-Apply
-RISC V
-Sr. Engineer, Performance Infrastructure (RISC-V)
-Australia; Santa Clara, California, United States
+AI Hardware
+Senior Design Verification Engineer, AI Hardware
+Belgrade, Serbia
 Apply
 RISC V
-Executive Assistant (Contractor)
+Staff Engineer, CPU Core Verification
 Bengaluru, Karnataka, India
 Apply
-Systems Engineering
-Forward Deployed Engineer
-Tokyo, Japan
+Advanced Physical Design
+Top Level Physical Design Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Customer - Operations
+Automotive
+Design Verification Engineer, Automotive Robotics
+Munich, Germany
 Apply
 Show all postings
 Open Future

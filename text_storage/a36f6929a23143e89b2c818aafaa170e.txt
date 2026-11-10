@@ -729,9 +729,14 @@ London
 offices.
 4
 of
-10
+11
 Internships
 No internships available for your search, please try something else.
+Investment Analysis
+New York
+icon
+Cove MBA Associate- Summer 2027
+: The D. E. Shaw group seeks an MBA associate to join Cove, its private equity strategy focused on building and scaling consolidation platforms. The Cove team works at the…
 Investment Analysis
 New York
 icon
@@ -783,7 +788,7 @@ icon
 Proprietary Trading Intern (New York) – Summer 2027
 : The D. E. Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s…
 +
-6
+7
 Internships
 Please visit our
 D. E. Shaw India website

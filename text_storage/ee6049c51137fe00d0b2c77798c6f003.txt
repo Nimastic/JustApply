@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-200 Open Roles
+201 Open Roles
+ROLE
+IT Operations Engineer, Application Support
+FOCUS
+IT Support  |  Software & System Engineering
+LOCATION
+London
 ROLE
 Quantitative Analyst, Private Credit
 FOCUS

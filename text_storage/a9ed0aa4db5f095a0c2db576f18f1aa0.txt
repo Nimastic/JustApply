@@ -104,12 +104,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Sunnyvale
+Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Sunnyvale
-Sunnyvale
+Seoul
+Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
@@ -202,12 +202,12 @@ Sunnyvale
 Apply
 Application Engineering
 Application Engineer - Technical Customer Lead
-Sunnyvale
-Sunnyvale
+Stockholm
+Stockholm
 Apply
 Application Engineer - Technical Customer Lead
-Stockholm
-Stockholm
+Sunnyvale
+Sunnyvale
 Apply
 Customer Engineering - Lead Customer Engineer
 Seoul
@@ -244,12 +244,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Senior People Business Partner
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Senior People Business Partner
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Senior People Business Partner - EMEA
 Munich
@@ -316,16 +316,16 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
+Stuttgart
+Stuttgart
+Apply
+Solution Engineer
 Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer
 Munich
 Munich
-Apply
-Solution Engineer
-Stuttgart
-Stuttgart
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -531,6 +531,10 @@ C++ Embedded Software Engineer - Drone Stack
 Sunnyvale
 Sunnyvale
 Apply
+Computer Vision Engineer
+Sunnyvale
+Sunnyvale
+Apply
 C++ Software Engineer - Drone Stack
 Washington, D.C.
 Washington, D.C.
@@ -598,6 +602,10 @@ Apply
 Robotic Software Engineer - Aerial Autonomy
 Fort Walton Beach, FL
 Fort Walton Beach, FL
+Apply
+Security Engineering Accreditation Lead, Defense
+Washington, D.C.
+Washington, D.C.
 Apply
 Senior Cloud Infrastructure Engineer
 London
@@ -667,10 +675,6 @@ Software Engineer - Robotics
 London
 London
 Apply
-Software Engineer - Simulation
-Ann Arbor
-Ann Arbor
-Apply
 Software Integration Engineer - Defense
 Ann Arbor
 Ann Arbor
@@ -698,10 +702,6 @@ Apply
 Solutions Architect - Modeling & Simulation (Defense)
 Sunnyvale
 Sunnyvale
-Apply
-Systems Engineer - Robotics
-Washington, D.C.
-Washington, D.C.
 Apply
 Technical Program Manager, Defense OS
 Sunnyvale
@@ -780,12 +780,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Staff Software Engineer
 Sunnyvale
@@ -837,6 +837,10 @@ Sunnyvale
 Sunnyvale
 Apply
 Senior Electrical Engineer - Compute Hardware
+Sunnyvale
+Sunnyvale
+Apply
+Senior Electrical Engineer, Drone
 Sunnyvale
 Sunnyvale
 Apply
@@ -906,10 +910,6 @@ Legal
 Legal Counsel, Government and Defense
 Washington, D.C.
 Washington, D.C.
-Apply
-Legal Operations Manager
-Sunnyvale
-Sunnyvale
 Apply
 Product Counsel
 Sunnyvale
@@ -981,6 +981,10 @@ Apply
 IT Operations Engineer
 Ann Arbor
 Ann Arbor
+Apply
+IT Operations Engineer
+Sunnyvale
+Sunnyvale
 Apply
 Product Security Engineer
 Sunnyvale
@@ -1217,12 +1221,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Customer Technical Program Manager, Vehicle OS
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Electrical Integration Engineer
 Bangalore

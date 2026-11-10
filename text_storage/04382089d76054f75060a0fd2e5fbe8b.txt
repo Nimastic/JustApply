@@ -1,4 +1,17 @@
 Careers at Figma
+This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
+privacy policy.
+California Residents:
+learn how personal information is
+collected
+, including how it is
+used
+, whether it is
+“sold” or “shared”
+, and how long it is
+retained
+.
+Opt-Out
 Skip to main content
 Products
 What you can do in figma
@@ -161,7 +174,6 @@ Senior Order Management Analyst
 Strategic Finance
 Customer Operations and Support
 Business Systems Analyst
-Community Support Specialist (Bengaluru, India)
 Customer Support Specialist (Bengaluru, India)
 Enterprise Support Specialist (Bengaluru, India)
 Manager, Technical Support (London, United Kingdom)
@@ -176,13 +188,12 @@ Product Designer, AI Models
 Product Designer, CMS
 Product Designer, Core Experience
 Product Designer, Growth & Monetization
-Researcher, Figma Agentic Experiences
+Researcher, AI Evaluations
 Researcher, Figma Design
 Researcher - Rapid Research
 Early Career
 Data Engineer Intern (2027)
 Early Career, Inside Sales Representative (2027)
-Early Career, Product Designer (2027)
 PhD Intern, AI Applied Scientist (2027)
 PhD Intern, Data Science (2027)
 PhD Intern, Security Engineer (2027)
@@ -225,6 +236,7 @@ Customer Success Manager - Figma Weave  (London, United Kingdom)
 Customer Success Manager - Figma Weave (New York, United States)
 Manager, Customer Enablement - Figma Weave (New York, United States)
 Manager, Sales - Figma Weave (London, United Kingdom)
+Product Designer - Figma Weave (Tel Aviv, Israel)
 Product Marketing Manager - Figma Weave (Tel Aviv, Israel)
 Senior Account Executive - Figma Weave
 Software Engineer - Figma Weave (Tel Aviv, Israel)
@@ -237,6 +249,7 @@ Content Strategist, Product
 Corporate Communications Manager
 Designer Advocate (Berlin, Germany)
 Developer Advocate, Payload
+Director, Creative Brand Expression
 Executive Assistant, Growth Marketing
 Executive Communications Manager
 Video Strategist
@@ -274,7 +287,6 @@ Account Executive, Strategic
 Account Executive, Strategic (London, United Kingdom)
 Account Executive, Strategic (Paris, France)
 Account Executive, Strategic (São Paulo, Brazil)
-Account Executive, Strategic (Sydney or Melbourne, Australia)
 Customer Success Manager (São Paulo, Brazil)
 Director, SMB Sales (London, United Kingdom)
 Director, Strategic Sales (Berlin, Germany)
@@ -341,6 +353,7 @@ Design and explore
 Build and ship products
 AI workflows
 Release notes
+MCP catalog
 Downloads
 Plans
 Pricing
@@ -391,4 +404,5 @@ Customers
 Careers
 Newsroom
 Brand assets
+Do Not Sell/Share My Personal Info + Opt-Out
 English

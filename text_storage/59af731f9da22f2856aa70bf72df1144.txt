@@ -1,18 +1,31 @@
 Careers | Cohere
 ___
-We value your privacy
-We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on your browsing habits. You can opt out of certain Cookies through the Cookie Settings link below. See our
+We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on your browsing habits. Click “Accept all” to accept all Cookies, or use another button to adjust the optional ones. See our
 Privacy Policy
 .
-Cookie settings
-Opt-out Preferences
-To opt-out of optional functional, analytical, and advertising Cookies, check the box below and then click Save my preferences. Repeat this process from each browser you use. Your opt-out status will be stored in a cookie. If you switch browsers, clear your cookies, or use a browser that automatically clears your cookies, you must repeat this process.
-Cookie settings
-Cancel
+Settings
+Reject optional
+Accept all
+Customize Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site....
+Show more
+Necessary
+Always Active
+Necessary Cookies are required to help secure and enable the basic features of this site, such as providing log-in functionality or adjusting your consent preferences.
+Functional
+Functional Cookies mainly help perform certain optional functionalities like sharing the content of the website on social media platforms and collecting feedback. Disabling these may affect your browsing experience.
+Analytics
+Analytical Cookies are used mainly to understand how visitors arrive at and interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc. They help us understand and analyze the key performance indexes of the website and of advertisements that refer visitors to the website.
+Performance
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Advertisement
+Advertisement Cookies are used mainly to collect information about your online interactions on and off our site in order to build a profile of your interests and show you relevant ads on third-party sites, including on social media services. If you opt-out of these cookies, you will still receive ads but they may be less personalized.
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Reject optional
 Save My Preferences
-Your opt-out preference has been honored.
-Banner closes automatically in
-s...
+Accept all
 Skip to content
 Rerank 5 is here: sharper search, fewer tokens. Now with Context Focus.
 Learn more

@@ -271,8 +271,6 @@ London
 Clear
 Apply Filters
 Business Management
-Talent Acquisition Specialist
-London
 HR Placement Year
 London
 Technology Operations Manager
@@ -281,16 +279,16 @@ Liquidity Program Manager
 London
 Security Operations and Risk Analyst
 London
+Talent Acquisition Specialist
+London
 Analytics Engineer
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Placement Year
-London
 Security Operations Centre Manager
 London
-Red Team Operations Manager
+Security Operations Placement Year
 London
 Penetration Tester
 London
@@ -300,22 +298,24 @@ Security Assurance Specialist
 London
 Senior Red Team Operator
 London
-Senior CSIRT Analyst
+Red Team Operations Manager
 London
 Chief Business Risk Officer
 London
 IAM Platform Engineer – Identity, Entitlements & Authorisation
 London
+Senior CSIRT Analyst
+London
 Security Threat Specialist
 London
 Infrastructure Engineering
-Platform Engineering Manager
-London
-Platform Engineer
-London
 Linux Platform Engineer
 London
 Network Engineer
+London
+Platform Engineering Manager
+London
+Platform Engineer
 London
 Network Automation Engineer
 London
@@ -323,28 +323,26 @@ Low Latency Network Engineer
 London
 Kubernetes Platform Engineer
 London
-Core Infrastructure Engineering Manager
-London
 Lead Network Reliability Engineer
 London
 Quant Research
-Data Science Internship
-London
-Machine Learning Research Internship
-London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Natural Language Processing Researcher
+Data Science Internship
 London
-Machine Learning Researcher
+Machine Learning Research Internship
 London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
+Natural Language Processing Researcher
+London
 Quantitative Researcher – Postgraduate
+London
+Machine Learning Researcher
 London
 Software Engineering
 Core AI Engineering Manager
@@ -369,9 +367,9 @@ NLP Performance Engineer
 London
 Software Engineer – Security
 London
-Core AI Engineer
-London
 Software Engineer — Observability Instrumentation
+London
+Core AI Engineer
 London
 Applied AI Engineer
 London
@@ -379,19 +377,19 @@ Research Engineer
 London
 Engineering Manager
 London
-Software Engineer – Compute Orchestration
-London
-Machine Learning Engineer
-London
 Observability Engineer
 London
 Machine Learning Engineer
+London
+Software Engineer – Compute Orchestration
 London
 Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London
 Software Engineer – Trade Technology
+London
+Machine Learning Engineer
 London
 Quantitative Developer
 London

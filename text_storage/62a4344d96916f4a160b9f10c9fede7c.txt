@@ -327,66 +327,66 @@ Clear All
 no results found
 Book Portfolio Manager
 Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
-05:18
+05:00
 Experienced Quantitative Strategist
 Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
-05:18
+05:00
 Independent Portfolio Manager
 Austin or Chicago or Miami or New York or Old Greenwich or San Francisco or West Palm Beach, United States
-05:18
+05:00
 BRAIN Researcher
 Beijing or Shanghai, China
-19:18
+19:00
 Data Science Intern
 Beijing or Shanghai, China
-19:18
+19:00
 Data Scientist
 Beijing or Shanghai, China
-19:18
+19:00
 Quantitative Researcher
 Beijing or Shanghai, China
-19:18
+19:00
 Quantitative Research Intern
 Beijing or Shanghai, China
-19:18
+19:00
 WQBRAIN User Success Specialist
 Beijing, China
-19:18
+19:00
 Executive Assistant and Office Manager
 Bengaluru, India
 AI Software Developer
 Budapest, Hungary
-12:18
+12:00
 C++ Software Engineer
 Budapest, Hungary
-12:18
+12:00
 Lead Python Engineer - AI Technology
 Budapest, Hungary
-12:18
+12:00
 Low Latency C++ Developer
 Budapest, Hungary
-12:18
+12:00
 Quantitative Developer
 Budapest, Hungary
-12:18
+12:00
 Security Analyst
 Budapest, Hungary
-12:18
+12:00
 Senior C++ Software Engineer
 Budapest, Hungary
-12:18
+12:00
 Senior Java Software Engineer
 Budapest, Hungary
-12:18
+12:00
 Senior Python Engineer - AI Technology
 Budapest, Hungary
-12:18
+12:00
 Senior Python Software Engineer
 Budapest, Hungary
-12:18
+12:00
 Specialist Portfolio Manager
 Budapest, Hungary
-12:18
+12:00
 Book Portfolio Manager
 Geneva or Zug, Switzerland or London, United Kingdom or Paris, France
 Experienced Quantitative Strategist
@@ -395,61 +395,61 @@ Independent Portfolio Manager
 Geneva or Zug, Switzerland or London, United Kingdom or Paris, France
 Backend Engineer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Full Stack Engineer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Quantitative Developer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Quantitative Researcher
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Senior Backend Engineer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Senior Software Engineer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Software Engineer
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Software Engineer (C/C++)
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Technical Project Manager
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 WQBRAIN AI Researcher
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 WQBRAIN Researcher
 Hanoi or Ho Chi Minh City, Vietnam
-18:18
+18:00
 Software Engineer Intern
 Hanoi, Vietnam
-18:18
+18:00
 Python Engineer
 Ho Chi Minh City, Vietnam
-18:18
+18:00
 WQBRAIN User Success Specialist
 Ho Chi Minh City, Vietnam
-18:18
+18:00
 Independent Portfolio Manager
 Hong Kong or Singapore or Sydney, Australia
-19:18
+19:00
 Senior AI Software Developer
 London, United Kingdom
-11:18
+11:00
 Senior C++ Software Engineer
 London, United Kingdom
-11:18
+11:00
 Senior Python Software Engineer
 London, United Kingdom
-11:18
+11:00
 WQBRAIN Researcher
 London, United Kingdom
-11:18
+11:00
 C++ Developer
 Montevideo, Uruguay
 Linux Systems Engineer
@@ -464,101 +464,101 @@ Site Reliability Engineer
 Montevideo, Uruguay
 Analyst - Portfolio and Treasury Services
 Mumbai, India
-16:48
+16:30
 Business Analyst - Platform Soutions
 Mumbai, India
-16:48
+16:30
 Deep Researcher
 Mumbai, India
-16:48
+16:30
 Quantitative Researcher
 Mumbai, India
-16:48
+16:30
 Quantitative Researcher - IPM (India)
 Mumbai, India
-16:48
+16:30
 Data  Scientist
 New Delhi, India
 Senior Engineer
 New Delhi, India
 Software Development Manager
 New York or Chicago or Austin or Old Greenwich, United States
-06:18
+06:00
 Software Engineer - Trading Systems
 New York or Chicago or Austin or Old Greenwich, United States
-06:18
+06:00
 Execution Developer
 New York or Old Greenwich or Chicago or Austin, United States
-06:18
+06:00
 AI Scientist
 New York, United States
-06:18
+06:00
 Full Stack Developer
 New York, United States
-06:18
+06:00
 Junior Execution Trader
 New York, United States
-06:18
+06:00
 Senior Machine Learning Engineer
 New York, United States
-06:18
+06:00
 Junior Quantitative Project Manager
 Old Greenwich, United States
-06:18
+06:00
 Quantitative Developer
 Ramat Gan, Israel
-13:18
+13:00
 Senior C++ Software Engineer
 Ramat Gan, Israel
-13:18
+13:00
 Senior Python Software Engineer
 Ramat Gan, Israel
-13:18
+13:00
 Specialist Portfolio Manager
 Ramat Gan, Israel
-13:18
+13:00
 Quantitative Researcher
 Seoul, South Korea
-20:18
+20:00
 BRAIN Researcher
 Singapore
-19:18
+19:00
 C++ Software Engineer - Data Platform
 Singapore
-19:18
+19:00
 Junior Execution Trader
 Singapore
-19:18
+19:00
 Quantitative Developer
 Singapore
-19:18
+19:00
 Quantitative Developer
 Singapore
-19:18
+19:00
 Quantitative Execution Strategist
 Singapore
-19:18
+19:00
 Senior C++ Software Engineer
 Singapore
-19:18
+19:00
 Software Engineering Lead (MetaTech)
 Singapore
-19:18
+19:00
 Book Portfolio Manager
 Singapore or Sydney, Australia
-19:18
+19:00
 Experienced Quantitative Strategist
 Singapore or Sydney, Australia
-19:18
+19:00
 Data Scientist
 Taipei, Taiwan
-19:18
+19:00
 Quantitative Researcher
 Taipei, Taiwan
-19:18
+19:00
 Quantitative Researcher, Quant Macro
 Taipei, Taiwan
-19:18
+19:00
 WorldQuant Technology Talent Network
 Multiple Locations
 AI Software Developer

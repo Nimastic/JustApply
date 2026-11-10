@@ -184,7 +184,7 @@ San Jose, CA
 Inventory Accounting Manager
 Apply Now
 Hardware
-08
+09
 San Jose, CA
 Mechanical Engineer - All Levels
 Apply Now
@@ -208,6 +208,9 @@ Wire Harness Engineer
 Apply Now
 San Jose, CA
 Senior Gear Design Engineer
+Apply Now
+San Jose, CA
+PCBA Reliability Engineer - All Levels
 Apply Now
 Internal Fleet Operations
 09
@@ -323,7 +326,7 @@ San Jose, CA
 Product Compliance Engineer
 Apply Now
 Security & Privacy
-06
+05
 San Jose, CA
 Security Engineer, Product and Device Security
 Apply Now
@@ -332,9 +335,6 @@ Security Engineer, Application Security
 Apply Now
 San Jose, CA
 Software Engineer, Privacy & Data Governance
-Apply Now
-San Jose, CA
-Security Engineer, Infrastructure Security
 Apply Now
 San Jose, CA
 Security Engineer, Enterprise Security
