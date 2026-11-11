@@ -31,7 +31,7 @@ Pricing
 Company
 Contact us
 Get Started
-From our CEO: What It Took to Build Wafer Scale, and Why It Lasts — read more >
+Bilt selects Cerebras for faster AI in Neighborhood OS and Bilt Concierge >>
 Open positions
 All locations
 All departments
@@ -272,6 +272,10 @@ Sunnyvale, CA, Remote (CAN), Remote (US), Finland
 Staff Technical Program Manager, Data Center Data & Tooling
 Sunnyvale, CA, Toronto, CAN, Remote (CAN), Remote (US)
 BMS / EPMS Controls Lead
+Remote (US)
+Lead Technical Program Manager, Critical Facility Operations
+Remote (US)
+Lead Engineer, Critical Facility Operations
 Remote (US)
 University Departments
 Software Engineer - New Grad 2026

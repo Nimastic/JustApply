@@ -122,7 +122,6 @@ ALL LOCATIONS
 Mountain View, California
 Munich, Germany
 Singapore
-Zurich, Switzerland
 ALL DEPARTMENTS
 Administration
 Hardware
@@ -163,22 +162,12 @@ Hardware
 Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for industrial robotics in the near future – with software and data at the core.
 Apply now
 Robotics Software Engineer - Grasping
-Munich, Germany
-Software
-As a Robotics Software Engineer, you will develop innovative algorithms and strategies to facilitate robust grasping and manipulation in complex, real-world manufacturing environments. You will be responsible for abstracting the inherent complexity of robotic manipulation into intuitive, seamless workflows. By building a software layer that possesses a deep understanding of manufacturing tasks, you enable users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
-Apply now
-Robotics Software Engineer - Grasping
 Mountain View, California
 Software
 As a Robotics Software Engineer, you will develop innovative algorithms and strategies to facilitate robust grasping and manipulation in complex, real-world manufacturing environments. You will be responsible for abstracting the inherent complexity of robotic manipulation into intuitive, seamless workflows. By building a software layer that possesses a deep understanding of manufacturing tasks, you enable users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
 Apply now
 Robotics Software Engineer - Grasping
 Mountain View, California
-Software
-As a Robotics Software Engineer, you will develop and implement robust algorithms to facilitate complex robotic operations in real-world manufacturing environments. Our team is responsible for both motion planning and grasping, with this role dedicated specifically to advancing our grasping capabilities. To succeed, you will bring a strong foundation in robotics—whether from a background in motion planning, control systems, or manipulation—to write excellent, production-quality code. You will help abstract the inherent complexity of robotic tasks into intuitive, seamless workflows, enabling users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
-Apply now
-Robotics Software Engineer - Grasping
-Zurich, Switzerland
 Software
 As a Robotics Software Engineer, you will develop and implement robust algorithms to facilitate complex robotic operations in real-world manufacturing environments. Our team is responsible for both motion planning and grasping, with this role dedicated specifically to advancing our grasping capabilities. To succeed, you will bring a strong foundation in robotics—whether from a background in motion planning, control systems, or manipulation—to write excellent, production-quality code. You will help abstract the inherent complexity of robotic tasks into intuitive, seamless workflows, enabling users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
 Apply now

@@ -480,6 +480,10 @@ problems to make real progress.
 We do what we say.
 We deliver reliable, delightful solutions.
 We choose progress over perfection.
+"We prioritize the human element in human-robot partnerships. We believe that robots play a complementary role to human ingenuity and creativity in making work safer and more enjoyable."
+Boston Dynamics
+Statement of Ethical Principles
+View Our Principles
 Find your career at Boston Dynamics
 Explore our open opportunities and apply today to start your journey with us.
 Boston Dynamics does not accept unauthorized solicitations from recruiting agencies and will not pay any associated fees with said solicitations.
@@ -506,7 +510,6 @@ Compliance
 Data Management & Analytics
 Development Engineering
 Field Support
-Finance Operations
 Hardware
 IT Operations
 Logistics

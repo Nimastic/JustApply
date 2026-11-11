@@ -211,9 +211,8 @@ Notice to CA Residents
 © 2019-2024 Waymo LLC
 Search jobs
 Candidate Details
-Cookies allow websites to make your Internet experience better.  For example, when you set a default language on a website, cookies help the site remember your choice.  You can block some or all cookies, but this can cause certain features to stop working. Note that any choice you make here will only affect this website on this browser and device. To learn more about how your data is shared, view our
-Candidate Privacy Policy page
-.
+Cookies allow websites to make your Internet experience better.  For example, when you set a default language on a website, cookies help the site remember your choice.  You can block some or all cookies, but this can cause certain features to stop working. Note that any choice you make here will only affect this website on this browser and device. To learn more about how your data is shared, view our
+Candidate Privacy Policy page.
 Manage Consent Preferences
 Strictly Necessary Cookies
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences , logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.

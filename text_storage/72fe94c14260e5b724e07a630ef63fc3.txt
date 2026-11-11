@@ -1,38 +1,38 @@
 OpenAI Jobs
 You need to enable JavaScript to run this app.
 Open Positions
-(827)
+(829)
 Filters:
 Reset filters
 Department
 All Departments
-Applied AI (122)
+Applied AI (123)
 Business Operations (1)
-Communications (5)
+Communications (2)
 Consumer Devices (20)
-Core Product & Platform (8)
+Core Product & Platform (9)
 Data Science (13)
 Executive Operations (2)
-Finance (30)
-Forward Deployed Engineering (38)
-Global Affairs (4)
-Go To Market (179)
+Finance (29)
+Forward Deployed Engineering (39)
+Global Affairs (6)
+Go To Market (184)
 Intelligence & Investigations (2)
-IT (9)
+IT (8)
 Legal (16)
 Life Sciences (1)
-Marketing (43)
+Marketing (42)
 OpenAI for Gov (14)
 Partnerships (5)
-People (17)
+People (18)
 Product Design (7)
 Product Management (8)
 Product Operations (1)
 Product Partnerships (4)
 Research (53)
-Safety Systems (18)
-Scaling (98)
-Security (31)
+Safety Systems (17)
+Scaling (95)
+Security (32)
 Strategic Finance (9)
 Strategy & Operations (2)
 Technical Program Management (14)
@@ -41,7 +41,7 @@ Workplace (2)
 Employment Type
 All Employment Types
 Contract (1)
-Full time (826)
+Full time (828)
 Location
 All Locations
 Abu Dhabi, UAE (3)
@@ -51,7 +51,7 @@ Bangalore - Remote (4)
 Berlin, Germany (3)
 Brussels - Remote (1)
 Delhi, India (6)
-Dublin, Ireland (18)
+Dublin, Ireland (17)
 Germany - Remote (1)
 India - Remote (3)
 London, UK (44)
@@ -60,26 +60,27 @@ Melbourne, Australia (1)
 Mountain View (12)
 Mumbai, India (5)
 Munich, Germany (18)
-New York City (117)
+New York City (118)
 Ontario - Remote (5)
-Paris, France (13)
-San Francisco (577)
+Paris, France (14)
+San Francisco (576)
 São Paulo (8)
-Seattle (81)
-Seoul, South Korea (8)
-Singapore (38)
+Seattle (80)
+Seoul, South Korea (9)
+Singapore (39)
 Stockholm, Sweden (3)
-Sydney, Australia (11)
+Sydney, Australia (12)
 Tokyo, Japan (31)
-UAE - Remote (2)
-US - Remote (42)
-Washington, DC (32)
+UAE - Remote (1)
+US - Remote (41)
+Vancouver (1)
+Washington, DC (34)
 Zurich, Switzerland (3)
 Location Type
 All Location Types
-Hybrid (545)
+Hybrid (548)
 On-site (26)
-Remote (23)
+Remote (21)
 No filters applied
 Applied AI
 AI Systems Engineer, Codex Agents
@@ -204,11 +205,11 @@ Full-Stack Software Engineer, Applied Foundations
 Applied AI • San Francisco; Mountain View • Full time • Hybrid
 $266K – $445K • Offers Equity
 Full-Stack Software Engineer, Child Safety Tools & Systems
-Applied AI • San Francisco • Full time
-$266K – $385K • Offers Equity
-Full-Stack Software Engineer, Child Safety Tools & Systems
 Applied AI • San Francisco; New York City • Full time • Hybrid
 $266K – $445K • Offers Equity
+Full-Stack Software Engineer, Child Safety Tools & Systems
+Applied AI • San Francisco • Full time
+$266K – $385K • Offers Equity
 Full-Stack Software Engineer, Child Safety Tools & Systems (London)
 Applied AI • London, UK • Full time • Hybrid
 $266K – $445K • Offers Equity
@@ -285,7 +286,7 @@ Software Engineer, Ads Manager
 Applied AI • Seattle • Full time • Hybrid
 $347K – $445K • Offers Equity
 Software Engineer, Agent Platform
-Applied AI • San Francisco; New York City • Full time • Hybrid
+Applied AI • San Francisco • Full time • Hybrid
 $230K – $385K • Offers Equity
 Software Engineer, Applied Emerging Talent (2027)
 Applied AI • San Francisco • Full time • Hybrid
@@ -311,10 +312,10 @@ Software Engineer, Cloud Agents
 Applied AI • San Francisco • Full time • Hybrid
 $347K – $445K • Offers Equity
 Software Engineer, Cloud Infrastructure
+Applied AI • London, UK • Full time
+Software Engineer, Cloud Infrastructure
 Applied AI • San Francisco • Full time
 $230K – $490K • Offers Equity
-Software Engineer, Cloud Infrastructure
-Applied AI • London, UK • Full time
 Software Engineer, Codex Core Agents
 Applied AI • San Francisco; New York City; Seattle • Full time
 Software Engineer, Codex Cyber
@@ -429,6 +430,9 @@ $266K – $445K • Offers Equity
 Staff Backend Engineer, Financial Engineering
 Applied AI • San Francisco • Full time • Hybrid
 $266K – $445K • Offers Equity
+Subject Matter Expert, Legal
+Applied AI • San Francisco • Full time • Hybrid
+$284K – $315K • Offers Equity
 Tech Lead Manager, Education
 Applied AI • San Francisco • Full time • Hybrid
 $401K – $445K • Offers Equity
@@ -442,15 +446,6 @@ $297K – $330K • Offers Equity
 Culture & Community Communications lead
 Communications • San Francisco; New York City • Full time • Hybrid
 $240K – $266K • Offers Equity
-Internal Communications Lead,  Enterprise & Growth
-Communications • San Francisco; New York City • Full time • Hybrid
-$216K – $240K • Offers Equity
-Internal Communications, Enterprise & Growth
-Communications • San Francisco; New York City • Full time • Hybrid
-$171K – $190K • Offers Equity
-Internal Communications, Research and Product
-Communications • San Francisco • Full time • Hybrid
-$171K – $190K • Offers Equity
 Consumer Devices
 Backend Engineer, Consumer Devices
 Consumer Devices • San Francisco • Full time
@@ -513,6 +508,9 @@ Core Product & Platform
 Engineering Manager, Multimodal (API)
 Core Product & Platform • San Francisco • Full time
 $401K – $445K • Offers Equity
+Engineering Manager, Preparedness
+Core Product & Platform • San Francisco • Full time • Hybrid
+$405K – $445K • Offers Equity
 Machine Learning Engineer, API Multicloud
 Core Product & Platform • San Francisco • Full time
 $223K – $423K • Offers Equity
@@ -594,8 +592,6 @@ Finance • San Francisco • Full time • Hybrid
 Customer Service Systems Engineer, Government
 Finance • San Francisco; New York City • Full time • Hybrid
 $272K – $302K • Offers Equity
-Deal Operations, EMEA
-Finance • Dublin, Ireland • Full time • Hybrid
 Europe Trade Compliance Lead
 Finance • Dublin, Ireland • Full time • Hybrid
 Financial Systems Engineer
@@ -633,6 +629,9 @@ $284K – $315K • Offers Equity
 Procurement Operations Manager
 Finance • San Francisco • Full time • Hybrid
 $162K – $180K • Offers Equity
+Project Manager, Compute Transformation
+Finance • San Francisco • Full time • Hybrid
+$278K – $308K • Offers Equity
 Project Manager, Design and Construction - R&D/Lab Buildouts
 Finance • San Francisco • Full time • Hybrid
 $205K – $225K • Offers Equity
@@ -660,9 +659,6 @@ $266K – $295K • Offers Equity
 Strategic Technology Negotiations Lead
 Finance • San Francisco • Full time • Hybrid
 $234K – $295K • Offers Equity
-Tax Director, Tax Counsel
-Finance • San Francisco • Full time • Hybrid
-$347K – $385K • Offers Equity
 Technical Accounting Lead, Ads Revenue
 Finance • San Francisco; New York City • Full time • Hybrid
 $216K – $240K • Offers Equity
@@ -678,7 +674,7 @@ $230K – $294K • Offers Equity
 Deployment Lead, Forward Deployed Engineering (FDE) - Platform
 Forward Deployed Engineering • San Francisco; New York City • Full time • Hybrid
 $207K – $294K • Offers Equity
-Deployment Lead, Life Sciences- NYC
+Deployment Lead, Life Sciences
 Forward Deployed Engineering • San Francisco • Full time • Hybrid
 $207K – $294K • Offers Equity
 Deployment Lead, Semiconductors- SF
@@ -760,6 +756,8 @@ $153K – $325K • Offers Equity
 Forward Deployed Software Engineer - SF
 Forward Deployed Engineering • San Francisco • Full time • Hybrid
 $185K – $325K • Offers Equity
+Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore
+Forward Deployed Engineering • Singapore • Full time • Hybrid
 Manager, Forward Deployed Engineer - Tokyo
 Forward Deployed Engineering • Tokyo, Japan • Full time • Hybrid
 Manager, Forward Deployed Engineering - Munich
@@ -774,12 +772,18 @@ $171K – $280K • Offers Equity
 Applied Risk Standards Architect
 Global Affairs • San Francisco; Washington, DC • Full time • Hybrid
 $171K – $280K • Offers Equity
+Learning & Instruction Lead, Academy
+Global Affairs • San Francisco; New York City; Washington, DC • Full time • Hybrid
+$171K – $252K • Offers Equity
 Program Manager, National Security Policy Operations
 Global Affairs • San Francisco; Washington, DC • Full time • Hybrid
 $171K – $190K • Offers Equity
 US Congressional Lead
 Global Affairs • Washington, DC • Full time • Hybrid
 $252K – $280K • Offers Equity
+US External Affairs Manager, Global Affairs
+Global Affairs • Washington, DC • Full time • Hybrid
+$171K – $280K • Offers Equity
 Go To Market
 Account Associate - SF
 Go To Market • San Francisco • Full time • Hybrid
@@ -808,17 +812,15 @@ $189K – $220.5K • Offers Equity • $189K – $220.5K Commission • Multipl
 Account Director, Digital Natives
 Go To Market • Tokyo, Japan • Full time • Hybrid
 Account Director, Digital Natives
-Go To Market • Sydney, Australia • Full time • Hybrid
+Go To Market • Singapore • Full time • Hybrid
 Account Director, Digital Natives
 Go To Market • Delhi, India; Mumbai, India • Full time • Hybrid
 Account Director, Digital Natives
-Go To Market • Singapore • Full time • Hybrid
+Go To Market • Sydney, Australia • Full time • Hybrid
 Account Director, Digital Natives - France
 Go To Market • Paris, France • Full time • Hybrid
 Account Director, Digital Natives - Nordics
 Go To Market • Stockholm, Sweden • Full time • Hybrid
-Account Director, Enterprise
-Go To Market • UAE - Remote • Full time • Remote
 Account Director, Financial Services
 Go To Market • New York City • Full time • Hybrid
 $189K – $200K • Offers Equity • Offers Commission
@@ -831,20 +833,20 @@ Account Director, Higher Education
 Go To Market • San Francisco; New York City; Seattle; US - Remote • Full time • Hybrid
 $305K – $352K • Offers Equity
 Account Director, Large Enterprise
-Go To Market • Sydney, Australia • Full time
-Account Director, Large Enterprise
-Go To Market • London, UK • Full time
-Account Director, Large Enterprise
-Go To Market • Delhi, India; India - Remote • Full time • Hybrid
+Go To Market • Seoul, South Korea • Full time • Hybrid
 Account Director, Large Enterprise
 Go To Market • San Francisco; New York City; Seattle • Full time • Hybrid
 $189K – $200K • Offers Equity • Offers Commission
 Account Director, Large Enterprise
-Go To Market • Munich, Germany; Berlin, Germany • Full time • Hybrid
+Go To Market • London, UK • Full time
 Account Director, Large Enterprise
 Go To Market • Singapore • Full time • Hybrid
 Account Director, Large Enterprise
-Go To Market • Seoul, South Korea • Full time • Hybrid
+Go To Market • Sydney, Australia • Full time
+Account Director, Large Enterprise
+Go To Market • Munich, Germany; Berlin, Germany • Full time • Hybrid
+Account Director, Large Enterprise
+Go To Market • Delhi, India; India - Remote • Full time • Hybrid
 Account Director, Large Enterprise - Tokyo
 Go To Market • Tokyo, Japan • Full time
 Account Director, Large Enterprise (FSI)
@@ -862,6 +864,8 @@ Account Director, Mid-Market
 Go To Market • India - Remote; Delhi, India; Mumbai, India • Full time • Remote
 Account Director, Mid-Market
 Go To Market • Singapore • Full time • Hybrid
+Account Director, Mid-Market | Korea
+Go To Market • Seoul, South Korea • Full time • Hybrid
 Account Director, Mid-Market Enterprise
 Go To Market • San Francisco • Full time • Hybrid
 $365K • Offers Equity • Offers Commission
@@ -902,19 +906,19 @@ Go To Market • Singapore • Full time • Hybrid
 APAC Vendor Lead, Ads - Sydney
 Go To Market • Singapore • Full time • Hybrid
 Applied AI Architect
-Go To Market • Delhi, India; Bangalore - Remote; Mumbai, India • Full time • Hybrid
-Applied AI Architect
-Go To Market • San Francisco • Full time
-$156.6K – $276K • Offers Equity • Offers Commission • Multiple Ranges
-Applied AI Architect
 Go To Market • New York City • Full time • Hybrid
 $156.6K – $276K • Offers Equity • Offers Commission • Multiple Ranges
 Applied AI Architect
 Go To Market • Seoul, South Korea • Full time • Hybrid
 Applied AI Architect
-Go To Market • Singapore • Full time • Hybrid
-Applied AI Architect
 Go To Market • Sydney, Australia • Full time • Hybrid
+Applied AI Architect
+Go To Market • San Francisco • Full time
+$156.6K – $276K • Offers Equity • Offers Commission • Multiple Ranges
+Applied AI Architect
+Go To Market • Delhi, India; Bangalore - Remote; Mumbai, India • Full time • Hybrid
+Applied AI Architect
+Go To Market • Singapore • Full time • Hybrid
 Applied AI Architect - Tokyo
 Go To Market • Tokyo, Japan • Full time
 Applied AI Architect (Brazil)
@@ -922,6 +926,9 @@ Go To Market • São Paulo • Full time • Hybrid
 Applied AI Architect, Cyber
 Go To Market • San Francisco; New York City • Full time • Hybrid
 $295K – $345K • Offers Equity • Offers Commission • Multiple Ranges
+Applied AI Architect, Cyber
+Go To Market • Vancouver • Full time • Hybrid
+CA$236K – CA$262.5K • Offers Equity • Offers Commission
 Applied AI Architect, Digital Natives
 Go To Market • San Francisco • Full time • Hybrid
 $221K – $278K • Offers Equity
@@ -965,34 +972,34 @@ $234K – $335K • Offers Equity
 Applied AI Engineer
 Go To Market • Sydney, Australia • Full time • Hybrid
 Applied AI Engineer
-Go To Market • Seoul, South Korea • Full time • Hybrid
-Applied AI Engineer
 Go To Market • Singapore • Full time • Hybrid
+Applied AI Engineer
+Go To Market • Seoul, South Korea • Full time • Hybrid
 Applied AI Engineer - Tokyo
 Go To Market • Tokyo, Japan • Full time • Hybrid
 Applied AI Engineer, API Platform, Digital Natives
-Go To Market • New York City • Full time • Hybrid
-$251K – $278K • Offers Equity
-Applied AI Engineer, API Platform, Digital Natives
 Go To Market • San Francisco; Seattle • Full time • Hybrid
 $251K – $278K • Offers Equity
+Applied AI Engineer, API Platform, Digital Natives
+Go To Market • New York City • Full time • Hybrid
+$251K – $278K • Offers Equity
 Applied AI Engineer, Codex
-Go To Market • Paris, France • Full time • Hybrid
-Applied AI Engineer, Codex
-Go To Market • San Francisco • Full time
-$211K – $278K • Offers Equity
-Applied AI Engineer, Codex
-Go To Market • London, UK • Full time • Hybrid
-Applied AI Engineer, Codex
-Go To Market • Munich, Germany • Full time • Hybrid
+Go To Market • São Paulo • Full time • Hybrid
 Applied AI Engineer, Codex
 Go To Market • Madrid, Spain • Full time • Hybrid
 Applied AI Engineer, Codex
-Go To Market • Singapore • Full time • Hybrid
-Applied AI Engineer, Codex
 Go To Market • Sydney, Australia • Full time
 Applied AI Engineer, Codex
-Go To Market • São Paulo • Full time • Hybrid
+Go To Market • Munich, Germany • Full time • Hybrid
+Applied AI Engineer, Codex
+Go To Market • London, UK • Full time • Hybrid
+Applied AI Engineer, Codex
+Go To Market • Paris, France • Full time • Hybrid
+Applied AI Engineer, Codex
+Go To Market • Singapore • Full time • Hybrid
+Applied AI Engineer, Codex
+Go To Market • San Francisco • Full time
+$211K – $278K • Offers Equity
 Applied AI Engineer, Codex | Tokyo
 Go To Market • Tokyo, Japan • Full time
 Applied AI Engineer, Cyber
@@ -1000,13 +1007,13 @@ Go To Market • Singapore • Full time • Hybrid
 Applied AI Engineer, Cyber | Tokyo
 Go To Market • Tokyo, Japan • Full time
 Applied AI Engineer, Digital Natives
-Go To Market • São Paulo • Full time • Hybrid
-Applied AI Engineer, Digital Natives
-Go To Market • Paris, France • Full time • Hybrid
-Applied AI Engineer, Digital Natives
 Go To Market • Munich, Germany • Full time • Hybrid
 Applied AI Engineer, Digital Natives
+Go To Market • São Paulo • Full time • Hybrid
+Applied AI Engineer, Digital Natives
 Go To Market • London, UK • Full time • Hybrid
+Applied AI Engineer, Digital Natives
+Go To Market • Paris, France • Full time • Hybrid
 Applied AI Engineer, Enterprise
 Go To Market • San Francisco; New York City; US - Remote • Full time • Hybrid
 $251K – $278K • Offers Equity
@@ -1034,9 +1041,9 @@ $211K – $278K • Offers Equity
 Applied AI Engineer, Startups
 Go To Market • São Paulo • Full time • Hybrid
 Applied AI Engineer, Startups (Codex)
-Go To Market • London, UK • Full time
-Applied AI Engineer, Startups (Codex)
 Go To Market • Paris, France • Full time • Hybrid
+Applied AI Engineer, Startups (Codex)
+Go To Market • London, UK • Full time
 Applied AI Engineer, Startups (Codex)
 Go To Market • Munich, Germany • Full time • Hybrid
 Applied AI Engineer, Startups (Mandarin-speaking)
@@ -1116,13 +1123,15 @@ $280K – $300K • Offers Equity • Offers Commission
 Manager, Applied AI Architect (India)
 Go To Market • Bangalore - Remote • Full time
 Manager, Applied AI Architects
+Go To Market • Tokyo, Japan • Full time • Hybrid
+Manager, Applied AI Architects
 Go To Market • London, UK • Full time
 Manager, Applied AI Architects
 Go To Market • Paris, France • Full time • Hybrid
-Manager, Applied AI Architects
-Go To Market • Tokyo, Japan • Full time • Hybrid
 Manager, Applied AI Architects - Digital Natives
 Go To Market • Munich, Germany • Full time • Hybrid
+Manager, Applied AI Architects (Australia)
+Go To Market • Sydney, Australia • Full time
 Manager, Applied AI Engineering  (Enterprise)
 Go To Market • New York City; Mountain View; San Francisco • Full time • Hybrid
 $251K – $335K • Offers Equity
@@ -1152,9 +1161,18 @@ Go To Market • Tokyo, Japan • Full time • Hybrid
 Partner Director, GTM Cloud Partnerships
 Go To Market • New York City; San Francisco; Seattle • Full time • Hybrid
 $237K – $330K • Offers Equity
+Partner Director, KPMG Global
+Go To Market • San Francisco; New York City • Full time • Hybrid
+$378K – $420K • Offers Equity
 Partner Director, McKinsey Alliance
 Go To Market • San Francisco • Full time • On-site
 $380K – $420K • Offers Equity
+Partner Director, NTT Data Global
+Go To Market • New York City; San Francisco • Full time • Hybrid
+$378K – $420K • Offers Equity
+Partner Director, Oracle North America
+Go To Market • San Francisco; New York City • Full time • Hybrid
+$378K – $420K • Offers Equity
 Partner Director, PwC
 Go To Market • San Francisco; New York City; Seattle • Full time • On-site
 $380K – $420K • Offers Equity
@@ -1222,9 +1240,6 @@ IT
 Head of Employee Tech & Experience (ETX)
 IT • San Francisco • Full time • Hybrid
 $313K – $347K • Offers Equity
-IT Audiovisual Operations Engineer
-IT • San Francisco • Full time • Hybrid
-$187K – $207K • Offers Equity
 IT Logistics Lead
 IT • San Francisco • Full time • Hybrid
 $272K – $302K • Offers Equity
@@ -1344,9 +1359,6 @@ Marketing • Dublin, Ireland • Full time • Hybrid
 Growth Marketing Manager - Web & Organic, SMB Ads
 Marketing • San Francisco • Full time • Hybrid
 $198K – $219K • Offers Equity
-Growth Marketing Manager, SMB Ads
-Marketing • San Francisco • Full time • Hybrid
-$198K – $219K • Offers Equity
 Head of Community, EMEA
 Marketing • London, UK; Berlin, Germany; Paris, France • Full time • Hybrid
 Head of Performance Marketing
@@ -1363,12 +1375,12 @@ Marketing • San Francisco; New York City; Washington, DC • Full time • Hyb
 $287K – $318K • Offers Equity
 Integrated Marketing Manager - LATAM
 Marketing • São Paulo • Full time • Hybrid
+Launch Producer, Business Marketing
+Marketing • San Francisco • Full time • Hybrid
+$212.8K – $236K • Offers Equity
 Lead, Ads Prospecting & Customer Intelligence
 Marketing • San Francisco • Full time • Hybrid
 $287K – $318K • Offers Equity
-Lifecycle Marketing Manager, SMB Ads
-Marketing • San Francisco • Full time • Hybrid
-$227K – $252K • Offers Equity
 Market Research Lead, ChatGPT
 Marketing • San Francisco • Full time • Hybrid
 $240K – $300K • Offers Equity
@@ -1507,6 +1519,8 @@ People • San Francisco; Seattle • Full time • Hybrid
 Recruiting Coordinator - Contract
 People • San Francisco; New York City; Seattle • Contract • Hybrid
 $57 – $70 per hour
+Senior HR Business Partner
+People • Paris, France • Full time • Hybrid
 Senior Technical Recruiter
 People • US - Remote; San Francisco; Seattle • Full time • Hybrid
 $172K – $295K • Offers Equity
@@ -1743,9 +1757,6 @@ Technical Program Manager, Actuators
 Research • San Francisco • Full time • Hybrid
 $207K – $285K • Offers Equity
 Safety Systems
-Engineering Manager, Preparedness
-Safety Systems • San Francisco • Full time • Hybrid
-$405K – $445K • Offers Equity
 Model Policy Manager, Agentic Safety
 Safety Systems • San Francisco • Full time • Hybrid
 $207K – $335K • Offers Equity
@@ -1806,9 +1817,6 @@ $141K – $285K • Offers Equity
 Capacity Systems Software Engineer
 Scaling • San Francisco • Full time • Hybrid
 $347K – $445K • Offers Equity
-Civil & Structural Architect, Power Generation
-Scaling • US - Remote • Full time • Remote
-$257K – $327K • Offers Equity
 Commissioning Project Lead, Data Center Delivery
 Scaling • San Francisco; Seattle • Full time • On-site
 $226K – $285K • Offers Equity
@@ -1849,9 +1857,6 @@ $177K – $285K • Offers Equity
 Full Stack Engineer, Fleet Scheduling
 Scaling • San Francisco • Full time
 $230K – $490K • Offers Equity
-GPT Infrastructure Lead
-Scaling • San Francisco; Seattle • Full time • Hybrid
-$293K – $385K • Offers Equity
 Hardware Engineer, Test
 Scaling • San Francisco • Full time • Hybrid
 $177K – $300K • Offers Equity
@@ -1875,9 +1880,6 @@ $185K – $300K • Offers Equity
 Land and Data Center Development
 Scaling • San Francisco • Full time
 $212K – $295K • Offers Equity
-Land Development & Due Diligence Lead
-Scaling • US - Remote • Full time • Remote
-$199K – $327K • Offers Equity
 Manufacturing Quality Engineer, Data Center Equipment
 Scaling • US - Remote • Full time • Hybrid
 $165K – $290K • Offers Equity
@@ -2101,15 +2103,17 @@ Security • San Francisco; New York City; Seattle; Washington, DC • Full time
 $216K – $240K • Offers Equity
 Incident Commander, Detection & Response - APAC
 Security • Australia - Remote; Bangalore - Remote; Delhi, India; India - Remote; Melbourne, Australia; Mumbai, India; Seoul, South Korea; Singapore; Sydney, Australia; Tokyo, Japan • Full time • Remote
+Incident Commander, Detection & Response - US
+Security • US - Remote • Full time • Remote
 IT Software Architect, SaaS Enablement and Governance
 Security • San Francisco • Full time • Hybrid
 $266K – $445K • Offers Equity
 Network Engineer
-Security • San Francisco • Full time • Hybrid
-$347K – $510K • Offers Equity
-Network Engineer
 Security • London, UK • Full time
 $0
+Network Engineer
+Security • San Francisco • Full time • Hybrid
+$347K – $510K • Offers Equity
 Principal Security Engineer, Infrastructure Security
 Security • US - Remote; New York City; San Francisco; Seattle • Full time • Remote
 $401K – $510K • Offers Equity
@@ -2123,13 +2127,13 @@ Security Engineer, Agent Security
 Security • San Francisco; US - Remote • Full time
 $266K – $445K • Offers Equity
 Security Engineer, Application Security
+Security • San Francisco; US - Remote • Full time • Hybrid
+$266K – $445K • Offers Equity
+Security Engineer, Application Security
 Security • Seattle • Full time
 $266K – $445K • Offers Equity
 Security Engineer, Application Security
 Security • New York City • Full time • Hybrid
-$266K – $445K • Offers Equity
-Security Engineer, Application Security
-Security • San Francisco; US - Remote • Full time • Hybrid
 $266K – $445K • Offers Equity
 Security Engineer, Infrastructure Security
 Security • US - Remote; New York City; San Francisco; Seattle • Full time • Remote
@@ -2297,8 +2301,6 @@ Dedicated Support Engineer - Tokyo
 User Operations • Tokyo, Japan • Full time
 Dedicated Support Engineer - Toronto
 User Operations • Ontario - Remote • Full time
-Dedicated Support Engineering Lead
-User Operations • San Francisco • Full time • Hybrid
 Device Safety & Risk Operations Specialist, User Safety & Risk Operations
 User Operations • San Francisco • Full time • Hybrid
 $252K – $280K • Offers Equity
@@ -2308,6 +2310,8 @@ $401K – $445K • Offers Equity
 Engineering Manager, Cooperative Systems
 User Operations • Seattle • Full time • Hybrid
 $400K – $445K • Offers Equity
+Head of Dedicated Support Engineering
+User Operations • San Francisco • Full time • Hybrid
 Manager, Senior Support Engineering
 User Operations • Dublin, Ireland • Full time
 Operations Analyst, User Safety & Risk Operations

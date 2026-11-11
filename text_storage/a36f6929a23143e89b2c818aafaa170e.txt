@@ -120,7 +120,7 @@ offices.
 Viewing
 4
 of
-97
+96
 Jobs
 No jobs available for your search, please try something else.
 Add job to your application bundle
@@ -199,11 +199,6 @@ New York
 icon
 Senior Executive Assistant
 : The D. E. Shaw group seeks a highly organized, resourceful, proactive individual to provide exceptional administrative and operational support to senior executives at the firm.…
-Executive Assistance
-New York
-icon
-Senior Executive Assistant – Executive Support
-: The D. E. Shaw group seeks a highly capable, forward-thinking individual to serve as a strategic partner to a senior member of the firm. This individual will enable…
 Financial Operations / Strategy and Business Development
 New York
 icon
@@ -615,7 +610,7 @@ icon
 Start-up Ventures: Senior Software Engineer at Wisable
 : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw’s venture studio, seeks a senior software engineer to help design and build its core internal technology…
 +
-93
+92
 Jobs
 Recruiting Security:
 Emails from genuine D. E. Shaw group recruiters who are employees of the firm will always come from the @deshaw.com domain or related subdomains (

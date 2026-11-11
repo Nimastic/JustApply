@@ -192,25 +192,25 @@ Data Scientist
 Hong Kong
 View opportunity
 Data Scientist
-London
+Paris
 View opportunity
 Data Scientist
-Paris
-View opportunity
-Data Scientist - Macro
-Paris
+London
 View opportunity
 Data Scientist - Macro
 London
 View opportunity
-Data Scientist - Market Data
-London
+Data Scientist - Macro
+Paris
 View opportunity
 Data Scientist - Market Data
-Paris
+London
 View opportunity
 Data Scientist - Market Data
 Hong Kong
+View opportunity
+Data Scientist - Market Data
+Paris
 View opportunity
 Data Scientist - Options
 Paris
@@ -222,10 +222,10 @@ Data Support Engineer
 London
 View opportunity
 Data Support Specialist
-New York
+Paris
 View opportunity
 Data Support Specialist
-Paris
+New York
 View opportunity
 DevOps Engineer
 Hong Kong
@@ -284,6 +284,9 @@ View opportunity
 Infrastructure Project Manager
 London
 View opportunity
+Infrastructure Support Engineer - AWS
+Sydney
+View opportunity
 IT Risk - Vol
 London
 View opportunity
@@ -297,12 +300,12 @@ Lead Windows Infrastructure Engineer
 Hong Kong
 View opportunity
 Linux Production Engineer
+Sydney
+View opportunity
+Linux Production Engineer
 Hong Kong
 ,
 Singapore
-View opportunity
-Linux Production Engineer
-Sydney
 View opportunity
 Low Latency C++ Developer - Sydney
 Sydney
@@ -317,10 +320,10 @@ Market Access Platform Lead
 London
 View opportunity
 Market Microstructure Researcher
-Amsterdam
+New York
 View opportunity
 Market Microstructure Researcher
-New York
+Amsterdam
 View opportunity
 Network Architecture Lead
 London
@@ -397,18 +400,18 @@ Quantitative Data Engineer
 Hong Kong
 View opportunity
 Quantitative Developer - C++
-Shanghai
-View opportunity
-Quantitative Developer - C++
-London
-View opportunity
-Quantitative Developer - C++
 Hong Kong
 ,
 Singapore
 View opportunity
 Quantitative Developer - C++
+Shanghai
+View opportunity
+Quantitative Developer - C++
 Singapore
+View opportunity
+Quantitative Developer - C++
+London
 View opportunity
 Quantitative Developer - C++
 Paris
@@ -426,10 +429,10 @@ Quantitative Developer - Front End, React/C#
 London
 View opportunity
 Quantitative Developer - HFT (C++)
-London
+Amsterdam
 View opportunity
 Quantitative Developer - HFT (C++)
-Amsterdam
+London
 View opportunity
 Quantitative Developer/Modeller - Risk & PnL
 London
@@ -444,10 +447,10 @@ Quantitative Developer - Python
 Aarhus
 View opportunity
 Quantitative Developer - Python
-Hong Kong
+London
 View opportunity
 Quantitative Developer - Python
-London
+Hong Kong
 View opportunity
 Quantitative Developer - Python
 London
@@ -465,13 +468,13 @@ Quantitative Researcher
 Paris
 View opportunity
 Quantitative Researcher
-London
+Dubai
 View opportunity
 Quantitative Researcher
 Mumbai
 View opportunity
 Quantitative Researcher
-Dubai
+London
 View opportunity
 Quantitative Researcher
 Zurich
@@ -496,13 +499,13 @@ Shanghai
 Singapore
 View opportunity
 Quantitative Strategist
+London
+View opportunity
+Quantitative Strategist
 Hong Kong
 View opportunity
 Quantitative Strategist
 Paris
-View opportunity
-Quantitative Strategist
-London
 View opportunity
 Quant Signals External Contributors
 View opportunity
@@ -557,9 +560,6 @@ Senior DevOps Engineer
 Hong Kong
 View opportunity
 Senior Identity and Access Management (IAM) Engineer
-London
-View opportunity
-Senior Linux Platform Engineer
 London
 View opportunity
 Senior Linux Platform Engineer - Trading Infrastructure
@@ -617,10 +617,10 @@ Software Engineer - Data Lifecycle
 Amsterdam
 View opportunity
 Software Engineer - Data Lifecycle
-Sydney
+London
 View opportunity
 Software Engineer - Data Lifecycle
-London
+Sydney
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 London
@@ -629,12 +629,15 @@ Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
-Hong Kong
+London
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
-London
+Hong Kong
 View opportunity
 Software Engineer - Data Platform
+Hong Kong
+View opportunity
+Software Engineer - Data Platforms
 Hong Kong
 View opportunity
 Software Engineer – Distributed Market Data Systems
@@ -650,13 +653,13 @@ Software Engineer - Research Platforms
 London
 View opportunity
 Software Engineer – Site Reliability Engineering
-Amsterdam
-View opportunity
-Software Engineer – Site Reliability Engineering
 Paris
 View opportunity
 Software Engineer – Site Reliability Engineering
 London
+View opportunity
+Software Engineer – Site Reliability Engineering
+Amsterdam
 View opportunity
 Software Engineer – Systems & Infrastructure
 London

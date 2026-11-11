@@ -62,8 +62,6 @@ Autonomous Vehicle Test Specialist
 Lancaster, TX
 Learning & Development Coordinator
 Lancaster, TX
-Operations Lead, Command Center
-Lancaster, TX
 Operations Specialist
 Lancaster, TX
 Operations Supervisor, Testing
@@ -72,9 +70,9 @@ Senior Field Truck Technician
 Kermit, TX
 Safety Drivers
 Class A CDL Driver
-Lancaster, TX
-Class A CDL Driver
 Kermit, TX
+Class A CDL Driver
+Lancaster, TX
 Class A Safety Driver
 Kermit, TX
 Class A Safety Driver
@@ -111,6 +109,9 @@ Staff, Hardware Electrical Engineer
 Mountain View, CA
 Staff, Harness Engineering Manager
 Mountain View, CA
+Embedded
+Embedded Software Manager
+San Francisco Bay Area
 Integration
 Engineering Technician
 Mountain View, CA
@@ -169,10 +170,6 @@ Program Manager, Test Operations
 Lancaster, TX
 Product Management
 Product Strategy & Operations Associate
-Mountain View, CA
-Senior Product Manager
-Mountain View, CA
-Sr Product Manager, Assisted Autonomy
 Mountain View, CA
 Sr Product Manager, Command and Field Operations
 Lancaster, TX

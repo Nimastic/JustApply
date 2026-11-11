@@ -10,7 +10,7 @@ Top Keywords
 FR
 Job Categories
 Campus
-20
+18
 Openings
 Cryptoassets
 3
@@ -19,14 +19,14 @@ Operations
 8
 Openings
 Technology
-90
+89
 Openings
 Trading
 16
 Openings
 Jobs by Country
 Canada
-10
+9
 Openings
 Hong Kong
 1
@@ -38,13 +38,13 @@ Netherlands
 3
 Openings
 Singapore
-15
+14
 Openings
 United Kingdom
-44
+43
 Openings
 United States
-84
+83
 Openings
 Who we are
 Work at DRW

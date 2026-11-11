@@ -158,6 +158,9 @@ Security Engineer, Product Security
 Washington, DC
 Apply →
 Senior Applied AI Engineer
+Kuwait City, Kuwait
+Apply →
+Senior Applied AI Engineer
 London, UK
 Apply →
 Senior Frontier Agents Engineer (Applied AI)
@@ -231,9 +234,6 @@ Riyadh, Saudi Arabia
 Apply →
 Staff Full-Stack Software Engineer, (Forward Deployed), GPS
 London, UK
-Apply →
-Staff FullStack Software Engineer, (Forward Deployed), GPS
-Doha, Qatar
 Apply →
 Staff Software Engineer, AI Developer Tooling
 San Francisco, CA
@@ -508,27 +508,18 @@ Apply →
 Forward Deployed Product Manager, Enterprise
 New York, NY
 Apply →
-Product Designer, Global Public Sector
-Doha, Qatar
-Apply →
-Product Designer, Global Public Sector
-Dubai, UAE
-Apply →
-Product Designer, Global Public Sector
-London, UK
-Apply →
 Product Leadership, Forward Deployed & Strategy
 London, UK
 Apply →
 Product Manager of AI Applications, Global Public Sector
-Riyadh, Saudi Arabia
-Apply →
-Product Manager of AI Applications, Global Public Sector
 Doha, Qatar
 Apply →
 Product Manager of AI Applications, Global Public Sector
 Dubai, UAE
 Apply →
+Product Manager of AI Applications, Global Public Sector
+Riyadh, Saudi Arabia
+Apply →
 Product Manager, Enterprise Core Platform
 New York, NY
 Apply →
@@ -540,12 +531,12 @@ New York, NY
 Apply →
 Senior AI Product Manager
 San Francisco, CA
+Apply →
+Senior Product Design Manager, Enterprise
+New York, NY
 Apply →
 Senior Product Design Manager, Enterprise
 London, UK
-Apply →
-Senior Product Design Manager, Enterprise
-New York, NY
 Apply →
 Staff Product Designer
 New York, NY
@@ -554,9 +545,18 @@ Staff Product Designer
 Washington, DC
 Apply →
 Staff Product Designer, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer, Enterprise
+New York, NY
+Apply →
+Staff Product Designer, Global Public Sector
+Doha, Qatar
+Apply →
+Staff Product Designer, Global Public Sector
+Dubai, UAE
+Apply →
+Staff Product Designer, Global Public Sector
 London, UK
 Apply →
 Staff Product Manager, Agentic Platform
@@ -903,25 +903,25 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-London, UK
-Apply →
-Software Engineer - New Grad
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
 Doha, Qatar
+Apply →
+Software Engineer - New Grad
+London, UK
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
+London, UK
+Apply →
+Software Engineering Intern (Summer 2027)
 Doha, Qatar
 Apply →
 Software Engineering Intern (Summer 2027)
 San Francisco, CA
-Apply →
-Software Engineering Intern (Summer 2027)
-London, UK
 Apply →
 Join
 University

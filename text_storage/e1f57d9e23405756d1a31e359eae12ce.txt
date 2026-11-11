@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-146
+149
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,7 +133,7 @@ English
 English
 Français (Canada)
 Jobs search results
-146
+149
 jobs matched
 filter_list
 Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
@@ -307,28 +307,32 @@ link
 Copy link
 email
 Email a friend
-Staff Software Engineer, Infrastructure, Google Cloud AI
+Staff Software Engineer, Backend Infrastructure and Rapid Prototyping, Google Labs
 corporate_fare
 Google
 place
-Sunnyvale, CA, USA
-; New York, NY, USA
+New York, NY, USA
+; Cambridge, MA, USA
+; +2 more
+; +1 more
 bar_chart
 Advanced
 Advanced
 Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
 Google |
-Sunnyvale, CA, USA
-; New York, NY, USA
+New York, NY, USA
+; Cambridge, MA, USA
+; +2 more
+; +1 more
 Minimum qualifications
-Bachelor's degree or equivalent practical experience.
+Bachelor’s degree in Computer Science, Mathematics, or equivalent practical experience.
 8 years of experience in software development.
-5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.
-5 years of experience testing, and launching software products.
-3 years of experience with software design and architecture.
+5 years of experience testing and launching software products, and 3 years of experience with software design and architecture.
+5 years of experience with speech/audio, reinforcement learning, ML infrastructure, or another specialized ML field.
+5 years of experience leading ML design, optimizing end-to-end ML (deployment, evaluation, tuning), and integrating generative AI tools or Large Language Model (LLM) interfaces.
 Learn more
 share
-Share Staff Software Engineer, Infrastructure, Google Cloud AI
+Share Staff Software Engineer, Backend Infrastructure and Rapid Prototyping, Google Labs
 link
 Copy link
 email
@@ -352,6 +356,32 @@ Experience with GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) 
 Learn more
 share
 Share Software Engineer, Generative AI, Geo Data
+link
+Copy link
+email
+Email a friend
+Staff Software Engineer, Infrastructure, Google Cloud AI
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; New York, NY, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+Sunnyvale, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+Learn more
+share
+Share Staff Software Engineer, Infrastructure, Google Cloud AI
 link
 Copy link
 email
@@ -426,31 +456,6 @@ link
 Copy link
 email
 Email a friend
-Senior Software Engineer, Infrastructure, Core
-corporate_fare
-Google
-place
-San Jose, CA, USA
-; New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-San Jose, CA, USA
-; New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience programming in C++.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Senior Software Engineer, Infrastructure, Core
-link
-Copy link
-email
-Email a friend
 Staff Software Engineer, AI/ML GenAI, Google Workspace
 corporate_fare
 Google
@@ -472,6 +477,31 @@ Bachelor’s degree or equivalent practical experience.
 Learn more
 share
 Share Staff Software Engineer, AI/ML GenAI, Google Workspace
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Infrastructure, Core
+corporate_fare
+Google
+place
+San Jose, CA, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+San Jose, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience programming in C++.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Senior Software Engineer, Infrastructure, Core
 link
 Copy link
 email
@@ -501,6 +531,62 @@ Bachelor’s degree or equivalent practical experience.
 Learn more
 share
 Share Senior Software Engineer, Infrastructure, Google Cloud Platforms
+link
+Copy link
+email
+Email a friend
+Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+Minimum qualifications
+PhD degree in Computer Science, a related field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
+Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+Learn more
+share
+Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Cloud Platforms
+corporate_fare
+Google
+place
+New York, NY, USA
+; Madison, WI, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+; Madison, WI, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++ or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Cloud Platforms
 link
 Copy link
 email
@@ -538,53 +624,20 @@ corporate_fare
 Google
 place
 New York, NY, USA
-; Madison, WI, USA
-; +3 more
-; +2 more
 bar_chart
 Mid
 Mid
 Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
 Google |
 New York, NY, USA
-; Madison, WI, USA
-; +3 more
-; +2 more
 Minimum qualifications
 Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++ or Go.
 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+2 years of experience with software development in C++, Python, or Java programming languages.
+2 years of experience working with Spanner.
 Learn more
 share
 Share Software Engineer III, Infrastructure, Google Cloud Platforms
-link
-Copy link
-email
-Email a friend
-Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
-corporate_fare
-Google
-place
-Sunnyvale, CA, USA
-; Atlanta, GA, USA
-; +11 more
-; +10 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Sunnyvale, CA, USA
-; Atlanta, GA, USA
-; +11 more
-; +10 more
-Minimum qualifications
-PhD degree in Computer Science, a related field, or equivalent practical experience.
-Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
-Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
-Learn more
-share
-Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
 link
 Copy link
 email
@@ -611,64 +664,8 @@ link
 Copy link
 email
 Email a friend
-Senior Staff Software Engineer, Cloud SDK
-corporate_fare
-Google
-place
-Kirkland, WA, USA
-; New York, NY, USA
-; +2 more
-; +1 more
-bar_chart
-Advanced
-Advanced
-Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
-Google |
-Kirkland, WA, USA
-; New York, NY, USA
-; +2 more
-; +1 more
-Minimum qualifications
-Bachelor's degree or equivalent practical experience.
-8 years of experience programming in Java, Go, Python, Node.js, Rust, C++, C#, Ruby or PHP.
-5 years of experience with design and architecture; and testing/launching software products.
-5 years of experience working on developer tools.
-5 years of experience building Software Development Kits (SDKs).
-5 years of experience with Cloud APIs.
-Learn more
-share
-Share Senior Staff Software Engineer, Cloud SDK
-link
-Copy link
-email
-Email a friend
-Staff Software Engineer, AI/ML, ML Infrastructure, Search Ads
-corporate_fare
-Google
-place
-New York, NY, USA
-bar_chart
-Advanced
-Advanced
-Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
-Google |
-New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-8 years of experience programming in Python or C++.
-5 years of experience leading ML design and optimizing end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
-5 years of experience testing, and launching software products.
-3 years of experience with software design and architecture.
-2 years of experience with GenAI techniques (e.g., large language models, multi-modal, large vision models) or with GenAI-related concepts (e.g., language modeling, computer vision).
-Learn more
-share
-Share Staff Software Engineer, AI/ML, ML Infrastructure, Search Ads
-link
-Copy link
-email
-Email a friend
-Showing 1 to 20 of 146 rows
-1‑20 of 146
+Showing 1 to 20 of 149 rows
+1‑20 of 149
 navigate_next
 Go to next page
 Follow Life at Google on

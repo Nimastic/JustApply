@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-201 Open Roles
+199 Open Roles
+ROLE
+Administrative Assistant
+FOCUS
+Admin
+LOCATION
+Tokyo
 ROLE
 IT Operations Engineer, Application Support
 FOCUS
@@ -486,12 +492,6 @@ FOCUS
 Data Insights
 LOCATION
 New York
-ROLE
-Technology Risk Management Specialist
-FOCUS
-Business Management
-LOCATION
-New York   |   Stamford
 ROLE
 Macro Analyst, Market Intelligence, Europe
 FOCUS
@@ -961,12 +961,6 @@ Software & System Engineering
 LOCATION
 Bengaluru, India
 ROLE
-Point72 Academy 2026 Investment Analyst Program for Experienced Professionals-UK
-FOCUS
-Point72 Academy
-LOCATION
-London
-ROLE
 Point72 Academy 2026 Investment Analyst Program for Experienced Professionals-US
 FOCUS
 Point72 Academy
@@ -1104,12 +1098,6 @@ FOCUS
 Talent Acquisition
 LOCATION
 New York
-ROLE
-Quantitative Developer
-FOCUS
-Systematic Investing
-LOCATION
-London
 ROLE
 Ubuntu Linux Engineer
 FOCUS

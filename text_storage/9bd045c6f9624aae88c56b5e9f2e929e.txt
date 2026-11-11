@@ -38,26 +38,30 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-AI Hardware
-Staff Design Verification Engineer, AI HW
-Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada; Zürich, Switzerland
-Apply
-AI Hardware
-Senior Design Verification Engineer, AI Hardware
-Belgrade, Serbia
-Apply
 RISC V
-Staff Engineer, CPU Core Verification
-Bengaluru, Karnataka, India
+DV
+Sr. Staff Engineer, CPU (Front-End) Verification
+Austin, Texas, United States; Santa Clara, California, United States
+Apply
+AI SW
+ML Models
+Software Engineer-AI Model Bring Up
+Tokyo, Japan
+Apply
+AI Hardware
+IP Hardware
+Physical Design Methodology Engineer, AI HW IP
+Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada
+Apply
+Operations
+Legal
+Startup Lawyer
+Santa Clara, California, United States
 Apply
 Advanced Physical Design
-Top Level Physical Design Engineer
+PD
+Physical Design Engineer, Timing
 Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
-Apply
-Customer - Operations
-Automotive
-Design Verification Engineer, Automotive Robotics
-Munich, Germany
 Apply
 Show all postings
 Open Future

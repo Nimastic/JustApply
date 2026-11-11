@@ -15,7 +15,7 @@ One
 Zoox.
 Clear
 Explore all jobs
-234
+229
 Ground-up thinking gets us places
 Ground-up
 thinking
@@ -108,7 +108,6 @@ filter by
 Job function
 Clear
 Job function
-Executive Office
 Product, Features & Homologation
 Zoox Internships
 Vehicle Development
@@ -151,17 +150,13 @@ Full-time
 Internship/Co-op
 Contract
 clear
-234 jobs, in
+229 jobs, in
 All job functions
 in
 All locations
 and
 All work types
-Page 1 of 24. Showing jobs 1 to 10 of 234.
-Administrative Business Partner, Floater
-Executive Office
-Full-time
-Foster City, CA
+Page 1 of 23. Showing jobs 1 to 10 of 229.
 Administrative Business Partner, Product
 Product, Features & Homologation
 Product and Experience
@@ -211,8 +206,13 @@ Contract
 Foster City, CA
 San Diego, CA
 Seattle, WA
-Showing 1-10 of 234
-1 of 24
+Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)
+Software
+Autonomy Software
+Contract
+Foster City, CA
+Showing 1-10 of 229
+1 of 23
 Site Map
 How To Ride
 Where to Ride

@@ -1,17 +1,4 @@
 Careers at Figma
-This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
-privacy policy.
-California Residents:
-learn how personal information is
-collected
-, including how it is
-used
-, whether it is
-“sold” or “shared”
-, and how long it is
-retained
-.
-Opt-Out
 Skip to main content
 Products
 What you can do in figma
@@ -178,7 +165,7 @@ Customer Support Specialist (Bengaluru, India)
 Enterprise Support Specialist (Bengaluru, India)
 Manager, Technical Support (London, United Kingdom)
 Support Engineer, AI Infrastructure & Tooling
-Technical Quality Specialist (Bengaluru, India)
+Technical Operations & Insights Analyst
 Voice of the Customer Program Manager
 Design
 Director, Product Design - AI & Context
@@ -205,7 +192,6 @@ Software Engineer Intern (Summer 2027)
 Engineering
 AI Applied Scientist
 Data Platform Engineer
-Data Scientist
 Director, Data Science
 Forward Deployed Engineer
 Manager, Software Engineering - AI Infrastructure
@@ -257,7 +243,6 @@ People
 Director, People Partners - Product, Design & Engineering
 Executive Assistant, People
 HRIS Analyst
-People Operations Coordinator
 People Partner
 Product
 Manager, Product Management - Figma Platform Experience
@@ -304,6 +289,7 @@ Onboarding Manager, Customer Experience (Tokyo, Japan)
 Sales Operations Manager
 Senior Account Executive, SMB
 Senior Account Executive, UK Government (London, United Kingdom)
+Senior Inside Sales Representative
 Senior Manager, Enterprise Sales (London, United Kingdom)
 Senior Solutions Consultant (Seoul, South Korea)
 Solutions Consultant (Berlin, Germany)
@@ -404,5 +390,4 @@ Customers
 Careers
 Newsroom
 Brand assets
-Do Not Sell/Share My Personal Info + Opt-Out
 English

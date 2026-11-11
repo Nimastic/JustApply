@@ -45,7 +45,7 @@ All teams
 All locations
 General & Administrative
 (
-28
+29
 )
 Business Operations
 San Francisco
@@ -82,7 +82,7 @@ Apply
 GTM Systems Engineer
 San Francisco
 Apply
-Head of Events
+Head of Internal Events
 San Francisco
 Apply
 IT Engineer
@@ -133,6 +133,9 @@ Apply
 Workplace & Engagement Coordinator
 Washington DC
 Apply
+Workplace & Facilities Lead (West Coast)
+San Francisco
+Apply
 Research & Development
 (
 11
@@ -178,7 +181,7 @@ New York City
 Apply
 Marketing
 (
-16
+20
 )
 ABM/Enterprise Demand
 San Francisco
@@ -218,6 +221,9 @@ Apply
 Japan Partner Marketing
 Tokyo
 Apply
+Lifecycle Marketing Lead
+San Francisco
+Apply
 Paid & Digital
 San Francisco
 Apply
@@ -226,12 +232,21 @@ San Francisco
 •
 New York City
 Apply
+Paid Search & SEM
+San Francisco
+Apply
 Paid Social & Influencer Lead
 New York City
+Apply
+Partner Marketer
+San Francisco
 Apply
 Product Marketer
 San Francisco
 •
+New York City
+Apply
+Search & AI Discoverability Lead
 New York City
 Apply
 SEO & AEO

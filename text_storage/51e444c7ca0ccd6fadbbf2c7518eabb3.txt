@@ -167,11 +167,6 @@ Senior Enterprise Applications Developer
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
 APPLY →
 Apply for Senior Enterprise Applications Developer in Information Technology , Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
-Legal
-Senior Manager, Legal Operations
-Remote
-APPLY →
-Apply for Senior Manager, Legal Operations in Legal, Remote
 Marketing
 Director, Head of Editorial & Content
 Remote
@@ -361,6 +356,10 @@ Senior Data Engineer, Data Analytics
 Remote
 APPLY →
 Apply for Senior Data Engineer, Data Analytics in Software Engineering, Remote
+Software Engineer, Robot Diagnostics & Calibration
+Onsite- Salem, OR
+APPLY →
+Apply for Software Engineer, Robot Diagnostics & Calibration in Software Engineering, Onsite- Salem, OR
 Staff Software Engineer, Simulation
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Hybrid- Fremont, CA; Remote
 APPLY →
@@ -369,6 +368,10 @@ Software Engineer III, Simulation
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
 Apply for Software Engineer III, Simulation in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+AI Research Engineer III
+Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+APPLY →
+Apply for AI Research Engineer III in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 Company
 The future of labor starts here
 We do more than build demos. We build robots that ship, deploy, and get to work. Safety, reliability, and real-world impact come first. But we're not stopping at what Digit can do today. We're working toward a future where this technology helps wherever it's needed.

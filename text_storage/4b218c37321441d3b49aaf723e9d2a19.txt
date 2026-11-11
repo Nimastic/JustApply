@@ -271,28 +271,26 @@ London
 Clear
 Apply Filters
 Business Management
+Security Operations and Risk Analyst
+London
+Talent Acquisition Specialist
+London
 HR Placement Year
 London
 Technology Operations Manager
 London
 Liquidity Program Manager
 London
-Security Operations and Risk Analyst
-London
-Talent Acquisition Specialist
-London
 Analytics Engineer
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Centre Manager
-London
 Security Operations Placement Year
 London
-Penetration Tester
+Security Operations Centre Manager
 London
-IAM Platform Engineer – Authentication, Credentials & PAM
+Penetration Tester
 London
 Security Assurance Specialist
 London
@@ -302,9 +300,9 @@ Red Team Operations Manager
 London
 Chief Business Risk Officer
 London
-IAM Platform Engineer – Identity, Entitlements & Authorisation
-London
 Senior CSIRT Analyst
+London
+IAM Platform Engineer – Identity, Entitlements & Authorisation
 London
 Security Threat Specialist
 London
@@ -317,22 +315,22 @@ Platform Engineering Manager
 London
 Platform Engineer
 London
-Network Automation Engineer
-London
 Low Latency Network Engineer
+London
+Network Automation Engineer
 London
 Kubernetes Platform Engineer
 London
 Lead Network Reliability Engineer
 London
 Quant Research
-Natural Language Processing Internship
-London
-Quant Research Internship
-London
 Data Science Internship
 London
 Machine Learning Research Internship
+London
+Natural Language Processing Internship
+London
+Quant Research Internship
 London
 Quantitative Researcher – Fundamental Equity Research
 London
@@ -340,9 +338,9 @@ Quantitative Researcher – Experienced
 London
 Natural Language Processing Researcher
 London
-Quantitative Researcher – Postgraduate
-London
 Machine Learning Researcher
+London
+Quantitative Researcher – Postgraduate
 London
 Software Engineering
 Core AI Engineering Manager
@@ -387,11 +385,11 @@ Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London
-Software Engineer – Trade Technology
-London
 Machine Learning Engineer
 London
 Quantitative Developer
+London
+Software Engineer – Trade Technology
 London
 C++ Software Engineer
 London
