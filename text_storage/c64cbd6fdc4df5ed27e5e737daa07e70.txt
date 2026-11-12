@@ -77,7 +77,6 @@ Mumbai
 New Delhi
 New York, NY
 Palo Alto, CA
-Philippines
 Remote
 San Francisco, CA
 Seattle, WA
@@ -167,13 +166,6 @@ Customer Success
 Full-time
 ·
 Japan
-Apply →
-AI Deployment Manager - Singapore
-Customer Success
-·
-Full-time
-·
-Singapore
 Apply →
 AI Deployment Manager, Scale
 Customer Success
@@ -336,7 +328,7 @@ Full-time
 ·
 Japan
 Apply →
-Forward Deployed Engineer (Australia)
+Forward Deployed Engineer (Australia/Singapore)
 Solutions
 ·
 Full-time
@@ -770,26 +762,12 @@ Full-time
 ·
 Palo Alto, CA
 Apply →
-Startup Events & Community
-Marketing
-·
-Full-time
-·
-San Francisco, CA
-Apply →
 Strategic Account Executive, Enterprise - Indonesia
 Sales
 ·
 Full-time
 ·
 Indonesia
-Apply →
-Strategic Account Executive, Enterprise - Philippines
-Sales
-·
-Full-time
-·
-Philippines; Singapore
 Apply →
 Strategic Account Executive, Enterprise - South Korea
 Sales

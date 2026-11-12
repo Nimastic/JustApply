@@ -1,5 +1,4 @@
 Modular: Careers
-MiniMax M3.1 Flash - Day 0! Try it now ➔
 Back
 Product
 Inference Products
@@ -87,9 +86,7 @@ What we believe
 Contact Us
 Request a demo
 Request a demo
-Sign up
 Request a demo
-Sign up
 close
 Join us in building the
 future of AI
@@ -116,9 +113,9 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(26)
+(32)
 Mojo
-(10)
+(16)
 Cloud Inference
 (2)
 MAX
@@ -133,7 +130,7 @@ Platform Engineering
 (1)
 Technical Program Management
 (1)
-Mojo Libraries Engineer
+Principal Mojo Libraries Engineer
 United States / Canada · Remote
 Apply now
 Cloud Inference Engineer
@@ -148,13 +145,16 @@ Apply now
 AI Cloud Product Manager
 United States / Canada · Remote
 Apply now
-Driver Engineer
+Senior Engineer, Hardware Enablement
 United States / Canada · Remote
 Apply now
-Senior AI Framework Engineer
+Senior Driver Engineer
 United States / Canada · Remote
 Apply now
-Mojo Tooling Engineer
+AI Framework Engineer
+United States / Canada · Remote
+Apply now
+Senior Mojo Tooling Engineer
 United States / Canada · Remote
 Apply now
 Staff Mojo Compiler Engineer
@@ -169,7 +169,7 @@ Apply now
 Senior AI Inference Tools Engineer
 United Kingdom · Remote
 Apply now
-Engineering Manager, Hardware Bringup
+Engineering Principal, Hardware Bringup
 United States / Canada · Remote
 Apply now
 Inference Systems Engineer
@@ -181,13 +181,13 @@ Apply now
 AI Runtime Engineer
 Edinburgh · Hybrid
 Apply now
-Mojo Back-End Compiler Engineer
+Staff Mojo Back-End Compiler Engineer
 Remote · Remote
 Apply now
 Technical Product Marketing Manager
 United States · Remote
 Apply now
-AI Performance Engineer
+Staff ASIC Kernel Engineer
 Europe · Remote
 Apply now
 AI Kernel Engineering Manager
@@ -196,7 +196,7 @@ Apply now
 Platform Engineer, Workplace Engineering
 Los Altos, CA · Hybrid
 Apply now
-Mojo Debugger Engineer
+Senior Staff Mojo Debugger Engineer
 Remote · Remote
 Apply now
 Technical Program Manager, Platform Engineering
@@ -208,7 +208,22 @@ Apply now
 Director of Business Development & Operations, Modular Alliance Program
 Japan · Remote
 Apply now
-Mojo Libraries Engineer
+Senior Staff Mojo Libraries Engineer
+United States / Canada · Remote
+Apply now
+Staff Driver Engineer
+United States / Canada · Remote
+Apply now
+Senior Staff Manager, Hardware Bringup
+United States / Canada · Remote
+Apply now
+Senior Staff Mojo Back-End Compiler Engineer
+United States / Canada / Europe · Remote
+Apply now
+Staff Mojo Tooling Engineer
+United States / Canada · Remote
+Apply now
+Staff Engineer, Hardware Enablement
 United States / Canada · Remote
 Apply now
 What you expect from the interview

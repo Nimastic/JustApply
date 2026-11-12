@@ -129,11 +129,6 @@ Legal
 Product
 Software
 Technical Program Management
-Customer Success Engineer, Robotics Software and Automation
-Mountain View, California
-Software
-As a Customer Success Engineer, you will partner closely with our customers to drive the end-to-end delivery of complex robotic automation systems. You will contribute to high-impact initiatives across the North America region, from architecting technical solutions to delivering first-of-a-kind production deployments and managing long-term lifecycle success. By both enabling users to fully leverage Intrinsic’s product suite and co-developing software features for our customers, you will accelerate the strategic adoption of next-generation industrial automation in diverse and challenging production environments.
-Apply now
 Executive Business Partner
 Mountain View, California
 Administration
@@ -155,6 +150,11 @@ Mechanical Design Engineer
 Mountain View, California
 Hardware
 As a Mechanical Engineer within the Lab Infrastructure team, you will design and build robotic automation systems, with a significant focus on custom End-of-Arm Tooling and intelligent automation. You will be a key contributor throughout the entire project lifecycle, from initial concept to implementation, navigating ambiguity to solve complex engineering challenges. Your core responsibilities include translating project requirements into detailed designs, creating efficient and scalable automation solutions, performing structural analysis, reviewing designs and procuring components. You will closely collaborate with research groups and industry partners to execute physical builds and automation solutions.
+Apply now
+Robotics Application Engineer, Customer Success
+Mountain View, California
+Software
+As a Robotics Application Engineer for Customer Success, you will partner closely with our customers to drive the end-to-end delivery of complex robotic automation systems. You will contribute to high-impact initiatives across the North America region, from architecting technical solutions to delivering first-of-a-kind production deployments and managing long-term lifecycle success. By both enabling users to fully leverage Intrinsic’s product suite and co-developing software features for our customers, you will accelerate the strategic adoption of next-generation industrial automation in diverse and challenging production environments.
 Apply now
 Robotics & Automation Technician
 Munich, Germany

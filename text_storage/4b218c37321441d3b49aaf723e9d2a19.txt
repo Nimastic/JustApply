@@ -271,8 +271,6 @@ London
 Clear
 Apply Filters
 Business Management
-Security Operations and Risk Analyst
-London
 Talent Acquisition Specialist
 London
 HR Placement Year
@@ -281,22 +279,26 @@ Technology Operations Manager
 London
 Liquidity Program Manager
 London
-Analytics Engineer
+Security Operations and Risk Analyst
 London
 Technology Talent Sourcer (12 Month FTC)
 London
+Analytics Engineer
+London
 Cyber Security
+Security Operations Analyst
+London
 Security Operations Placement Year
 London
 Security Operations Centre Manager
+London
+Red Team Operations Manager
 London
 Penetration Tester
 London
 Security Assurance Specialist
 London
 Senior Red Team Operator
-London
-Red Team Operations Manager
 London
 Chief Business Risk Officer
 London
@@ -306,33 +308,41 @@ IAM Platform Engineer – Identity, Entitlements & Authorisation
 London
 Security Threat Specialist
 London
+Security Operations Analyst
+London
 Infrastructure Engineering
 Linux Platform Engineer
-London
-Network Engineer
 London
 Platform Engineering Manager
 London
 Platform Engineer
 London
-Low Latency Network Engineer
+Network Engineer
+London
+Network Security Engineer (Contract)
+London
+Network Automation Engineer (Contract)
 London
 Network Automation Engineer
+London
+Low Latency Network Engineer
 London
 Kubernetes Platform Engineer
 London
 Lead Network Reliability Engineer
 London
+Network Security Engineer (Contract)
+London
+Network Automation Engineer (Contract)
+London
 Quant Research
-Data Science Internship
-London
-Machine Learning Research Internship
-London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Quantitative Researcher – Fundamental Equity Research
+Data Science Internship
+London
+Machine Learning Research Internship
 London
 Quantitative Researcher – Experienced
 London
@@ -340,60 +350,70 @@ Natural Language Processing Researcher
 London
 Machine Learning Researcher
 London
+Quantitative Researcher – Fundamental Equity Research
+London
 Quantitative Researcher – Postgraduate
 London
 Software Engineering
-Core AI Engineering Manager
-London
-Quantitative Data Engineer
+Elastic Security Engineer (Contract)
 London
 Platform Software Engineer
 London
 Machine Learning Engineer Internship
 London
+Quantitative Data Engineer
+London
+Core AI Engineering Manager
+London
 Graduate Machine Learning Engineer
 London
-Software Engineering Internship
-London
 Software Engineer
+London
+Software Engineering Internship
 London
 Data Software Engineer
 London
 Software Engineer – Core IP Security
 London
+Software Engineer – Security
+London
 NLP Performance Engineer
 London
-Software Engineer – Security
+Rust Software Engineer (Contract)
 London
 Software Engineer — Observability Instrumentation
 London
-Core AI Engineer
+Research Engineer
 London
 Applied AI Engineer
 London
-Research Engineer
-London
-Engineering Manager
-London
-Observability Engineer
-London
-Machine Learning Engineer
+Core AI Engineer
 London
 Software Engineer – Compute Orchestration
 London
-Machine Learning Workflow Engineer
+Engineering Manager
+London
+Machine Learning Engineer
 London
 Performance Engineering Manager
+London
+Observability Engineer
+London
+Machine Learning Workflow Engineer
+London
+Software Engineer – Trade Technology
 London
 Machine Learning Engineer
 London
 Quantitative Developer
 London
-Software Engineer – Trade Technology
-London
 C++ Software Engineer
 London
+Elastic Security Engineer (Contract)
+London
 Data Software Engineer
+London
+Rust Software Engineer (Contract)
 London
 TIG and Open Source
 Deputy Head of Open Source Development
@@ -1170,6 +1190,8 @@ General enquiries
 info@gresearch.com
 Join us
 recruitment@gresearch.com
+Media enquiries
+media@gresearch.co.uk
 Telephone
 +44 207 631 7500
 Social

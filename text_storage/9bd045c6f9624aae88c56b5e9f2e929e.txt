@@ -38,29 +38,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-RISC V
-DV
-Sr. Staff Engineer, CPU (Front-End) Verification
-Austin, Texas, United States; Santa Clara, California, United States
-Apply
 AI SW
 ML Models
 Software Engineer-AI Model Bring Up
 Tokyo, Japan
 Apply
-AI Hardware
-IP Hardware
-Physical Design Methodology Engineer, AI HW IP
-Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada
+Architecture
+Design Verification
+Midcore Design Verification Engineer
+Santa Clara, California, United States; Spain
 Apply
-Operations
-Legal
-Startup Lawyer
-Santa Clara, California, United States
+Customer - Operations
+Automotive
+DFT Engineer, Automotive Robotics
+Munich, Germany
 Apply
-Advanced Physical Design
-PD
-Physical Design Engineer, Timing
+Experience
+GTM
+Director, Strategy & Solutions
+Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States
+Apply
+Silicon
+Physical Design
+Physical Design Engineer
 Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
 Apply
 Show all postings

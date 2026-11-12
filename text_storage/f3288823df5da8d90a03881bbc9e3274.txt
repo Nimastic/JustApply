@@ -84,8 +84,6 @@ Information Technology
 DevOps Engineer - Infrastructure
 Mountain View, CA
 Finance
-Finance Manager
-Mountain View, CA
 Payroll Manager
 Mountain View, CA
 Engineering
@@ -93,9 +91,9 @@ Manufacturing
 Director of Supply Chain
 Mountain View, CA
 Hardware Quality Industrialization Engineer
-Mountain View, CA
-Hardware Quality Industrialization Engineer
 Lancaster, TX
+Hardware Quality Industrialization Engineer
+Mountain View, CA
 Manufacturing Test Engineer
 Mountain View, CA
 Staff Vehicle Manufacturing Engineer

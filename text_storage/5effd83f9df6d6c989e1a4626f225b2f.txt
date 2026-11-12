@@ -18,13 +18,13 @@ Join the Team
 Join the Team
 Platform
 Production
-Software
 People
 All
 Architecture
 GTM
 Operations
 ASIC
+Infrastructure
 Finance
 Other
 Architecture
@@ -35,13 +35,13 @@ ASIC
 Design Verification Engineer - Internal IP
 Platform
 SI/PI Engineer
-Software
+Infrastructure
 Supercomputing Engineer, Fleet Software
 ASIC
 Physical Design Engineer
 ASIC
 Design Verification Engineer - Interface IP
-Software
+Infrastructure
 Firmware Engineer (Taiwan)
 ASIC
 RTL Design Engineer

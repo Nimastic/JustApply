@@ -88,8 +88,6 @@ Expression of Interest: 2027 Trading Sneak Peek Weeks
 Chicago
 Floor Trader- SPX
 Chicago
-Fundamental Equity Analyst
-Chicago
 Junior Developer - C++
 Shanghai
 Junior Quantitative Developer & Strategist
@@ -103,11 +101,11 @@ Chicago
 Performance Engineer
 Chicago
 Platform Engineer
-Sydney
-Platform Engineer
 London, England, United Kingdom
 Platform Engineer
 Remote
+Platform Engineer
+Sydney
 Platform Engineer Intern, Summer 2027
 Chicago
 Quantitative Developer
@@ -133,9 +131,9 @@ Chicago
 Software Engineer - Python, Business Operations
 Chicago
 Systems Engineer
-Sydney
-Systems Engineer
 Singapore
+Systems Engineer
+Sydney
 Who We Are
 What We Do
 Technology

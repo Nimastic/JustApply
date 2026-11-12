@@ -1,26 +1,16 @@
 Cerebras Open Positions | AI Careers and Jobs
 We value your privacy
-We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. You can accept all cookies, reject nonessential cookies, or manage your preferences.
-For more details, see our Cookie Policy.
-Cookie Policy
-Manage Preferences
-Reject All
-Accept All
-Manage Preferences
-You can manage how Cerebras uses cookies and similar technologies on this browser or device. Necessary cookies are required to operate the site, keep it secure, enable login, remember your cookie choices, and provide services you request. These cookies cannot be turned off in this preference center....
-Show more
-Necessary
-Always Active
-These cookies are necessary for the website to function and cannot be disabled.
-Performance
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. This data is anonymized and aggregated to help us understand how the site is used.
-Personalization
-These cookies collect data about how you have interacted with our website to help us improve your web experience and to personalize the content and marketing message to be more relevant to your interests.
-Targeting
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. If you do not allow these cookies, you will experience less targeted advertising.
-Reject All
-Confirm Preferences
-Accept All
+This website or its third-party tools process personal data. You can opt out of the sale of your personal information by clicking on the “Do Not Sell or Share My Personal Information” link.
+Do Not Sell or Share My Personal Information
+Opt-out Preferences
+We use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. However, you can opt out of these cookies by checking "Do Not Sell or Share My Personal Information" and clicking the "Save My Preferences" button. Once you opt out, you can opt in again at any time by unchecking "Do Not Sell or Share My Personal Information" and clicking the "Save My Preferences" button.
+Do Not Sell or Share My Personal Information
+Cancel
+Save My Preferences
+Your opt-out preference has been honored.
+Banner closes automatically in
+s...
+Powered by
 Skip to main content
 Products
 Customers
@@ -227,6 +217,8 @@ Senior Product, Test and Yield Enhancement Engineer - Taiwan
 Sunnyvale, CA
 Power Manufacturing Test Development Engineer
 Sunnyvale, CA
+Senior Hardware Reliability Test Engineer – Electrical Systems & Power Electronics
+Sunnyvale, CA
 Corporate
 Director, Strategic Finance - Corporate FP&A
 Sunnyvale, CA
@@ -314,6 +306,7 @@ Publications
 Whitepapers
 Performance comparisons are based on third-party benchmarking or internal testing. Observed inference speed improvements versus GPU-based systems may vary depending on workload, configuration, date and models being tested.
 info@cerebras.ai
+Your Privacy Choices
 1237 E. Arques Ave
 Sunnyvale, CA 94085
 ©

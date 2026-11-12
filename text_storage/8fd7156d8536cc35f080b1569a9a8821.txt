@@ -144,7 +144,7 @@ What to expect
 This step often includes meetings with team members, technical exercises, and discussions about your experience and how it aligns with Verkada’s needs. Your recruiter will guide you on what to expect during the visit, so you can put your best foot forward.
 Job openings
 If you’d like to use your energy for good, we’d love to hear from you.
-343 Openings
+341 Openings
 Search
 Filter by
 Clear All
@@ -243,6 +243,7 @@ Software Recruiting
 Product Recruiting
 All Sales - Dept
 International
+Global
 Mid-Market Select
 Mid-Market Territory
 Solutions Engineering
@@ -250,13 +251,12 @@ Channel
 Strategy/Operations
 Sales Development
 Manager/Director
-Global
 Enterprise
 Enablement
 Sales Admin
 All Software Engineering - Dept
-Cameras
 Software - Early Careers
+Cameras
 Software Engineering Admin
 Security
 Access Control
@@ -290,15 +290,13 @@ San Mateo, CA United States
 Legal
 Deputy / Associate General Counsel, Corporate
 San Mateo, CA United States
+Director/Senior Manager, Government Affairs
+San Mateo, CA United States
 Physical Security Associate, Events
 San Mateo, CA United States
 Privacy Counsel
 San Mateo, CA United States
 Privacy Counsel
-Austin, TX United States
-Senior Product Counsel
-San Mateo, CA United States
-Senior Product Counsel
 Austin, TX United States
 IT
 IT Engineer
@@ -458,24 +456,18 @@ Regional Field Marketing Manager, Canada
 Calgary, Canada
 Regional Field Marketing Manager, Canada
 Vancouver, Canada
-Senior Field Marketing Manager - Enterprise
-San Mateo, CA United States
-Senior Field Marketing Manager, Enterprise
-Phoenix, AZ United States
-Senior Field Marketing Manager, Enterprise
-Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, East
-Philadelphia, PA United States
+Tampa, FL United States
 Senior Regional Field Marketing Manager, East
 New York City, NY United States
 Senior Regional Field Marketing Manager, East
-Tampa, FL United States
+Philadelphia, PA United States
 Senior Regional Field Marketing Manager, West
-Phoenix, AZ United States
+Austin, TX United States
 Senior Regional Field Marketing Manager, West
 Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
-Austin, TX United States
+Phoenix, AZ United States
 Senior Regional Field Marketing Manager, West
 San Mateo, CA United States
 Senior Regional Field Marketing Manager, West
@@ -547,6 +539,8 @@ Lead Product Manager, Video Platform
 San Mateo, CA United States
 Product Growth Manager, Access Control
 San Mateo, CA United States
+Product Marketing Manager - Growth
+San Mateo, CA United States
 Senior Product Manager, Access Management
 San Mateo, CA United States
 Senior Product Manager, Intercom Calling
@@ -615,6 +609,19 @@ Regional Sales Manager, Northern Europe
 London
 Regional Sales Manager, UK
 London
+Global
+Account Executive Public Sector, México
+Mexico City, Mexico
+Enterprise Account Executive, Colombia
+Mexico City, Mexico
+Enterprise Account Executive, México
+Mexico City, Mexico
+Global Enterprise Account Executive
+Phoenix, AZ United States
+Mid-Market Account Executive, México
+Mexico City, Mexico
+Regional Sales Manager, LATAM
+Mexico City, Mexico
 Mid-Market Select
 Account Executive, Select, Austin
 Austin, TX United States
@@ -630,25 +637,25 @@ Mid-Market Territory
 Account Executive, Territory, Chicago
 Chicago, IL United States
 Account Executive, Territory (Mid-Market)
+Philadelphia, PA United States
+Account Executive, Territory (Mid-Market)
+Los Angeles, CA United States
+Account Executive, Territory (Mid-Market)
 Boston, MA United States
-Account Executive, Territory (Mid-Market)
-St. Petersburg, FL United States
-Account Executive, Territory (Mid-Market)
-Salt Lake City, UT United States
 Account Executive, Territory (Mid-Market)
 Austin, TX United States
 Account Executive, Territory (Mid-Market)
 San Mateo, CA United States
 Account Executive, Territory (Mid-Market)
-Atlanta, GA United States
-Account Executive, Territory (Mid-Market)
-Los Angeles, CA United States
-Account Executive, Territory (Mid-Market)
 Tempe, AZ United States
 Account Executive, Territory (Mid-Market)
-New York City, NY United States
+Atlanta, GA United States
 Account Executive, Territory (Mid-Market)
-Philadelphia, PA United States
+Salt Lake City, UT United States
+Account Executive, Territory (Mid-Market)
+St. Petersburg, FL United States
+Account Executive, Territory (Mid-Market)
+New York City, NY United States
 Office Coordinator, LA (Fixed-Term/ Part-Time)
 Los Angeles, CA United States
 Office Coordinator, PHL (Fixed-Term/ Part-Time)
@@ -659,17 +666,17 @@ San Mateo, CA United States
 Associate Solutions Engineer, San Mateo
 San Mateo, CA United States
 Channel Solutions Engineer
-San Mateo, CA United States
+Denver, CO United States
 Channel Solutions Engineer
-Toronto, Canada
+San Mateo, CA United States
 Channel Solutions Engineer
 Chicago, IL United States
 Channel Solutions Engineer
 Seattle, WA United States
 Channel Solutions Engineer
-Denver, CO United States
-Channel Solutions Engineer
 Atlanta, GA United States
+Channel Solutions Engineer
+Toronto, Canada
 Enterprise Solutions Engineer
 Italy
 Enterprise Solutions Engineer
@@ -689,9 +696,9 @@ Boston, MA United States
 Enterprise Solutions Engineer, Quebec
 Quebec, Canada
 Enterprise Solutions Engineer, State
-Philadelphia, PA United States
-Enterprise Solutions Engineer, State
 Oklahoma City, OK United States
+Enterprise Solutions Engineer, State
+Philadelphia, PA United States
 Federal Solutions Engineer, West Coast
 San Mateo, CA United States
 Global Solutions Engineer
@@ -703,11 +710,11 @@ New Zealand
 Solutions Engineering Manager, EMEA
 London
 Solutions Engineering Manager, Select & Territory
+Tempe, AZ United States
+Solutions Engineering Manager, Select & Territory
 St. Petersburg, FL United States
 Solutions Engineering Manager, Select & Territory
 San Mateo, CA United States
-Solutions Engineering Manager, Select & Territory
-Tempe, AZ United States
 Solutions Engineer, Perth
 Perth, Australia
 Solutions Engineer, Sydney
@@ -719,6 +726,8 @@ Channel Sales Manager, Bay Area
 San Mateo, CA United States
 Channel Sales Manager, Bay Area
 San Mateo, CA United States
+Channel Sales Manager, Colombia
+Mexico City, Mexico
 Channel Sales Manager, France
 Paris, France
 Channel Sales Manager, Japan
@@ -782,9 +791,9 @@ Tempe, AZ United States
 Sales Development Representative (AAE), Tampa
 St. Petersburg, FL United States
 Sales Development Representative, Internship
-San Mateo, CA United States
-Sales Development Representative, Internship
 Austin, TX United States
+Sales Development Representative, Internship
+San Mateo, CA United States
 VU Athlete
 San Mateo, CA United States
 Manager/Director
@@ -800,13 +809,6 @@ Regional Sales Manager, Mid-Market, Austin
 Austin, TX United States
 Regional Sales Manager, Mid-Market, Tampa
 Tampa, FL United States
-Global
-Enterprise Account Executive, México
-Mexico City, Mexico
-Global Enterprise Account Executive
-Phoenix, AZ United States
-Regional Sales Manager, LATAM
-Mexico City, Mexico
 Enterprise
 Enterprise Development Representative - Dutch or Swedish Speaking
 London
@@ -814,16 +816,35 @@ Enterprise Development Representative - German Speaking
 London
 Enablement
 Enterprise Sales Enablement Manager
-New York City, NY United States
-Enterprise Sales Enablement Manager
 San Mateo, CA United States
+Enterprise Sales Enablement Manager
+New York City, NY United States
 Sales Admin
 Executive Assistant, LATAM
 Mexico City, Mexico
 Software Engineering - Dept
-Cameras
-Backend Engineer
+Software - Early Careers
+Backend Software Engineering Intern 2027
 San Mateo, CA United States
+Backend Software Engineer - University Graduate 2027
+San Mateo, CA United States
+Embedded Software Engineer, Access Control
+San Mateo, CA United States
+Embedded Software Engineering Intern 2027
+San Mateo, CA United States
+Frontend Software Engineering Intern 2027
+San Mateo, CA United States
+Full Stack Engineer, Business Systems
+San Mateo, CA United States
+Mobile Software Engineering Intern 2027
+San Mateo, CA United States
+Security Software Engineering Intern 2027
+San Mateo, CA United States
+Software Engineer - Data Platform
+San Mateo, CA United States
+Software Engineer, Platform Infrastructure
+San Mateo, CA United States
+Cameras
 Director of Firmware Engineering, Cameras
 San Mateo, CA United States
 Embedded Engineering Manager - Storage Systems
@@ -850,8 +871,6 @@ Senior Frontend Engineer - Streaming
 San Mateo, CA United States
 Senior Software Engineer - C++
 San Mateo, CA United States
-Senior Software Engineer - Cameras
-San Mateo, CA United States
 Senior Software Engineer - Command Connector
 San Mateo, CA United States
 Senior Software Engineer - Computer Vision
@@ -862,34 +881,11 @@ Senior Systems Engineer - Camera Platform
 San Mateo, CA United States
 Senior Systems Engineer - Streaming
 San Mateo, CA United States
-Software Engineer - Computer Vision
-San Mateo, CA United States
 Software Engineer - Imaging Systems
 San Mateo, CA United States
 Software Engineering Manager - Search
 San Mateo, CA United States
 Staff Backend Engineer - Streaming
-San Mateo, CA United States
-Software - Early Careers
-Backend Software Engineering Intern 2027
-San Mateo, CA United States
-Backend Software Engineer - University Graduate 2027
-San Mateo, CA United States
-Embedded Software Engineer, Access Control
-San Mateo, CA United States
-Embedded Software Engineering Intern 2027
-San Mateo, CA United States
-Frontend Software Engineering Intern 2027
-San Mateo, CA United States
-Full Stack Engineer, Business Systems
-San Mateo, CA United States
-Mobile Software Engineering Intern 2027
-San Mateo, CA United States
-Security Software Engineering Intern 2027
-San Mateo, CA United States
-Software Engineer - Data Platform
-San Mateo, CA United States
-Software Engineer, Platform Infrastructure
 San Mateo, CA United States
 Software Engineering Admin
 Embedded Automated Test & Test System Engineer
@@ -903,8 +899,6 @@ Embedded Linux Security Engineer
 San Mateo, CA United States
 GRC Engineer
 San Mateo, CA United States
-Software Engineering Manager, Data Protection Platform
-San Mateo, CA United States
 Staff Backend Engineer - Device Security
 San Mateo, CA United States
 Staff+ Security Engineer, Core Command
@@ -912,6 +906,8 @@ San Mateo, CA United States
 Staff+ Security Engineer, IT and Corporate Security
 San Mateo, CA United States
 Staff+ Security Engineer, Product Security
+San Mateo, CA United States
+Staff Software Engineer - Data Protection
 San Mateo, CA United States
 Staff Software Engineer - Detection and Response Platform
 San Mateo, CA United States
@@ -948,9 +944,9 @@ San Mateo, CA United States
 Software Engineer, Cloud Infrastructure
 San Mateo, CA United States
 Core Services
-Engineering Manager, Atlas (Spatial Systems)
-San Mateo, CA United States
 Engineering Manager, Core Platform
+San Mateo, CA United States
+Engineering Manager, Maps
 San Mateo, CA United States
 Senior Backend Engineer
 San Mateo, CA United States
@@ -1014,9 +1010,9 @@ Technical Support Engineering
 Senior Technical Support Engineer
 San Mateo, CA United States
 Technical Support Engineer
-Sydney, Australia
-Technical Support Engineer
 San Mateo, CA United States
+Technical Support Engineer
+Sydney, Australia
 Technical Support Engineer (Bilingual English/Japanese)
 Tokyo, Japan
 Technical Support Engineer - Industrial Placement 2027 (12-months)

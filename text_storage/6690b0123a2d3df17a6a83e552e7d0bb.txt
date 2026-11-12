@@ -64,7 +64,7 @@ Simulation Engineer - Physics Modeling
 San Carlos
 ,
 California
-Staff Software Engineer - Applied AI
+Software Engineer - Applied AI
 San Carlos
 ,
 California
@@ -92,6 +92,14 @@ San Carlos
 ,
 California
 Facilities Technician
+San Carlos
+,
+California
+Infrastructure Manager- Design & Construction
+San Carlos
+,
+California
+Investigations Manager - Global Security
 San Carlos
 ,
 California
@@ -140,7 +148,7 @@ Softgoods Product Design Engineer
 San Carlos
 ,
 California
-Staff Loads & Dynamics Engineer
+Staff Engineer, Loads & Dynamics
 San Carlos
 ,
 California
@@ -378,11 +386,11 @@ Senior Software Engineer - Product
 San Carlos
 ,
 California
-Senior to Staff AI Product Engineer
+Software Engineer - Backend
 San Carlos
 ,
 California
-Software Engineer - Backend
+Staff AI Product Engineer
 San Carlos
 ,
 California

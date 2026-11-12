@@ -316,16 +316,16 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
+Sunnyvale
+Sunnyvale
+Apply
+Solution Engineer
 Stuttgart
 Stuttgart
 Apply
 Solution Engineer
 Munich
 Munich
-Apply
-Solution Engineer
-Sunnyvale
-Sunnyvale
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -336,12 +336,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer - Trucking
 Gothenburg
@@ -766,10 +766,6 @@ Senior Cost Accountant - Government Contracting (Accounts Payable, Job Costing)
 Washington, D.C.
 Washington, D.C.
 Apply
-Supply Chain Business Systems Analyst
-Sunnyvale
-Sunnyvale
-Apply
 Technical Revenue Accounting Manager
 Sunnyvale
 Sunnyvale
@@ -899,12 +895,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
@@ -1089,12 +1085,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart

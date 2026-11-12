@@ -245,7 +245,37 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-199 Open Roles
+204 Open Roles
+ROLE
+Compliance Tech Lead
+FOCUS
+Software & System Engineering
+LOCATION
+Bengaluru, India
+ROLE
+Quantitative Developer, Risk Technology
+FOCUS
+Quant Tech Strategy
+LOCATION
+Bengaluru, India
+ROLE
+Analyst, People Operations (Workday HCM)
+FOCUS
+Human Capital
+LOCATION
+Bengaluru, India
+ROLE
+Data Security Engineer
+FOCUS
+Information Security
+LOCATION
+New York
+ROLE
+Endpoint Security Engineer, Technology
+FOCUS
+Information Security
+LOCATION
+New York
 ROLE
 Administrative Assistant
 FOCUS
@@ -855,7 +885,7 @@ New York
 ROLE
 IT Operations Engineer, End User Computing
 FOCUS
-Software & System Engineering
+IT Support
 LOCATION
 New York
 ROLE

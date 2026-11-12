@@ -120,7 +120,7 @@ offices.
 Viewing
 4
 of
-96
+95
 Jobs
 No jobs available for your search, please try something else.
 Add job to your application bundle
@@ -282,11 +282,6 @@ Learning & Development Specialist
 Human Capital
 New York
 icon
-Learning and Development Program Operations Manager
-: The D. E. Shaw group seeks an organized, execution-minded leader to join its Learning & Development (L&D) team as a program operations manager. This role combines people…
-Human Capital
-New York
-icon
 Product Manager – Data Warehouse
 : The D. E. Shaw group seeks a product manager to join its Human Capital Products team to support the ongoing development of data infrastructure that enables people analytics. This…
 Human Capital
@@ -389,6 +384,11 @@ New York
 icon
 Product Manager — AI Vendor Tools
 : The D. E. Shaw group seeks an experienced product manager to join its Application Engineering team. This group develops and maintains a range of internal software solutions,…
+Quantitative Strategies
+London
+icon
+Quant Systems: Storage Engineer
+: The D. E. Shaw group seeks an experienced HPC storage engineer to join its Quant Systems team. Quant Systems is a global group responsible for designing, building, and operating…
 Quantitative Strategies
 New York
 icon
@@ -550,16 +550,6 @@ icon
 Head of Engineering & AI, Healthcare RCM Platform
 : The D. E. Shaw group seeks an accomplished and hands-on head of engineering & AI to join Cove’s new healthcare revenue cycle management (RCM) platform. Cove, the firm’s…
 Various
-New York
-To apply for this job, please email
-your resume and the job title to
-recruitment-nyc@world.deshaw.com
-.
-icon
-Investment Analyst, Fundamental Equities
-: Join our D. E. Shaw group in New York
-The D. E. Shaw group seeks talented analyst individuals to join its Fundamental Equities group as integral members of one of the…
-Various
 Denver
 icon
 Research Analyst, Expert Sourcing and Recruiting (Denver)
@@ -610,7 +600,7 @@ icon
 Start-up Ventures: Senior Software Engineer at Wisable
 : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw’s venture studio, seeks a senior software engineer to help design and build its core internal technology…
 +
-92
+91
 Jobs
 Recruiting Security:
 Emails from genuine D. E. Shaw group recruiters who are employees of the firm will always come from the @deshaw.com domain or related subdomains (

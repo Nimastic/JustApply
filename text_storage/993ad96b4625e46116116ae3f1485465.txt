@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-337 Items
+336 Items
 Save this search
 Sort by
 Relevance
@@ -38,6 +38,47 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Producer - Creative X
+Los Angeles, CA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Design & User Experience
+Creative
+Design
+Director of Product Staff, Instagram Business Ranking & Delivery
+Menlo Park, CA
+⋅
+New York, NY
+Product Management
+Machine Learning
+Product Strategy
+Small Business Products & Solutions
+Product Content Engineer - Content Strategist
+Los Angeles, CA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Design & User Experience
+Content Strategy
+Research Scientist Intern, LLM Memory and Skills (PhD)
+Bellevue, WA
+⋅
+Seattle, WA
+⋅
+New York, NY
+AI Research
+Artificial Intelligence
+Internship - PhD
+Computer Vision
+Machine Learning
+Research
 Software Engineer, Infrastructure
 Sunnyvale, CA
 ⋅
@@ -127,54 +168,6 @@ Seattle, WA
 +2 more
 Technical Program Management
 Program Management
-HR Business Partner
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-People & Recruiting
-HR
-Product Designer, Human Interface
-Los Angeles, CA
-⋅
-Seattle, WA
-⋅
-Burlingame, CA
-⋅
-New York, NY
-Design & User Experience
-Design
-Data Engineer, Product Analytics
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Burlingame, CA
-⋅
-New York, NY
-⋅
-+1 more
-Data & Analytics
-Data Engineering
-Data Scientist, Product Analytics
-Los Angeles, CA
-⋅
-Bellevue, WA
-⋅
-Austin, TX
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+5 more
-Data & Analytics
-Analytics
 Page 1 of 34
 Job Search
 Technology Teams

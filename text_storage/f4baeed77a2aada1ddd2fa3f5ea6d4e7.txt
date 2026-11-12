@@ -394,7 +394,7 @@ Plays for
 Mitchell Felix
 Robot Field Operator
 Careers
-22 open roles
+21 open roles
 Open Roles
 All departments
 Commercial Ops - AS
@@ -402,10 +402,6 @@ Commercial Ops - AS
 1
 )
 Field Infrastructure
-(
-1
-)
-Finance
 (
 1
 )
@@ -456,11 +452,11 @@ Houston
 )
 New York City
 (
-12
+11
 )
 Pittsburgh
 (
-16
+15
 )
 Washington, D.C.
 (
@@ -475,12 +471,6 @@ Pittsburgh
 Robotics Test Release Engineer
 ↗
 Field Infrastructure
-Pittsburgh
-FP&A Manager
-↗
-Finance
-New York City
-·
 Pittsburgh
 Forward Deployed Engineer
 ↗
