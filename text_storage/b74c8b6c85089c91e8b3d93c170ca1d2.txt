@@ -211,16 +211,6 @@ Hybrid —
 Full-time
 Honolulu, HI
 Apply
-Forward Deployed Infrastructure Engineer, Internship - US Government
-On-site —
-Internship
-Washington, D.C.
-Apply
-Forward Deployed Infrastructure Engineer, Internship - US Government
-On-site —
-Internship
-Palo Alto, CA
-Apply
 Forward Deployed Infrastructure Engineer, New Grad - UK Government
 Hybrid —
 Full-time
@@ -273,7 +263,7 @@ Chicago, IL
 Apply
 Forward Deployed Software Engineer - AUS Government
 Hybrid —
-Internship
+Full-time
 Sydney, Australia
 Apply
 Forward Deployed Software Engineer - Germany Forward Deployed
@@ -373,7 +363,7 @@ Paris, France
 Apply
 Forward Deployed Software Engineer, Internship - AUS Government
 Hybrid —
-Full-time
+Internship
 Sydney, Australia
 Apply
 Forward Deployed Software Engineer, Internship - Commercial
@@ -1035,11 +1025,6 @@ Full-time
 Singapore, Singapore
 Apply
 Deployment Strategist
-On-site —
-Full-time
-Warsaw, Poland
-Apply
-Deployment Strategist
 Hybrid —
 Full-time
 Seoul, South Korea
@@ -1322,6 +1307,11 @@ Information Security Engineer - Infrastructure Security
 Hybrid —
 Full-time
 New York, NY
+Apply
+Information Security Engineer - Infrastructure Security
+Hybrid —
+Full-time
+London, United Kingdom
 Apply
 Information Security Engineer - Insider Risk
 Hybrid —

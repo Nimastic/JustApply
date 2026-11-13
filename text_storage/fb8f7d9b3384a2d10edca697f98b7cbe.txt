@@ -511,7 +511,6 @@ Data Management & Analytics
 Development Engineering
 Field Support
 Hardware
-IT Operations
 Logistics
 Machine Shop
 Manufacturing Engineering
@@ -552,9 +551,6 @@ Principal Mechanical Engineer
 (opens in new tab)
 Waltham, MA
 Full time
-Sales Development Representative
-(opens in new tab)
-Waltham Office (POST)
 Senior Engineering Manager, ML Platform
 (opens in new tab)
 Waltham Office (POST)
@@ -602,6 +598,10 @@ Full time
 Senior Staff Electrical Test Engineer - Atlas
 (opens in new tab)
 Waltham Office (POST)
+Full time
+Senior Staff Robotics Simulation Engineer - Thermal & Fluids Analysis
+(opens in new tab)
+Waltham, MA
 Full time
 Previous
 1

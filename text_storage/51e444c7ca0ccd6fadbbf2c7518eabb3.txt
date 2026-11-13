@@ -168,18 +168,10 @@ Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
 APPLY →
 Apply for Senior Enterprise Applications Developer in Information Technology , Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote
 Marketing
-Director, Head of Editorial & Content
-Remote
-APPLY →
-Apply for Director, Head of Editorial & Content in Marketing, Remote
 Senior Product Marketing Manager
 Remote
 APPLY →
 Apply for Senior Product Marketing Manager in Marketing, Remote
-Senior Demand Generation & Campaign Strategy Manager
-Remote
-APPLY →
-Apply for Senior Demand Generation & Campaign Strategy Manager in Marketing, Remote
 Senior Manager, Marketing Programs
 Remote
 APPLY →
@@ -229,10 +221,6 @@ Buyer II
 Onsite- Salem, OR
 APPLY →
 Apply for Buyer II in Operations, Onsite- Salem, OR
-Buyer
-Onsite- Salem, OR
-APPLY →
-Apply for Buyer in Operations, Onsite- Salem, OR
 Maintenance & Repair Technician
 Onsite- Salem, OR
 APPLY →
@@ -328,10 +316,6 @@ Staff Software Engineer, Hardware Interface
 Hybrid- Fremont, CA
 APPLY →
 Apply for Staff Software Engineer, Hardware Interface in Software Engineering, Hybrid- Fremont, CA
-Senior Software Engineer, AI/ML Platform
-Remote
-APPLY →
-Apply for Senior Software Engineer, AI/ML Platform in Software Engineering, Remote
 Data Collection Manager
 Onsite- Fremont, CA
 APPLY →
@@ -372,6 +356,10 @@ AI Research Engineer III
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
 Apply for AI Research Engineer III in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+Senior Software Engineer, AI/ML Platform
+Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+APPLY →
+Apply for Senior Software Engineer, AI/ML Platform in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 Company
 The future of labor starts here
 We do more than build demos. We build robots that ship, deploy, and get to work. Safety, reliability, and real-world impact come first. But we're not stopping at what Digit can do today. We're working toward a future where this technology helps wherever it's needed.

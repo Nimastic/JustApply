@@ -38,30 +38,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-AI SW
-ML Models
-Software Engineer-AI Model Bring Up
-Tokyo, Japan
-Apply
 Architecture
-Design Verification
-Midcore Design Verification Engineer
-Santa Clara, California, United States; Spain
+Performance Model
+Performance Modeling Architect
+Austin, Texas, United States; Santa Clara, California, United States
+Apply
+AI Hardware
+IP Software
+Senior Compiler Engineer, AI IP
+Belgrade, Serbia
+Apply
+Operations
+Recruiting
+Early Talent Recruiter
+Austin, Texas, United States; Boston, Massachusetts, United States; Raleigh, North Carolina, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+Apply
+Systems Engineering: Product
+Product Manager- Enterprise Platform
+Santa Clara, California, United States
 Apply
 Customer - Operations
 Automotive
-DFT Engineer, Automotive Robotics
+Emulation Engineer, Automotive Robotics
 Munich, Germany
-Apply
-Experience
-GTM
-Director, Strategy & Solutions
-Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States
-Apply
-Silicon
-Physical Design
-Physical Design Engineer
-Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
 Apply
 Show all postings
 Open Future

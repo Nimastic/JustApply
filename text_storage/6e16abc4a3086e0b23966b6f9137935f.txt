@@ -132,8 +132,6 @@ Careers at Nuro.
 Open Roles
 Job Family
 Job Family
-BRAND & MARKETING
-Brand
 COMMERCIALIZATION
 Founders' Office
 Partnerships
@@ -141,8 +139,6 @@ FINANCE
 Finance
 HARDWARE & MANUFACTURING
 AV Hardware Engineering
-NURO
-Nuro
 OPERATIONS
 In-Vehicle Operations
 PEOPLE
@@ -156,7 +152,6 @@ Autonomy
 Controls, Pose, and Embedded Software
 Data Platform
 Machine Learning Infrastructure
-Nuro
 Onboard Infrastructure
 Product Engineering
 Robot Reliability
@@ -170,22 +165,18 @@ Autonomy
 Software TPM
 Location/Office
 Mountain View, California (HQ)
-California - Santa Clara
 San Francisco, CA
 Los Angeles, CA
 Type
 Full-Time
 Temporary
 Intern
-Brand & Marketing
-01
-Brand
-Social Media Intern
+Commercialization
+03
+Founders' Office
+Staff Program Manager, Office of the CEO
 Mountain View, California (HQ)
 Full-Time
-Commercialization
-02
-Founders' Office
 Staff Robotaxi Program Manager
 Mountain View, California (HQ)
 Full-Time
@@ -211,18 +202,9 @@ Full-Time
 Test Validation Engineer
 Mountain View, California (HQ)
 Full-Time
-Nuro
-01
-Nuro
-Senior Software Engineer, Map Platform
-Mountain View, California (HQ)
-Full-Time
 Operations
-08
+05
 In-Vehicle Operations
-Autonomous Vehicle Operator
-California - Santa Clara
-Temporary
 Autonomous Vehicle Operator
 San Francisco, CA
 Temporary
@@ -235,13 +217,7 @@ Temporary
 Autonomous Vehicle Operator - PM
 Los Angeles, CA
 Temporary
-On-Site Hiring Event: Autonomous Vehicle Operator, San Francisco
-San Francisco, CA
-Temporary
 Shift Supervisor, On-Road Operations
-San Francisco, CA
-Full-Time
-Shift Supervisor, On-Road Operations (Overnight)
 San Francisco, CA
 Full-Time
 People
@@ -254,7 +230,7 @@ Recruiting
 Autonomy Engineering Recruiting Manager
 Mountain View, California (HQ)
 Full-Time
-Senior Technical Recruiter
+Technical Recruiter
 Mountain View, California (HQ)
 Full-Time
 Public Trust
@@ -267,7 +243,7 @@ Senior Commercial Counsel
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-70
+77
 AI Platform General
 Software Engineer, AI Platform - Intern
 Mountain View, California (HQ)
@@ -312,6 +288,12 @@ Full-Time
 Senior Software Engineer, Collision Avoidance
 Mountain View, California (HQ)
 Full-Time
+Senior Software Engineer, Map Platform
+Mountain View, California (HQ)
+Full-Time
+Senior Software Engineer, Nuro Driver Core Software
+Mountain View, California (HQ)
+Full-Time
 Senior Software Engineer, Onboard Autonomy
 Mountain View, California (HQ)
 Full-Time
@@ -330,7 +312,7 @@ Full-Time
 Senior/Staff Machine Learning Research Scientist: Generative Modeling for Planning
 Mountain View, California (HQ)
 Full-Time
-Staff/Lead Machine Learning Engineer, Behavior & Planning
+Staff/Lead Machine Learning Research Scientist, Behavior & Planning
 Mountain View, California (HQ)
 Full-Time
 Staff Software Engineer, Behavior ML Data
@@ -387,12 +369,11 @@ Full-Time
 Software Engineer, ML Infrastructure Platform
 Mountain View, California (HQ)
 Full-Time
-Nuro
-Senior Program Manager, Compliance Reporting
-Mountain View, California (HQ)
-Full-Time
 Onboard Infrastructure
 Principal Software Engineer, Onboard Infrastructure
+Mountain View, California (HQ)
+Full-Time
+Principal Software Engineer, Performance
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Devices Platform
@@ -410,10 +391,16 @@ Full-Time
 Senior Software Engineer, Video Streaming
 Mountain View, California (HQ)
 Full-Time
+Software Engineer, Performance
+Mountain View, California (HQ)
+Full-Time
 Software Engineer, Performance Tooling and Infrastructure
 Mountain View, California (HQ)
 Full-Time
 Staff/Senior Software Engineer, Onboard Infrastructure
+Mountain View, California (HQ)
+Full-Time
+Staff Software Engineer, Performance
 Mountain View, California (HQ)
 Full-Time
 Tech Lead Software Engineer, Fleet Connectivity
@@ -423,10 +410,13 @@ Product Engineering
 Senior Software Engineer, Routing
 Mountain View, California (HQ)
 Full-Time
-Software Engineer, Routing
+Senior/Staff Software Engineer, Ride-Hailing Product
 Mountain View, California (HQ)
 Full-Time
 Staff Software Engineer, Routing
+Mountain View, California (HQ)
+Full-Time
+Technical Lead Software Engineer, Routing
 Mountain View, California (HQ)
 Full-Time
 Robot Reliability
@@ -448,7 +438,10 @@ Software Operations
 Director of AI Data Operations
 Mountain View, California (HQ)
 Full-Time
-Project Manager, Software Operations
+Project Manager, Data Quality
+Mountain View, California (HQ)
+Full-Time
+Senior Program Manager, Compliance Reporting
 Mountain View, California (HQ)
 Full-Time
 Senior Program Manager, Perception Data Operations
@@ -488,24 +481,30 @@ Full-Time
 Senior Systems Test Engineer, Autonomy Behavior
 Mountain View, California (HQ)
 Full-Time
+Systems Engineering, New Grad 2027
+Mountain View, California (HQ)
+Intern
 Technical Infrastructure
 Software Engineer, Cloud Infrastructure and Observability
 Mountain View, California (HQ)
 Full-Time
 Technical Program Management
-04
+05
 Autonomy
 Staff Autonomy Program Manager
 Mountain View, California (HQ)
 Full-Time
 Software TPM
-Lead Technical Program Manager, AI Platform
+Manager, Technical Program Manager, AI Platform
 Mountain View, California (HQ)
 Full-Time
 Senior Senior Technical Program Manager, Driverless Readiness & AI Platform Reliability
 Mountain View, California (HQ)
 Full-Time
 Senior Technical Program Manager - AI Platform Performance & Reliability
+Mountain View, California (HQ)
+Full-Time
+Technical Program Manager Lead, AI Platform
 Mountain View, California (HQ)
 Full-Time
 Technology

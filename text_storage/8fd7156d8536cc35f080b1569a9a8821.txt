@@ -1,3 +1,4 @@
+Come Work at Verkada!
 Demo
 EN (US)
 English (United States)
@@ -144,7 +145,7 @@ What to expect
 This step often includes meetings with team members, technical exercises, and discussions about your experience and how it aligns with Verkada’s needs. Your recruiter will guide you on what to expect during the visit, so you can put your best foot forward.
 Job openings
 If you’d like to use your energy for good, we’d love to hear from you.
-341 Openings
+346 Openings
 Search
 Filter by
 Clear All
@@ -153,6 +154,7 @@ Atlanta, GA United States
 Austin, TX United States
 Boston, MA United States
 Calgary, Canada
+Canberra, Australia
 Central, United States
 Chicago, IL United States
 Cleveland, OH United States
@@ -295,8 +297,12 @@ San Mateo, CA United States
 Physical Security Associate, Events
 San Mateo, CA United States
 Privacy Counsel
-San Mateo, CA United States
+Austin, TX United States
 Privacy Counsel
+San Mateo, CA United States
+Senior Product Counsel
+San Mateo, CA United States
+Senior Product Counsel
 Austin, TX United States
 IT
 IT Engineer
@@ -390,12 +396,16 @@ Federal Enterprise Account Executive (U.S. Navy)
 Washington, D.C. United States
 Federal Enterprise Account Executive  (Veteran Affairs)
 Florida, United States
+Strategic Account Executive, Federal Government (Australia)
+Canberra, Australia
 Hardware Engineering & Operations - Dept
 Hardware Operations
 Customer Operations & Logistics Coordinator, Salt Lake City
 Salt Lake City, UT United States
 Customer Operations & Logistics Coordinator, Tampa
 Tampa, FL United States
+Global Sourcing Manager
+San Mateo, CA United States
 Global Sourcing Manager
 Taipei, Taiwan
 Global Sourcing - Masters Program
@@ -457,21 +467,21 @@ Calgary, Canada
 Regional Field Marketing Manager, Canada
 Vancouver, Canada
 Senior Regional Field Marketing Manager, East
-Tampa, FL United States
-Senior Regional Field Marketing Manager, East
 New York City, NY United States
 Senior Regional Field Marketing Manager, East
 Philadelphia, PA United States
+Senior Regional Field Marketing Manager, East
+Tampa, FL United States
+Senior Regional Field Marketing Manager, West
+San Mateo, CA United States
 Senior Regional Field Marketing Manager, West
 Austin, TX United States
 Senior Regional Field Marketing Manager, West
 Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
-Phoenix, AZ United States
-Senior Regional Field Marketing Manager, West
-San Mateo, CA United States
-Senior Regional Field Marketing Manager, West
 Los Angeles, CA United States
+Senior Regional Field Marketing Manager, West
+Phoenix, AZ United States
 Growth
 Growth Manager
 San Mateo, CA United States
@@ -494,8 +504,6 @@ Marketing (Sales) Development Manager
 San Mateo, CA United States
 Marketing (Sales) Development Representative
 San Mateo, CA United States
-Marketing (Sales) Development Representative (Bilingual English/Japanese)
-Tokyo, Japan
 Sales Development Representative - Sydney
 Sydney, Australia
 MBA - Dept
@@ -515,11 +523,13 @@ Pricing and Commercial Operations
 Analyst / Associate, Pricing & Commercial Operations (Bilingual English and German/Dutch)
 London
 Senior Associate, Pricing & Commercial Operations
-San Mateo, CA United States
-Senior Associate, Pricing & Commercial Operations
 New York City, NY United States
+Senior Associate, Pricing & Commercial Operations
+San Mateo, CA United States
 Product Management
 Group Product Manager, Video Platform
+San Mateo, CA United States
+Lead Product Manager, Access Management
 San Mateo, CA United States
 Lead Product Manager, Connectivity / Gateways
 San Mateo, CA United States
@@ -589,6 +599,8 @@ Account Executive, France
 London
 Account Executive, Seoul
 South Korea
+Account Executive, Sydney
+Sydney, Australia
 Account Executive, UK
 London
 Enterprise Account Executive, DACH
@@ -637,25 +649,25 @@ Mid-Market Territory
 Account Executive, Territory, Chicago
 Chicago, IL United States
 Account Executive, Territory (Mid-Market)
-Philadelphia, PA United States
-Account Executive, Territory (Mid-Market)
-Los Angeles, CA United States
-Account Executive, Territory (Mid-Market)
 Boston, MA United States
 Account Executive, Territory (Mid-Market)
 Austin, TX United States
 Account Executive, Territory (Mid-Market)
-San Mateo, CA United States
+Salt Lake City, UT United States
 Account Executive, Territory (Mid-Market)
-Tempe, AZ United States
+Philadelphia, PA United States
+Account Executive, Territory (Mid-Market)
+New York City, NY United States
 Account Executive, Territory (Mid-Market)
 Atlanta, GA United States
 Account Executive, Territory (Mid-Market)
-Salt Lake City, UT United States
+Los Angeles, CA United States
 Account Executive, Territory (Mid-Market)
 St. Petersburg, FL United States
 Account Executive, Territory (Mid-Market)
-New York City, NY United States
+Tempe, AZ United States
+Account Executive, Territory (Mid-Market)
+San Mateo, CA United States
 Office Coordinator, LA (Fixed-Term/ Part-Time)
 Los Angeles, CA United States
 Office Coordinator, PHL (Fixed-Term/ Part-Time)
@@ -666,15 +678,15 @@ San Mateo, CA United States
 Associate Solutions Engineer, San Mateo
 San Mateo, CA United States
 Channel Solutions Engineer
-Denver, CO United States
+Atlanta, GA United States
 Channel Solutions Engineer
 San Mateo, CA United States
 Channel Solutions Engineer
 Chicago, IL United States
 Channel Solutions Engineer
-Seattle, WA United States
+Denver, CO United States
 Channel Solutions Engineer
-Atlanta, GA United States
+Seattle, WA United States
 Channel Solutions Engineer
 Toronto, Canada
 Enterprise Solutions Engineer
@@ -696,9 +708,9 @@ Boston, MA United States
 Enterprise Solutions Engineer, Quebec
 Quebec, Canada
 Enterprise Solutions Engineer, State
-Oklahoma City, OK United States
-Enterprise Solutions Engineer, State
 Philadelphia, PA United States
+Enterprise Solutions Engineer, State
+Oklahoma City, OK United States
 Federal Solutions Engineer, West Coast
 San Mateo, CA United States
 Global Solutions Engineer
@@ -710,11 +722,11 @@ New Zealand
 Solutions Engineering Manager, EMEA
 London
 Solutions Engineering Manager, Select & Territory
-Tempe, AZ United States
+San Mateo, CA United States
 Solutions Engineering Manager, Select & Territory
 St. Petersburg, FL United States
 Solutions Engineering Manager, Select & Territory
-San Mateo, CA United States
+Tempe, AZ United States
 Solutions Engineer, Perth
 Perth, Australia
 Solutions Engineer, Sydney
@@ -748,8 +760,6 @@ Channel Sales Manager, Sweden
 Stockholm, Sweden
 Channel Sales Manager, Sydney (NSW)
 Sydney, Australia
-Director, Channel Sales EMEA
-London
 Head of Federal Channel
 Washington, D.C. United States
 Strategy/Operations
@@ -784,6 +794,8 @@ Enterprise Development Representative (December 2026 Grads)
 Austin, TX United States
 Enterprise Development Representative, LATAM
 Mexico City, Mexico
+Enterprise Sales Development Representative
+Sydney, Australia
 Sales Development Representative (AAE), Bay Area
 San Mateo, CA United States
 Sales Development Representative (AAE), Phoenix
@@ -791,9 +803,9 @@ Tempe, AZ United States
 Sales Development Representative (AAE), Tampa
 St. Petersburg, FL United States
 Sales Development Representative, Internship
-Austin, TX United States
-Sales Development Representative, Internship
 San Mateo, CA United States
+Sales Development Representative, Internship
+Austin, TX United States
 VU Athlete
 San Mateo, CA United States
 Manager/Director
@@ -805,8 +817,6 @@ Director of Sales - NYC
 New York City, NY United States
 Regional Sales Manager, Mid-Market, Atlanta
 Atlanta, GA United States
-Regional Sales Manager, Mid-Market, Austin
-Austin, TX United States
 Regional Sales Manager, Mid-Market, Tampa
 Tampa, FL United States
 Enterprise
@@ -816,12 +826,14 @@ Enterprise Development Representative - German Speaking
 London
 Enablement
 Enterprise Sales Enablement Manager
-San Mateo, CA United States
-Enterprise Sales Enablement Manager
 New York City, NY United States
+Enterprise Sales Enablement Manager
+San Mateo, CA United States
 Sales Admin
 Executive Assistant, LATAM
 Mexico City, Mexico
+Executive Assistant to VP of Sales
+San Mateo, CA United States
 Software Engineering - Dept
 Software - Early Careers
 Backend Software Engineering Intern 2027
@@ -1081,7 +1093,6 @@ CA Privacy
 Legal Center
 Privacy Center
 Terms of Service
-Come Work at Verkada!
 Your Privacy Choices
 We use cookies and similar technologies to deliver the site, provide security, improve and personalize your experience (including delivering more relevant ads), and provide advertising-related analytics (e.g., optimizing our ad campaigns).  Some of these uses may be considered "selling" or "sharing” for targeted, online advertising purposes under certain laws. You may opt out of our “sale” or “sharing” of your data through cookies. If you select “Reject All,” we will not “share” or “sell” your personal information through cookies, but we will continue to use other cookies as defined in our Cookie Policy. If you take no action or select “Confirm My Choices,” we will continue to use cookies for purposes that may be considered a “share” or “sale” of your data. To learn more, see our Cookie Policy.
 We may also make available certain contact information, such as name, email address, phone number, and mailing address, to other businesses in a way that is considered a sale, or share/use for targeted ads. Depending on where you reside, you may have the right to opt out of this activity. To opt out of these sales/sharing, please visit the opt-out form

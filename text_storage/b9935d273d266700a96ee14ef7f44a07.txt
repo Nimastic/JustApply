@@ -17,21 +17,6 @@ Role type
 filters
 selected
 Clear all filters
-AEO and GEO Marketing Manager
-Marketing
-Remote in Canada
-AEO and GEO Marketing Manager
-Marketing
-Toronto
-AEO and GEO Marketing Manager
-Marketing
-Remote in United States
-AEO and GEO Marketing Manager
-Marketing
-Atlanta
-AEO and GEO Marketing Manager
-Marketing
-Chicago
 AI Engineer
 Solutions Architect
 Toronto
@@ -77,6 +62,21 @@ Atlanta
 Abuse Investigator
 Security
 Chicago
+Abuse Investigator
+Security
+New York
+Abuse Investigator
+Security
+Seattle
+Abuse Investigator
+Security
+South San Francisco HQ
+Abuse Investigator
+Security
+Dublin HQ
+Abuse Investigator
+Security
+Dublin HQ
 1
 2
 3

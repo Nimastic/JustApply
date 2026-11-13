@@ -5,69 +5,67 @@ Inference Products
 Shared Endpoints
 Access frontier models via an API
 Dedicated Endpoints
-Mission critical reliability
-Custom models
-Your model, peak performance
+Reserved GPUs. Pay per minute.
+Custom Models
+Your models. Our optimized stack.
 Deployment Options
 Our Cloud
 Fully managed, pay by usage
 Your Cloud
-Modular stack in your VPC
+Run in your VPC. Keep your data.
 Pricing
-Flexible plans for every team
-Models
-FLUX.2 Klein 4B
-GLM 5.3 Flash
-MiniMax M3.1 Flash
-MiniMax M3
-GLM 5.3
-View All
+Flexible plans for any use case
 Solutions
 Text to audio
-Turn text into natural speech
 Image generation
-Generate images from text prompts
 Code generation
-Generate production-ready code
 Video generation
-Generate video from text + image
 Agentic
-Deploy AI agents anywhere
-Custom Models
-Kernel-level model control
-Case Studies
-Proven results from real customers
+Case studies
 Models
+Model Library
+Open source models. Deploy in seconds.
+DeepSeek V4.1 Flash 1017
 FLUX.2 Klein 4B
 GLM 5.3 Flash
 MiniMax M3.1 Flash
 MiniMax M3
 GLM 5.3
-View All
+Your own model
+View all models
+Day 0 access
+to
+open frontier models.
+Dedicated support
+for
+your own model.
 Resources
-Model Library
-Latest supported open models
 LLM Inference Handbook
-How inference works, from basics to production
-MAX LLM Book
-Build a modern LLM from the ground up
-Mojo Quest
-Learn Mojo through guided challenges
-Mojo GPU Puzzles
-Hands-on GPU programming, puzzle by puzzle
+Learn how inference works
+MAX
+LLM Book
+Build a modern LLM from scratch
+Pricing
+Flexible plans for any use case
+Mojo
+Quest
+Learn Mojo with guided challenges
+Mojo
+GPU Puzzles
+Hands-on GPU code in Mojo
 Open Source
 MAX
 GenAI native modeling & serving
 Mojo
 The systems language for the AI era
-Modular alliance program
+Modular Alliance Program
 LLVM, but for AI
 Self-Hosted
-MAX+Mojo self-hosted by you
+Run MAX & Mojo on your hardware
+Agent Skills
+Our official skills for coding agents
 Community
 Build the future of AI together
-Agentic Skills
-Official AI agent skills from Modular
 Docs
 Modular Cloud
 Deploy GenAI models, our cloud or yours
@@ -78,15 +76,17 @@ The systems language for the AI era
 Blog
 Company
 About
-Build AI for anyone, anywhere.
+Build AI for anyone, anywhere
 Careers
-👋  We’re currently hiring!
+👋 We’re currently hiring!
 Culture
 What we believe
 Contact Us
 Request a demo
-Request a demo
-Request a demo
+Request demo
+Get Started
+Request demo
+Get Started
 close
 Join us in building the
 future of AI
@@ -113,17 +113,17 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(32)
+(31)
 Mojo
 (16)
 Cloud Inference
-(2)
+(1)
 MAX
-(6)
+(5)
 Product Management
 (2)
 Developer Relations
-(3)
+(4)
 Marketing
 (1)
 Platform Engineering
@@ -134,9 +134,6 @@ Principal Mojo Libraries Engineer
 United States / Canada · Remote
 Apply now
 Cloud Inference Engineer
-United States / Canada · Remote
-Apply now
-Backend Engineer, Multi-cloud Inference Platform
 United States / Canada · Remote
 Apply now
 Senior AI Kernel Engineer
@@ -171,9 +168,6 @@ United Kingdom · Remote
 Apply now
 Engineering Principal, Hardware Bringup
 United States / Canada · Remote
-Apply now
-Inference Systems Engineer
-United States · Remote
 Apply now
 Technical Community Manager
 United States / Canada · Remote
@@ -224,6 +218,9 @@ Staff Mojo Tooling Engineer
 United States / Canada · Remote
 Apply now
 Staff Engineer, Hardware Enablement
+United States / Canada · Remote
+Apply now
+Community Marketing Manager
 United States / Canada · Remote
 Apply now
 What you expect from the interview

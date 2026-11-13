@@ -22,7 +22,6 @@ San Francisco, CA | New York City, NY
 Anthropic Research Resident
 London, UK
 Applied Scientist, Engineering
-New
 San Francisco, CA
 [C] Research Engineer, Discovery
 New
@@ -67,7 +66,6 @@ Research Engineer, Cybersecurity RL
 New
 San Francisco, CA | New York City, NY
 Research Engineer, Cybersecurity RL (Reinforcement Learning)
-New
 San Francisco, CA | New York City, NY
 Research Engineer, Discovery
 San Francisco, CA

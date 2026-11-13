@@ -179,7 +179,7 @@ Marketing
 ·
 Full-time
 ·
-San Francisco, CA; New York, NY
+San Francisco, CA
 Apply →
 Community Operations Lead
 Marketing
@@ -419,7 +419,7 @@ Full-time
 ·
 San Francisco, CA; Los Angeles, CA; New York, NY; Chicago, IL; Austin, TX; Palo Alto, CA; Seattle, WA
 Apply →
-Model Engineer
+Model Engineer, RL Data
 Engineering
 ·
 Full-time
@@ -503,6 +503,13 @@ Full-time
 ·
 Austin, TX
 Apply →
+Regional Director, Global Government Sales
+Sales
+·
+Full-time
+·
+Washington, D.C.
+Apply →
 Regional Director, Strategic Enterprise
 Sales
 ·
@@ -545,12 +552,12 @@ Full-time
 ·
 San Francisco, CA
 Apply →
-Senior Integrated Campaigns Manager, AMER
-Marketing
+Senior Strategic Account Executive, Global Governments
+Sales
 ·
 Full-time
 ·
-San Francisco, CA
+Washington, D.C.
 Apply →
 Software Engineer, Billing
 Engineering
@@ -734,7 +741,7 @@ Full-time
 ·
 San Francisco, CA; New York, NY
 Apply →
-Sr. Model Engineer
+Sr. Model Engineer, RL Data
 Engineering
 ·
 Full-time
@@ -768,6 +775,13 @@ Sales
 Full-time
 ·
 Indonesia
+Apply →
+Strategic Account Executive, Enterprise - LATAM
+Sales
+·
+Full-time
+·
+Remote
 Apply →
 Strategic Account Executive, Enterprise - South Korea
 Sales

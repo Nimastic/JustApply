@@ -64,10 +64,6 @@ Simulation Engineer - Physics Modeling
 San Carlos
 ,
 California
-Software Engineer - Applied AI
-San Carlos
-,
-California
 Finance
 Vice President Finance - Corporate Controller
 San Carlos
@@ -191,7 +187,7 @@ Inventory Control Analyst
 San Carlos
 ,
 California
-Inventory Control Supervisor
+Inventory Control Manager
 San Carlos
 ,
 California
@@ -316,11 +312,11 @@ Senior Technical Recruiter - Hardware Engineering
 San Carlos
 ,
 California
-Sr HR People Partner
+Senior Technical Recruiter - Software Engineering
 San Carlos
 ,
 California
-Staff Manufacturing Recruiter
+Sr HR People Partner
 San Carlos
 ,
 California
@@ -374,10 +370,6 @@ Senior DevOps Engineer
 San Carlos
 ,
 California
-Senior Frontend Engineer
-San Carlos
-,
-California
 Senior Software Engineer - NEO Reliability
 San Carlos
 ,
@@ -387,10 +379,6 @@ San Carlos
 ,
 California
 Software Engineer - Backend
-San Carlos
-,
-California
-Staff AI Product Engineer
 San Carlos
 ,
 California
@@ -418,16 +406,8 @@ Staff Systems Engineer - Network
 San Carlos
 ,
 California
-Staff Technical Program Manager, Platform
-San Carlos
-,
-California
 Studio
 CAD Sculptor
-San Carlos
-,
-California
-Director of Product - Platform
 San Carlos
 ,
 California

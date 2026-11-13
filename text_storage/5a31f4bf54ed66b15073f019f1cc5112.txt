@@ -16,10 +16,10 @@ Cryptoassets
 3
 Openings
 Operations
-7
+8
 Openings
 Technology
-89
+90
 Openings
 Trading
 15
@@ -38,10 +38,10 @@ Singapore
 14
 Openings
 United Kingdom
-43
+44
 Openings
 United States
-82
+81
 Openings
 Who we are
 Work at DRW

@@ -394,7 +394,7 @@ Plays for
 Mitchell Felix
 Robot Field Operator
 Careers
-21 open roles
+22 open roles
 Open Roles
 All departments
 Commercial Ops - AS
@@ -435,7 +435,7 @@ Recruiting
 )
 Software Engineering
 (
-6
+7
 )
 All locations
 Abu Dhabi
@@ -456,7 +456,7 @@ New York City
 )
 Pittsburgh
 (
-15
+16
 )
 Washington, D.C.
 (
@@ -558,6 +558,10 @@ AI/Machine Learning Engineering Intern
 ↗
 Software Engineering
 New York City
+Full Stack Software Engineer | Robotics
+↗
+Software Engineering
+Pittsburgh
 Full Stack Software Engineering Intern
 ↗
 Software Engineering

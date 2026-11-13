@@ -3,9 +3,7 @@ Your Privacy
 Welcome to Kodiak. We respect your privacy and your right to control how we collect, use, and share your personal data. Please read our
 Privacy Policy
 to learn about our privacy practices.
-Accept
-Reject
-Manage
+I understand
 Skip to main content
 Technology
 Industries
@@ -91,17 +89,15 @@ Manufacturing
 Director of Supply Chain
 Mountain View, CA
 Hardware Quality Industrialization Engineer
-Lancaster, TX
-Hardware Quality Industrialization Engineer
 Mountain View, CA
+Hardware Quality Industrialization Engineer
+Lancaster, TX
 Manufacturing Test Engineer
 Mountain View, CA
 Staff Vehicle Manufacturing Engineer
 Mountain View, CA
 Electrical
 Electrical Engineering Technician
-Mountain View, CA
-Senior, Electrical Harness Engineer
 Mountain View, CA
 Staff, Hardware Electrical Engineer
 Mountain View, CA
@@ -110,17 +106,6 @@ Mountain View, CA
 Embedded
 Embedded Software Manager
 San Francisco Bay Area
-Integration
-Engineering Technician
-Mountain View, CA
-Senior Vehicle Integration Engineer
-Lancaster, TX
-Senior, Vehicle Integration Engineer
-Mountain View, CA
-Vehicle Electrical Integration Technician
-Odessa, TX
-Vehicle Integration Technician
-Lancaster, TX
 Infrastructure
 Fullstack Engineer, UI Tools
 Mountain View, CA
@@ -154,6 +139,15 @@ Staff Software Engineer, Learned & Hybrid Behavior Planning
 Mountain View, CA
 Tech Lead Manager, Motion Planning
 Mountain View, CA
+Integration
+Senior Vehicle Integration Engineer
+Lancaster, TX
+Senior, Vehicle Integration Engineer
+Mountain View, CA
+Vehicle Electrical Integration Technician
+Odessa, TX
+Vehicle Integration Technician
+Lancaster, TX
 Software Quality
 Software Quality Triage Specialist
 Mountain View, CA

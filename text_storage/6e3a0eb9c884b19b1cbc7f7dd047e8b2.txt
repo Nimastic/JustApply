@@ -22,13 +22,21 @@ Latest roles
 Role
 Team and location
 Date posted
+Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)
+(opens in a new tab)
+Security
+·
+,
+Singapore
+today
+Date posted: November 13, 2026
 Senior Product Manager, Flora
 (opens in a new tab)
 Product
 ·
 ,
 Austin, US · Lisbon, Portugal · London, UK · New York, NY · San Francisco, CA
-today
+yesterday
 Date posted: November 12, 2026
 Enterprise Account Executive, Thailand
 (opens in a new tab)
@@ -36,7 +44,7 @@ Sales
 ·
 ,
 Singapore
-today
+yesterday
 Date posted: November 12, 2026
 Named Account Executive, Thailand
 (opens in a new tab)
@@ -44,7 +52,7 @@ Sales
 ·
 ,
 Singapore
-today
+yesterday
 Date posted: November 12, 2026
 Principal Growth Marketing Manager
 (opens in a new tab)
@@ -52,7 +60,7 @@ Sales · Strategy
 ·
 ,
 Austin, US · New York, US · San Francisco, US
-yesterday
+2 days ago
 Date posted: November 11, 2026
 Data Center Architect
 (opens in a new tab)
@@ -60,17 +68,9 @@ Engineering
 ·
 ,
 Austin, TX
-yesterday
+2 days ago
 Date posted: November 11, 2026
-Senior Territory Account Executive (Kansas City)
-(opens in a new tab)
-Sales
-·
-,
-US
-yesterday
-Date posted: November 11, 2026
-See all 483 roles
+See all 479 roles
 Cloudflare Capabilities
 The behaviors we value and reference when measuring success, giving feedback, and rewarding performance. They serve as the building blocks of an inclusive company culture.
 Be curious to learn and grow

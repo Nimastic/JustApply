@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-336 Items
+337 Items
 Save this search
 Sort by
 Relevance
@@ -38,6 +38,66 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Software Engineer, Container Infrastructure (Technical Leadership)
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+Infrastructure
+AI Infrastructure
+Software Engineering
+Artificial Intelligence
+Engineering
+Technical Program Manager, Security
+Austin, TX
+⋅
+Menlo Park, CA
+⋅
+Washington, DC
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Legal, Finance, Facilities & Admin
+Technical Program Management
+Technical Security
+Program Management
+Legal
+Retail Operations Manager
+Los Angeles, CA
+⋅
+Burlingame, CA
+⋅
+New York, NY
+Facebook Reality Labs
+Sales & Marketing
+Operations
+Sales
+Executive Recruiting Partner
+Menlo Park, CA
+⋅
+New York, NY
+People & Recruiting
+Recruiting
+Program Manager, Emerging Technical Talent Strategy
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+People & Recruiting
+G and A
+Recruiting
+AI Engineer, Specialist - VR - (Technical Leadership)
+Redmond, WA
+⋅
+Burlingame, CA
+⋅
+New York, NY
+⋅
+Seattle, WA
+Artificial Intelligence
 Producer - Creative X
 Los Angeles, CA
 ⋅
@@ -49,6 +109,14 @@ San Francisco, CA
 Design & User Experience
 Creative
 Design
+Business Development Manager, Monetization
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Business Development & Partnerships
+Business Development
 Director of Product Staff, Instagram Business Ranking & Delivery
 Menlo Park, CA
 ⋅
@@ -67,107 +135,6 @@ New York, NY
 San Francisco, CA
 Design & User Experience
 Content Strategy
-Research Scientist Intern, LLM Memory and Skills (PhD)
-Bellevue, WA
-⋅
-Seattle, WA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Internship - PhD
-Computer Vision
-Machine Learning
-Research
-Software Engineer, Infrastructure
-Sunnyvale, CA
-⋅
-Los Angeles, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+7 more
-Software Engineering
-Engineering
-Software Engineer, Machine Learning
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+5 more
-Software Engineering
-Engineering
-Software Engineer, Systems ML
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Remote, US
-⋅
-New York, NY
-Artificial Intelligence
-AI Infrastructure
-Infrastructure
-Software Engineering
-Engineering
-Machine Learning
-Executive Administrative Partner
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Legal, Finance, Facilities & Admin
-G and A
-Software Engineer (Leadership) - Infrastructure
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+4 more
-Artificial Intelligence
-Instagram
-Facebook
-Generative AI
-Software Engineering
-WhatsApp
-Engineering
-Technical Program Manager
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Technical Program Management
-Program Management
 Page 1 of 34
 Job Search
 Technology Teams

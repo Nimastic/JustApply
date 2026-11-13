@@ -358,7 +358,7 @@ San Francisco
 Apply
 Sales
 (
-28
+26
 )
 Account Director
 San Francisco
@@ -428,17 +428,11 @@ Apply
 Head of Partnerships - Japan
 Tokyo
 Apply
-Partner Director - EMEA
-London
-Apply
 Partner Director - Japan
 Tokyo
 Apply
 Partner Director - US
 San Francisco, Austin, New York City
-Apply
-Partner Director (LATAM)
-Sao Paulo
 Apply
 Regional Sales Director
 San Francisco, Austin, New York City

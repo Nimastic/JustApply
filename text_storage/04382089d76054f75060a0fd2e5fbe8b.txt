@@ -157,6 +157,7 @@ Business Systems Architect
 Compliance Engineer
 Data & Integration Engineer, Business Systems
 Director, Governance Risk & Compliance
+Executive Assistant, CEO
 Senior Order Management Analyst
 Strategic Finance
 Customer Operations and Support
@@ -190,7 +191,7 @@ Software Engineer Intern (London, United Kingdom) (Summer 2027)
 Software Engineer Intern (Summer 2027)
 Engineering
 AI Applied Scientist
-Data Platform Engineer
+Applied Data Researcher
 Director, Data Science
 Forward Deployed Engineer
 Manager, Software Engineering - AI Infrastructure
@@ -271,6 +272,7 @@ Account Executive, Strategic
 Account Executive, Strategic (London, United Kingdom)
 Account Executive, Strategic (Paris, France)
 Account Executive, Strategic (São Paulo, Brazil)
+Customer Activation Manager (Tokyo, Japan)
 Customer Success Manager (São Paulo, Brazil)
 Director, SMB Sales (London, United Kingdom)
 Director, Strategic Sales (Berlin, Germany)
@@ -284,7 +286,6 @@ Manager, Mid-Market Sales (London, United Kingdom)
 Manager, SMB Sales
 Manager, Solutions Consulting
 Manager, Strategic Sales
-Onboarding Manager, Customer Experience (Tokyo, Japan)
 Sales Operations Manager
 Senior Account Executive, SMB
 Senior Account Executive, UK Government (London, United Kingdom)
@@ -296,6 +297,7 @@ Solutions Consultant, Mid-Market
 Solutions Consultant, SMB (London, United Kingdom)
 Solutions Consultant (Sydney, Australia)
 Talent
+Manager, Recruiting - Engineering
 Manager, Recruiting (London, United Kingdom)
 Manager, Recruiting - Sales
 Sales Recruiter (London, United Kingdom)

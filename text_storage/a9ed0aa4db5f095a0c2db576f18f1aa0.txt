@@ -104,16 +104,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
+Seoul
+Seoul
+Apply
+Forward Deployed Engineer - New Grad (2027)
 Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
 Tokyo
-Apply
-Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
 Apply
 Hardware Integration Engineer - New Grad (2027)
 Sunnyvale
@@ -202,12 +202,12 @@ Sunnyvale
 Apply
 Application Engineering
 Application Engineer - Technical Customer Lead
-Sunnyvale
-Sunnyvale
+Stockholm
+Stockholm
 Apply
 Application Engineer - Technical Customer Lead
-Stockholm
-Stockholm
+Sunnyvale
+Sunnyvale
 Apply
 Customer Engineering - Lead Customer Engineer
 Seoul
@@ -298,11 +298,11 @@ Automotive GTM
 Sunnyvale
 Sunnyvale
 Apply
-Senior Technical Business Development, EU Automotive (Sunnyvale HQ)
+Automotive OEM Consultant
 Sunnyvale
 Sunnyvale
 Apply
-Strategic Consultant
+Senior Technical Business Development, EU Automotive (Sunnyvale HQ)
 Sunnyvale
 Sunnyvale
 Apply
@@ -547,10 +547,6 @@ C++ Software Engineer - Physical AI
 Ann Arbor
 Ann Arbor
 Apply
-Director of Government Affairs
-Washington, D.C.
-Washington, D.C.
-Apply
 Embedded Software Engineer (Drone Stack)
 Fort Walton Beach, FL
 Fort Walton Beach, FL
@@ -754,6 +750,10 @@ EMEA Statutory Reporting Senior Manager
 London
 London
 Apply
+Finance & Accounting Program Manager
+Sunnyvale
+Sunnyvale
+Apply
 Intercompany Operations and Controls Manager
 Sunnyvale
 Sunnyvale
@@ -780,12 +780,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Software Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Staff Software Engineer
 Sunnyvale
@@ -840,7 +840,7 @@ Senior Electrical Engineer - Compute Hardware
 Sunnyvale
 Sunnyvale
 Apply
-Senior Electrical Engineer, Drone
+Senior Electrical Engineer, Drone (High-Voltage & Low-Voltage Power Systems)
 Sunnyvale
 Sunnyvale
 Apply
@@ -861,7 +861,7 @@ Head of Drone Hardware
 Sunnyvale
 Sunnyvale
 Apply
-Head of Hardware Manufacturing Operations
+Head of Hardware Operations
 Sunnyvale
 Sunnyvale
 Apply
@@ -895,12 +895,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
@@ -975,16 +975,16 @@ Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 IT Operations Engineer
 Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Product Security Engineer
 Sunnyvale
@@ -1085,12 +1085,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart
@@ -1285,12 +1285,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Tokyo
-Tokyo
+Stockholm
+Stockholm
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
+Tokyo
+Tokyo
 Apply
 Software Integration Engineer
 Stuttgart

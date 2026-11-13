@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-204 Open Roles
+203 Open Roles
+ROLE
+Post-Training Research Scientist
+FOCUS
+Trading Research
+LOCATION
+New York
 ROLE
 Compliance Tech Lead
 FOCUS
@@ -1183,12 +1189,6 @@ Systematic Investing
 LOCATION
 New York
 ROLE
-NLP Researcher
-FOCUS
-Systematic Investing
-LOCATION
-New York
-ROLE
 Quant Researcher, Power Dispatch Modeling
 FOCUS
 Global Macro Investing
@@ -1200,12 +1200,6 @@ FOCUS
 Data Engineering
 LOCATION
 Warsaw, PL
-ROLE
-NLP / AI Engineer
-FOCUS
-Systematic Investing
-LOCATION
-New York
 ROLE
 Quantitative Researcher - Machine Learning
 FOCUS

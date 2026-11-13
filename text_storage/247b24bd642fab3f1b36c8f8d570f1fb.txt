@@ -79,7 +79,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-269
+271
 roles across
 16
 departments
@@ -93,7 +93,7 @@ Senior Data Analyst, Public Sector
 Washington, DC
 Apply →
 Engineering
-65 roles
+68 roles
 Applied AI Engineer
 Kuwait City, Kuwait
 Apply →
@@ -104,10 +104,10 @@ Engineering Manager, Saudi Arabia
 Riyadh, Saudi Arabia
 Apply →
 Frontier Agent Engineering Manager, Enterprise
-London, UK
+San Francisco, CA
 Apply →
 Frontier Agent Engineering Manager, Enterprise
-San Francisco, CA
+London, UK
 Apply →
 Frontier Agent Engineering Manager, Enterprise
 New York, NY
@@ -163,6 +163,9 @@ Apply →
 Senior Applied AI Engineer
 London, UK
 Apply →
+Senior Engineering Manager, Kuwait
+Kuwait City, Kuwait
+Apply →
 Senior Frontier Agents Engineer (Applied AI)
 San Francisco, CA
 Apply →
@@ -170,10 +173,10 @@ Senior Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Riyadh, Saudi Arabia
+Kuwait City, Kuwait
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Kuwait City, Kuwait
+Riyadh, Saudi Arabia
 Apply →
 Senior Full-Stack Software Engineer, (Forward Deployed), GPS
 London, UK
@@ -186,6 +189,12 @@ New York, NY
 Apply →
 Senior Infrastructure Software Engineer, Enterprise AI
 San Francisco, CA
+Apply →
+Senior Software Engineer, Agent Oversight
+San Francisco, CA
+Apply →
+Senior Software Engineer, Agent Oversight
+New York, NY
 Apply →
 Senior Software Engineer, AI Operations, GPS
 Doha, Qatar
@@ -290,13 +299,7 @@ Staff/Senior Machine Learning Research Engineer, Intelligent Systems
 New York, NY
 Apply →
 Finance
-9 roles
-Enterprise Pricing Manager
-San Francisco, CA
-Apply →
-Enterprise Pricing Manager
-New York, NY
-Apply →
+7 roles
 Global Procurement Analyst
 Mexico City, MX
 Apply →
@@ -401,10 +404,10 @@ Apply →
 Director of Partner Marketing
 New York, NY
 Apply →
-Field Marketing & Events Manager, Frontier Data
+Field Marketing & Events Manager
 San Francisco, CA
 Apply →
-Field Marketing & Events Manager, Frontier Data
+Field Marketing & Events Manager
 New York, NY
 Apply →
 Product Marketing Lead, Enterprise
@@ -512,14 +515,14 @@ Product Leadership, Forward Deployed & Strategy
 London, UK
 Apply →
 Product Manager of AI Applications, Global Public Sector
+Riyadh, Saudi Arabia
+Apply →
+Product Manager of AI Applications, Global Public Sector
 Doha, Qatar
 Apply →
 Product Manager of AI Applications, Global Public Sector
 Dubai, UAE
 Apply →
-Product Manager of AI Applications, Global Public Sector
-Riyadh, Saudi Arabia
-Apply →
 Product Manager, Enterprise Core Platform
 New York, NY
 Apply →
@@ -531,12 +534,12 @@ New York, NY
 Apply →
 Senior AI Product Manager
 San Francisco, CA
-Apply →
-Senior Product Design Manager, Enterprise
-New York, NY
 Apply →
 Senior Product Design Manager, Enterprise
 London, UK
+Apply →
+Senior Product Design Manager, Enterprise
+New York, NY
 Apply →
 Staff Product Designer
 New York, NY
@@ -545,10 +548,10 @@ Staff Product Designer
 Washington, DC
 Apply →
 Staff Product Designer, Enterprise
-London, UK
+New York, NY
 Apply →
 Staff Product Designer, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer, Global Public Sector
 Doha, Qatar
@@ -569,7 +572,13 @@ Staff Product Manager, Agentic Platform
 Washington, DC
 Apply →
 Public Sector
-57 roles
+59 roles
+Account Executive, Navy
+San Diego, CA
+Apply →
+Account Executive, Navy
+Washington, DC
+Apply →
 Contracts Manager
 Washington, DC
 Apply →
@@ -807,7 +816,7 @@ VP, Research
 New York, NY
 Apply →
 Sales
-26 roles
+25 roles
 Deployment Strategist - DHS/DOJ
 Washington, DC
 Apply →
@@ -835,6 +844,12 @@ Apply →
 Enterprise AI Development Strategist
 San Francisco, CA
 Apply →
+Enterprise Pricing Manager
+San Francisco, CA
+Apply →
+Enterprise Pricing Manager
+New York, NY
+Apply →
 Expansion Specialist, Bids & Business Development
 London, UK
 Apply →
@@ -849,15 +864,6 @@ San Francisco, CA
 Apply →
 Head of Strategic Partnerships, Labs
 San Francisco, CA
-Apply →
-Program Manager, Sales Enablement
-Washington, DC
-Apply →
-Program Manager, Technical Enablement
-San Francisco, CA
-Apply →
-Program Manager, Technical Enablement
-New York, NY
 Apply →
 Public Sector Lead, Central & Local Government
 London, UK
@@ -903,13 +909,13 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-San Francisco, CA
+London, UK
 Apply →
 Software Engineer - New Grad
 Doha, Qatar
 Apply →
 Software Engineer - New Grad
-London, UK
+San Francisco, CA
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA
@@ -918,10 +924,10 @@ Software Engineering Intern (Summer 2027)
 London, UK
 Apply →
 Software Engineering Intern (Summer 2027)
-Doha, Qatar
+San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-San Francisco, CA
+Doha, Qatar
 Apply →
 Join
 University

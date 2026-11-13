@@ -21,7 +21,7 @@ Pricing
 Company
 Contact us
 Get Started
-Bilt selects Cerebras for faster AI in Neighborhood OS and Bilt Concierge >>
+Cerebras Systems Delivers Record Revenue in Third Quarter 2026 >>
 Open positions
 All locations
 All departments
@@ -144,6 +144,8 @@ Senior Software Engineer, ML API – AI Inference
 Toronto, CAN, Sunnyvale, CA
 Staff Software Engineer, Observability
 Sunnyvale, CA
+Engineering Manager, Inference Router
+Sunnyvale, CA, Toronto, CAN
 IT & Security
 Software Supply Chain Security Engineer
 Sunnyvale, CA
@@ -199,8 +201,6 @@ Design Verification Engineer
 Sunnyvale, CA
 Physical Design Engineer
 Sunnyvale, CA
-Manufacturing Automation Engineer
-Sunnyvale, CA
 Systems Debug Engineer- EE
 Sunnyvale, CA
 Staff Design Verification Engineer
@@ -218,23 +218,6 @@ Sunnyvale, CA
 Power Manufacturing Test Development Engineer
 Sunnyvale, CA
 Senior Hardware Reliability Test Engineer – Electrical Systems & Power Electronics
-Sunnyvale, CA
-Corporate
-Director, Strategic Finance - Corporate FP&A
-Sunnyvale, CA
-Director, Intellectual Property Counsel
-Sunnyvale, CA
-Accounting Manager
-Sunnyvale, CA
-Head of SOX Internal Audit
-Sunnyvale, CA
-Senior Operations Accountant
-Sunnyvale, CA
-Managing Counsel,  Data Center & Infrastructure
-Sunnyvale, CA
-Senior Counsel, Data Center & Infrastructure
-Sunnyvale, CA, Remote (US)
-SEC Reporting & Technical Accounting Manager
 Sunnyvale, CA
 Datacenters
 Staff Technical Program Manager, Data Center New Product Introduction
@@ -269,6 +252,8 @@ Lead Technical Program Manager, Critical Facility Operations
 Remote (US)
 Lead Engineer, Critical Facility Operations
 Remote (US)
+Cloud Capacity Planner
+Sunnyvale, CA
 University Departments
 Software Engineer - New Grad 2026
 Toronto, CAN
@@ -280,6 +265,21 @@ Supplier Quality Engineer - New Grad
 Sunnyvale, CA
 Sales & Partnerships
 Technical Business Development Manager
+Sunnyvale, CA
+Corporate
+Director, Intellectual Property Counsel
+Sunnyvale, CA
+Accounting Manager
+Sunnyvale, CA
+Head of SOX Internal Audit
+Sunnyvale, CA
+Senior Operations Accountant
+Sunnyvale, CA
+Managing Counsel,  Data Center & Infrastructure
+Sunnyvale, CA
+Senior Counsel, Data Center & Infrastructure
+Sunnyvale, CA, Remote (US)
+SEC Reporting & Technical Accounting Manager
 Sunnyvale, CA
 Follow
 Get Updates
