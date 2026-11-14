@@ -223,13 +223,6 @@ Full-time
 ·
 Singapore
 Apply →
-Engineering Manager, Agent & Product Security
-Engineering
-·
-Full-time
-·
-New York, NY; Palo Alto, CA
-Apply →
 Executive Assistant - Japan
 Sales
 ·
@@ -517,6 +510,13 @@ Full-time
 ·
 San Francisco, CA
 Apply →
+Regional Director, Strategic Enterprise - LATAM
+Sales
+·
+Full-time
+·
+Remote
+Apply →
 Sales Development Leader - APJ
 Sales
 ·
@@ -559,96 +559,12 @@ Full-time
 ·
 Washington, D.C.
 Apply →
-Software Engineer, Billing
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Bugbot
-Engineering
-·
-Full-time
-·
-New York, NY; San Francisco, CA
-Apply →
-Software Engineer, Client Infrastructure
-Engineering
-·
-Full-time
-·
-San Francisco, CA
-Apply →
-Software Engineer, Compute Infra
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Core Services
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Developer Productivity
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Enterprise
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Enterprise Platform
-Engineering
-·
-Full-time
-·
-San Francisco, CA
-Apply →
-Software Engineer, Infrastructure
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
 Software Engineer, ML Platform
 Engineering
 ·
 Full-time
 ·
 Palo Alto, CA
-Apply →
-Software Engineer, Model Lifecycle and Signals
-Engineering
-·
-Full-time
-·
-New York, NY; San Francisco, CA
-Apply →
-Software Engineer, Model Routing & Inference
-Engineering
-·
-Full-time
-·
-New York, NY; San Francisco, CA
-Apply →
-Software Engineer, New Grad 2027
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY; Palo Alto, CA
 Apply →
 Software Engineer, Pretraining Data
 Engineering
@@ -664,40 +580,12 @@ Full-time
 ·
 Palo Alto, CA
 Apply →
-Software Engineer, Security
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Services Platform
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
-Software Engineer, Storage
-Engineering
-·
-Full-time
-·
-San Francisco, CA; New York, NY
-Apply →
 Solutions Architect
 Customer Success
 ·
 Full-time
 ·
 Remote
-Apply →
-Solutions Architect - Australia
-Solutions
-·
-Full-time
-·
-Australia
 Apply →
 Solutions Architect - India
 Solutions

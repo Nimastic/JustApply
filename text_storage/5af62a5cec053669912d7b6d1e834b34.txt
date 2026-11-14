@@ -358,7 +358,7 @@ San Francisco
 Apply
 Sales
 (
-26
+24
 )
 Account Director
 San Francisco
@@ -405,12 +405,6 @@ Applied AI Transformation Manager
 San Francisco
 •
 New York City
-Apply
-Applied AI Transformation Manager - ANZ
-Sydney
-Apply
-Applied AI Transformation Manager - APAC
-Singapore
 Apply
 Applied AI Transformation Manager - MENA
 Riyadh

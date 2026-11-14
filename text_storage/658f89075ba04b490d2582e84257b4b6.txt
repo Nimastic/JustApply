@@ -185,8 +185,7 @@ Shop Apple Home Collection
 Shop Home Accessories
 Personal Setup
 More from Home
-Apple TV Support
-HomePod Support
+Home Support
 AppleCare for Apple TV
 AppleCare for HomePod
 Apple TV app
@@ -326,7 +325,7 @@ Sort by:
 Newest
 US - Specialist: Seasonal, Part-time
 Apple Retail
-Nov 13, 2026
+Nov 14, 2026
 Location
 Various Locations within United States
 Actions
@@ -341,304 +340,306 @@ Weekly Hours:
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
 Submit Resume
-Hardware Systems Design & Integration Engineer - AirPods
-Hardware
-Nov 13, 2026
+Staff / Principal ML Infrastructure Engineer
+Software and Services
+Nov 14, 2026
 Location
 Cupertino
 Actions
 See full role description
 Share
-Hardware Systems Design & Integration Engineer - AirPods 200694768-0836
+Staff / Principal ML Infrastructure Engineer 200695047-0836
 Role Number:
-200694768-0836
+200695047-0836
 Weekly Hours:
 40 Hours
-Every day, hundreds of millions of people reach for AirPods to tune into their world. Behind that seamless, effortless experience is some of the most advanced electrical and mechanical integration in consumer hardware - world-class acoustic performance, custom silicon, sensor fusion, and incredible battery life.
-Our team owns the end-to-end electrical design of AirPods. We are seeking a Senior Technical Lead to define what comes next. In this role, you will define system-level architecture, push the boundaries of physical architecture, wireless systems, and custom silicon, and set the tech...
+The Apple AI Platform team builds the foundational data storage, table format, and high-throughput data-loading systems powering Apple Foundation Models and large-scale ML training. We are designing and building an AI-native table format from the ground up: combining transactional snapshot isolation, concurrent updates, and multimodal schema evolution with built-in global indexing and sub-millisecond random access across multi-petabyte datasets on thousands of GPUs and TPUs.
 Submit Resume
-Compensation Compliance & Administration Lead- Senior Program Manager
-Corporate Functions
-Nov 13, 2026
+RF System Integration Engineer (Instrument Engineering)
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+RF System Integration Engineer (Instrument Engineering) 200690352-0836
+Role Number:
+200690352-0836
+Weekly Hours:
+40 Hours
+Join our Wireless team and build the technology that makes every Apple radio possible. We're looking for engineers with strong fundamentals in RF, communication, software and signal processing to join the growing Instrument Engineering team at Apple. This small team of extraordinary engineers designs and produces precision RF and analog test equipment used to calibrate and validate cellular (5G/4G and legacy), Wi-Fi, Bluetooth, mmWave, UWB, and NFC radios across millions of iPhone, iPad, Mac, and Apple Watch units. You'll collaborate closely with RF, software, and signal processing engineer...
+Submit Resume
+RF Design Engineer – Next-Gen Wireless
+Hardware
+Nov 14, 2026
+Location
+San Diego
+Actions
+See full role description
+Share
+RF Design Engineer – Next-Gen Wireless 200694361-3543
+Role Number:
+200694361-3543
+Weekly Hours:
+40 Hours
+Join a once-in-a-lifetime opportunity to deliver outstanding performance for wireless products. As a senior member of the Product RF Design team, you will be at the forefront of wireless technology, pushing the boundaries of achievable performance for innovative products. You'll bring deep, hands-on expertise to a product development team that shapes current and future generations of Apple products, and you'll play a key role in building team capability — guiding junior engineers, fostering collaboration, and strengthening the team's technical culture as it grows. We're looking for an exper...
+Submit Resume
+Systems Software Engineer, Platform Architecture
+Hardware
+Nov 14, 2026
+Location
+Cambridge
+Actions
+See full role description
+Share
+Systems Software Engineer, Platform Architecture 200695051-1242
+Role Number:
+200695051-1242
+Weekly Hours:
+40 Hours
+Imagine what you can do here. At Apple, new ideas have a way of becoming extraordinary products very quickly. Bring passion and dedication to your job, and there’s no telling what we can accomplish together.
+Do you love crafting elegant solutions to highly complex challenges? Can you intrinsically see the importance in every detail? At Apple, our Platform Architecture group is responsible for connecting our hardware and software into one unified system. Join this team, and you’ll collaborate with engineers across Apple to build and deploy forward-looking prototype systems that contribute t...
+Submit Resume
+RF System Integration Engineer — Cellular Technology
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+RF System Integration Engineer — Cellular Technology 200682611-0836
+Role Number:
+200682611-0836
+Weekly Hours:
+40 Hours
+Apple System RF team is looking for an experienced Radio Frequency (RF) System Integration Engineer to lead the development and optimization of RF automation testing systems used across Apple's cellular products. You'll bring deep technical judgment to a high-caliber, global team, driving system architecture decisions and mentoring other engineers while staying hands-on with the hardest RF problems.
+Submit Resume
+Software Engineering Program Manager - visionOS
+Software and Services
+Nov 14, 2026
+Location
+Sunnyvale
+Actions
+See full role description
+Share
+Software Engineering Program Manager - visionOS 200694999-3956
+Role Number:
+200694999-3956
+Weekly Hours:
+40 Hours
+Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do mo...
+Submit Resume
+Performance Modeling Software Engineer, Platform Architecture
+Hardware
+Nov 14, 2026
 Location
 Austin
 Actions
 See full role description
 Share
-Compensation Compliance & Administration Lead- Senior Program Manager  200693696-0157
+Performance Modeling Software Engineer, Platform Architecture 200695049-0157
 Role Number:
-200693696-0157
+200695049-0157
 Weekly Hours:
 40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
-We are seeking an experienced Compensation Lead to establish, oversee, and optimize global compensation compliance and administrative operations. Sitting within the compensation administration team, this individual will serve as the operational anchor, leading efforts to
-translate regulatory, CBA, and statutory requirements into robust, scalable administrative pr...
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-Compensation Compliance & Administration Lead- Senior Program Manager
-Corporate Functions
-Nov 13, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Compensation Compliance & Administration Lead- Senior Program Manager  200693696-0836
-Role Number:
-200693696-0836
-Weekly Hours:
-40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
-We are seeking an experienced Compensation Lead to establish, oversee, and optimize global compensation compliance and administrative operations. Sitting within the compensation administration team, this individual will serve as the operational anchor, leading efforts to
-translate regulatory, CBA, and statutory requirements into robust, scalable administrative pr...
-Submit Resume
-Software Engineer, Apple Ads
-Software and Services
-Nov 13, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Software Engineer, Apple Ads 200694842-0836
-Role Number:
-200694842-0836
-Weekly Hours:
-40 Hours
-Apple is where we use the power of technology to enrich people's lives. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something — you'll ad...
-Submit Resume
-Machine Learning Engineer
-Software and Services
-Nov 13, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Machine Learning Engineer  200694852-0836
-Role Number:
-200694852-0836
-Weekly Hours:
-40 Hours
-At Apple, we work every day to create products that enrich people's lives. Our Apple Ads group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in the App Store, Apple Maps, and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy.
-The Apple Ads Machine Learning Platform team's mission is to empo...
-Submit Resume
-Software Development Engineer, Test Tooling
-Software and Services
-Nov 13, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Software Development Engineer, Test Tooling 200693291-0836
-Role Number:
-200693291-0836
-Weekly Hours:
-40 Hours
-At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses. Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, Stocks and MLS Season Pass etc. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes—from small app developers to big, global brands. Because when ...
-Submit Resume
-Senior Computer Vision Architect
+Performance Modeling Software Engineer, Platform Architecture
 Hardware
-Nov 13, 2026
+Nov 14, 2026
 Location
-Seattle
+Beaverton
 Actions
 See full role description
 Share
-Senior Computer Vision Architect 200694834-3337
+Performance Modeling Software Engineer, Platform Architecture 200695049-0505
 Role Number:
-200694834-3337
+200695049-0505
 Weekly Hours:
 40 Hours
-The Video Computer Vision and Video Engineering teams are centralized applied research and engineering organizations responsible for developing real-time on-device Computer Vision, Machine Perception, and Image Quality technologies for Apple products. We balance research and product development to deliver Apple quality, state-of-the-art experiences. We innovate across the full stack and partner with hardware and software teams to influence SW architecture, sensors, silicon, and PD/ID roadmaps that bring our vision to life.
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-Senior Computer Vision Architect
+Performance Modeling Software Engineer, Platform Architecture
 Hardware
-Nov 13, 2026
+Nov 14, 2026
 Location
-Sunnyvale
+Cambridge
 Actions
 See full role description
 Share
-Senior Computer Vision Architect 200694834-3956
+Performance Modeling Software Engineer, Platform Architecture 200695049-1242
 Role Number:
-200694834-3956
+200695049-1242
 Weekly Hours:
 40 Hours
-The Video Computer Vision and Video Engineering teams are centralized applied research and engineering organizations responsible for developing real-time on-device Computer Vision, Machine Perception, and Image Quality technologies for Apple products. We balance research and product development to deliver Apple quality, state-of-the-art experiences. We innovate across the full stack and partner with hardware and software teams to influence SW architecture, sensors, silicon, and PD/ID roadmaps that bring our vision to life.
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-Senior Data Governance Manager, Marcom
-Marketing
-Nov 13, 2026
+Performance Modeling Software Engineer, Platform Architecture
+Hardware
+Nov 14, 2026
 Location
-Sunnyvale
+Cupertino
 Actions
 See full role description
 Share
-Senior Data Governance Manager, Marcom 200694791-3956
+Performance Modeling Software Engineer, Platform Architecture 200695049-0836
 Role Number:
-200694791-3956
+200695049-0836
 Weekly Hours:
 40 Hours
-Marcom is the creatively-led global team that oversees Apple’s consumer facing marketing. We ensure the flawless development and execution of world-class communications across all medias and platforms. Every day, hundreds of millions of Apple customers around the world interact with our products. We drive the strategy and creative work that provide both new and existing customers with simple, engaging and inspiring marketing experiences.
-The Governance and Technology Operations (GTO) team safeguards Marcom’s people and work by building a strong governance framework and running the reliable...
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-Senior Tools Governance Manager, Marcom
-Marketing
-Nov 13, 2026
+Performance Modeling Software Engineer, Platform Architecture
+Hardware
+Nov 14, 2026
 Location
-Sunnyvale
+Orlando
 Actions
 See full role description
 Share
-Senior Tools Governance Manager, Marcom 200694798-3956
+Performance Modeling Software Engineer, Platform Architecture 200695049-2907
 Role Number:
-200694798-3956
+200695049-2907
 Weekly Hours:
 40 Hours
-Marcom is the creatively-led global team that oversees Apple’s consumer facing marketing. We ensure the flawless development and execution of world-class communications across all medias and platforms. Every day, hundreds of millions of Apple customers around the world interact with our products. We drive the strategy and creative work that provide both new and existing customers with simple, engaging and inspiring marketing experiences.
-The Governance and Technology Operations (GTO) team safeguards Marcom’s people and work by building a strong governance framework and running the reliable...
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-Applied Machine Learning Research Engineer - Multimodal for Human Understanding
+Gen AI Portfolio Intake Program Manager
 Machine Learning and AI
-Nov 13, 2026
+Nov 14, 2026
+Location
+Austin
+Actions
+See full role description
+Share
+Gen AI Portfolio Intake Program Manager 200692635-0157
+Role Number:
+200692635-0157
+Weekly Hours:
+40 Hours
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. Everything we build is the result of people in different roles and teams working together to make each other's ideas stronger. That passion for innovation also applies to our internal practices, stren...
+Submit Resume
+Gen AI Portfolio Intake Program Manager
+Machine Learning and AI
+Nov 14, 2026
 Location
 Sunnyvale
 Actions
 See full role description
 Share
-Applied Machine Learning Research Engineer - Multimodal for Human Understanding 200694398-3956
+Gen AI Portfolio Intake Program Manager 200692635-3956
 Role Number:
-200694398-3956
+200692635-3956
 Weekly Hours:
 40 Hours
-We’re starting to see the incredible potential of multimodal foundation and large language models, and many applications in the computer vision and machine learning domain that previously appeared infeasible are now within reach. We are looking for a highly motivated and skilled Applied Machine Learning Research Engineer to join our team in the Video Computer Vision group and help us push the boundaries of human understanding. The Video Computer Vision org has pioneered human-centric real-time features such as FaceID, FaceKit, and Gaze and Hand gesture control which have changed the way mil...
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. Everything we build is the result of people in different roles and teams working together to make each other's ideas stronger. That passion for innovation also applies to our internal practices, stren...
 Submit Resume
-RF Communications Systems Engineer
-Hardware
-Nov 13, 2026
-Location
-San Diego
-Actions
-See full role description
-Share
-RF Communications Systems Engineer 200694829-3543
-Role Number:
-200694829-3543
-Weekly Hours:
-40 Hours
-At Apple, we strive every single day to craft products that enrich people’s lives. Our successes are the result of skilled domain experts working in an environment which encourages creativity, collaboration, and re-thinking of old problems in new ways! As a member of the Satellite Connectivity Group, you will work on the satellite network that enables connectivity to iPhone and Watch Ultra when off the grid without cellular or Wi-Fi coverage. Every day, Apple customers use Emergency SOS, Roadside assistance, and Messages via satellite to stay connected when they have no other means to commu...
-Submit Resume
-UI Software Engineer - Apple TV
-Software and Services
-Nov 12, 2026
-Location
-San Diego
-Actions
-See full role description
-Share
-UI Software Engineer - Apple TV 200694832-3543
-Role Number:
-200694832-3543
-Weekly Hours:
-40 Hours
-The Apple TV app brings together movies, shows, and live sports into one beautifully unified experience across Apple devices and dozens of third-party platforms. Our teams build the interfaces and interactions that millions of people rely on every day to discover, watch, and enjoy content they love. If you are passionate about crafting apps and experiences that ship at a global scale, this is your opportunity to leave a lasting mark on how the world experiences Apple.
-Submit Resume
-Hardware System Validation Engineer
-Hardware
-Nov 12, 2026
-Location
-San Jose
-Actions
-See full role description
-Share
-Hardware System Validation Engineer 200694620-3749
-Role Number:
-200694620-3749
-Weekly Hours:
-40 Hours
-Join the system validation team at Apple's Hardware Engineering, where we validate system-level performance of Apple SoCs and other key modules (cameras, displays, and other state-of-the-art sensors) in a system environment that mirrors real product use.
-Submit Resume
-Engineering Program Manager, CoreOS
-Software and Services
-Nov 12, 2026
+Senior Legal Counsel – Home and Wearables Product Counsel
+Corporate Functions
+Nov 14, 2026
 Location
 Cupertino
 Actions
 See full role description
 Share
-Engineering Program Manager, CoreOS 200694838-0836
+Senior Legal Counsel – Home and Wearables Product Counsel 200689996-0836
 Role Number:
-200694838-0836
+200689996-0836
 Weekly Hours:
 40 Hours
-Why Apple? Imagine what you could do here. At Apple, new insights have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The Core OS organization is looking for an experienced program manager to lead highly multi-functional technology efforts across Mac OS X and iOS. This is an opportunity to drive key software initiatives across subject areas as well as integrating them with hardware roadmaps. This role requires an energetic and motivated individual with strong c...
+Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job, and there's no telling what you could accomplish.
+Do you love tackling big challenges without precedent? Do you possess deep legal knowledge and a passion for innovation? As part of our team, you’ll provide legal support for our products and businesses across the globe. Working for a company that invents entire categories and industries means you’ll be challenged to creatively apply your expertise to rare and o...
 Submit Resume
-Machine Learning Engineer, Evaluation and Quality, Creativity Apps
-Software and Services
-Nov 12, 2026
+Channel Activation Lead
+Marketing
+Nov 14, 2026
 Location
-Various Locations within San Diego Metro Area
+Culver City
 Actions
 See full role description
 Share
-Machine Learning Engineer, Evaluation and Quality, Creativity Apps 200691707-7141
+Channel Activation Lead 200695056-0670
 Role Number:
-200691707-7141
+200695056-0670
 Weekly Hours:
 40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming outstanding products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
-The Creativity Apps team is looking for a Machine Learning Engineer focused on the quality and evaluation of ML models and AI features in our creativity applications. You will define how we measure whether the product and AI features are good enough to ship: designing the evaluation strategy and metrics, building the datasets and infrastructure behind them,...
+At Apple, we work every day to create products that enrich people’s lives. Our Apple Ads group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in the App Store, Apple News, and Apple TV. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. Launched in 2016, Apple Ads is an easy, efficient and fast-growing platform...
 Submit Resume
-Senior Software Engineer, AI Inference Asset Delivery Platform
-Software and Services
-Nov 12, 2026
-Location
-Seattle
-Actions
-See full role description
-Share
-Senior Software Engineer, AI Inference Asset Delivery Platform 200694541-3337
-Role Number:
-200694541-3337
-Weekly Hours:
-40 Hours
-Join the Apple Service Engineering (ASE) team and drive innovation that matters! The ASE team builds and provides systems and infrastructure that fuel Apple's services. As part of this team, you will be responsible for building and integrating technologies that enhance people's lives. We are also tasked with enabling Apple Intelligence and Private Cloud Compute in the cloud. We're looking for a Senior Software Engineer to lead the shift from repository-based asset intake to a service-oriented platform that delivers client assets to server nodes across our data centers.
-Submit Resume
-PHY Systems Engineer
+Performance Modeling Software Architect, Platform Architecture
 Hardware
-Nov 12, 2026
+Nov 14, 2026
 Location
-San Diego
+Austin
 Actions
 See full role description
 Share
-PHY Systems Engineer 200694578-3543
+Performance Modeling Software Architect, Platform Architecture 200695054-0157
 Role Number:
-200694578-3543
+200695054-0157
 Weekly Hours:
 40 Hours
-We are searching for a talented engineer to join our cellular systems engineering team of innovators. In this role, you will be a key member of modem systems engineering team with a broad view of the end-to-end baseband modem.
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
-PHY Systems Engineer
+Performance Modeling Software Architect, Platform Architecture
 Hardware
-Nov 12, 2026
+Nov 14, 2026
 Location
-Sunnyvale
+Beaverton
 Actions
 See full role description
 Share
-PHY Systems Engineer 200694578-3956
+Performance Modeling Software Architect, Platform Architecture 200695054-0505
 Role Number:
-200694578-3956
+200695054-0505
 Weekly Hours:
 40 Hours
-We are searching for a talented engineer to join our cellular systems engineering team of innovators. In this role, you will be a key member of modem systems engineering team with a broad view of the end-to-end baseband modem.
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
+Submit Resume
+Performance Modeling Software Architect, Platform Architecture
+Hardware
+Nov 14, 2026
+Location
+Cambridge
+Actions
+See full role description
+Share
+Performance Modeling Software Architect, Platform Architecture 200695054-1242
+Role Number:
+200695054-1242
+Weekly Hours:
+40 Hours
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
+Submit Resume
+Performance Modeling Software Architect, Platform Architecture
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Performance Modeling Software Architect, Platform Architecture 200695054-0836
+Role Number:
+200695054-0836
+Weekly Hours:
+40 Hours
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
+In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
 Page Number
 Press Return/Enter key to go to the page
 Of
-228
+229
 Apple Footer
 Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
 Learn more about your EEO rights as an applicant

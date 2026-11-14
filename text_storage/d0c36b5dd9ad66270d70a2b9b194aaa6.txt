@@ -128,7 +128,6 @@ Hardware
 Legal
 Product
 Software
-Technical Program Management
 Executive Business Partner
 Mountain View, California
 Administration
@@ -161,16 +160,6 @@ Munich, Germany
 Hardware
 Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for industrial robotics in the near future – with software and data at the core.
 Apply now
-Robotics Software Engineer - Grasping
-Mountain View, California
-Software
-As a Robotics Software Engineer, you will develop innovative algorithms and strategies to facilitate robust grasping and manipulation in complex, real-world manufacturing environments. You will be responsible for abstracting the inherent complexity of robotic manipulation into intuitive, seamless workflows. By building a software layer that possesses a deep understanding of manufacturing tasks, you enable users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
-Apply now
-Robotics Software Engineer - Grasping
-Mountain View, California
-Software
-As a Robotics Software Engineer, you will develop and implement robust algorithms to facilitate complex robotic operations in real-world manufacturing environments. Our team is responsible for both motion planning and grasping, with this role dedicated specifically to advancing our grasping capabilities. To succeed, you will bring a strong foundation in robotics—whether from a background in motion planning, control systems, or manipulation—to write excellent, production-quality code. You will help abstract the inherent complexity of robotic tasks into intuitive, seamless workflows, enabling users to transition from design to execution without needing deep subject matter expertise. Working alongside a diverse team of roboticists and application engineers, you will integrate and validate solutions across various industrial tasks and contribute to the launch of impactful robotics products.
-Apply now
 Senior Automation and Controls Engineer
 Mountain View, California
 Hardware
@@ -201,16 +190,6 @@ Software Engineer, Perception
 Singapore
 Software
 As a Software Engineer in the Perception team,  you will apply your strong skills in software engineering, deep learning, 3D computer vision to implement, optimize and deploy robust and reliable perception capabilities for industrial robots. You will be instrumental in developing and deploying advanced AI models for object detection, object pose estimation, 3D reconstruction, and grasping. Your work will enable robots to intelligently interact with their environment in real-world industrial settings, translating cutting-edge deep learning research into robust, deployable solutions that make industrial robotics more intelligent and accessible.
-Apply now
-Staff Robotics Software Engineer - Grasping
-Mountain View, California
-Software
-As a Staff Robotics Software Engineer and Researcher, you will take full technical ownership of developing and deploying robotics grasping and manipulation algorithms, leading the end-to-end lifecycle from foundational research to global deployment. You will help define the architecture and long-term strategy that enables robots to interact with the physical world, researching and scoping innovative solutions for robust grasping in industrial settings. By abstracting the inherent complexity of robotic manipulation into intuitive workflows, you will work with a multidisciplinary team to integrate and validate high-availability software within complex, real-world industrial applications for manufacturing environments.
-Apply now
-Technical Program Manager, Robotics Solution Delivery
-Mountain View, California
-Technical Program Management
-As a Technical Program Manager (TPM), you’ll manage the delivery of cutting edge automation technology and robotic solutions to our customers and partners. You will have the opportunity to collaborate with some amazing and talented people, who also happen to be working on highly creative and ambitious efforts.
 Apply now
 There are no matches for the searches/filters you have applied. Please try removing some filters and/or other search terms.
 Don't see an open role that fits what you’re looking for?

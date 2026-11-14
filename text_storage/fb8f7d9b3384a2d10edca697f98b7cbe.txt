@@ -488,41 +488,10 @@ Find your career at Boston Dynamics
 Explore our open opportunities and apply today to start your journey with us.
 Boston Dynamics does not accept unauthorized solicitations from recruiting agencies and will not pay any associated fees with said solicitations.
 Location
-Waltham, MA
-Waltham Office (POST)
-Indiana (Remote)
-Savannah
-Billerica (MA)
-Austria (Remote)
-Georgia (Remote)
 Time Type
 Full Time
 Job Type
-Regular
-International Employee
-Intern
 Specialization
-Accounting
-Administrative Support
-Applications/Systems Engineering
-Artificial Intelligence
-Compliance
-Data Management & Analytics
-Development Engineering
-Field Support
-Hardware
-Logistics
-Machine Shop
-Manufacturing Engineering
-Product Management
-Product Marketing
-Program/Project Management
-Project Management
-Purchasing/Procurement
-R&D
-Sales Job Group
-Software
-Support
 Reset
 Senior Staff Manufacturing Test Development Engineer
 (opens in new tab)
@@ -595,13 +564,13 @@ Senior Staff Mechanical Engineer - Atlas
 (opens in new tab)
 Waltham, MA
 Full time
-Senior Staff Electrical Test Engineer - Atlas
+CNC Machinist, IV
 (opens in new tab)
 Waltham Office (POST)
 Full time
-Senior Staff Robotics Simulation Engineer - Thermal & Fluids Analysis
+Senior Staff Electrical Test Engineer - Atlas
 (opens in new tab)
-Waltham, MA
+Waltham Office (POST)
 Full time
 Previous
 1

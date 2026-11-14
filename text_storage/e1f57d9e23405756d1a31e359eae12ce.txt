@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-160
+158
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,7 +133,7 @@ English
 English
 Français (Canada)
 Jobs search results
-160
+158
 jobs matched
 filter_list
 Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
@@ -481,6 +481,30 @@ link
 Copy link
 email
 Email a friend
+Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++, Python, or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
+link
+Copy link
+email
+Email a friend
 Staff Software Engineer, Backend Infrastructure and Rapid Prototyping, Google Labs
 corporate_fare
 Google
@@ -507,30 +531,6 @@ Bachelor’s degree in Computer Science, Mathematics, or equivalent practical ex
 Learn more
 share
 Share Staff Software Engineer, Backend Infrastructure and Rapid Prototyping, Google Labs
-link
-Copy link
-email
-Email a friend
-Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
-corporate_fare
-Google
-place
-Sunnyvale, CA, USA
-; New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Sunnyvale, CA, USA
-; New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++, Python, or Go.
-2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
 link
 Copy link
 email
@@ -670,8 +670,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 20 of 160 rows
-1‑20 of 160
+Showing 1 to 20 of 158 rows
+1‑20 of 158
 navigate_next
 Go to next page
 Follow Life at Google on

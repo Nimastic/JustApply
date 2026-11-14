@@ -38,29 +38,27 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Architecture
-Performance Model
-Performance Modeling Architect
-Austin, Texas, United States; Santa Clara, California, United States
+Operations
+Finance
+Accounting Manager
+Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
 Apply
 AI Hardware
-IP Software
-Senior Compiler Engineer, AI IP
-Belgrade, Serbia
+AI Accelerator Architect
+Austin, Texas, United States; Toronto, Ontario, Canada
 Apply
-Operations
-Recruiting
-Early Talent Recruiter
-Austin, Texas, United States; Boston, Massachusetts, United States; Raleigh, North Carolina, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
-Apply
-Systems Engineering: Product
-Product Manager- Enterprise Platform
+Architecture
+DFT Engineer
 Santa Clara, California, United States
 Apply
-Customer - Operations
-Automotive
-Emulation Engineer, Automotive Robotics
-Munich, Germany
+Advanced Physical Design
+AI/ML Physical Design Flow Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+RISC V
+Perf
+Engineer, CPU Performance Verification
+Austin, Texas, United States; Santa Clara, California, United States
 Apply
 Show all postings
 Open Future

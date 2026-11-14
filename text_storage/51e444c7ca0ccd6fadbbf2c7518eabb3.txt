@@ -181,10 +181,6 @@ Remote
 APPLY →
 Apply for Marketing Analyst in Marketing, Remote
 Operations
-Senior Supplier Quality Engineer
-Hybrid- Salem, OR or Fremont, CA
-APPLY →
-Apply for Senior Supplier Quality Engineer in Operations, Hybrid- Salem, OR or Fremont, CA
 Principal Technical Program Manager
 Hybrid- Fremont, CA
 APPLY →
@@ -340,6 +336,10 @@ Senior Data Engineer, Data Analytics
 Remote
 APPLY →
 Apply for Senior Data Engineer, Data Analytics in Software Engineering, Remote
+Senior Software Engineer, Release Engineering
+Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+APPLY →
+Apply for Senior Software Engineer, Release Engineering in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 Software Engineer, Robot Diagnostics & Calibration
 Onsite- Salem, OR
 APPLY →
@@ -352,6 +352,10 @@ Software Engineer III, Simulation
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
 Apply for Software Engineer III, Simulation in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+Software Engineer III, Software Services (Applications)
+Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
+APPLY →
+Apply for Software Engineer III, Software Services (Applications) in Software Engineering, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 AI Research Engineer III
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
@@ -382,13 +386,14 @@ eBooks
 Videos
 Contact
 Deploy Digit 5
-General Inquiry
 Media Inquiry
 Social
 YouTube
 LinkedIn
 Instagram
 X
+Sign up for updates
+→
 Terms
 Privacy
 © 2026 Agility Robotics, Inc. All rights reserved. Agility, the Agility logo, Digit, Agility Arc, RoboFab, and Made for Work are trademarks of Agility Robotics, Inc. Third-party trademarks are the property of their respective owners.

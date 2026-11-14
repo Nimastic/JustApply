@@ -79,7 +79,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-271
+273
 roles across
 16
 departments
@@ -239,10 +239,10 @@ Staff Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
 Apply →
 Staff Full-Stack Software Engineer, (Forward Deployed), GPS
-Riyadh, Saudi Arabia
+London, UK
 Apply →
 Staff Full-Stack Software Engineer, (Forward Deployed), GPS
-London, UK
+Riyadh, Saudi Arabia
 Apply →
 Staff Software Engineer, AI Developer Tooling
 San Francisco, CA
@@ -504,24 +504,21 @@ US Executive Branch Policy & International Engagement Lead
 Washington, DC
 Apply →
 Product and Design
-22 roles
+21 roles
 AI Product Manager (Coding/Multimodal)
 San Francisco, CA
 Apply →
 Forward Deployed Product Manager, Enterprise
 New York, NY
 Apply →
-Product Leadership, Forward Deployed & Strategy
-London, UK
-Apply →
-Product Manager of AI Applications, Global Public Sector
-Riyadh, Saudi Arabia
-Apply →
 Product Manager of AI Applications, Global Public Sector
 Doha, Qatar
 Apply →
 Product Manager of AI Applications, Global Public Sector
 Dubai, UAE
+Apply →
+Product Manager of AI Applications, Global Public Sector
+Riyadh, Saudi Arabia
 Apply →
 Product Manager, Enterprise Core Platform
 New York, NY
@@ -572,7 +569,19 @@ Staff Product Manager, Agentic Platform
 Washington, DC
 Apply →
 Public Sector
-59 roles
+63 roles
+Account Executive, Air Force
+Colorado Springs, CO
+Apply →
+Account Executive, Air Force
+Dayton, OH
+Apply →
+Account Executive, Air Force
+Washington, DC
+Apply →
+Account Executive, Army
+Washington, DC
+Apply →
 Account Executive, Navy
 San Diego, CA
 Apply →
@@ -816,7 +825,7 @@ VP, Research
 New York, NY
 Apply →
 Sales
-25 roles
+24 roles
 Deployment Strategist - DHS/DOJ
 Washington, DC
 Apply →
@@ -868,9 +877,6 @@ Apply →
 Public Sector Lead, Central & Local Government
 London, UK
 Apply →
-Public Sector Lead, Defence & Security
-London, UK
-Apply →
 Revenue Operations Manager
 San Francisco, CA
 Apply →
@@ -912,22 +918,22 @@ Software Engineer - New Grad
 London, UK
 Apply →
 Software Engineer - New Grad
-Doha, Qatar
+San Francisco, CA
 Apply →
 Software Engineer - New Grad
-San Francisco, CA
+Doha, Qatar
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-London, UK
+Doha, Qatar
 Apply →
 Software Engineering Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-Doha, Qatar
+London, UK
 Apply →
 Join
 University

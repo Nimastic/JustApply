@@ -150,6 +150,7 @@ SOFTWARE & SYSTEMS
 AI Platform General
 Autonomy
 Controls, Pose, and Embedded Software
+Core Infrastructure
 Data Platform
 Machine Learning Infrastructure
 Onboard Infrastructure
@@ -191,12 +192,9 @@ Senior Manager, FP&A
 Mountain View, California (HQ)
 Full-Time
 Hardware & Manufacturing
-03
+02
 AV Hardware Engineering
 AV Hardware Mechanical Engineer
-Mountain View, California (HQ)
-Full-Time
-Senior Radar Systems Engineer
 Mountain View, California (HQ)
 Full-Time
 Test Validation Engineer
@@ -243,7 +241,7 @@ Senior Commercial Counsel
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-77
+79
 AI Platform General
 Software Engineer, AI Platform - Intern
 Mountain View, California (HQ)
@@ -337,6 +335,10 @@ Full-Time
 Senior/Staff Software Engineer, Applied Controls
 Mountain View, California (HQ)
 Full-Time
+Core Infrastructure
+Senior Software Engineer, Distributed Compute System
+Mountain View, California (HQ)
+Full-Time
 Data Platform
 Senior Software Engineer, Autonomy Visualization
 Mountain View, California (HQ)
@@ -380,6 +382,9 @@ Senior Software Engineer, Devices Platform
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Networking & Real-Time Systems
+Mountain View, California (HQ)
+Full-Time
+Senior Software Engineer, Performance
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Performance Tooling and Infrastructure

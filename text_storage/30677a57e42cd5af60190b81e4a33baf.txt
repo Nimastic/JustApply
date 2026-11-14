@@ -186,13 +186,13 @@ Data Platform Engineer – Inventory & Observability
 London
 View opportunity
 Data Scientist
-Hong Kong
+London
 View opportunity
 Data Scientist
 Paris
 View opportunity
 Data Scientist
-London
+Hong Kong
 View opportunity
 Data Scientist - Macro
 London
@@ -213,10 +213,10 @@ Data Scientist - Options
 Paris
 View opportunity
 Data Support Engineer
-London
+Sydney
 View opportunity
 Data Support Engineer
-Sydney
+London
 View opportunity
 Data Support Specialist
 Paris
@@ -297,12 +297,12 @@ Lead Windows Infrastructure Engineer
 Hong Kong
 View opportunity
 Linux Production Engineer
+Sydney
+View opportunity
+Linux Production Engineer
 Hong Kong
 ,
 Singapore
-View opportunity
-Linux Production Engineer
-Sydney
 View opportunity
 Low Latency C++ Developer - Sydney
 Sydney
@@ -317,21 +317,21 @@ Market Access Platform Lead
 London
 View opportunity
 Market Microstructure Researcher
+Amsterdam
+View opportunity
+Market Microstructure Researcher
 Chicago
 ,
 New York
-View opportunity
-Market Microstructure Researcher
-Amsterdam
 View opportunity
 Network Architecture Lead
 London
 View opportunity
 Network Engineer
-Chicago
+London
 View opportunity
 Network Engineer
-London
+Chicago
 View opportunity
 Network Engineer (Service Provider WAN)
 London
@@ -381,10 +381,10 @@ Chicago
 New York
 View opportunity
 Production Support Engineer — LLM Platform
-Singapore
+Hong Kong
 View opportunity
 Production Support Engineer — LLM Platform
-Hong Kong
+Singapore
 View opportunity
 Product Security Engineer
 London
@@ -396,23 +396,23 @@ Quantitative Analyst
 Paris
 View opportunity
 Quantitative Data Engineer
-Hong Kong
+London
 View opportunity
 Quantitative Data Engineer
+Hong Kong
+View opportunity
+Quantitative Developer - C++
+Singapore
+View opportunity
+Quantitative Developer - C++
 London
 View opportunity
 Quantitative Developer - C++
 Shanghai
 View opportunity
 Quantitative Developer - C++
-London
-View opportunity
-Quantitative Developer - C++
 Hong Kong
 ,
-Singapore
-View opportunity
-Quantitative Developer - C++
 Singapore
 View opportunity
 Quantitative Developer - C++
@@ -431,10 +431,10 @@ Quantitative Developer - Front End, React/C#
 London
 View opportunity
 Quantitative Developer - HFT (C++)
-Amsterdam
+London
 View opportunity
 Quantitative Developer - HFT (C++)
-London
+Amsterdam
 View opportunity
 Quantitative Developer/Modeller - Risk & PnL
 London
@@ -467,9 +467,6 @@ Quantitative Production Strategist
 Paris
 View opportunity
 Quantitative Researcher
-Zurich
-View opportunity
-Quantitative Researcher
 London
 View opportunity
 Quantitative Researcher
@@ -477,6 +474,9 @@ Mumbai
 View opportunity
 Quantitative Researcher
 Dubai
+View opportunity
+Quantitative Researcher
+Zurich
 View opportunity
 Quantitative Researcher
 Paris
@@ -501,13 +501,13 @@ Shanghai
 Singapore
 View opportunity
 Quantitative Strategist
+Hong Kong
+View opportunity
+Quantitative Strategist
 London
 View opportunity
 Quantitative Strategist
 Paris
-View opportunity
-Quantitative Strategist
-Hong Kong
 View opportunity
 Quant Signals External Contributors
 View opportunity
@@ -542,10 +542,10 @@ Senior Compliance Technology Developer
 London
 View opportunity
 Senior Data Engineer
-Hong Kong
+Amsterdam
 View opportunity
 Senior Data Engineer
-Amsterdam
+Hong Kong
 View opportunity
 Senior Data Platform Engineer
 Paris
@@ -574,19 +574,19 @@ Senior Network Engineer
 Singapore
 View opportunity
 Senior Network Engineer
-Shanghai
+Hong Kong
 View opportunity
 Senior Network Engineer
-Hong Kong
+Shanghai
 View opportunity
 Senior Network Infrastructure Engineer
 London
 View opportunity
 Senior Product Security Engineer
-Hong Kong
+London
 View opportunity
 Senior Product Security Engineer
-London
+Hong Kong
 View opportunity
 Senior Quantitative Developer - Python
 Paris
@@ -616,13 +616,13 @@ Software Engineer
 Paris
 View opportunity
 Software Engineer - Data Lifecycle
-Amsterdam
-View opportunity
-Software Engineer - Data Lifecycle
 London
 View opportunity
 Software Engineer - Data Lifecycle
 Sydney
+View opportunity
+Software Engineer - Data Lifecycle
+Amsterdam
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
@@ -655,13 +655,13 @@ Software Engineer - Research Platforms
 London
 View opportunity
 Software Engineer – Site Reliability Engineering
-Amsterdam
+London
 View opportunity
 Software Engineer – Site Reliability Engineering
 Paris
 View opportunity
 Software Engineer – Site Reliability Engineering
-London
+Amsterdam
 View opportunity
 Software Engineer – Systems & Infrastructure
 London

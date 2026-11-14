@@ -1,209 +1,175 @@
-<b>Optiver</b>
-+ Software Engineer - AI Lab
-<a href="https://optiver.com/working-at-optiver/career-opportunities/">open the board</a>
-
-<b>Akuna Capital</b>
-+ D1 Quantitative Researcher
-+ India Single Stock Options Trader
-<a href="https://akunacapital.com/careers/">open the board</a>
-
 <b>BlackRock</b>
-+ Global Infrastructure Solutions - Infrastructure Investment Professional - Associate - London
-closed: ETF Product Developer, Vice President – ETF Platform
++ Financial Engineering
+closed: Global Infrastructure Solutions - Infrastructure Investment Professional - Associate - London
 <a href="https://careers.blackrock.com/">open the board</a>
 
-<b>Point72</b>
-+ Post-Training Research Scientist
-closed: NLP Researcher
-closed: NLP / AI Engineer
-<a href="https://careers.point72.com/">open the board</a>
+<b>GSA Capital</b>
+closed: Quant Talk - University of Oxford (13th of November)
+<a href="https://www.gsacapital.com/join-us">open the board</a>
 
-<b>Qube RT</b>
-closed: Cloud Observability Platform Engineer (Contractor)
-<a href="https://www.qube-rt.com/careers/">open the board</a>
+<b>Squarepoint</b>
+closed: Junior UX/UI Engineer
+<a href="https://www.squarepoint-capital.com/open-opportunities">open the board</a>
 
 <b>G-Research</b>
-+ Quantitative Analyst
+closed: Low Latency Network Engineer
 <a href="https://www.gresearch.com/vacancies/">open the board</a>
 
+<b>Amazon</b>
++ Engineer | Amazon Web Services | Beijing, China
+<a href="https://www.amazon.jobs/">open the board</a>
+
 <b>Cloudflare</b>
-+ Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)
++ Principal, Developer Platform Positioning
++ Senior Forward Deployed Engineer
++ Engineering · Sales
++ Senior Customer Engineer - Digital Natives
+closed: Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)
 <a href="https://www.cloudflare.com/careers/">open the board</a>
 
 <b>Airwallex</b>
-+ Engineering Lead, GTPN Platform (Seoul)
-+ Senior Software Engineer, Growth
-+ Senior Product Security Engineer
-+ Staff Corporate Security Engineer
-closed: Platform Account Executive, Enterprise
-closed: Staff Software Engineer, Growth
-closed: Engineering Lead, Growth
-closed: Head of Engineering, Payments Platform
-closed: Product Director, Financial Markets (FX) &amp; Financial Platform
-closed: 1 more
++ Lead AI Engineer
++ Director of Software Sales
++ Senior Data Engineer, Knowledge Platform, Foundational Data
++ Staff Software Engineer, Data Platform
++ Solutions Engineer – Embedded Finance
++ Staff AI Engineer
+closed: Staff Software Engineer, GTPN Platform
+closed: Engineering Lead, GTPN Platform (Seoul)
+closed: Senior Software Engineer, Growth
+closed: Senior Product Security Engineer
+closed: Staff Corporate Security Engineer
 <a href="https://careers.airwallex.com/">open the board</a>
 
+<b>Anthropic</b>
++ Research Scientist, Discovery (Engineering &amp; Applied Sciences)
+closed: [C] Research Engineer, Discovery
+closed: Research Engineer, RL Scaling Science
+<a href="https://job-boards.greenhouse.io/anthropic">open the board</a>
+
 <b>OpenAI</b>
-+ Engineering Manager, Education
-+ Business Platform Engineer
-+ Product Designer, Physical Engineering
-+ Power Generation Design Engineer, Electrical &amp; Mechanical
-+ Thermal Engineer
-+ Threat Detection and Response Engineering Manager
-closed: Sr. Integrations Engineer, Supply Chain Technology
-closed: Presentation Designer, Business Marketing
-closed: Researcher, Interpretability
-closed: Researcher, Safety - Frontier Assurance
-closed: Controls Engineer, Power Generation &amp; Microgird
-closed: 3 more
++ Forward Deployed Engineering (38)
++ Full Stack Software Engineer, ChatGPT Finances
++ Full Stack Software Engineer, Consumer Health
+closed: Forward Deployed Engineering (39)
+closed: Business Platform Engineer
+closed: Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)
 <a href="https://jobs.ashbyhq.com/openai">open the board</a>
 
+<b>Cohere</b>
++ Cohere Expands Its Sovereign AI Platform with AISLE and
+<a href="https://cohere.com/careers">open the board</a>
+
 <b>Cursor</b>
-+ Model Engineer, RL Data
-+ Sr. Model Engineer, RL Data
-closed: Model Engineer
-closed: Sr. Model Engineer
+closed: Engineering Manager, Agent &amp; Product Security
+closed: Software Engineer, Billing
+closed: Software Engineer, Bugbot
+closed: Software Engineer, Client Infrastructure
+closed: Software Engineer, Compute Infra
+closed: 10 more
 <a href="https://www.cursor.com/careers">open the board</a>
 
 <b>Figma</b>
-+ Applied Data Researcher
-+ Manager, Recruiting - Engineering
-closed: Data Platform Engineer
+closed: Product Designer, Growth &amp; Monetization
 <a href="https://www.figma.com/careers/">open the board</a>
 
-<b>Scale AI</b>
-+ Senior Engineering Manager, Kuwait
-+ Senior Software Engineer, Agent Oversight
-<a href="https://scale.com/careers">open the board</a>
-
-<b>Figure AI</b>
-+ Thermal Analysis Engineer
-<a href="https://www.figure.ai/careers">open the board</a>
-
-<b>1X</b>
-+ Senior Technical Recruiter - Software Engineering
-closed: Software Engineer - Applied AI
-closed: Senior Frontend Engineer
-closed: Staff AI Product Engineer
-closed: Staff Technical Program Manager, Platform
-closed: Director of Product - Platform
-<a href="https://www.1x.tech/careers">open the board</a>
-
 <b>Agility Robotics</b>
-closed: Apply for Senior Software Engineer, AI/ML Platform in Software Engineering, Remote
++ Senior Software Engineer, Release Engineering
++ Software Engineer III, Software Services (Applications)
+closed: Senior Supplier Quality Engineer
+closed: Apply for Senior Supplier Quality Engineer in Operations, Hybrid- Salem, OR or Fremont, CA
 <a href="https://www.agilityrobotics.com/careers">open the board</a>
 
 <b>Boston Dynamics</b>
-+ Senior Staff Robotics Simulation Engineer - Thermal &amp; Fluids Analysis
+closed: Applications/Systems Engineering
+closed: Development Engineering
+closed: Manufacturing Engineering
+closed: Senior Staff Robotics Simulation Engineer - Thermal &amp; Fluids Analysis
 <a href="https://bostondynamics.com/careers">open the board</a>
 
-<b>Applied Intuition</b>
-+ Senior Electrical Engineer, Drone (High-Voltage &amp; Low-Voltage Power Systems)
-closed: Senior Electrical Engineer, Drone
-<a href="https://appliedintuition.com/careers">open the board</a>
-
 <b>Zoox</b>
-closed: Advanced Hardware Engineering
-closed: Body Structures Engineer
-closed: CAE Engineer - Safety occupant
-closed: Chassis Controls Engineer, Brakes &amp; Steering
-closed: Contract Student Worker  – Firmware Engineer (FW Thermal/Body)
-closed: 2 more
++ Advanced Hardware Engineering
++ Automation Engineer - Compute Software Performance
++ Software Systems
++ Body Structures Engineer
++ CAE Engineer - Safety occupant
++ Chassis Controls Engineer, Brakes &amp; Steering
++ Contract Student Worker  – Firmware Engineer (FW Core System Services)
++ Software Platforms and Product
 <a href="https://zoox.com/careers">open the board</a>
 
 <b>Nuro</b>
-+ Senior Software Engineer, Nuro Driver Core Software
-+ Staff/Lead Machine Learning Research Scientist, Behavior &amp; Planning
-+ Principal Software Engineer, Performance
-+ Software Engineer, Performance
-+ Staff Software Engineer, Performance
-+ Senior/Staff Software Engineer, Ride-Hailing Product
-+ Technical Lead Software Engineer, Routing
-+ Manager, Technical Program Manager, AI Platform
-+ Technical Program Manager Lead, AI Platform
-closed: Staff/Lead Machine Learning Engineer, Behavior &amp; Planning
-closed: Software Engineer, Routing
-closed: Project Manager, Software Operations
-closed: Lead Technical Program Manager, AI Platform
++ Core Infrastructure
++ Senior Software Engineer, Distributed Compute System
++ Senior Software Engineer, Performance
+closed: Senior Radar Systems Engineer
 <a href="https://www.nuro.ai/careers">open the board</a>
 
-<b>Kodiak</b>
-closed: Senior, Electrical Harness Engineer
-closed: Engineering Technician
-<a href="https://kodiak.ai/careers">open the board</a>
+<b>Intrinsic</b>
+closed: Robotics Software Engineer - Grasping
+closed: Staff Robotics Software Engineer - Grasping
+<a href="https://www.intrinsic.ai/careers">open the board</a>
 
-<b>Gecko Robotics</b>
-+ Full Stack Software Engineer | Robotics
-<a href="https://www.geckorobotics.com/careers">open the board</a>
+<b>Verkada</b>
++ Lead Identity Engineer
++ Senior Test Engineer, Cameras
+closed: Sr. IT Systems Engineer
+<a href="https://www.verkada.com/careers/">open the board</a>
 
 <b>Modular</b>
-+ Learn how inference works
-closed: How inference works, from basics to production
-closed: Backend Engineer, Multi-cloud Inference Platform
-closed: Inference Systems Engineer
++ Developer Community Marketing Manager
+closed: Cloud Inference
+closed: Cloud Inference Engineer
+closed: Senior AI Kernel Engineer
 <a href="https://www.modular.com/careers">open the board</a>
 
 <b>Cerebras</b>
-+ Engineering Manager, Inference Router
-closed: Manufacturing Automation Engineer
++ Senior Staff AWS Platform Engineer
+closed: Staff Cloud Infrastructure Engineer
 <a href="https://www.cerebras.ai/open-positions">open the board</a>
 
 <b>Tenstorrent</b>
-+ IP Software
-+ Senior Compiler Engineer, AI IP
-+ Systems Engineering: Product
-+ Product Manager- Enterprise Platform
-+ Emulation Engineer, Automotive Robotics
-closed: Software Engineer-AI Model Bring Up
-closed: Midcore Design Verification Engineer
-closed: DFT Engineer, Automotive Robotics
-closed: Physical Design Engineer
++ DFT Engineer
++ AI/ML Physical Design Flow Engineer
++ Engineer, CPU Performance Verification
+closed: IP Software
+closed: Senior Compiler Engineer, AI IP
+closed: Systems Engineering: Product
+closed: Product Manager- Enterprise Platform
+closed: Emulation Engineer, Automotive Robotics
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
-<b>Google NYC</b>
-+ Software Engineer III, Infrastructure, Google Cloud Platforms
-+ Share Software Engineer III, Infrastructure, Google Cloud Platforms
-+ Software Engineer III, Front End
-+ Share Software Engineer III, Front End
-closed: Staff Software Engineer, AI/ML, Google Cloud
-closed: Share Staff Software Engineer, AI/ML, Google Cloud
-closed: Software Engineer, Generative AI, Geo Data
-closed: Share Software Engineer, Generative AI, Geo Data
-<a href="https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&amp;q=software%20engineer">open the board</a>
-
 <b>Meta NYC</b>
-+ Software Engineer, Container Infrastructure (Technical Leadership)
-+ AI Engineer, Specialist - VR - (Technical Leadership)
-closed: Software Engineer, Infrastructure
-closed: Software Engineer, Machine Learning
-closed: Software Engineer, Systems ML
-closed: Software Engineer (Leadership) - Infrastructure
++ Research Scientist, Neural Interfaces for Wearables
++ AI Engineer, Specialist - VR
++ AI Research Scientist, Video Generation and Post Training, FAIR
++ Data Scientist, Product Analytics
++ Software Engineer, Infrastructure
++ Software Engineer (Leadership) - Infrastructure
+closed: Software Engineer, Container Infrastructure (Technical Leadership)
+closed: AI Engineer, Specialist - VR - (Technical Leadership)
+closed: Machine Learning
+closed: Product Content Engineer - Content Strategist
 <a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
 
 <b>Apple NYC</b>
-+ Hardware Systems Design &amp; Integration Engineer - AirPods
-+ Hardware Systems Design &amp; Integration Engineer - AirPods 200694768-0836
-+ Software Engineer, Apple Ads
-+ Software Engineer, Apple Ads 200694842-0836
-+ Machine Learning Engineer
-+ Machine Learning Engineer  200694852-0836
-+ The Apple Ads Machine Learning Platform team's mission is to empo...
-+ Software Development Engineer, Test Tooling
-+ Software Development Engineer, Test Tooling 200693291-0836
-+ Applied Machine Learning Research Engineer - Multimodal for Human Understanding
-+ Applied Machine Learning Research Engineer - Multimodal for Human Understanding 200694398-3956
-+ RF Communications Systems Engineer
-+ 14 more
-closed: Staff Security Engineer - AI Driven Security Assurance
-closed: Staff Security Engineer - AI Driven Security Assurance 200685546-3337
-closed: CAD Engineer - Signoff Infrastructure
-closed: CAD Engineer - Signoff Infrastructure 200684809-0157
-closed: CAD Engineer - Signoff Infrastructure 200684809-3749
-closed: 23 more
++ Staff / Principal ML Infrastructure Engineer
++ Staff / Principal ML Infrastructure Engineer 200695047-0836
++ RF System Integration Engineer (Instrument Engineering)
++ RF System Integration Engineer (Instrument Engineering) 200690352-0836
++ RF Design Engineer – Next-Gen Wireless
++ RF Design Engineer – Next-Gen Wireless 200694361-3543
++ Systems Software Engineer, Platform Architecture
++ Systems Software Engineer, Platform Architecture 200695051-1242
++ RF System Integration Engineer — Cellular Technology
++ RF System Integration Engineer — Cellular Technology 200682611-0836
++ Software Engineering Program Manager - visionOS
++ Software Engineering Program Manager - visionOS 200694999-3956
++ 11 more
+closed: Hardware Systems Design &amp; Integration Engineer - AirPods
+closed: Hardware Systems Design &amp; Integration Engineer - AirPods 200694768-0836
+closed: Software Engineer, Apple Ads
+closed: Software Engineer, Apple Ads 200694842-0836
+closed: Machine Learning Engineer
+closed: 21 more
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>
-
-<b>Amazon NYC</b>
-+ Embedded Software Engineer, Ring
-closed: Software Engineer II
-closed: Experience programming with at least one software programming language
-<a href="https://www.amazon.jobs/en/search?base_query=software%20engineer&amp;loc_query=New%20York">open the board</a>

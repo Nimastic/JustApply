@@ -8,8 +8,8 @@ Investors
 Foundation
 Strategic Capital
 Menu
-AMS €22.78
-+0.10
+AMS €22.86
++0.18
 About
 About
 Where We Operate
@@ -144,13 +144,13 @@ Amsterdam | Data
 AI Engineering Manager
 AI Engineering ManagerWe're setting up a new AI team within Data and AI and are looking for an Engineering Manager to lead it. Good engineering management makes a big difference to how well teams grow, keep their people and deliver, and that is what we want from this role.You'll look after the planning and people side: delivery, growth, performance, culture and hiring. You work alongside technical leads who own architecture, technical direction and hands-on execution. You need each other, so expect to work closely.We'll judge you on how your engineers develop and what your team delivers. Most of your time goes to understanding how the business works and unlocking use cases where AI makes a real difference, next to leading your people and your delivery.What you'll do:
 About this role
-New York | Data
-Core Data Engineer
-Flow Traders is looking for a Core Data Engineer to own the end-to-end lifecycle of our most fundamental data products, including our Security Master; our reconciled ETF Compositions; high-resolution historical market data; and records of our trades, orders, quotes, and inquiries. High-quality data is the cornerstone of Flow Traders' strategic direction - beyond reducing complexity and BAU for stakeholders across the organization, quality data is a key requirement for our growth of quantitative trading styles.​
-About this role
 Amsterdam | Data
 Core Data Engineer
 Flow Traders is looking for a Core Data Engineer to own the end-to-end lifecycle of our most fundamental data products, including our Security Master; our reconciled ETF Compositions; high-resolution historical market data; and records of our trades, orders, quotes, and inquiries. High-quality data is the cornerstone of Flow Traders' strategic direction - beyond reducing complexity and BAU for stakeholders across the organization, quality data is a key requirement for our growth of quantitative trading styles.​
+About this role
+New York | Data
+Core Data Engineer
+Flow Traders is looking for a Core Data Engineer to own the end-to-end lifecycle of our most fundamental data products, including our Security Master; our reconciled ETF Compositions; high-resolution historical market data; and records of our trades, orders, quotes, and inquiries. High-quality data is the cornerstone of Flow Traders' strategic direction - beyond reducing complexity and BAU for stakeholders across the organization, quality data is a key requirement for our growth of quantitative trading styles.​
 About this role
 New York | Facilities & Office Management
 Corporate Receptionist
@@ -160,13 +160,13 @@ Hong Kong | Trading
 Delta One Trader
 Flow Traders is looking for a Delta One Trader to join our growing trading team in Hong Kong. This is a unique opportunity to join a leading proprietary trading firm, working alongside some of the brightest minds in the industry.
 About this role
-New York | Trading
-Digital Assets Trader
-Flow Traders is looking for an experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in New York. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
-About this role
 Amsterdam | Trading
 Digital Assets Trader
 Flow Traders is looking for an Experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in Amsterdam. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
+About this role
+New York | Trading
+Digital Assets Trader
+Flow Traders is looking for an experienced Digital Assets Trader to join our global Digital Assets Trading team, with the opportunity to be based in New York. We are seeking candidates with a proven track record in low-latency (CeFi) trading and/or on-chain (DeFi) trading. The ideal candidate has demonstrated significant and consistent PnL generation through strategies deployed in production and brings deep expertise in crypto market structure.
 About this role
 Hong Kong | Trading
 Digital Assets Trader
@@ -330,3 +330,14 @@ Privacy
 Brand Abuse
 Cookies
 Site Map
+This website uses cookies
+We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Privacy Policy
+Strictly necessary
+Performance
+Targeting
+Functionality
+Unclassified
+Accept all
+Decline all
+Show details

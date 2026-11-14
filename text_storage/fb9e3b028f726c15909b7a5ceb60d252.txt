@@ -32,13 +32,13 @@ Research
 Product
 GTM
 Corporate
-GTM
-Account Executive (GTM)
-Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
-Responsible for driving business growth by expanding our products to enterprise clients and other customers.
-Tokyo (Hybrid)
-Full-time
-Japanese (Business) & English
+Product
+Applied Research Engineer (Product)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Spearhead the applied research, development, and productization of advanced AI technologies, including autonomous agents and multi-agent LLM systems, to solve complex customer challenges and turn cutting-edge research into products.
+Tokyo
+Full-time / Contract / Intern
+Japanese (Conversational) & English
 GTM
 Forward Deployed Engineer (GTM)
 Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
@@ -46,6 +46,13 @@ Deploy Sakana AI's products inside enterprise customers, drive them from PoC to 
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Conversational)
+GTM
+Account Executive (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Responsible for driving business growth by expanding our products to enterprise clients and other customers.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
 GTM
 Partner Alliances Manager ISV (GTM)
 Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and Sakana Namazu
@@ -68,19 +75,19 @@ Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Business)
 GTM
-Global Account Executive (GTM)
-Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
-Partner-led enterprise sales role: own the customer relationship and deal from first conversation through contract, and build a joint go-to-market motion with a strategic partner.
-Tokyo (Hybrid)
-Full-time
-Japanese (Business) & English (Business)
-GTM
 Marketing Operations Manager
 Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
 Build the marketing automation and attribution infrastructure that turns interest into pipeline, on top of our CRM.
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English
+GTM
+Global Account Executive (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Partner-led enterprise sales role: own the customer relationship and deal from first conversation through contract, and build a joint go-to-market motion with a strategic partner.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English (Business)
 GTM
 Enterprise Marketing Manager
 Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and our API
@@ -102,13 +109,6 @@ Build the operating backbone of Sakana's product portfolio.
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Business)
-Product
-Applied Research Engineer (Product)
-Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
-Spearhead the applied research, development, and productization of advanced AI technologies, including autonomous agents and multi-agent LLM systems, to solve complex customer challenges and turn cutting-edge research into products.
-Tokyo
-Full-time / Contract / Intern
-Japanese (Conversational) & English
 Product
 Software Engineer (Product)
 Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡

@@ -15,6 +15,7 @@ One
 Zoox.
 Clear
 Explore all jobs
+241
 Ground-up thinking gets us places
 Ground-up
 thinking
@@ -106,31 +107,113 @@ Clear
 filter by
 Job function
 Clear
-No results found
 Job function
+Product, Features & Homologation
+Zoox Internships
+Software
+Vehicle Development
+Finance, Places and Build
+Data Science
+Legal, EHS, & Security
+Experience, Communications & Marketing
+People Experience
+Supply Chain Quality and Reliability
+Information Technology and Applications
+Fleet Operations
+Manufacturing Operations
+System Design and Mission Assurance
+Advanced Hardware Engineering
+Program Management Office
 clear
 filter by
 Location
 Clear
-No results found
 Location
+Foster City, CA
+San Diego, CA
+Seattle, WA
+Boston, MA
+Hayward, CA
+Houston, TX
+San Francisco, CA
+Fremont, CA
+Banbury, UK
+Dallas, TX
+Phoenix, AZ
+Los Angeles, CA
+Atlanta, GA
 clear
 filter by
 Work type
 Clear
-No results found
 Work type
+Full-time
+Internship/Co-op
+Contract
 clear
-Loading jobs, in
+241 jobs, in
 All job functions
 in
 All locations
 and
 All work types
-No results found
-Uh oh! No luck with jobs that match your search!
-Uh oh! No luck with jobs that match your search!
-Why not mix it up and try removing some filters? And a friendly reminder – double-check the spelling just in case!
+Page 1 of 25. Showing jobs 1 to 10 of 241.
+Administrative Business Partner, Product
+Product, Features & Homologation
+Product and Experience
+Full-time
+Foster City, CA
+AI Workflows Intern [Summer 2027]
+Zoox Internships
+Safety Policy and Strategy
+Internship/Co-op
+Foster City, CA
+Automation Engineer - Compute Software Performance
+Software
+Software Systems
+Full-time
+Foster City, CA
+Body Structures Engineer
+Vehicle Development
+Body, Closures and Chassis
+Full-time
+Foster City, CA
+CAE Engineer - Safety occupant
+Vehicle Development
+Vehicle Integration, Testing & Validation
+Full-time
+Foster City, CA
+Chassis Controls Engineer, Brakes & Steering
+Vehicle Development
+Body, Closures and Chassis
+Full-time
+Foster City, CA
+Commercial Operations Analyst
+Finance, Places and Build
+Finance
+Full-time
+Foster City, CA
+Contract  Student Worker - Data Analyst (Part-time)
+Zoox Internships
+Software
+Contract
+Foster City, CA
+Contract Student  Worker: Analyst (Full-time)
+Zoox Internships
+Software
+Contract
+Foster City, CA
+San Diego, CA
+Seattle, WA
+Contract Student Worker  – Firmware Engineer (FW Core System Services)
+Software
+Software Platforms and Product
+Contract
+Foster City, CA
+San Diego, CA
+Seattle, WA
+Showing 1-10 of 241
+1 of 25
 Site Map
 How To Ride
 Where to Ride

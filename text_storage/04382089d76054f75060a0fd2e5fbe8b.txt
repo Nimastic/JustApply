@@ -1,9 +1,25 @@
 Careers at Figma
+This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
+privacy policy.
+California Residents:
+learn how personal information is
+collected
+, including how it is
+used
+, whether it is
+“sold” or “shared”
+, and how long it is
+retained
+.
+Opt-Out
 Skip to main content
 Products
 What you can do in figma
 Design and explore
 Build and ship products
+Figma AI
+AI workflows
+Figma agent
 Explore all products
 Figma Design
 Design and prototype in one place
@@ -32,7 +48,6 @@ Figma Buzz
 Beta
 Produce on-brand assets at scale
 Additional product resources
-AI workflows
 Release notes
 Downloads
 Solutions
@@ -149,7 +164,6 @@ Job Openings
 Business Development
 Distribution Partner Manager
 Manager, Distribution Partnerships
-Manager, Tech & Ecosystem Partnerships
 Product Partner Manager, Scaled
 Business Operations
 AI Engineer, Internal Tools
@@ -158,7 +172,7 @@ Compliance Engineer
 Data & Integration Engineer, Business Systems
 Director, Governance Risk & Compliance
 Executive Assistant, CEO
-Senior Order Management Analyst
+Manager, Strategic Finance
 Strategic Finance
 Customer Operations and Support
 Business Systems Analyst
@@ -174,7 +188,6 @@ Product Builder, AI Insights
 Product Designer, AI Models
 Product Designer, CMS
 Product Designer, Core Experience
-Product Designer, Growth & Monetization
 Researcher, AI Evaluations
 Researcher, Figma Design
 Researcher - Rapid Research
@@ -233,9 +246,9 @@ Marketing
 Brand Designer, Web
 Content Strategist, Product
 Corporate Communications Manager
+Creative Director, Brand Experience
 Designer Advocate (Berlin, Germany)
 Developer Advocate, Payload
-Director, Creative Brand Expression
 Executive Assistant, Growth Marketing
 Executive Communications Manager
 Video Strategist
@@ -246,8 +259,6 @@ HRIS Analyst
 People Partner
 Product
 Manager, Product Management - Figma Platform Experience
-Manager, Product Management - Roundtripping
-Manager, Product Management - Roundtripping (London, United Kingdom)
 Product Manager, AI Growth
 Product Manager, Collaboration Tools
 Product Manager, Figma Pattern Library
@@ -391,4 +402,5 @@ Customers
 Careers
 Newsroom
 Brand assets
+Do Not Sell/Share My Personal Info + Opt-Out
 English

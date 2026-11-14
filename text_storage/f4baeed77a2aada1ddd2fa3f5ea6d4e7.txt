@@ -394,7 +394,7 @@ Plays for
 Mitchell Felix
 Robot Field Operator
 Careers
-22 open roles
+24 open roles
 Open Roles
 All departments
 Commercial Ops - AS
@@ -419,7 +419,7 @@ Hardware Engineering
 )
 Operations
 (
-2
+4
 )
 People Operations
 (
@@ -440,7 +440,7 @@ Software Engineering
 All locations
 Abu Dhabi
 (
-1
+3
 )
 Boston
 (
@@ -506,6 +506,14 @@ Test & Reliability Engineering Intern
 ↗
 Hardware Engineering
 Pittsburgh
+NDT Advanced Services Operator | Middle East
+↗
+Operations
+Abu Dhabi
+NDT Level III | Middle East
+↗
+Operations
+Abu Dhabi
 Quality Engineer, Hardware
 ↗
 Operations

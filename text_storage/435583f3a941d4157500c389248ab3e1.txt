@@ -116,7 +116,7 @@ Senior Backend Engineer, Inference Cloud
 Sunnyvale, CA, Toronto, CAN
 Staff Software Engineer - Tools & Infrastructure / DevOps
 Sunnyvale, CA, Toronto, CAN
-Staff Cloud Infrastructure Engineer
+Senior Staff AWS Platform Engineer
 Sunnyvale, CA, Toronto, CAN
 Distributed Software Engineer
 Toronto, CAN
@@ -219,6 +219,8 @@ Power Manufacturing Test Development Engineer
 Sunnyvale, CA
 Senior Hardware Reliability Test Engineer – Electrical Systems & Power Electronics
 Sunnyvale, CA
+Operations Tech Lead
+Sunnyvale, CA
 Datacenters
 Staff Technical Program Manager, Data Center New Product Introduction
 Sunnyvale, CA, Remote (CAN), Remote (US)
@@ -252,7 +254,7 @@ Lead Technical Program Manager, Critical Facility Operations
 Remote (US)
 Lead Engineer, Critical Facility Operations
 Remote (US)
-Cloud Capacity Planner
+Staff Cloud Capacity Planner
 Sunnyvale, CA
 University Departments
 Software Engineer - New Grad 2026

@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-673 jobs
+670 jobs
 AI Research & Engineering
 Job
 Anthropic Fellows Program, AI Safety & Security
@@ -23,9 +23,9 @@ Anthropic Research Resident
 London, UK
 Applied Scientist, Engineering
 San Francisco, CA
-[C] Research Engineer, Discovery
+CMC & Manufacturing Lead, Life Sciences
 New
-San Francisco, CA | New York City, NY
+Remote-Friendly, United States
 Data Operations Manager, Human Data
 San Francisco, CA | New York City, NY
 Engineering Manager, GPU (ML Accelerator)
@@ -103,8 +103,6 @@ Research Engineer / Research Scientist, Tokens
 New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA
 Research Engineer, RL Engineering
 San Francisco, CA | New York City, NY | Seattle, WA
-Research Engineer, RL Scaling Science
-London, UK
 Research Engineer / Scientist, Alignment
 San Francisco, CA
 Research Engineer / Scientist, Pre-training
@@ -113,6 +111,8 @@ Research Engineer, Visual Knowledge Work
 New York City, NY; San Francisco, CA; Seattle, WA
 Research Operations Lead, Biology
 Boston, MA
+Research Scientist, Discovery (Engineering & Applied Sciences)
+San Francisco, CA
 1
 2
 3

@@ -84,9 +84,7 @@ What we believe
 Contact Us
 Request a demo
 Request demo
-Get Started
 Request demo
-Get Started
 close
 Join us in building the
 future of AI
@@ -113,15 +111,13 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(31)
+(30)
 Mojo
 (16)
-Cloud Inference
-(1)
-MAX
-(5)
 Product Management
-(2)
+(3)
+MAX
+(4)
 Developer Relations
 (4)
 Marketing
@@ -131,12 +127,6 @@ Platform Engineering
 Technical Program Management
 (1)
 Principal Mojo Libraries Engineer
-United States / Canada · Remote
-Apply now
-Cloud Inference Engineer
-United States / Canada · Remote
-Apply now
-Senior AI Kernel Engineer
 United States / Canada · Remote
 Apply now
 AI Cloud Product Manager
@@ -202,6 +192,9 @@ Apply now
 Director of Business Development & Operations, Modular Alliance Program
 Japan · Remote
 Apply now
+Director of Business Development, Modular Alliance Program
+Edinburgh · Remote
+Apply now
 Senior Staff Mojo Libraries Engineer
 United States / Canada · Remote
 Apply now
@@ -220,7 +213,7 @@ Apply now
 Staff Engineer, Hardware Enablement
 United States / Canada · Remote
 Apply now
-Community Marketing Manager
+Developer Community Marketing Manager
 United States / Canada · Remote
 Apply now
 What you expect from the interview
