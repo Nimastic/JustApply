@@ -17,9 +17,6 @@ Products
 What you can do in figma
 Design and explore
 Build and ship products
-Figma AI
-AI workflows
-Figma agent
 Explore all products
 Figma Design
 Design and prototype in one place
@@ -48,6 +45,7 @@ Figma Buzz
 Beta
 Produce on-brand assets at scale
 Additional product resources
+AI workflows
 Release notes
 Downloads
 Solutions

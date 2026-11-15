@@ -325,7 +325,7 @@ Sort by:
 Newest
 US - Specialist: Seasonal, Part-time
 Apple Retail
-Nov 14, 2026
+Nov 15, 2026
 Location
 Various Locations within United States
 Actions
@@ -339,6 +339,117 @@ Weekly Hours:
 40 Hours
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
+Submit Resume
+System Integration Lead
+Hardware
+Nov 14, 2026
+Location
+Austin
+Actions
+See full role description
+Share
+System Integration Lead 200694950-0157
+Role Number:
+200694950-0157
+Weekly Hours:
+40 Hours
+System Firmware & Diagnostics Group has an immediate opening for a System Integration Lead. Our team is part of the system hardware development organization responsible for bringing new and exciting hardware products to users. Through innovation and dedication, team members work collaboratively and strive to deliver the best product that Apple is known for.
+In this role as a key technical contributor, you will lead and cross-functionally represent the definition and execution of manufacturing tests in Apple's future consumer product lines and set the benchmark for the quality associated ...
+Submit Resume
+System Integration Lead
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+System Integration Lead 200694950-0836
+Role Number:
+200694950-0836
+Weekly Hours:
+40 Hours
+System Firmware & Diagnostics Group has an immediate opening for a System Integration Lead. Our team is part of the system hardware development organization responsible for bringing new and exciting hardware products to users. Through innovation and dedication, team members work collaboratively and strive to deliver the best product that Apple is known for.
+In this role as a key technical contributor, you will lead and cross-functionally represent the definition and execution of manufacturing tests in Apple's future consumer product lines and set the benchmark for the quality associated ...
+Submit Resume
+CPU Microarchitect / RTL Design Engineer
+Hardware
+Nov 14, 2026
+Location
+Santa Clara
+Actions
+See full role description
+Share
+CPU Microarchitect / RTL Design Engineer 200694855-3760
+Role Number:
+200694855-3760
+Weekly Hours:
+40 Hours
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, hard-working people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products! The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help...
+Submit Resume
+Systems Software Developer, CAD Infrastructure
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Systems Software Developer, CAD Infrastructure 200694942-0836
+Role Number:
+200694942-0836
+Weekly Hours:
+40 Hours
+Do you love creating elegant solutions to complex challenges? Do you see the importance in every detail? As part of our Silicon Technologies group, you'll help ensure Apple products and services run seamlessly and efficiently for millions of users.
+In this hands-on role, you will partner with Post-Silicon teams, including Product and Test Engineering (PTE), Digital Custom Group (DCG), Silicon Validation (SiVal), and Design for Test (DFT). You will build and support the automated infrastructure these teams rely on for data management and data processing. You will also help build a new end-t...
+Submit Resume
+Systems Software Developer, CAD Infrastructure
+Hardware
+Nov 14, 2026
+Location
+Austin
+Actions
+See full role description
+Share
+Systems Software Developer, CAD Infrastructure 200694969-0157
+Role Number:
+200694969-0157
+Weekly Hours:
+40 Hours
+Do you love creating elegant solutions to complex challenges? Do you see the importance in every detail? As part of our Silicon Technologies group, you'll help ensure Apple products and services run seamlessly and efficiently for millions of users.
+In this hands-on role, you will partner with Post-Silicon teams, including Product and Test Engineering (PTE), Digital Custom Group (DCG), Silicon Validation (SiVal), and Design for Test (DFT). You will architect, build, and support the automated infrastructure these teams rely on for data management and data processing. You will also help shape...
+Submit Resume
+Systems Software Developer, CAD Infrastructure
+Hardware
+Nov 14, 2026
+Location
+Beaverton
+Actions
+See full role description
+Share
+Systems Software Developer, CAD Infrastructure 200694969-0505
+Role Number:
+200694969-0505
+Weekly Hours:
+40 Hours
+Do you love creating elegant solutions to complex challenges? Do you see the importance in every detail? As part of our Silicon Technologies group, you'll help ensure Apple products and services run seamlessly and efficiently for millions of users.
+In this hands-on role, you will partner with Post-Silicon teams, including Product and Test Engineering (PTE), Digital Custom Group (DCG), Silicon Validation (SiVal), and Design for Test (DFT). You will architect, build, and support the automated infrastructure these teams rely on for data management and data processing. You will also help shape...
+Submit Resume
+Systems Software Developer, CAD Infrastructure
+Hardware
+Nov 14, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Systems Software Developer, CAD Infrastructure 200694969-0836
+Role Number:
+200694969-0836
+Weekly Hours:
+40 Hours
+Do you love creating elegant solutions to complex challenges? Do you see the importance in every detail? As part of our Silicon Technologies group, you'll help ensure Apple products and services run seamlessly and efficiently for millions of users.
+In this hands-on role, you will partner with Post-Silicon teams, including Product and Test Engineering (PTE), Digital Custom Group (DCG), Silicon Validation (SiVal), and Design for Test (DFT). You will architect, build, and support the automated infrastructure these teams rely on for data management and data processing. You will also help shape...
 Submit Resume
 Staff / Principal ML Infrastructure Engineer
 Software and Services
@@ -525,116 +636,6 @@ Role Number:
 Weekly Hours:
 40 Hours
 Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. Everything we build is the result of people in different roles and teams working together to make each other's ideas stronger. That passion for innovation also applies to our internal practices, stren...
-Submit Resume
-Gen AI Portfolio Intake Program Manager
-Machine Learning and AI
-Nov 14, 2026
-Location
-Sunnyvale
-Actions
-See full role description
-Share
-Gen AI Portfolio Intake Program Manager 200692635-3956
-Role Number:
-200692635-3956
-Weekly Hours:
-40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. Everything we build is the result of people in different roles and teams working together to make each other's ideas stronger. That passion for innovation also applies to our internal practices, stren...
-Submit Resume
-Senior Legal Counsel – Home and Wearables Product Counsel
-Corporate Functions
-Nov 14, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Senior Legal Counsel – Home and Wearables Product Counsel 200689996-0836
-Role Number:
-200689996-0836
-Weekly Hours:
-40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job, and there's no telling what you could accomplish.
-Do you love tackling big challenges without precedent? Do you possess deep legal knowledge and a passion for innovation? As part of our team, you’ll provide legal support for our products and businesses across the globe. Working for a company that invents entire categories and industries means you’ll be challenged to creatively apply your expertise to rare and o...
-Submit Resume
-Channel Activation Lead
-Marketing
-Nov 14, 2026
-Location
-Culver City
-Actions
-See full role description
-Share
-Channel Activation Lead 200695056-0670
-Role Number:
-200695056-0670
-Weekly Hours:
-40 Hours
-At Apple, we work every day to create products that enrich people’s lives. Our Apple Ads group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in the App Store, Apple News, and Apple TV. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. Launched in 2016, Apple Ads is an easy, efficient and fast-growing platform...
-Submit Resume
-Performance Modeling Software Architect, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Austin
-Actions
-See full role description
-Share
-Performance Modeling Software Architect, Platform Architecture 200695054-0157
-Role Number:
-200695054-0157
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Performance Modeling Software Architect, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Beaverton
-Actions
-See full role description
-Share
-Performance Modeling Software Architect, Platform Architecture 200695054-0505
-Role Number:
-200695054-0505
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Performance Modeling Software Architect, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Cambridge
-Actions
-See full role description
-Share
-Performance Modeling Software Architect, Platform Architecture 200695054-1242
-Role Number:
-200695054-1242
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Performance Modeling Software Architect, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Performance Modeling Software Architect, Platform Architecture 200695054-0836
-Role Number:
-200695054-0836
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
 Submit Resume
 Page Number
 Press Return/Enter key to go to the page

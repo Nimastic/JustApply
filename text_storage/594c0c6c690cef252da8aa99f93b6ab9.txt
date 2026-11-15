@@ -4,7 +4,7 @@ Error code 526
 Visit
 cloudflare.com
 for more information.
-2026-11-14 10:07:45 UTC
+2026-11-15 10:45:04 UTC
 You
 Browser
 Working
@@ -32,11 +32,11 @@ Cloudflare Origin CA certificate
 on your origin server.
 Contact your hosting provider to update or replace the SSL certificate on the origin server.
 Cloudflare Ray ID:
-a5a536066f7fe5c3
+a5adaa0d1ccd2015
 •
 Your IP:
 Click to reveal
-74.235.123.10
+3.41.210.136
 •
 Performance & security by
 Cloudflare

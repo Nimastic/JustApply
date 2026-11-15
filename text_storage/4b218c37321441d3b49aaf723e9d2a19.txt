@@ -271,8 +271,6 @@ London
 Clear
 Apply Filters
 Business Management
-Talent Acquisition Specialist
-London
 HR Placement Year
 London
 Technology Operations Manager
@@ -281,18 +279,18 @@ Liquidity Program Manager
 London
 Security Operations and Risk Analyst
 London
-Analytics Engineer
+Talent Acquisition Specialist
 London
 Technology Talent Sourcer (12 Month FTC)
 London
-Cyber Security
-Security Operations Analyst
+Analytics Engineer
 London
+Cyber Security
 Security Operations Placement Year
 London
 Security Operations Centre Manager
 London
-Red Team Operations Manager
+Security Operations Analyst
 London
 Penetration Tester
 London
@@ -300,28 +298,30 @@ Security Assurance Specialist
 London
 Senior Red Team Operator
 London
-Senior CSIRT Analyst
+Red Team Operations Manager
 London
 Chief Business Risk Officer
 London
 IAM Platform Engineer – Identity, Entitlements & Authorisation
+London
+Senior CSIRT Analyst
 London
 Security Threat Specialist
 London
 Security Operations Analyst
 London
 Infrastructure Engineering
-Linux Platform Engineer
-London
 Platform Engineering Manager
 London
 Platform Engineer
 London
-Network Automation Engineer (Contract)
+Linux Platform Engineer
 London
 Network Engineer
 London
 Network Security Engineer (Contract)
+London
+Network Automation Engineer (Contract)
 London
 Network Automation Engineer
 London
@@ -334,21 +334,21 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
-Natural Language Processing Internship
-London
 Quant Research Internship
 London
 Data Science Internship
 London
 Machine Learning Research Internship
 London
+Natural Language Processing Internship
+London
+Quantitative Analyst
+London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
 Natural Language Processing Researcher
-London
-Quantitative Analyst
 London
 Machine Learning Researcher
 London
@@ -363,41 +363,41 @@ Core AI Engineering Manager
 London
 Quantitative Data Engineer
 London
+Software Engineering Internship
+London
 Platform Software Engineer
 London
 Machine Learning Engineer Internship
 London
 Graduate Machine Learning Engineer
 London
-Software Engineering Internship
-London
 Software Engineer
 London
 Data Software Engineer
 London
-NLP Performance Engineer
+Software Engineer – Core IP Security
 London
 Software Engineer – Security
 London
-Software Engineer – Core IP Security
+NLP Performance Engineer
 London
 Software Engineer — Observability Instrumentation
 London
 Rust Software Engineer (Contract)
 London
-Core AI Engineer
-London
-Software Engineer – Compute Orchestration
-London
-Machine Learning Engineer
-London
-Engineering Manager
-London
 Research Engineer
 London
 Applied AI Engineer
 London
+Core AI Engineer
+London
+Software Engineer – Compute Orchestration
+London
+Software Engineer – Trade Technology
+London
 Observability Engineer
+London
+Engineering Manager
 London
 Machine Learning Engineer
 London
@@ -405,7 +405,7 @@ Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London
-Software Engineer – Trade Technology
+Machine Learning Engineer
 London
 Quantitative Developer
 London

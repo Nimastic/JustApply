@@ -1,180 +1,71 @@
 # Latest role check
 
-## 2026-11-14 10:21:30
+## 2026-11-15 10:58:29
 
 <b>BlackRock</b>
-+ Financial Engineering
-closed: Global Infrastructure Solutions - Infrastructure Investment Professional - Associate - London
+closed: Financial Engineering
 <a href="https://careers.blackrock.com/">open the board</a>
 
-<b>GSA Capital</b>
-closed: Quant Talk - University of Oxford (13th of November)
-<a href="https://www.gsacapital.com/join-us">open the board</a>
-
-<b>Squarepoint</b>
-closed: Junior UX/UI Engineer
-<a href="https://www.squarepoint-capital.com/open-opportunities">open the board</a>
-
-<b>G-Research</b>
-closed: Low Latency Network Engineer
-<a href="https://www.gresearch.com/vacancies/">open the board</a>
-
-<b>Amazon</b>
-+ Engineer | Amazon Web Services | Beijing, China
-<a href="https://www.amazon.jobs/">open the board</a>
-
-<b>Cloudflare</b>
-+ Principal, Developer Platform Positioning
-+ Senior Forward Deployed Engineer
-+ Engineering · Sales
-+ Senior Customer Engineer - Digital Natives
-closed: Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)
-<a href="https://www.cloudflare.com/careers/">open the board</a>
+<b>Geneva Trading</b>
+closed: Trader and Tech Education
+<a href="https://www.genevatrading.com/careers/">open the board</a>
 
 <b>Airwallex</b>
-+ Lead AI Engineer
-+ Director of Software Sales
-+ Senior Data Engineer, Knowledge Platform, Foundational Data
-+ Staff Software Engineer, Data Platform
-+ Solutions Engineer – Embedded Finance
-+ Staff AI Engineer
-closed: Staff Software Engineer, GTPN Platform
-closed: Engineering Lead, GTPN Platform (Seoul)
-closed: Senior Software Engineer, Growth
-closed: Senior Product Security Engineer
-closed: Staff Corporate Security Engineer
++ Engineering Lead, GTPN Platform (Seoul)
++ Senior Network Engineer, Infrastructure
++ Solutions Architect / Solutions Engineer- Payments
+closed: Lead AI Engineer
+closed: Director of Software Sales
+closed: Senior Data Engineer, Knowledge Platform, Foundational Data
+closed: Staff Software Engineer, Data Platform
+closed: Solutions Engineer – Embedded Finance
+closed: 1 more
 <a href="https://careers.airwallex.com/">open the board</a>
 
-<b>Anthropic</b>
-+ Research Scientist, Discovery (Engineering &amp; Applied Sciences)
-closed: [C] Research Engineer, Discovery
-closed: Research Engineer, RL Scaling Science
-<a href="https://job-boards.greenhouse.io/anthropic">open the board</a>
-
 <b>OpenAI</b>
-+ Forward Deployed Engineering (38)
-+ Full Stack Software Engineer, ChatGPT Finances
-+ Full Stack Software Engineer, Consumer Health
-closed: Forward Deployed Engineering (39)
-closed: Business Platform Engineer
-closed: Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)
++ Applied Scientist, Product Policy Research &amp; Measurement
 <a href="https://jobs.ashbyhq.com/openai">open the board</a>
 
-<b>Cohere</b>
-+ Cohere Expands Its Sovereign AI Platform with AISLE and
-<a href="https://cohere.com/careers">open the board</a>
-
-<b>Cursor</b>
-closed: Engineering Manager, Agent &amp; Product Security
-closed: Software Engineer, Billing
-closed: Software Engineer, Bugbot
-closed: Software Engineer, Client Infrastructure
-closed: Software Engineer, Compute Infra
-closed: 10 more
-<a href="https://www.cursor.com/careers">open the board</a>
-
-<b>Figma</b>
-closed: Product Designer, Growth &amp; Monetization
-<a href="https://www.figma.com/careers/">open the board</a>
-
-<b>Agility Robotics</b>
-+ Senior Software Engineer, Release Engineering
-+ Software Engineer III, Software Services (Applications)
-closed: Senior Supplier Quality Engineer
-closed: Apply for Senior Supplier Quality Engineer in Operations, Hybrid- Salem, OR or Fremont, CA
-<a href="https://www.agilityrobotics.com/careers">open the board</a>
-
 <b>Boston Dynamics</b>
-closed: Applications/Systems Engineering
-closed: Development Engineering
-closed: Manufacturing Engineering
-closed: Senior Staff Robotics Simulation Engineer - Thermal &amp; Fluids Analysis
+closed: Senior Staff Manufacturing Test Development Engineer
+closed: Staff Machine Learning Engineer, Agentic Systems
+closed: Atlas Staff Perception Engineer, Tactile Sensing
+closed: Senior Staff Firmware Engineer
+closed: Staff, ML Research Scientist
+closed: 12 more
 <a href="https://bostondynamics.com/careers">open the board</a>
 
 <b>Zoox</b>
-+ Advanced Hardware Engineering
-+ Automation Engineer - Compute Software Performance
-+ Software Systems
-+ Body Structures Engineer
-+ CAE Engineer - Safety occupant
-+ Chassis Controls Engineer, Brakes &amp; Steering
-+ Contract Student Worker  – Firmware Engineer (FW Core System Services)
-+ Software Platforms and Product
+closed: Advanced Hardware Engineering
+closed: Automation Engineer - Compute Software Performance
+closed: Software Systems
+closed: Body Structures Engineer
+closed: CAE Engineer - Safety occupant
+closed: 3 more
 <a href="https://zoox.com/careers">open the board</a>
 
-<b>Nuro</b>
-+ Core Infrastructure
-+ Senior Software Engineer, Distributed Compute System
-+ Senior Software Engineer, Performance
-closed: Senior Radar Systems Engineer
-<a href="https://www.nuro.ai/careers">open the board</a>
-
-<b>Intrinsic</b>
-closed: Robotics Software Engineer - Grasping
-closed: Staff Robotics Software Engineer - Grasping
-<a href="https://www.intrinsic.ai/careers">open the board</a>
-
-<b>Verkada</b>
-+ Lead Identity Engineer
-+ Senior Test Engineer, Cameras
-closed: Sr. IT Systems Engineer
-<a href="https://www.verkada.com/careers/">open the board</a>
-
-<b>Modular</b>
-+ Developer Community Marketing Manager
-closed: Cloud Inference
-closed: Cloud Inference Engineer
-closed: Senior AI Kernel Engineer
-<a href="https://www.modular.com/careers">open the board</a>
-
-<b>Cerebras</b>
-+ Senior Staff AWS Platform Engineer
-closed: Staff Cloud Infrastructure Engineer
-<a href="https://www.cerebras.ai/open-positions">open the board</a>
-
 <b>Tenstorrent</b>
-+ DFT Engineer
-+ AI/ML Physical Design Flow Engineer
-+ Engineer, CPU Performance Verification
-closed: IP Software
-closed: Senior Compiler Engineer, AI IP
-closed: Systems Engineering: Product
-closed: Product Manager- Enterprise Platform
-closed: Emulation Engineer, Automotive Robotics
++ Physical Design Engineer, PnR
++ Physical Design CPU Methodology Engineer
++ Systems Engineering
++ Field Support Engineer - AI Server Systems
+closed: DFT Engineer
+closed: AI/ML Physical Design Flow Engineer
+closed: Engineer, CPU Performance Verification
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
-<b>Meta NYC</b>
-+ Research Scientist, Neural Interfaces for Wearables
-+ AI Engineer, Specialist - VR
-+ AI Research Scientist, Video Generation and Post Training, FAIR
-+ Data Scientist, Product Analytics
-+ Software Engineer, Infrastructure
-+ Software Engineer (Leadership) - Infrastructure
-closed: Software Engineer, Container Infrastructure (Technical Leadership)
-closed: AI Engineer, Specialist - VR - (Technical Leadership)
-closed: Machine Learning
-closed: Product Content Engineer - Content Strategist
-<a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
-
 <b>Apple NYC</b>
-+ Staff / Principal ML Infrastructure Engineer
-+ Staff / Principal ML Infrastructure Engineer 200695047-0836
-+ RF System Integration Engineer (Instrument Engineering)
-+ RF System Integration Engineer (Instrument Engineering) 200690352-0836
-+ RF Design Engineer – Next-Gen Wireless
-+ RF Design Engineer – Next-Gen Wireless 200694361-3543
-+ Systems Software Engineer, Platform Architecture
-+ Systems Software Engineer, Platform Architecture 200695051-1242
-+ RF System Integration Engineer — Cellular Technology
-+ RF System Integration Engineer — Cellular Technology 200682611-0836
-+ Software Engineering Program Manager - visionOS
-+ Software Engineering Program Manager - visionOS 200694999-3956
-+ 11 more
-closed: Hardware Systems Design &amp; Integration Engineer - AirPods
-closed: Hardware Systems Design &amp; Integration Engineer - AirPods 200694768-0836
-closed: Software Engineer, Apple Ads
-closed: Software Engineer, Apple Ads 200694842-0836
-closed: Machine Learning Engineer
-closed: 21 more
++ CPU Microarchitect / RTL Design Engineer
++ CPU Microarchitect / RTL Design Engineer 200694855-3760
++ Systems Software Developer, CAD Infrastructure
++ Systems Software Developer, CAD Infrastructure 200694942-0836
++ Systems Software Developer, CAD Infrastructure 200694969-0157
++ Systems Software Developer, CAD Infrastructure 200694969-0505
++ Systems Software Developer, CAD Infrastructure 200694969-0836
+closed: Performance Modeling Software Architect, Platform Architecture
+closed: Performance Modeling Software Architect, Platform Architecture 200695054-0157
+closed: Performance Modeling Software Architect, Platform Architecture 200695054-0505
+closed: Performance Modeling Software Architect, Platform Architecture 200695054-1242
+closed: Performance Modeling Software Architect, Platform Architecture 200695054-0836
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>
 

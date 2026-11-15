@@ -8,6 +8,7 @@ We use cookies to personalise content, provide social media features, and analys
 Cookies
 page on our website.
 Please be aware that the embedded audio and video players and interactive content require statistics cookies to function.
+Show more
 [#GPC_BANNER_ICON#]
 [#GPC_TOAST_TEXT#]
 Consent Selection
@@ -18,16 +19,22 @@ Targeting
 Show details
 Details
 Necessary
-25
+26
 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
 Google
-3
+4
 Learn more about this provider
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
 test_cookie
 Used to check if the user's browser supports cookies.
 Maximum Storage Duration
 : 1 day
+Type
+: HTTP Cookie
+_GRECAPTCHA
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: 180 days
 Type
 : HTTP Cookie
 rc::a
@@ -396,24 +403,18 @@ Maximum Storage Duration
 : 1 year
 Type
 : HTTP Cookie
-sa-user-id-v3
+sa-user-id-v3 [x2]
 Collects data on the user across websites - This data is used to make advertisement more relevant.
 Maximum Storage Duration
-: Persistent
+: Session
 Type
-: HTML Local Storage
+: HTTP Cookie
 sa-user-id-v4
 Pending
 Maximum Storage Duration
 : Persistent
 Type
 : HTML Local Storage
-sa-user-id-v3
-Collects data on the user across websites - This data is used to make advertisement more relevant.
-Maximum Storage Duration
-: 1 year
-Type
-: HTTP Cookie
 Twitter Inc.
 3
 Learn more about this provider
@@ -497,7 +498,7 @@ Cross-domain consent
 [#BULK_CONSENT_TITLE#]
 List of domains your consent applies to:
 [#BULK_CONSENT_DOMAINS#]
-Cookie declaration last updated on 10/13/26 by
+Cookie declaration last updated on 11/14/26 by
 Cookiebot
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
