@@ -325,7 +325,7 @@ Sort by:
 Newest
 US - Specialist: Seasonal, Part-time
 Apple Retail
-Nov 15, 2026
+Nov 16, 2026
 Location
 Various Locations within United States
 Actions
@@ -339,6 +339,53 @@ Weekly Hours:
 40 Hours
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
+Submit Resume
+Advanced Manufacturing Engineer - Audio
+Operations and Supply Chain
+Nov 16, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Advanced Manufacturing Engineer - Audio 200693486-0836
+Role Number:
+200693486-0836
+Weekly Hours:
+40 Hours
+Imagine what you could do here. At Apple, we believe new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+Submit Resume
+Sr Software Engineer, Customer Systems
+Software and Services
+Nov 16, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Sr Software Engineer, Customer Systems 200677400-0836
+Role Number:
+200677400-0836
+Weekly Hours:
+40 Hours
+Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization.
+IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.
+Submit Resume
+Sr Software Engineer, Customer Systems
+Software and Services
+Nov 16, 2026
+Location
+Sunnyvale
+Actions
+See full role description
+Share
+Sr Software Engineer, Customer Systems 200677400-3956
+Role Number:
+200677400-3956
+Weekly Hours:
+40 Hours
+Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization.
+IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.
 Submit Resume
 System Integration Lead
 Hardware
@@ -589,53 +636,6 @@ Weekly Hours:
 40 Hours
 Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
 In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Performance Modeling Software Engineer, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Performance Modeling Software Engineer, Platform Architecture 200695049-0836
-Role Number:
-200695049-0836
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Performance Modeling Software Engineer, Platform Architecture
-Hardware
-Nov 14, 2026
-Location
-Orlando
-Actions
-See full role description
-Share
-Performance Modeling Software Engineer, Platform Architecture 200695049-2907
-Role Number:
-200695049-2907
-Weekly Hours:
-40 Hours
-Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Join us to help deliver the next groundbreaking Apple product.
-In this role, you will be a member of the system-on-chip (SOC) performance team, working within the Hardware Technologies organization to shape the architecture of Apple's future devices. Our team initiates and fosters deep collaboration between the SOC architecture, design, power, and softwa...
-Submit Resume
-Gen AI Portfolio Intake Program Manager
-Machine Learning and AI
-Nov 14, 2026
-Location
-Austin
-Actions
-See full role description
-Share
-Gen AI Portfolio Intake Program Manager 200692635-0157
-Role Number:
-200692635-0157
-Weekly Hours:
-40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. Everything we build is the result of people in different roles and teams working together to make each other's ideas stronger. That passion for innovation also applies to our internal practices, stren...
 Submit Resume
 Page Number
 Press Return/Enter key to go to the page

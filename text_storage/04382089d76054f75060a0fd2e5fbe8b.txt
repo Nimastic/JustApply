@@ -1,22 +1,12 @@
 Careers at Figma
-This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
-privacy policy.
-California Residents:
-learn how personal information is
-collected
-, including how it is
-used
-, whether it is
-“sold” or “shared”
-, and how long it is
-retained
-.
-Opt-Out
 Skip to main content
 Products
 What you can do in figma
 Design and explore
 Build and ship products
+Figma AI
+AI workflows
+Figma agent
 Explore all products
 Figma Design
 Design and prototype in one place
@@ -45,7 +35,6 @@ Figma Buzz
 Beta
 Produce on-brand assets at scale
 Additional product resources
-AI workflows
 Release notes
 Downloads
 Solutions
@@ -400,5 +389,4 @@ Customers
 Careers
 Newsroom
 Brand assets
-Do Not Sell/Share My Personal Info + Opt-Out
 English

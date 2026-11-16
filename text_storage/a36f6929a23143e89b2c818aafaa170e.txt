@@ -120,7 +120,7 @@ offices.
 Viewing
 4
 of
-95
+93
 Jobs
 No jobs available for your search, please try something else.
 Add job to your application bundle
@@ -234,11 +234,6 @@ New York
 icon
 MBOSS Strategy and Execution Lead, Financial Operations
 : The D. E. Shaw group seeks a strategy and execution lead to join the Middle/Back Office Strategy and Support (MBOSS) team within Financial Operations. MBOSS drives…
-Financial Operations
-New York
-icon
-Senior Associate, Global Middle Office - Financial Operations
-: The D. E. Shaw group seeks a motivated and detail-oriented professional to join its growing global Middle Office function. This team supports the lifecycle of the firm’s global…
 Financial Operations
 New York
 icon
@@ -379,11 +374,6 @@ New York
 icon
 Applied AI Engineer
 : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…
-Quantitative Strategies
-New York
-icon
-Machine Learning Researcher
-: The D. E. Shaw group seeks a machine learning researcher to conduct quantitative research using modern machine learning (ML) techniques. In this role, the researcher will develop…
 Quantitative Strategies / Technology
 New York
 icon
@@ -397,8 +387,8 @@ Quant Systems: Storage Engineer
 Quantitative Strategies
 New York
 icon
-Quantitative Analyst
-: Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…
+Quantitative Researcher
+: The D. E. Shaw group seeks a quantitative researcher to apply mathematical, statistical, and advanced machine learning techniques to the firm’s computerized financial trading…
 Quantitative Strategies
 New York
 icon
@@ -600,7 +590,7 @@ icon
 Start-up Ventures: Senior Software Engineer at Wisable
 : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw’s venture studio, seeks a senior software engineer to help design and build its core internal technology…
 +
-91
+89
 Jobs
 Recruiting Security:
 Emails from genuine D. E. Shaw group recruiters who are employees of the firm will always come from the @deshaw.com domain or related subdomains (
@@ -735,13 +725,13 @@ MBA Investment Analyst (New York) – Summer 2027
 Quantitative Strategies
 New York
 icon
-Quantitative Analyst Intern (New York) – Summer 2027
-: The D. E. Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as quantitative analyst interns. Interns…
+Quantitative Researcher Intern (New York) – Summer 2027
+: The D. E. Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as quantitative researcher interns. Interns…
 Quantitative Strategies
 New York
 icon
-Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027
-: The D. E. Shaw group seeks talented Ph.D. candidates with impressive records of academic and/or professional achievement to join the firm as quantitative analyst interns. Ph.D.…
+Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027
+: The D. E. Shaw group seeks talented Ph.D. candidates with impressive records of academic and/or professional achievement to join the firm as quantitative researcher interns.…
 Software Development
 New York
 icon

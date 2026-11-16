@@ -247,6 +247,12 @@ Cubist Business Team
 Find Open Roles
 203 Open Roles
 ROLE
+P&L Reconciliation and Analysis Associate
+FOCUS
+Operations
+LOCATION
+Bengaluru, India
+ROLE
 Post-Training Research Scientist
 FOCUS
 Trading Research
@@ -948,12 +954,6 @@ FOCUS
 Supply Chain Research (Canvas)
 LOCATION
 Singapore
-ROLE
-Point72 Academy 2026 Investment Analyst Program for Experienced Professionals-HK
-FOCUS
-Point72 Academy
-LOCATION
-Hong Kong
 ROLE
 Machine Learning Engineer, GenAI Technology
 FOCUS

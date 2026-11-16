@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-158
+157
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,7 +133,7 @@ English
 English
 Français (Canada)
 Jobs search results
-158
+157
 jobs matched
 filter_list
 Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
@@ -248,6 +248,33 @@ link
 Copy link
 email
 Email a friend
+Software Engineer, AI Infrastructure, Core
+corporate_fare
+Google
+place
+Austin, TX, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Austin, TX, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in Java.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+1 year of experience with GenAI techniques (e.g., LLMs,
+Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
+Experience in machine learning infrastructure.
+Learn more
+share
+Share Software Engineer, AI Infrastructure, Core
+link
+Copy link
+email
+Email a friend
 Senior Software Engineer, Developer AI Research
 corporate_fare
 Google
@@ -272,33 +299,6 @@ Bachelor's degree in Computer Science, Machine Learning, or equivalent practical
 Learn more
 share
 Share Senior Software Engineer, Developer AI Research
-link
-Copy link
-email
-Email a friend
-Software Engineer, AI Infrastructure, Core
-corporate_fare
-Google
-place
-Austin, TX, USA
-; New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Austin, TX, USA
-; New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience with software development in Java.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-1 year of experience with GenAI techniques (e.g., LLMs,
-Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
-Experience in machine learning infrastructure.
-Learn more
-share
-Share Software Engineer, AI Infrastructure, Core
 link
 Copy link
 email
@@ -592,6 +592,31 @@ link
 Copy link
 email
 Email a friend
+Staff Software Engineer, Google Cloud
+corporate_fare
+Google
+place
+New York, NY, USA
+; Sunnyvale, CA, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+; Sunnyvale, CA, USA
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+Learn more
+share
+Share Staff Software Engineer, Google Cloud
+link
+Copy link
+email
+Email a friend
 Software Engineer III, Infrastructure, Google Cloud Platforms
 corporate_fare
 Google
@@ -648,30 +673,8 @@ link
 Copy link
 email
 Email a friend
-Software Engineer III, Front End
-corporate_fare
-Google
-place
-New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
-2 years of experience with front-end and user interface development.
-Learn more
-share
-Share Software Engineer III, Front End
-link
-Copy link
-email
-Email a friend
-Showing 1 to 20 of 158 rows
-1‑20 of 158
+Showing 1 to 20 of 157 rows
+1‑20 of 157
 navigate_next
 Go to next page
 Follow Life at Google on

@@ -38,27 +38,26 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Architecture
-Technical Program Manager SOC & Digital Design
-Tokyo, Japan
+AI SW
+Software Engineer, Acceleration Kernel Development
+Santa Clara, California, United States; Toronto, Ontario, Canada
+Apply
+AI Hardware
+Staff Engineer, RTL Design, AI Hardware
+Belgrade, Serbia
+Apply
+RISC V
+System IP RTL Design Lead
+Bengaluru, Karnataka, India
 Apply
 Advanced Physical Design
-Physical Design Engineer, PnR
+Top Level Physical Design Engineer
 Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
 Apply
-Architecture
-Physical Design
-Physical Design CPU Methodology Engineer
-Santa Clara, California, United States
-Apply
 Operations
-Finance
-Finance Business Process Specialist
-Santa Clara, California, United States
-Apply
-Systems Engineering
-Field Support Engineer - AI Server Systems
-Tokyo, Japan
+Supply Chain
+Staff Manufacturing Engineer
+Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future
