@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-157
+150
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,7 +133,7 @@ English
 English
 Français (Canada)
 Jobs search results
-157
+150
 jobs matched
 filter_list
 Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
@@ -275,34 +275,6 @@ link
 Copy link
 email
 Email a friend
-Senior Software Engineer, Developer AI Research
-corporate_fare
-Google
-place
-New York, NY, USA
-; Kirkland, WA, USA
-; +2 more
-; +1 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-New York, NY, USA
-; Kirkland, WA, USA
-; +2 more
-; +1 more
-Minimum qualifications
-Bachelor's degree in Computer Science, Machine Learning, or equivalent practical research experience.
-5 years of experience with software development in one or more programming languages.
-3 years of research experience in artificial intelligence, machine learning, or software engineering research (e.g., deep learning, LLMs, program analysis/synthesis).
-Learn more
-share
-Share Senior Software Engineer, Developer AI Research
-link
-Copy link
-email
-Email a friend
 Software Engineer III, Search Security Engineering
 corporate_fare
 Google
@@ -331,6 +303,34 @@ link
 Copy link
 email
 Email a friend
+Senior Software Engineer, Developer AI Research
+corporate_fare
+Google
+place
+New York, NY, USA
+; Kirkland, WA, USA
+; +2 more
+; +1 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+; Kirkland, WA, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor's degree in Computer Science, Machine Learning, or equivalent practical research experience.
+5 years of experience with software development in one or more programming languages.
+3 years of research experience in artificial intelligence, machine learning, or software engineering research (e.g., deep learning, LLMs, program analysis/synthesis).
+Learn more
+share
+Share Senior Software Engineer, Developer AI Research
+link
+Copy link
+email
+Email a friend
 Software Engineer, Generative Media AI, Apparel ML
 corporate_fare
 Google
@@ -355,6 +355,32 @@ Bachelor’s degree or equivalent practical experience.
 Learn more
 share
 Share Software Engineer, Generative Media AI, Apparel ML
+link
+Copy link
+email
+Email a friend
+Staff Software Engineer, Infrastructure
+corporate_fare
+Google
+place
+New York, NY, USA
+; Sunnyvale, CA, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+; Sunnyvale, CA, USA
+Minimum qualifications
+Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.
+8 years of experience with software development in one or more programming languages (such as C++, Go, Python, or Java), or 5 years of experience with an advanced degree.
+5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+Learn more
+share
+Share Staff Software Engineer, Infrastructure
 link
 Copy link
 email
@@ -403,31 +429,6 @@ Bachelor's degree or equivalent practical experience.
 Learn more
 share
 Share Staff Software Engineer, Infrastructure, Google Cloud AI
-link
-Copy link
-email
-Email a friend
-Staff Software Engineer, AI/ML GenAI, Google Workspace
-corporate_fare
-Google
-place
-New York, NY, USA
-bar_chart
-Advanced
-Advanced
-Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
-Google |
-New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-8 years of experience in software development.
-5 years of experience leading ML design and optimizing industry-scale end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
-5 years of experience testing, and launching software products.
-3 years of experience with software design and architecture.
-2 years of experience with state of the art GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision).
-Learn more
-share
-Share Staff Software Engineer, AI/ML GenAI, Google Workspace
 link
 Copy link
 email
@@ -535,35 +536,6 @@ link
 Copy link
 email
 Email a friend
-Senior Software Engineer, Infrastructure, Google Cloud Platforms
-corporate_fare
-Google
-place
-Kirkland, WA, USA
-; New York, NY, USA
-; +3 more
-; +2 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Kirkland, WA, USA
-; New York, NY, USA
-; +3 more
-; +2 more
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience programming in C++ or Go.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Senior Software Engineer, Infrastructure, Google Cloud Platforms
-link
-Copy link
-email
-Email a friend
 Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
 corporate_fare
 Google
@@ -588,31 +560,6 @@ Experience in one or more of the following: architecting or developing distribut
 Learn more
 share
 Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
-link
-Copy link
-email
-Email a friend
-Staff Software Engineer, Google Cloud
-corporate_fare
-Google
-place
-New York, NY, USA
-; Sunnyvale, CA, USA
-bar_chart
-Advanced
-Advanced
-Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
-Google |
-New York, NY, USA
-; Sunnyvale, CA, USA
-Minimum qualifications
-Bachelor's degree or equivalent practical experience.
-8 years of experience in software development.
-5 years of experience testing, and launching software products.
-3 years of experience with software design and architecture.
-Learn more
-share
-Share Staff Software Engineer, Google Cloud
 link
 Copy link
 email
@@ -645,6 +592,31 @@ link
 Copy link
 email
 Email a friend
+Staff Software Engineer, Google Cloud
+corporate_fare
+Google
+place
+New York, NY, USA
+; Sunnyvale, CA, USA
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+; Sunnyvale, CA, USA
+Minimum qualifications
+Bachelor's degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of experience testing, and launching software products.
+3 years of experience with software design and architecture.
+Learn more
+share
+Share Staff Software Engineer, Google Cloud
+link
+Copy link
+email
+Email a friend
 Software Engineer III, Infrastructure, Google Ads
 corporate_fare
 Google
@@ -673,8 +645,30 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 20 of 157 rows
-1‑20 of 157
+Software Engineer III, Front End
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience with front-end and user interface development.
+Learn more
+share
+Share Software Engineer III, Front End
+link
+Copy link
+email
+Email a friend
+Showing 1 to 20 of 150 rows
+1‑20 of 150
 navigate_next
 Go to next page
 Follow Life at Google on

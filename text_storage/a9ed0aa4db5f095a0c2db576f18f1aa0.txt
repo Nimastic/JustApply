@@ -104,12 +104,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Sunnyvale
+Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Sunnyvale
-Sunnyvale
+Seoul
+Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
@@ -202,12 +202,12 @@ Sunnyvale
 Apply
 Application Engineering
 Application Engineer - Technical Customer Lead
-Stockholm
-Stockholm
+Sunnyvale
+Sunnyvale
 Apply
 Application Engineer - Technical Customer Lead
-Sunnyvale
-Sunnyvale
+Stockholm
+Stockholm
 Apply
 Customer Engineering - Lead Customer Engineer
 Seoul
@@ -320,12 +320,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -336,12 +336,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer - Trucking
 Gothenburg
@@ -383,10 +383,6 @@ Sunnyvale
 Apply
 Dana Software Engineering
 Forward Deployed Software Engineer
-Sunnyvale
-Sunnyvale
-Apply
-Mapping Operations Lead
 Sunnyvale
 Sunnyvale
 Apply
@@ -575,7 +571,7 @@ Information Security System Officer (ISSO)
 Poway, CA
 Poway, CA
 Apply
-Network and Security Engineer, Defense
+Infrastructure Architect
 Sunnyvale
 Sunnyvale
 Apply
@@ -647,6 +643,10 @@ Senior Software Engineer - Robotics
 London
 London
 Apply
+Senior Technical Program Manager, Physical AI
+Sunnyvale
+Sunnyvale
+Apply
 Software Engineer
 London
 London
@@ -700,10 +700,6 @@ Sunnyvale
 Sunnyvale
 Apply
 Solutions Architect - Modeling & Simulation (Defense)
-Sunnyvale
-Sunnyvale
-Apply
-Technical Program Manager, Defense OS
 Sunnyvale
 Sunnyvale
 Apply
@@ -780,12 +776,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Staff Software Engineer
 Sunnyvale
@@ -907,6 +903,18 @@ Sunnyvale
 Sunnyvale
 Apply
 Legal
+Legal Counsel - EMEA
+London
+London
+Apply
+Legal Counsel - EMEA
+Munich
+Munich
+Apply
+Legal Counsel - EMEA
+Stuttgart
+Stuttgart
+Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
 Washington, D.C.
@@ -914,6 +922,18 @@ Apply
 Product Counsel
 Sunnyvale
 Sunnyvale
+Apply
+Regulatory Counsel
+Munich
+Munich
+Apply
+Regulatory Counsel
+Stuttgart
+Stuttgart
+Apply
+Regulatory Counsel
+London
+London
 Apply
 Safety Programs Lead
 Sunnyvale
@@ -1012,6 +1032,10 @@ Sunnyvale
 Sunnyvale
 Apply
 SDS Software Engineering
+Autonomy Integration Engineer, Tech Lead
+Sunnyvale
+Sunnyvale
+Apply
 Autonomy Verification Engineer
 Sunnyvale
 Sunnyvale
@@ -1056,10 +1080,6 @@ Release Manager
 Sunnyvale
 Sunnyvale
 Apply
-Robotics Integration Engineer, Tech Lead
-Sunnyvale
-Sunnyvale
-Apply
 Senior Software Engineer - Perception
 Tokyo
 Tokyo
@@ -1085,12 +1105,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart
@@ -1285,16 +1305,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
-Apply
-Software Integration Engineer
 Tokyo
 Tokyo
 Apply
 Software Integration Engineer
-Stuttgart
-Stuttgart
+Stockholm
+Stockholm
 Apply
 Solution Engineer
 Tokyo
@@ -1303,10 +1319,6 @@ Apply
 System Integration and Validation Engineer
 Stuttgart
 Stuttgart
-Apply
-Systems Architect - POSIX
-Sunnyvale
-Sunnyvale
 Apply
 Technical Program Manager - EMEA
 Stockholm
@@ -1352,11 +1364,19 @@ Sunnyvale
 Sunnyvale
 Apply
 Developer Tooling
+Senior Software Engineer - AI Developer Productivity
+Sunnyvale
+Sunnyvale
+Apply
 Software Engineer - Developer Infrastructure
 Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Stack (SDS) Tooling
+Sunnyvale
+Sunnyvale
+Apply
+Staff Software Engineer - AI Developer Productivity
 Sunnyvale
 Sunnyvale
 Apply

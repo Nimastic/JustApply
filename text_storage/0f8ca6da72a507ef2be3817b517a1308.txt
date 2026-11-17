@@ -15,7 +15,7 @@ One
 Zoox.
 Clear
 Explore all jobs
-241
+238
 Ground-up thinking gets us places
 Ground-up
 thinking
@@ -109,10 +109,10 @@ Job function
 Clear
 Job function
 Product, Features & Homologation
-Zoox Internships
 Software
 Vehicle Development
 Finance, Places and Build
+Zoox Internships
 Data Science
 Legal, EHS, & Security
 Experience, Communications & Marketing
@@ -148,25 +148,20 @@ Work type
 Clear
 Work type
 Full-time
-Internship/Co-op
 Contract
+Internship/Co-op
 clear
-241 jobs, in
+238 jobs, in
 All job functions
 in
 All locations
 and
 All work types
-Page 1 of 25. Showing jobs 1 to 10 of 241.
+Page 1 of 24. Showing jobs 1 to 10 of 238.
 Administrative Business Partner, Product
 Product, Features & Homologation
 Product and Experience
 Full-time
-Foster City, CA
-AI Workflows Intern [Summer 2027]
-Zoox Internships
-Safety Policy and Strategy
-Internship/Co-op
 Foster City, CA
 Automation Engineer - Compute Software Performance
 Software
@@ -212,8 +207,13 @@ Contract
 Foster City, CA
 San Diego, CA
 Seattle, WA
-Showing 1-10 of 241
-1 of 25
+Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)
+Software
+Autonomy Software
+Contract
+Foster City, CA
+Showing 1-10 of 238
+1 of 24
 Site Map
 How To Ride
 Where to Ride

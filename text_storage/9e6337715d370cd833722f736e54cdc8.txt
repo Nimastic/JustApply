@@ -162,6 +162,8 @@ Google AI Studio
 Build with our next-gen models
 Google Antigravity
 Our agentic development platform
+Gemini for business
+Use Gemini grounded in your business data
 Models
 Research
 Science

@@ -1,4 +1,22 @@
 Careers | Akuna Capital
+Analytics cookies
+We use analytics cookies to improve the site and a security cookie to protect it. Change your analytics choice anytime in Cookie Preferences.
+About cookies
+Accept
+Accept once
+Decline
+About cookies
+We use analytics cookies to improve the site. We never use them for advertising. A security cookie protects the site and runs whatever you choose.
+Accept
+Analytics on. We remember your choice for six months.
+Accept once
+Analytics for this visit only. We'll ask again next time.
+Decline
+No analytics for six months. The security cookie still runs.
+Change your choice anytime in Cookie Preferences. See our
+Privacy Policy
+.
+Back
 WHO WE ARE
 WHAT WE DO
 WORK WITH US
@@ -88,6 +106,8 @@ Experienced Options Trader
 Chicago
 Expression of Interest: 2027 Trading Sneak Peek Weeks
 Chicago
+Floor Trader- SOFR
+Chicago
 Floor Trader- SPX
 Chicago
 India Single Stock Options Trader
@@ -105,9 +125,9 @@ Chicago
 Performance Engineer
 Chicago
 Platform Engineer
-London, England, United Kingdom
-Platform Engineer
 Remote
+Platform Engineer
+London, England, United Kingdom
 Platform Engineer
 Sydney
 Platform Engineer Intern, Summer 2027
@@ -157,4 +177,6 @@ Terms and
 Conditions
 -
 Privacy Policy
+-
+Cookie Preferences
 Media Inquiries

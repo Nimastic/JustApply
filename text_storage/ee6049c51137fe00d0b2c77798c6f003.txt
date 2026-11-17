@@ -245,7 +245,25 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-203 Open Roles
+204 Open Roles
+ROLE
+Quantitative Analyst, PCAT
+FOCUS
+Risk
+LOCATION
+Hong Kong
+ROLE
+Machine Learning Engineer, GenAI Technology
+FOCUS
+Technology Innovation
+LOCATION
+New York   |   Stamford
+ROLE
+Software Engineer, Corporate Systems Technology
+FOCUS
+Software & System Engineering
+LOCATION
+Bengaluru, India
 ROLE
 P&L Reconciliation and Analysis Associate
 FOCUS
@@ -324,6 +342,12 @@ FOCUS
 Corporate Access
 LOCATION
 Hong Kong
+ROLE
+2027 Asia Investment Services Internship
+FOCUS
+Human Capital  |  Operations  |  Trade Support & Reporting
+LOCATION
+Hong Kong   |   Singapore
 ROLE
 2027 MI Data Research & AI Intern
 FOCUS
@@ -514,12 +538,6 @@ ROLE
 Senior Data Engineer, Proprietary Research
 FOCUS
 Data Engineering
-LOCATION
-London
-ROLE
-2027 Point72 Academy Spring Insight Programme – London
-FOCUS
-Point72 Academy
 LOCATION
 London
 ROLE
@@ -973,12 +991,6 @@ Software & System Engineering
 LOCATION
 Bengaluru, India
 ROLE
-Business Analyst
-FOCUS
-Cubist Business Team
-LOCATION
-Hong Kong
-ROLE
 PM Administrative Assistant, Hong Kong
 FOCUS
 Admin
@@ -1152,12 +1164,6 @@ FOCUS
 Data Science & Analytics  |  Data Engineering  |  Technology Innovation
 LOCATION
 Warsaw, PL
-ROLE
-Machine Learning Engineer, GenAI Technology
-FOCUS
-Technology Innovation
-LOCATION
-New York   |   Stamford   |   Seattle
 ROLE
 Network Security Engineer
 FOCUS

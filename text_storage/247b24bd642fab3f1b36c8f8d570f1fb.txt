@@ -79,7 +79,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-273
+272
 roles across
 16
 departments
@@ -173,10 +173,10 @@ Senior Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Kuwait City, Kuwait
+Riyadh, Saudi Arabia
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Riyadh, Saudi Arabia
+Kuwait City, Kuwait
 Apply →
 Senior Full-Stack Software Engineer, (Forward Deployed), GPS
 London, UK
@@ -825,7 +825,7 @@ VP, Research
 New York, NY
 Apply →
 Sales
-24 roles
+23 roles
 Deployment Strategist - DHS/DOJ
 Washington, DC
 Apply →
@@ -864,9 +864,6 @@ London, UK
 Apply →
 GTM Business Operations Associate
 London, UK
-Apply →
-Head of GTM Strategy & Operations, Enterprise
-San Francisco, CA
 Apply →
 Head of Strategic Partnerships, Global Systems Integrators
 San Francisco, CA

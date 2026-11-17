@@ -19,7 +19,7 @@ Built for the best
 We power the world’s most ambitious companies because we’re obsessed with their success, rigorous about the details, creative in our approach, and always moving with urgency.
 We’re building the economic infrastructure for AI
 AI is replatforming the global economy. Stripe is building infrastructure to make it possible, including real-time agent micropayments, protocols that let software transact autonomously, and fraud prevention for a new generation of threats. These are just some of the challenges you’ll be working on.
-Around 1.7% of global GDP runs on Stripe.
+Around 1.8% of global GDP runs on Stripe.
 Behind every transaction is something someone here built.
 Solve the problems that matter at scale
 Stripe is focused on

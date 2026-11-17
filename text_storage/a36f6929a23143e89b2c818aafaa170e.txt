@@ -120,7 +120,7 @@ offices.
 Viewing
 4
 of
-93
+97
 Jobs
 No jobs available for your search, please try something else.
 Add job to your application bundle
@@ -179,6 +179,11 @@ New York
 icon
 Corporate Development Associate
 : The D. E. Shaw group seeks a talented associate to join its Corporate Development team. This team is responsible for proposing, developing, and executing high-priority…
+Corporate Development
+New York
+icon
+Corporate Development Senior Associate
+: The D. E. Shaw group seeks a talented senior associate to join its Corporate Development team. This team is responsible for proposing, developing, and executing high-priority…
 Design and Experience
 New York
 icon
@@ -264,6 +269,11 @@ New York
 icon
 AI and DevOps Engineer – Human Capital
 : The D. E. Shaw group seeks an AI and DevOps engineer to join its Human Capital Generative AI (HC GAI) team, which designs, builds, and operates generative AI solutions that…
+Human Capital
+New York
+icon
+Campus Programs Specialist
+: The D. E. Shaw group seeks an experienced campus specialist to join its Human Capital team and help drive the firm's end-to-end campus engagement strategy. This specialist will…
 Human Capital
 New York
 icon
@@ -527,6 +537,11 @@ Technical Program Manager - Generative AI Tech Services
 Technology
 New York
 icon
+Trading Systems Ops Engineer
+: The D. E. Shaw group seeks an accomplished engineer to join its innovative trading systems ops group. The engineer will be part of a global team that provides real-time support…
+Technology
+New York
+icon
 Video and Voice Engineer
 : The D. E. Shaw group seeks a voice and video engineer to join its Systems team. This team oversees the firm’s global voice and video infrastructure, including calling platforms,…
 Technology
@@ -539,6 +554,16 @@ Off-site
 icon
 Chief Executive Officer, AI-Native Healthcare RCM Platform
 : The D. E. Shaw group seeks an accomplished and hands-on chief executive officer to lead Cove’s new AI-native healthcare revenue cycle management (RCM) platform. Cove, the firm’s…
+Various
+New York
+To apply for this job, please email
+your resume and the job title to
+recruitment-nyc@world.deshaw.com
+.
+icon
+Engineer, Quant Systems
+: Join our Quant Systems team in New York
+The D. E. Shaw group seeks engineers to join its Quant Systems team. This is a hands-on technical role within an engineering team…
 Various
 New York
 icon
@@ -590,7 +615,7 @@ icon
 Start-up Ventures: Senior Software Engineer at Wisable
 : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw’s venture studio, seeks a senior software engineer to help design and build its core internal technology…
 +
-89
+93
 Jobs
 Recruiting Security:
 Emails from genuine D. E. Shaw group recruiters who are employees of the firm will always come from the @deshaw.com domain or related subdomains (
@@ -680,7 +705,7 @@ Contact
 Internships
 We’re looking for exceptional students from all academic disciplines to join our internship program.
 As an intern, you’ll focus on some of the most challenging and interesting problems in finance and technology, while learning from experienced managers, participating in tailored educational programming, and sharing in community-building social events with fellow interns and employees.
-3
+4
 video
 s
 Our Internships and Interview Process:

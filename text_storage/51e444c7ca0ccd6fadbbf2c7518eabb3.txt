@@ -51,14 +51,10 @@ Where the AI revolution is happening. World-class talent, right on our doorstep,
 37.551398° N, -122.064345° W
 Open roles
 Accounting and Finance
-Manager, FP&A
+FP&A Lead
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →
-Apply for Manager, FP&A in Accounting and Finance, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
-Manager, Accounts Payable
-Hybrid- Salem, OR
-APPLY →
-Apply for Manager, Accounts Payable in Accounting and Finance, Hybrid- Salem, OR
+Apply for FP&A Lead in Accounting and Finance, Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 Payroll Specialist
 Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA
 APPLY →
@@ -85,10 +81,6 @@ Mechanical Engineer
 Hybrid- Fremont, CA
 APPLY →
 Apply for Mechanical Engineer in Hardware, Hybrid- Fremont, CA
-Staff Electrical Engineer
-Hybrid- Fremont, CA
-APPLY →
-Apply for Staff Electrical Engineer in Hardware, Hybrid- Fremont, CA
 Senior Electrical Engineer
 Hybrid- Fremont, CA
 APPLY →
@@ -213,10 +205,6 @@ Global Supply Manager - Cable Harness
 Hybrid- Fremont, CA
 APPLY →
 Apply for Global Supply Manager - Cable Harness in Operations, Hybrid- Fremont, CA
-Buyer II
-Onsite- Salem, OR
-APPLY →
-Apply for Buyer II in Operations, Onsite- Salem, OR
 Maintenance & Repair Technician
 Onsite- Salem, OR
 APPLY →
@@ -241,6 +229,18 @@ Staff Failure Analysis Engineer
 Onsite- Salem, OR
 APPLY →
 Apply for Staff Failure Analysis Engineer in Operations, Onsite- Salem, OR
+Facilities Maintenance Technician
+Onsite- Pittsburgh, PA
+APPLY →
+Apply for Facilities Maintenance Technician in Operations, Onsite- Pittsburgh, PA
+Facilities Maintenance Technician
+Onsite- Salem, OR
+APPLY →
+Apply for Facilities Maintenance Technician in Operations, Onsite- Salem, OR
+Senior Manager, Global Supply Management
+Hybrid- Fremont, CA
+APPLY →
+Apply for Senior Manager, Global Supply Management in Operations, Hybrid- Fremont, CA
 Product
 Senior Product Manager, Perception & World Understanding Skills
 Hybrid- Fremont, CA
@@ -259,10 +259,6 @@ Staff Systems Integration Engineer
 Hybrid- Fremont, CA
 APPLY →
 Apply for Staff Systems Integration Engineer in SEIT, Hybrid- Fremont, CA
-Staff HiL SW Infrastructure Engineer
-Hybrid- Fremont, CA
-APPLY →
-Apply for Staff HiL SW Infrastructure Engineer in SEIT, Hybrid- Fremont, CA
 Senior Triage & RCA Engineer
 Hybrid- Fremont, CA
 APPLY →
@@ -312,10 +308,6 @@ Staff Software Engineer, Hardware Interface
 Hybrid- Fremont, CA
 APPLY →
 Apply for Staff Software Engineer, Hardware Interface in Software Engineering, Hybrid- Fremont, CA
-Data Collection Manager
-Onsite- Fremont, CA
-APPLY →
-Apply for Data Collection Manager in Software Engineering, Onsite- Fremont, CA
 Senior AI Software Engineer, Perception
 Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)
 APPLY →

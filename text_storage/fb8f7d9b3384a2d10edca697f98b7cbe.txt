@@ -415,6 +415,7 @@ Support
 Contact Sales
 ×
 Merch
+Merch
 Support
 Contact Sales
 Join Our Team
@@ -492,13 +493,10 @@ Waltham Office (POST)
 Indiana (Remote)
 Billerica (MA)
 Savannah
-Austria (Remote)
-Georgia (Remote)
 Time Type
 Full Time
 Job Type
 Regular
-International Employee
 Intern
 Specialization
 Accounting
@@ -513,6 +511,7 @@ Hardware
 Logistics
 Machine Shop
 Manufacturing Engineering
+Production
 Product Management
 Product Marketing
 Program/Project Management

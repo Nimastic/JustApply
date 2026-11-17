@@ -42,13 +42,10 @@ Madrid
 Montreal
 New York
 Paris
+Shanghai
 Singapore
 Warsaw
 Zug
-Investment
-APAC Delta One Trader
-Hong Kong, Singapore
-Apply
 Corporate
 Assistant Controller - Broker Dealer
 London, New York, Montreal, Warsaw
@@ -65,17 +62,9 @@ Corporate
 Campus Recruitment Specialist
 London, Paris, New York
 Apply
-Corporate
-Corporate Access Associate
-New York
-Apply
 Investment
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
-Apply
-Corporate
-Finance Analyst – General Ledger
-Bangalore
 Apply
 Corporate
 Finance Data Analyst
@@ -380,6 +369,10 @@ Apply
 Technology
 Technology Integration Specialist
 London, Montreal, Bangalore
+Apply
+Corporate
+Technology Procurement Analyst
+Shanghai , Hong Kong, Singapore
 Apply
 Technology
 Trade Flow Support - Trading Application Support

@@ -13,7 +13,7 @@ Office
 Select...
 Experience Level
 Select...
-12 jobs
+13 jobs
 BizOps
 Job
 Financial Analyst
@@ -32,6 +32,9 @@ Quantitative Researcher, PhD
 Chicago; New York
 Technology
 Job
+Data Strategy Specialist
+New
+Chicago
 Network Engineer
 Chicago, New York, London
 Software Engineer, Core Data

@@ -4,9 +4,6 @@ Products
 What you can do in figma
 Design and explore
 Build and ship products
-Figma AI
-AI workflows
-Figma agent
 Explore all products
 Figma Design
 Design and prototype in one place
@@ -35,6 +32,7 @@ Figma Buzz
 Beta
 Produce on-brand assets at scale
 Additional product resources
+AI workflows
 Release notes
 Downloads
 Solutions
@@ -170,11 +168,12 @@ Technical Operations & Insights Analyst
 Voice of the Customer Program Manager
 Design
 Director, Product Design - AI & Context
-Manager, Design - Systems & Infrastructure
+Director, Product Design - Systems & Infrastructure
 Product Builder, AI Insights
 Product Designer, AI Models
 Product Designer, CMS
 Product Designer, Core Experience
+Product Designer, Growth
 Researcher, AI Evaluations
 Researcher, Figma Design
 Researcher - Rapid Research

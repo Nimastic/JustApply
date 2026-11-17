@@ -150,6 +150,11 @@ Mountain View, California
 Hardware
 As a Mechanical Engineer within the Lab Infrastructure team, you will design and build robotic automation systems, with a significant focus on custom End-of-Arm Tooling and intelligent automation. You will be a key contributor throughout the entire project lifecycle, from initial concept to implementation, navigating ambiguity to solve complex engineering challenges. Your core responsibilities include translating project requirements into detailed designs, creating efficient and scalable automation solutions, performing structural analysis, reviewing designs and procuring components. You will closely collaborate with research groups and industry partners to execute physical builds and automation solutions.
 Apply now
+Product Manager, Agentic Platform
+Mountain View, California
+Product
+As a Product Manager for Intrinsic’s Agentic Tooling, you will own the strategy, and execution of the AI tooling portfolio for acceleration of solutions with industrial robots. Your primary user is the Software Engineer (SWE). You will build an enterprise-grade cloud-managed SaaS platform powered by autonomous agents that guides these engineers through the complex journey of turning a raw robotics prototype into a fully productized, site-hardened, and deployed solution.
+Apply now
 Robotics Application Engineer, Customer Success
 Mountain View, California
 Software
@@ -235,7 +240,7 @@ Blog
 Working at Intrinsic
 Job Openings
 Request a Demo
-Become a Beta Tester
+Join developer community
 Get in Touch
 Press Inquiries
 privacy

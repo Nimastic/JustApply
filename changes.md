@@ -1,107 +1,216 @@
 # Latest role check
 
-## 2026-11-16 11:14:13
+## 2026-11-17 12:00:09
+
+<b>Optiver</b>
+closed: Quantitative Research &amp; Machine Learning
+<a href="https://optiver.com/working-at-optiver/career-opportunities/">open the board</a>
 
 <b>D. E. Shaw</b>
-+ Quantitative Researcher
-closed: Machine Learning Researcher
-closed: Quantitative Analyst
++ Trading Systems Ops Engineer
++ Engineer, Quant Systems
++ : Join our Quant Systems team in New York
 <a href="https://www.deshaw.com/careers/choose-your-path">open the board</a>
 
+<b>Akuna Capital</b>
++ Floor Trader- SOFR
+<a href="https://akunacapital.com/careers/">open the board</a>
+
+<b>BlackRock</b>
++ Applied AI Engineer, Software Engineering – Associate
++ Software Engineering
+<a href="https://careers.blackrock.com/">open the board</a>
+
+<b>Squarepoint</b>
+closed: APAC Delta One Trader
+<a href="https://www.squarepoint-capital.com/open-opportunities">open the board</a>
+
+<b>WorldQuant</b>
++ Junior Security Engineer
+<a href="https://www.worldquant.com/career-listing/">open the board</a>
+
+<b>Point72</b>
++ Quantitative Analyst, PCAT
+<a href="https://careers.point72.com/">open the board</a>
+
+<b>Flow Traders</b>
+closed: Experienced MFT Quantitative Researcher
+<a href="https://www.flowtraders.com/careers/job-search/">open the board</a>
+
 <b>Qube RT</b>
-closed: Network Operations Engineer (AWS)
+closed: Energy Trading Full Stack Engineer – Spark
+closed: Fixed Income Risk Engineer (Python)
+closed: Production Engineer
 <a href="https://www.qube-rt.com/careers/">open the board</a>
 
-<b>Geneva Trading</b>
-+ Trader and Tech Education
-<a href="https://www.genevatrading.com/careers/">open the board</a>
+<b>G-Research</b>
+closed: Analytics Engineer
+<a href="https://www.gresearch.com/vacancies/">open the board</a>
 
 <b>Amazon</b>
-closed: Engineer | Amazon Web Services | Beijing, China
++ Software Development Engineer | Worldwide Amazon Stores | London, England
 <a href="https://www.amazon.jobs/">open the board</a>
 
+<b>Cloudflare</b>
++ Senior Manager, Customer Engineering
++ Principal Software Engineer, Identity &amp; Access Management
+closed: Senior Forward Deployed Engineer
+closed: Engineering · Sales
+closed: Senior Customer Engineer - Digital Natives
+<a href="https://www.cloudflare.com/careers/">open the board</a>
+
+<b>Palantir</b>
+closed: Edge Infrastructure Engineer
+closed: Forward Deployed Security Engineer - US Government
+closed: Forward Deployed Site Reliability Engineer - US Government
+closed: Web Design Engineer
+closed: Forward Deployed AI Engineer
+closed: 59 more
+<a href="https://jobs.lever.co/palantir">open the board</a>
+
 <b>Airwallex</b>
-+ Director of Software Sales
-+ Senior Product Security Engineer_China
-+ Senior Software Engineer Backend, Billing
-+ Head of Engineering, Payments Platform
-closed: Engineering Lead, GTPN Platform (Seoul)
-closed: Senior Network Engineer, Infrastructure
-closed: Solutions Architect / Solutions Engineer- Payments
++ Staff Data Scientist, Algorithm, Financial Markets
++ Data Platform Principal Architect, Seattle/San Francisco
++ Corporate Security Engineer
++ Solutions Architect / Solutions Engineer- Payments
+closed: Director of Software Sales
+closed: Senior Product Security Engineer_China
+closed: Senior Software Engineer Backend, Billing
 <a href="https://careers.airwallex.com/">open the board</a>
 
 <b>OpenAI</b>
-+ Full Stack Software Engineer, Travel
-+ Manager, Applied AI Engineering (Southeast Asia)
-closed: Applied AI Engineer, Startups (Codex)
-closed: Manager, AI Deployment Engineering (Southeast Asia)
++ Stockholm, Sweden (4)
++ Data Engineering Manager, Devices
++ Applied AI Engineer - Startups
++ Go To Market • London, UK; Berlin, Germany; Munich, Germany; Paris, France; Stockholm, Sweden • Full time
++ Partner Applied AI Engineer, AWS
++ Senior Counsel, Commercial (Infrastructure)
++ Researcher, Frontier Robustness
++ Dedicated Support Engineering Lead
+closed: Stockholm, Sweden (3)
+closed: Machine Learning Engineer, Multimodal Perception and Authentication
+closed: Partner Solutions Engineer, Ads Solutions - San Francisco
+closed: Solutions Engineer, Ads Solutions - NYC
+closed: Solutions Engineer, Ads Solutions - San Francisco
+closed: 4 more
 <a href="https://jobs.ashbyhq.com/openai">open the board</a>
 
-<b>Boston Dynamics</b>
-+ Applications/Systems Engineering
-+ Development Engineering
-+ Manufacturing Engineering
-+ Senior Staff Manufacturing Test Development Engineer
-+ Atlas Staff Perception Engineer, Tactile Sensing
-+ Senior Staff Firmware Engineer
-+ Staff, ML Research Scientist
-+ Principal Mechanical Engineer
-+ Senior Engineering Manager, ML Platform
-+ Atlas Research Engineer, SLAM &amp; Spatial AI
-+ Manager, Machine Learning on Orbit
-+ Senior Field Service Engineer (Indianapolis, Indiana)
-+ 8 more
-<a href="https://bostondynamics.com/careers">open the board</a>
+<b>Cursor</b>
+closed: Software Engineer, Research Tooling
+<a href="https://www.cursor.com/careers">open the board</a>
+
+<b>Figma</b>
++ Director, Product Design - Systems &amp; Infrastructure
++ Product Designer, Growth
+closed: Manager, Design - Systems &amp; Infrastructure
+<a href="https://www.figma.com/careers/">open the board</a>
+
+<b>1X</b>
++ Controls Engineer Factory Automation
++ Manufacturing Process Engineer, Hands
+closed: Mechanical Engineer
+<a href="https://www.1x.tech/careers">open the board</a>
+
+<b>Agility Robotics</b>
+closed: Staff Electrical Engineer
+closed: Apply for Staff Electrical Engineer in Hardware, Hybrid- Fremont, CA
+closed: Staff HiL SW Infrastructure Engineer
+closed: Apply for Staff HiL SW Infrastructure Engineer in SEIT, Hybrid- Fremont, CA
+closed: Apply for Data Collection Manager in Software Engineering, Onsite- Fremont, CA
+<a href="https://www.agilityrobotics.com/careers">open the board</a>
+
+<b>Applied Intuition</b>
++ Infrastructure Architect
++ Autonomy Integration Engineer, Tech Lead
++ Senior Software Engineer - AI Developer Productivity
++ Staff Software Engineer - AI Developer Productivity
+closed: Network and Security Engineer, Defense
+closed: Robotics Integration Engineer, Tech Lead
+<a href="https://appliedintuition.com/careers">open the board</a>
 
 <b>Zoox</b>
-+ Advanced Hardware Engineering
-+ Automation Engineer - Compute Software Performance
-+ Software Systems
-+ Body Structures Engineer
-+ CAE Engineer - Safety occupant
-+ Chassis Controls Engineer, Brakes &amp; Steering
-+ Contract Student Worker  – Firmware Engineer (FW Core System Services)
-+ Software Platforms and Product
++ Autonomy Software
 <a href="https://zoox.com/careers">open the board</a>
 
+<b>Nuro</b>
++ ML Research Scientist, Active Learning
+<a href="https://www.nuro.ai/careers">open the board</a>
+
+<b>Intrinsic</b>
++ Product Manager, Agentic Platform
++ Join developer community
+<a href="https://www.intrinsic.ai/careers">open the board</a>
+
+<b>Verkada</b>
++ Backend Engineer - Connectivity
+closed: Senior Frontend Engineer - Streaming
+<a href="https://www.verkada.com/careers/">open the board</a>
+
+<b>Cerebras</b>
++ Staff AWS Platform Engineer
++ PCB Layout Engineering Lead
+<a href="https://www.cerebras.ai/open-positions">open the board</a>
+
 <b>Tenstorrent</b>
-+ Software Engineer, Acceleration Kernel Development
-+ Staff Engineer, RTL Design, AI Hardware
-+ Top Level Physical Design Engineer
-+ Staff Manufacturing Engineer
-closed: Physical Design Engineer, PnR
-closed: Physical Design CPU Methodology Engineer
-closed: Systems Engineering
-closed: Field Support Engineer - AI Server Systems
++ DFT Engineer, Automotive Robotics
++ Machine Learning Engineer, AI Models
+closed: Staff Engineer, RTL Design, AI Hardware
+closed: Top Level Physical Design Engineer
+closed: Staff Manufacturing Engineer
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
 <b>Google NYC</b>
-+ Staff Software Engineer, Google Cloud
-+ Share Staff Software Engineer, Google Cloud
-closed: Software Engineer III, Front End
-closed: Share Software Engineer III, Front End
++ Staff Software Engineer, Infrastructure
++ Share Staff Software Engineer, Infrastructure
++ Software Engineer III, Front End
++ Share Software Engineer III, Front End
+closed: Staff Software Engineer, AI/ML GenAI, Google Workspace
+closed: Share Staff Software Engineer, AI/ML GenAI, Google Workspace
+closed: Senior Software Engineer, Infrastructure, Google Cloud Platforms
+closed: Share Senior Software Engineer, Infrastructure, Google Cloud Platforms
 <a href="https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&amp;q=software%20engineer">open the board</a>
 
 <b>Meta NYC</b>
-+ Software Engineer, Product
-+ Director of Software Engineering, Central Integrity
-+ Software Engineer - Product (Technical Leadership)
-+ Machine Learning
-closed: Research Scientist, Neural Interfaces for Wearables
-closed: AI Engineer, Specialist - VR
-closed: AI Research Scientist, Video Generation and Post Training, FAIR
-closed: Software Engineer, Infrastructure
-closed: Software Engineer (Leadership) - Infrastructure
++ Software Engineer, Infrastructure
++ Product Designer, Meta
++ Product Designer, Instagram
++ Production Engineering
++ Research Scientist – Central Applied Science
++ Software Engineer, Machine Learning
++ Software Engineer, Wearables Interfaces Engineering
++ Data Engineer, Product Analytics
++ Data Engineering
+closed: Director of Software Engineering, Central Integrity
+closed: Software Engineer - Product (Technical Leadership)
+closed: Data Scientist, Product Analytics
 <a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
 
 <b>Apple NYC</b>
-+ Advanced Manufacturing Engineer - Audio
-+ Advanced Manufacturing Engineer - Audio 200693486-0836
-+ Sr Software Engineer, Customer Systems
-+ Sr Software Engineer, Customer Systems 200677400-0836
-+ Sr Software Engineer, Customer Systems 200677400-3956
-closed: Performance Modeling Software Engineer, Platform Architecture 200695049-0836
-closed: Performance Modeling Software Engineer, Platform Architecture 200695049-2907
-closed: Machine Learning and AI
++ Software Development Engineer - Cellular (Instrument Engineering)
++ Software Development Engineer - Cellular (Instrument Engineering) 200693403-3543
++ Senior Software Engineer
++ Senior Software Engineer 200656816-0157
++ RF System Integration Engineer
++ RF System Integration Engineer 200555687-0836
++ RF System Integration Engineer 200555687-3543
++ Senior Distributed Systems Engineer - Services Special Projects
++ Senior Distributed Systems Engineer - Services Special Projects  200685008-0836
++ Hardware System Integration Electrical Engineer - Mac
++ Hardware System Integration Electrical Engineer - Mac 200689625-0836
++ Custom Circuit RTL Design Engineer
++ 9 more
+closed: Advanced Manufacturing Engineer - Audio
+closed: Advanced Manufacturing Engineer - Audio 200693486-0836
+closed: Sr Software Engineer, Customer Systems
+closed: Sr Software Engineer, Customer Systems 200677400-0836
+closed: Sr Software Engineer, Customer Systems 200677400-3956
+closed: 23 more
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>
+
+<b>Amazon NYC</b>
++ Software Engineer, AppSTAR COMPASS
++ 1+ years of software development engineer or related occupational experience
++ Experience programming with at least one software programming language
+closed: Embedded Software Engineer
+<a href="https://www.amazon.jobs/en/search?base_query=software%20engineer&amp;loc_query=New%20York">open the board</a>
 

@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-335 Items
+333 Items
 Save this search
 Sort by
 Relevance
@@ -38,15 +38,78 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Software Engineering Intern
+Software Engineer, Infrastructure
+Sunnyvale, CA
+⋅
+Los Angeles, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
++7 more
+Software Engineering
+Engineering
+Product Designer, Meta
+Menlo Park, CA
+⋅
+New York, NY
+Design & User Experience
+User Experience
+Product Designer, Instagram
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Design & User Experience
+Design
+Product Marketing Manager
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Sales & Marketing
+Business Marketing
+Marketing
+Product Marketing Management
+Product Strategy
+Production Engineering
+Sunnyvale, CA
+⋅
 Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
+Boston, MA
+⋅
++1 more
+AI Infrastructure
+Engineering
+Research Scientist – Central Applied Science
+Menlo Park, CA
+⋅
 New York, NY
-Internship - Engineering, Tech & Design
+Research
+Engineering
+Software Engineer, Machine Learning
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++4 more
+Software Engineering
 Engineering
 Software Engineer, Product
 Sunnyvale, CA
@@ -57,125 +120,39 @@ Bellevue, WA
 ⋅
 Redmond, WA
 ⋅
-Austin, TX
+Menlo Park, CA
 ⋅
-+7 more
++6 more
 Software Engineering
 Engineering
-Research Scientist Intern, Central Applied Science (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-Research
-Research Scientist Intern PhD, PAR Safety Evals and Red Teaming
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-New York, NY
-Internship - PhD
-Research
-Director, Product Management - Verification
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Washington, DC
-⋅
-New York, NY
-Product Management
-Business Integrity
-Director of Software Engineering, Central Integrity
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Washington, DC
-⋅
-New York, NY
-Software Engineering
-Engineering
-Executive Administrative Partner
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Remote, US
-⋅
-+1 more
-Legal, Finance, Facilities & Admin
-G and A
-Software Engineer - Product (Technical Leadership)
-Remote, US
-⋅
-Bellevue, WA
-⋅
+Software Engineer, Wearables Interfaces Engineering
 Redmond, WA
 ⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Artificial Intelligence
-Facebook
-Instagram
-Software Engineering
-WhatsApp
-Generative AI
-Engineering
-Data Scientist, Product Analytics
-Los Angeles, CA
-⋅
-Bellevue, WA
-⋅
-Austin, TX
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+5 more
-Data & Analytics
-Analytics
-Product Manager
-Sunnyvale, CA
-⋅
-Denver, CO
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+5 more
-AI Infrastructure
+New York, NY
 AR/VR
 Artificial Intelligence
-Data & Analytics
-Facebook
 Facebook Reality Labs
 Generative AI
 Infrastructure
-Instagram
-Messenger
-Product Management
-WhatsApp
-Product Strategy
-Product Marketing Management
-Machine Learning
-Games
-Data Science
+Social VR
+Software Engineering
+Engineering
 Hardware
-Privacy
-Research
+Machine Learning
+Data Engineer, Product Analytics
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
++3 more
+Data & Analytics
+Data Engineering
 Page 1 of 34
 Job Search
 Technology Teams

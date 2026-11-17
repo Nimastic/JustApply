@@ -108,10 +108,6 @@ Mechanical Design Engineer - Hands Thermal Systems
 San Carlos
 ,
 California
-Mechanical Engineer
-San Carlos
-,
-California
 Mechanical Engineer - Actuators
 San Carlos
 ,
@@ -171,8 +167,20 @@ San Carlos
 ,
 California
 Manufacturing Operations
+Assembly Technician - Robot Body
+Hayward
+,
+California
+Assembly Technician - Robot Hands
+San Carlos
+,
+California
 CNC Programmer
 Hayward
+,
+California
+Controls Engineer Factory Automation
+San Carlos
 ,
 California
 Electrical Harness Technician
@@ -188,6 +196,10 @@ San Carlos
 ,
 California
 Inventory Control Manager
+San Carlos
+,
+California
+Manufacturing Process Engineer, Hands
 San Carlos
 ,
 California

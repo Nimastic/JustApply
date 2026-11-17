@@ -42,22 +42,25 @@ AI SW
 Software Engineer, Acceleration Kernel Development
 Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
-AI Hardware
-Staff Engineer, RTL Design, AI Hardware
-Belgrade, Serbia
-Apply
-RISC V
-System IP RTL Design Lead
-Bengaluru, Karnataka, India
-Apply
-Advanced Physical Design
-Top Level Physical Design Engineer
-Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Customer - Operations
+Automotive
+DFT Engineer, Automotive Robotics
+Munich, Germany
 Apply
 Operations
-Supply Chain
-Staff Manufacturing Engineer
-Toronto, Ontario, Canada
+Finance
+Accounting Manager
+Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Architecture
+Performance Model
+Performance Architect, CPU Cluster
+Austin, Texas, United States; Santa Clara, California, United States; Santa Clara, California, United States
+Apply
+AI SW
+ML Models
+Machine Learning Engineer, AI Models
+Cyprus
 Apply
 Show all postings
 Open Future
