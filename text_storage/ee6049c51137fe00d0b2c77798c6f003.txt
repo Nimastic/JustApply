@@ -245,7 +245,25 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-204 Open Roles
+203 Open Roles
+ROLE
+Software Engineer, Data Platform
+FOCUS
+Data Engineering  |  Software & System Engineering
+LOCATION
+Warsaw, PL
+ROLE
+Access and Identity Management - Business Analyst
+FOCUS
+Software & System Engineering
+LOCATION
+Bengaluru, India
+ROLE
+Machine Learning Infrastructure Engineer, Technology
+FOCUS
+Software & System Engineering
+LOCATION
+New York
 ROLE
 Quantitative Analyst, PCAT
 FOCUS
@@ -307,7 +325,7 @@ Information Security
 LOCATION
 New York
 ROLE
-Administrative Assistant
+Administrative Assistant, 12 months Fixed Term Contract
 FOCUS
 Admin
 LOCATION
@@ -564,12 +582,6 @@ FOCUS
 Treasury
 LOCATION
 Hong Kong
-ROLE
-FinOps Specialist
-FOCUS
-Program Management
-LOCATION
-New York
 ROLE
 Software Engineer, Trade and Fund Processing Technology
 FOCUS
@@ -937,12 +949,6 @@ Software & System Engineering
 LOCATION
 Bengaluru, India
 ROLE
-Access and Identity Management - Business Analyst
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
-ROLE
 Software Engineer, Treasury Technology
 FOCUS
 Software & System Engineering
@@ -1152,18 +1158,6 @@ FOCUS
 Software & System Engineering
 LOCATION
 Bengaluru, India
-ROLE
-Data Engineer, Market Intelligence
-FOCUS
-Data Science & Analytics  |  Data Engineering
-LOCATION
-Warsaw, PL
-ROLE
-Data Engineer, Investment Services
-FOCUS
-Data Science & Analytics  |  Data Engineering  |  Technology Innovation
-LOCATION
-Warsaw, PL
 ROLE
 Network Security Engineer
 FOCUS

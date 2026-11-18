@@ -1,4 +1,17 @@
 Careers at Figma
+This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
+privacy policy.
+California Residents:
+learn how personal information is
+collected
+, including how it is
+used
+, whether it is
+“sold” or “shared”
+, and how long it is
+retained
+.
+Opt-Out
 Skip to main content
 Products
 What you can do in figma
@@ -214,12 +227,14 @@ Software Engineer - Distributed Systems
 Software Engineer - Full Stack
 Software Engineer - Growth & Monetization
 Software Engineer - Machine Learning
+Technical Program Manager, AI
 Technical Program Manager - Infrastructure
 Figma Weave
 Account Executive - Figma Weave (London, United Kingdom)
+Brand Designer - Figma Weave (Tel Aviv, Israel)
 Customer Success Manager - Figma Weave  (London, United Kingdom)
 Customer Success Manager - Figma Weave (New York, United States)
-Manager, Customer Enablement - Figma Weave (New York, United States)
+Manager, Customer Success - Figma Weave (New York, United States)
 Manager, Sales - Figma Weave (London, United Kingdom)
 Product Designer - Figma Weave (Tel Aviv, Israel)
 Product Marketing Manager - Figma Weave (Tel Aviv, Israel)
@@ -265,6 +280,7 @@ Account Executive, Public Sector - State & Local
 Account Executive, SMB
 Account Executive, SMB (Berlin, Germany)
 Account Executive, SMB (London, United Kingdom)
+Account Executive, SMB (Tokyo, Japan)
 Account Executive, Strategic
 Account Executive, Strategic (London, United Kingdom)
 Account Executive, Strategic (Paris, France)
@@ -276,17 +292,18 @@ Director, Strategic Sales (Berlin, Germany)
 Field Engineer
 Inside Sales Representative (Berlin, Germany)
 Inside Sales Representative (Paris, France)
-Manager, Customer Enablement (Tokyo, Japan)
+Manager, Customer Success (Tokyo, Japan)
 Manager, Enterprise Sales
 Manager, Mid-Market Sales (Berlin, Germany)
 Manager, Mid-Market Sales (London, United Kingdom)
-Manager, SMB Sales
 Manager, Solutions Consulting
 Manager, Strategic Sales
 Sales Operations Manager
 Senior Account Executive, SMB
 Senior Account Executive, UK Government (London, United Kingdom)
 Senior Inside Sales Representative
+Senior Inside Sales Representative (Berlin, Germany)
+Senior Inside Sales Representative (Paris, France)
 Senior Manager, Enterprise Sales (London, United Kingdom)
 Senior Solutions Consultant (Seoul, South Korea)
 Solutions Consultant (Berlin, Germany)
@@ -388,4 +405,5 @@ Customers
 Careers
 Newsroom
 Brand assets
+Do Not Sell/Share My Personal Info + Opt-Out
 English

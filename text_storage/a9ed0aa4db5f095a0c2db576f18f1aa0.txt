@@ -108,12 +108,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Tokyo
+Tokyo
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Tokyo
-Tokyo
+Seoul
+Seoul
 Apply
 Hardware Integration Engineer - New Grad (2027)
 Sunnyvale
@@ -202,12 +202,12 @@ Sunnyvale
 Apply
 Application Engineering
 Application Engineer - Technical Customer Lead
-Sunnyvale
-Sunnyvale
+Stockholm
+Stockholm
 Apply
 Application Engineer - Technical Customer Lead
-Stockholm
-Stockholm
+Sunnyvale
+Sunnyvale
 Apply
 Customer Engineering - Lead Customer Engineer
 Seoul
@@ -310,18 +310,22 @@ Technical Business Development, Japan Market (US-based)
 Sunnyvale
 Sunnyvale
 Apply
+Technical Business Development Lead, Korea Market (US-based)
+Sunnyvale
+Sunnyvale
+Apply
 Technical Business Development  - North America Automotive
 Sunnyvale
 Sunnyvale
 Apply
 Engineering
 Solution Engineer
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Solution Engineer
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Solution Engineer
 Stuttgart
@@ -336,12 +340,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer - Trucking
 Gothenburg
@@ -519,10 +523,6 @@ Autonomy Integration Engineer (Drone Stack)
 Sunnyvale
 Sunnyvale
 Apply
-Autonomy Integration Software Engineer
-Ann Arbor
-Ann Arbor
-Apply
 Autonomy Test Engineer
 San Diego, CA
 San Diego, CA
@@ -535,14 +535,6 @@ Computer Vision Engineer
 Sunnyvale
 Sunnyvale
 Apply
-C++ Software Engineer - Drone Stack
-Washington, D.C.
-Washington, D.C.
-Apply
-C++ Software Engineer - Physical AI
-Ann Arbor
-Ann Arbor
-Apply
 Embedded Software Engineer (Drone Stack)
 Fort Walton Beach, FL
 Fort Walton Beach, FL
@@ -552,16 +544,12 @@ San Diego, CA
 San Diego, CA
 Apply
 Flight Test Engineer
-Sunnyvale
-Sunnyvale
+Freeport, FL
+Freeport, FL
 Apply
 Forward Deployed Engineer
 London
 London
-Apply
-Full-Stack Engineer, C2 Command & Control
-Sunnyvale
-Sunnyvale
 Apply
 Full-Stack Software Engineer -  Command & Control
 Sunnyvale
@@ -579,10 +567,6 @@ Operational Safety Lead - Defense
 Sunnyvale
 Sunnyvale
 Apply
-Perception Engineer, Autonomy (Air Domain)
-Fort Walton Beach, FL
-Fort Walton Beach, FL
-Apply
 Product Manager - DefenseOS
 Sunnyvale
 Sunnyvale
@@ -594,10 +578,6 @@ Apply
 Product Manager - Drone Stack
 Sunnyvale
 Sunnyvale
-Apply
-Robotic Software Engineer - Aerial Autonomy
-Fort Walton Beach, FL
-Fort Walton Beach, FL
 Apply
 Security Engineering Accreditation Lead, Defense
 Washington, D.C.
@@ -622,6 +602,10 @@ Apply
 Senior Fullstack Engineer
 London
 London
+Apply
+Senior Full-Stack Engineer, Defense Autonomy
+Sunnyvale
+Sunnyvale
 Apply
 Senior GNC Engineer
 London
@@ -747,6 +731,10 @@ London
 London
 Apply
 Finance & Accounting Program Manager
+Sunnyvale
+Sunnyvale
+Apply
+Global Sourcing Manager - Integrated Software
 Sunnyvale
 Sunnyvale
 Apply
@@ -904,16 +892,16 @@ Sunnyvale
 Apply
 Legal
 Legal Counsel - EMEA
-London
-London
+Stuttgart
+Stuttgart
 Apply
 Legal Counsel - EMEA
 Munich
 Munich
 Apply
 Legal Counsel - EMEA
-Stuttgart
-Stuttgart
+London
+London
 Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
@@ -978,10 +966,6 @@ Cloud Security Engineer
 Sunnyvale
 Sunnyvale
 Apply
-DevSecOps Engineer - Physical AI
-Washington, D.C.
-Washington, D.C.
-Apply
 Enterprise Security Engineer
 Sunnyvale
 Sunnyvale
@@ -995,14 +979,18 @@ Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 IT Operations Engineer
 Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
+Ann Arbor
+Ann Arbor
+Apply
+Network Manager
 Sunnyvale
 Sunnyvale
 Apply
@@ -1105,12 +1093,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart
@@ -1249,12 +1237,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Customer Technical Program Manager, Vehicle OS
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Electrical Integration Engineer
 Bangalore
@@ -1305,12 +1293,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Tokyo
-Tokyo
+Stockholm
+Stockholm
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
+Tokyo
+Tokyo
 Apply
 Solution Engineer
 Tokyo
@@ -1393,6 +1381,10 @@ Senior Embedded Software Engineer - Firmware
 Sunnyvale
 Sunnyvale
 Apply
+Sensing Engineer
+Sunnyvale
+Sunnyvale
+Apply
 Software Engineer - Calibration
 Sunnyvale
 Sunnyvale
@@ -1445,6 +1437,10 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - AUTOSAR
+Tokyo
+Tokyo
+Apply
+Software Integration Engineer, Self-Driving
 Tokyo
 Tokyo
 Apply

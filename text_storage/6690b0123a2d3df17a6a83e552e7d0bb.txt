@@ -74,7 +74,7 @@ Operator - Data Collection (Swing Shift)
 San Carlos
 ,
 California
-Robot Operations Manager PM
+Robot Operations Manager Swing Shift
 San Carlos
 ,
 California
@@ -105,6 +105,10 @@ San Carlos
 ,
 California
 Mechanical Design Engineer - Hands Thermal Systems
+San Carlos
+,
+California
+Mechanical Engineer
 San Carlos
 ,
 California
@@ -173,6 +177,10 @@ Hayward
 California
 Assembly Technician - Robot Hands
 San Carlos
+,
+California
+CNC Operator
+Hayward
 ,
 California
 CNC Programmer
@@ -256,7 +264,7 @@ San Carlos
 ,
 California
 Senior Manager Quality Engineering
-San Carlos
+Hayward
 ,
 California
 Senior Manufacturing Electrical Engineer, Hands
@@ -341,15 +349,7 @@ Materials Scientist, Polymers
 San Carlos
 ,
 California
-Mechanical Engineer - Prototyping
-San Carlos
-,
-California
 Open Call – Research Engineer / Scientist
-San Carlos
-,
-California
-Prototyping Fabrication Technician
 San Carlos
 ,
 California
@@ -423,7 +423,15 @@ CAD Sculptor
 San Carlos
 ,
 California
+Mechanical Engineer - Prototyping
+San Carlos
+,
+California
 Prototyping Electrical Engineer
+San Carlos
+,
+California
+Prototyping Fabrication Technician
 San Carlos
 ,
 California

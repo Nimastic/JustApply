@@ -45,7 +45,7 @@ All teams
 All locations
 General & Administrative
 (
-29
+28
 )
 Business Operations
 San Francisco
@@ -72,9 +72,6 @@ GTM Operations
 San Francisco
 •
 New York City
-Apply
-GTM Operations - Europe
-London
 Apply
 GTM Recruiter - APAC
 Singapore
@@ -106,13 +103,13 @@ Apply
 People Operations Lead
 San Francisco
 Apply
-Recruiter - Europe
+Recruiter - UK
 London
 Apply
 Recruiting Coordinator - UK
 London
 Apply
-Recruiting Sourcer - Europe
+Recruiting Sourcer - UK
 London
 Apply
 Talent Operations Coordinator
@@ -358,7 +355,7 @@ San Francisco
 Apply
 Sales
 (
-24
+23
 )
 Account Director
 San Francisco
@@ -400,11 +397,6 @@ New York City
 San Francisco
 •
 Austin
-Apply
-Applied AI Transformation Manager
-San Francisco
-•
-New York City
 Apply
 Applied AI Transformation Manager - MENA
 Riyadh

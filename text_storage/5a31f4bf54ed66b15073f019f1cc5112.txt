@@ -13,16 +13,16 @@ Campus
 16
 Openings
 Cryptoassets
-3
+2
 Openings
 Operations
 9
 Openings
 Technology
-91
+90
 Openings
 Trading
-14
+15
 Openings
 Jobs by Country
 Canada
@@ -38,10 +38,10 @@ Singapore
 14
 Openings
 United Kingdom
-44
+45
 Openings
 United States
-80
+78
 Openings
 Who we are
 Work at DRW
@@ -59,6 +59,7 @@ Linked In
 Youtube
 Glassdoor
 Regulatory and Fraud
+EU/UK Regulatory Notice
 DRW Canada
 FR
 EN

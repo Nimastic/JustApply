@@ -173,9 +173,12 @@ Full-Time
 Temporary
 Intern
 Commercialization
-03
+04
 Founders' Office
 Staff Program Manager, Office of the CEO
+Mountain View, California (HQ)
+Full-Time
+Staff Program Manager, Strike Team
 Mountain View, California (HQ)
 Full-Time
 Staff Robotaxi Program Manager
@@ -192,12 +195,9 @@ Senior Manager, FP&A
 Mountain View, California (HQ)
 Full-Time
 Hardware & Manufacturing
-02
+01
 AV Hardware Engineering
 AV Hardware Mechanical Engineer
-Mountain View, California (HQ)
-Full-Time
-Test Validation Engineer
 Mountain View, California (HQ)
 Full-Time
 Operations
@@ -543,6 +543,8 @@ Terms of Use
 •
 Legal
 © 2026 Nuro, Inc.
-By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
-Cookies Settings
-Accept All Cookies
+We use cookies on this site to enhance site navigation, analyze site usage and assist with our marketing efforts.  By clicking "X" or continuing to use this site, you consent to our use of cookies.  To learn more, visit our
+Privacy Policy
+.
+Allow All
+Manage Settings

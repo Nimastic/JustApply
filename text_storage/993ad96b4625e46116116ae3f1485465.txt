@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-333 Items
+334 Items
 Save this search
 Sort by
 Relevance
@@ -97,6 +97,17 @@ Menlo Park, CA
 New York, NY
 Research
 Engineering
+Technical Program Manager Intern, Reality Labs — 2027
+Sunnyvale, CA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+AR/VR
+Technical Program Management
+Program Management
 Software Engineer, Machine Learning
 Sunnyvale, CA
 ⋅
@@ -139,20 +150,6 @@ Software Engineering
 Engineering
 Hardware
 Machine Learning
-Data Engineer, Product Analytics
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+3 more
-Data & Analytics
-Data Engineering
 Page 1 of 34
 Job Search
 Technology Teams

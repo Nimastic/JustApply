@@ -120,7 +120,7 @@ offices.
 Viewing
 4
 of
-97
+98
 Jobs
 No jobs available for your search, please try something else.
 Add job to your application bundle
@@ -402,6 +402,11 @@ Quantitative Researcher
 Quantitative Strategies
 New York
 icon
+Quantitative Researcher: Machine Learning
+: The D. E. Shaw group seeks a quantitative researcher with machine learning (ML) expertise to conduct research using modern ML techniques. Researchers in this role develop and…
+Quantitative Strategies
+New York
+icon
 Software Developer
 : Technology is integral to virtually everything the D. E. Shaw group does, which is why we seek exceptional software developers with a range of quantitative and programming…
 Quantitative Strategies
@@ -615,7 +620,7 @@ icon
 Start-up Ventures: Senior Software Engineer at Wisable
 : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw’s venture studio, seeks a senior software engineer to help design and build its core internal technology…
 +
-93
+94
 Jobs
 Recruiting Security:
 Emails from genuine D. E. Shaw group recruiters who are employees of the firm will always come from the @deshaw.com domain or related subdomains (

@@ -3,7 +3,9 @@ Your Privacy
 Welcome to Kodiak. We respect your privacy and your right to control how we collect, use, and share your personal data. Please read our
 Privacy Policy
 to learn about our privacy practices.
-I understand
+Accept
+Reject
+Manage
 Skip to main content
 Technology
 Industries
@@ -75,16 +77,18 @@ Class A Safety Driver
 Kermit, TX
 Class A Safety Driver
 Lancaster, TX
+Class A Safety Driver
+Lancaster, TX
 Safety Driver, Commercial
 Lancaster, TX
-General & Administrative
-Information Technology
-DevOps Engineer - Infrastructure
-Mountain View, CA
-Finance
-Payroll Manager
-Mountain View, CA
 Engineering
+Infrastructure
+Data Scientist
+Mountain View, CA
+Fullstack Engineer, UI Tools
+Mountain View, CA
+Senior Onboard Infrastructure
+Mountain View, CA
 Manufacturing
 Director of Supply Chain
 Mountain View, CA
@@ -106,11 +110,6 @@ Mountain View, CA
 Embedded
 Embedded Software Manager
 San Francisco Bay Area
-Infrastructure
-Fullstack Engineer, UI Tools
-Mountain View, CA
-Senior Onboard Infrastructure
-Mountain View, CA
 Systems Engineering
 Functional Safety Engineer, Software
 Mountain View, CA
@@ -153,6 +152,13 @@ Software Quality Triage Specialist
 Mountain View, CA
 Perception
 Staff Autonomy Engineer, Perception
+Mountain View, CA
+General & Administrative
+Information Technology
+DevOps Engineer - Infrastructure
+Mountain View, CA
+Finance
+Payroll Manager
 Mountain View, CA
 Product/Program
 Program Management

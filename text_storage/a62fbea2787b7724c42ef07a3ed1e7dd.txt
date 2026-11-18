@@ -130,12 +130,8 @@ Platform Engineer
 London, England, United Kingdom
 Platform Engineer
 Sydney
-Platform Engineer Intern, Summer 2027
-Chicago
 Quantitative Developer
 Shanghai
-Quantitative Development & Strategy Intern, Summer 2027
-Chicago
 Quantitative Researcher
 Chicago
 Quantitative Researcher - Prediction Markets
@@ -152,7 +148,11 @@ Software Engineer - C++, Trading Strategies
 Chicago
 Software Engineer - Data Engineering
 Chicago
+Software Engineer Intern - Python, Summer 2027
+Chicago
 Software Engineer - Python, Business Operations
+Chicago
+Software Engineer - Python, Post Trade
 Chicago
 Systems Engineer
 Singapore

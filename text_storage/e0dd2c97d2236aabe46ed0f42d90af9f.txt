@@ -88,8 +88,8 @@ London
 New York
 Hong Kong
 Singapore
-Chicago
 Austin
+Chicago
 Location
 DEPARTMENT
 All Departments
@@ -141,8 +141,8 @@ London
 New York
 Hong Kong
 Singapore
-Chicago
 Austin
+Chicago
 Location
 DEPARTMENT
 All Departments

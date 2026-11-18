@@ -70,7 +70,7 @@ San Jose, CA
 NPI Buyer/Planner
 Apply Now
 Commercial Operations
-14
+13
 San Jose, CA
 Fleet Launch Operator, Commercial Launch Team
 Apply Now
@@ -97,9 +97,6 @@ Grid Operations Manager
 Apply Now
 San Jose, CA
 Commercial Operations Associate
-Apply Now
-San Jose, CA
-Commercial Technician (Night Shift)
 Apply Now
 San Jose, CA
 Mobile Service Technician
@@ -251,7 +248,7 @@ Santa Clara, CA
 Shift Coordinator, Humanoid Robot Operations (Night)
 Apply Now
 Internships
-11
+10
 San Jose, CA
 Mechanical Engineer Intern [Winter 2027]
 Apply Now
@@ -263,9 +260,6 @@ Middleware Intern [Winter 2027]
 Apply Now
 San Jose, CA
 Validation Engineering Intern [Winter 2027]
-Apply Now
-San Jose, CA
-Hardware Reliability Intern [Winter 2027]
 Apply Now
 San Jose, CA
 Electrical Engineering Intern [Winter 2027]

@@ -38,29 +38,30 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-AI SW
-Software Engineer, Acceleration Kernel Development
-Santa Clara, California, United States; Toronto, Ontario, Canada
+Systems Engineering
+Silicon and Systems
+Signal Integrity Engineer
+Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
-Customer - Operations
-Automotive
-DFT Engineer, Automotive Robotics
-Munich, Germany
+RISC V
+DV
+Sr. Staff Engineer, CPU (Front-End) Verification
+Austin, Texas, United States; Santa Clara, California, United States
 Apply
-Operations
-Finance
-Accounting Manager
-Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Systems Engineering
+Si Val/Qual
+Sr. Engineer, Silicon Enablement
+Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
 Apply
-Architecture
-Performance Model
-Performance Architect, CPU Cluster
-Austin, Texas, United States; Santa Clara, California, United States; Santa Clara, California, United States
+AI Hardware
+Tensix
+Principal CPU Microarchitect - RISC-V & AI Compute
+Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
-AI SW
-ML Models
-Machine Learning Engineer, AI Models
-Cyprus
+Systems Engineering
+Arch & Scale
+Principal Power Systems Architect- AI Accelerator Systems
+Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future
