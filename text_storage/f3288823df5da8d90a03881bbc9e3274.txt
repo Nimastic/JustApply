@@ -70,8 +70,6 @@ Senior Field Truck Technician
 Kermit, TX
 Safety Drivers
 Class A CDL Driver
-Lancaster, TX
-Class A CDL Driver
 Kermit, TX
 Class A Safety Driver
 Kermit, TX
@@ -102,10 +100,6 @@ Staff Vehicle Manufacturing Engineer
 Mountain View, CA
 Electrical
 Electrical Engineering Technician
-Mountain View, CA
-Staff, Hardware Electrical Engineer
-Mountain View, CA
-Staff, Harness Engineering Manager
 Mountain View, CA
 Embedded
 Embedded Software Manager
@@ -179,10 +173,6 @@ Sales & Marketing
 Business Development
 Vice President of Commercialization
 Remote United States
-Internships
-Internships
-Winter 2027 Intern, Security
-Mountain View, CA
 Don't see an opening that fits?
 Website URL
 Email

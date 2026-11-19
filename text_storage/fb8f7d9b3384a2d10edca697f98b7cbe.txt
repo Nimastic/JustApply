@@ -500,6 +500,7 @@ Regular
 Intern
 Specialization
 Accounting
+Administrative Services
 Administrative Support
 Applications/Systems Engineering
 Artificial Intelligence
@@ -511,6 +512,7 @@ Hardware
 Logistics
 Machine Shop
 Manufacturing Engineering
+Materials Management
 Production
 Product Management
 Product Marketing
@@ -518,6 +520,7 @@ Program/Project Management
 Project Management
 Purchasing/Procurement
 R&D
+Sales
 Sales Job Group
 Software
 Support
@@ -525,6 +528,10 @@ Reset
 Senior Staff Manufacturing Test Development Engineer
 (opens in new tab)
 Waltham, MA
+Full time
+Manager, Technical Content & Curriculum
+(opens in new tab)
+Waltham Office (POST)
 Full time
 Atlas Staff Perception Engineer, Tactile Sensing
 (opens in new tab)
@@ -594,10 +601,6 @@ Senior Staff Electrical Test Engineer - Atlas
 Waltham Office (POST)
 Full time
 Senior Staff Robotics Simulation Engineer - Thermal & Fluids Analysis
-(opens in new tab)
-Waltham, MA
-Full time
-Atlas ML Software Engineer - Large Scale Behavior Cloning
 (opens in new tab)
 Waltham, MA
 Full time

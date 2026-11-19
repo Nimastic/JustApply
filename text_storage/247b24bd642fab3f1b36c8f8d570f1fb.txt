@@ -79,7 +79,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-268
+270
 roles across
 16
 departments
@@ -93,7 +93,7 @@ Senior Data Analyst, Public Sector
 Washington, DC
 Apply →
 Engineering
-68 roles
+67 roles
 Applied AI Engineer
 Kuwait City, Kuwait
 Apply →
@@ -104,13 +104,13 @@ Engineering Manager, Saudi Arabia
 Riyadh, Saudi Arabia
 Apply →
 Frontier Agent Engineering Manager, Enterprise
+New York, NY
+Apply →
+Frontier Agent Engineering Manager, Enterprise
 London, UK
 Apply →
 Frontier Agent Engineering Manager, Enterprise
 San Francisco, CA
-Apply →
-Frontier Agent Engineering Manager, Enterprise
-New York, NY
 Apply →
 Frontier Agents Engineer (Applied AI)
 San Francisco, CA
@@ -158,10 +158,10 @@ Security Engineer, Product Security
 Washington, DC
 Apply →
 Senior Applied AI Engineer
-Kuwait City, Kuwait
+London, UK
 Apply →
 Senior Applied AI Engineer
-London, UK
+Kuwait City, Kuwait
 Apply →
 Senior Engineering Manager, Kuwait
 Kuwait City, Kuwait
@@ -173,10 +173,10 @@ Senior Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Riyadh, Saudi Arabia
+Kuwait City, Kuwait
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Kuwait City, Kuwait
+Riyadh, Saudi Arabia
 Apply →
 Senior Full-Stack Software Engineer, (Forward Deployed), GPS
 London, UK
@@ -237,9 +237,6 @@ San Francisco, CA
 Apply →
 Staff Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
-Apply →
-Staff Full-Stack Software Engineer, (Forward Deployed), GPS
-London, UK
 Apply →
 Staff Full-Stack Software Engineer, (Forward Deployed), GPS
 Riyadh, Saudi Arabia
@@ -484,7 +481,7 @@ Global Head of Workplace
 San Francisco, CA
 Apply →
 Policy
-4 roles
+5 roles
 AI Policy Lead
 New York, NY
 Apply →
@@ -493,6 +490,9 @@ San Francisco, CA
 Apply →
 AI Policy Lead
 Washington, DC
+Apply →
+Head of EMEA Policy
+London, UK
 Apply →
 US Executive Branch Policy & International Engagement Lead
 Washington, DC
@@ -539,10 +539,10 @@ Staff Product Designer
 Washington, DC
 Apply →
 Staff Product Designer, Enterprise
-London, UK
+New York, NY
 Apply →
 Staff Product Designer, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer, Global Public Sector
 Doha, Qatar
@@ -563,7 +563,7 @@ Staff Product Manager, Agentic Platform
 Washington, DC
 Apply →
 Public Sector
-62 roles
+64 roles
 Account Executive, Air Force
 Colorado Springs, CO
 Apply →
@@ -571,10 +571,16 @@ Account Executive, Air Force
 Dayton, OH
 Apply →
 Account Executive, Air Force
+Tampa, FL
+Apply →
+Account Executive, Air Force
 Washington, DC
 Apply →
 Account Executive, Army
-Washington, DC
+Detroit, MI
+Apply →
+Account Executive, Army
+Huntsville, AL
 Apply →
 Account Executive, Navy
 San Diego, CA
@@ -582,16 +588,16 @@ Apply →
 Account Executive, Navy
 Washington, DC
 Apply →
-Contracts Manager
-Washington, DC
-Apply →
-Deployment Strategist, Space Systems Command
+Account Executive, Space Force
 Colorado Springs, CO
 Apply →
-Deployment Strategist, Space Systems Command
+Account Executive, Space Force
 Los Angeles, CA
 Apply →
-Deployment Strategist, Space Systems Command
+Account Executive, Space Force
+Washington, DC
+Apply →
+Contracts Manager
 Washington, DC
 Apply →
 DevOps Engineer, Infrastructure & Security

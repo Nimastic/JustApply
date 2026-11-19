@@ -133,52 +133,9 @@ Apply
 Workplace & Facilities Lead (West Coast)
 San Francisco
 Apply
-Research & Development
-(
-11
-)
-Data Engineer
-San Francisco
-Apply
-Global Security Manager
-San Francisco
-Apply
-Head of Safety
-San Francisco
-Apply
-Product Engineer
-San Francisco
-•
-New York City
-Apply
-Research Engineer, Mid-Training
-San Francisco
-Apply
-Research Engineer, ML Infrastructure
-San Francisco
-Apply
-Research Engineer, Post-Training
-San Francisco
-Apply
-Research Engineer, Safety & Alignment
-San Francisco
-Apply
-Security Engineer
-San Francisco
-Apply
-Software Engineer
-San Francisco
-•
-New York City
-Apply
-Software Engineer, Infrastructure
-San Francisco
-•
-New York City
-Apply
 Marketing
 (
-20
+21
 )
 ABM/Enterprise Demand
 San Francisco
@@ -219,6 +176,9 @@ Japan Partner Marketing
 Tokyo
 Apply
 Lifecycle Marketing Lead
+San Francisco
+Apply
+Merch Manager
 San Francisco
 Apply
 Paid & Digital
@@ -439,6 +399,43 @@ San Francisco
 Apply
 Vice President of Sales - KSA
 Riyadh
+Apply
+Research & Development
+(
+09
+)
+Data Engineer
+San Francisco
+Apply
+Global Security Manager
+San Francisco
+Apply
+Head of Safety
+San Francisco
+Apply
+Product Engineer
+San Francisco
+•
+New York City
+Apply
+Research Engineer, ML Infrastructure
+San Francisco
+Apply
+Research Engineer, Safety & Alignment
+San Francisco
+Apply
+Security Engineer
+San Francisco
+Apply
+Software Engineer
+San Francisco
+•
+New York City
+Apply
+Software Engineer, Infrastructure
+San Francisco
+•
+New York City
 Apply
 Federal
 (

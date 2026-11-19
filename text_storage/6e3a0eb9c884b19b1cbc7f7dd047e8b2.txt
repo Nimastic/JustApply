@@ -22,55 +22,55 @@ Latest roles
 Role
 Team and location
 Date posted
-Technical Account Manager
+Software Engineer, Data Primitives
 (opens in a new tab)
-Customer Support
+Engineering
 ·
 ,
-Singapore · Sydney, Australia
+Austin, TX · Lisbon, Portugal · London, UK · New York, NY
 today
-Date posted: November 18, 2026
-Workplace Operations Manager – Singapore
+Date posted: November 19, 2026
+Senior Software Engineer, Data Primitives
 (opens in a new tab)
-People & Places
+Engineering
 ·
 ,
-Singapore
+Austin, TX · Lisbon, Portugal · London, UK · New York, NY
 today
-Date posted: November 18, 2026
-Senior Customer Engineer, Digital Native Start ups
+Date posted: November 19, 2026
+Principal Customer Experience Manager
 (opens in a new tab)
 Sales
 ·
 ,
-New York, NY
-yesterday
-Date posted: November 17, 2026
-Senior Data Engineer, Cloudforce One
+Sydney, Australia
+today
+Date posted: November 19, 2026
+Senior Product Manager, Observability
 (opens in a new tab)
-Security
+Product
 ·
 ,
-London, UK
+Austin, TX
 yesterday
-Date posted: November 17, 2026
-Senior Regional Sales Director, Startups – AI & Digital Natives (East)
+Date posted: November 18, 2026
+Hardware Systems Engineer, Tooling
+(opens in a new tab)
+Engineering
+·
+,
+Austin, TX · Lisbon, Portugal
+yesterday
+Date posted: November 18, 2026
+Strategic Account Director, Developer Platform
 (opens in a new tab)
 Sales
 ·
 ,
-Atlanta, GA · Boston, MA · Miami, FL · New York, NY · Raleigh, NC
+Austin, TX · New York, NY · San Francisco, CA · Seattle, WA
 yesterday
-Date posted: November 17, 2026
-AI & Automation Intern, Communications (Winter 2027)
-(opens in a new tab)
-Early Talent
-·
-,
-Austin, TX · San Francisco, CA
-yesterday
-Date posted: November 17, 2026
-See all 483 roles
+Date posted: November 18, 2026
+See all 496 roles
 Cloudflare Capabilities
 The behaviors we value and reference when measuring success, giving feedback, and rewarding performance. They serve as the building blocks of an inclusive company culture.
 Be curious to learn and grow

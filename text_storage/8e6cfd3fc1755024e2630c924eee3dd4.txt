@@ -46,15 +46,7 @@ Strategy and Operations
 Experience Level
 Experienced
 View role
-Quantitative Researcher
-Location
-United States - NY New York
-Function
-Quantitative Research
-Experience Level
-Experienced
-View role
-Software Engineer
+Business Analytics Lead
 Location
 United States - NY New York
 Function
@@ -62,11 +54,19 @@ Engineering
 Experience Level
 Experienced
 View role
-Systematic Strategies Oversight Analyst
+Structured Credit Analyst
 Location
 United States - NY New York
 Function
-Investment and Client Solutions
+Quantitative Research
+Experience Level
+Experienced
+View role
+Data Operations Analyst - Global Data Operations (Tokyo)
+Location
+Japan -  Tokyo
+Function
+Engineering
 Experience Level
 Experienced
 View role

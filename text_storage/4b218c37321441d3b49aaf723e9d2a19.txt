@@ -292,17 +292,17 @@ Security Operations Analyst
 London
 Elastic Security Engineer (Contract)
 London
+Senior CSIRT Analyst
+London
 Senior Red Team Operator
 London
 Red Team Operations Manager
 London
 Penetration Tester
 London
-Security Assurance Specialist
-London
-Senior CSIRT Analyst
-London
 Chief Business Risk Officer
+London
+Security Assurance Specialist
 London
 Security Threat Specialist
 London
@@ -310,18 +310,22 @@ Security Operations Analyst
 London
 Elastic Security Engineer (Contract)
 London
+Senior CSIRT Analyst
+London
 Infrastructure Engineering
 Linux Platform Engineer
+London
+OpenStack Engineer (Contractor)
 London
 Platform Engineering Manager
 London
 Platform Engineer
 London
+Network Automation Engineer (Contract)
+London
 Network Engineer
 London
 Network Security Engineer (Contract)
-London
-Network Automation Engineer (Contract)
 London
 Network Automation Engineer
 London
@@ -329,28 +333,30 @@ Kubernetes Platform Engineer
 London
 Lead Network Reliability Engineer
 London
-Network Automation Engineer (Contract)
+OpenStack Engineer (Contractor)
 London
 Network Security Engineer (Contract)
 London
+Network Automation Engineer (Contract)
+London
 Quant Research
+Data Science Internship
+London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Data Science Internship
+Quantitative Analyst
+London
+Machine Learning Researcher
 London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
 Natural Language Processing Researcher
-London
-Quantitative Analyst
-London
-Machine Learning Researcher
 London
 Quantitative Researcher – Postgraduate
 London
@@ -361,21 +367,21 @@ Core AI Engineering Manager
 London
 Quantitative Data Engineer
 London
+Platform Software Engineer
+London
 Machine Learning Engineer Internship
+London
+Software Engineer
 London
 Graduate Machine Learning Engineer
 London
 Software Engineering Internship
 London
-Platform Software Engineer
-London
-Software Engineer
-London
 Data Software Engineer
 London
-Rust Software Engineer (Contract)
-London
 NLP Performance Engineer
+London
+Rust Software Engineer (Contract)
 London
 Software Engineer – Security
 London
@@ -389,25 +395,25 @@ Applied AI Engineer
 London
 Research Engineer
 London
-Engineering Manager
+Software Engineer – Compute Orchestration
 London
-Machine Learning Engineer
+Software Engineer – Trade Technology
 London
 Observability Engineer
 London
-Software Engineer – Compute Orchestration
+Engineering Manager
+London
+Machine Learning Engineer
 London
 Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London
-Software Engineer – Trade Technology
-London
 Quantitative Developer
 London
-Machine Learning Engineer
-London
 C++ Software Engineer
+London
+Machine Learning Engineer
 London
 Data Software Engineer
 London

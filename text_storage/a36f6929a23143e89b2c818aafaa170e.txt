@@ -404,7 +404,7 @@ New York
 icon
 Quantitative Researcher: Machine Learning
 : The D. E. Shaw group seeks a quantitative researcher with machine learning (ML) expertise to conduct research using modern ML techniques. Researchers in this role develop and…
-Quantitative Strategies
+Quantitative Strategies / Software Development
 New York
 icon
 Software Developer

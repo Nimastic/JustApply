@@ -146,6 +146,7 @@ HR
 Recruiting
 PUBLIC TRUST
 Legal
+Safety
 SOFTWARE & SYSTEMS
 AI Platform General
 Autonomy
@@ -232,12 +233,19 @@ Technical Recruiter
 Mountain View, California (HQ)
 Full-Time
 Public Trust
-02
+04
 Legal
 Assistant General Counsel, Employment
 Mountain View, California (HQ)
 Full-Time
 Senior Commercial Counsel
+Mountain View, California (HQ)
+Full-Time
+Safety
+Senior/Staff Safety Management Systems (SMS) Engineer
+Mountain View, California (HQ)
+Full-Time
+Senior/Staff Safety Standards Engineer
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
@@ -543,8 +551,6 @@ Terms of Use
 •
 Legal
 © 2026 Nuro, Inc.
-We use cookies on this site to enhance site navigation, analyze site usage and assist with our marketing efforts.  By clicking "X" or continuing to use this site, you consent to our use of cookies.  To learn more, visit our
-Privacy Policy
-.
-Allow All
-Manage Settings
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings
+Accept All Cookies

@@ -8,8 +8,8 @@ Investors
 Foundation
 Strategic Capital
 Menu
-AMS €22.68
--0.02
+AMS €22.14
+-0.24
 About
 About
 Where We Operate
@@ -139,10 +139,13 @@ Select a division
 Locations
 Select a location
 Search
-Displaying 10 of 43 results
+Displaying 10 of 42 results
 Amsterdam | Data
 AI Engineering Manager
 AI Engineering ManagerWe're setting up a new AI team within Data and AI and are looking for an Engineering Manager to lead it. Good engineering management makes a big difference to how well teams grow, keep their people and deliver, and that is what we want from this role.You'll look after the planning and people side: delivery, growth, performance, culture and hiring. You work alongside technical leads who own architecture, technical direction and hands-on execution. You need each other, so expect to work closely.We'll judge you on how your engineers develop and what your team delivers. Most of your time goes to understanding how the business works and unlocking use cases where AI makes a real difference, next to leading your people and your delivery.What you'll do:
+About this role
+Amsterdam | Data
+Business Analyst
 About this role
 New York | Data
 Core Data Engineer
@@ -151,10 +154,6 @@ About this role
 Amsterdam | Data
 Core Data Engineer
 Flow Traders is looking for a Core Data Engineer to own the end-to-end lifecycle of our most fundamental data products, including our Security Master; our reconciled ETF Compositions; high-resolution historical market data; and records of our trades, orders, quotes, and inquiries. High-quality data is the cornerstone of Flow Traders' strategic direction - beyond reducing complexity and BAU for stakeholders across the organization, quality data is a key requirement for our growth of quantitative trading styles.​
-About this role
-New York | Facilities & Office Management
-Corporate Receptionist
-Flow Traders is seeking a Corporate Receptionist to join our growing Office Management team in New York. The ideal candidate is passionate about workplace experience and takes the lead to create a positive and impactful impression for employees and visitors to the office. This is a unique opportunity to join a leading proprietary trading firm with an entrepreneurial and innovative culture at the heart of its business. We value quick-witted, creative minds, and challenge them to make full use of their capacities.
 About this role
 Hong Kong | Trading
 Delta One Trader

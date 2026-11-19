@@ -814,16 +814,6 @@ Hybrid —
 Full-time
 New York, NY
 Apply
-Software Engineer, Intern - Connectivity Platform and Product
-On-site —
-Internship
-New York, NY
-Apply
-Software Engineer, Intern - Connectivity Platform and Product
-On-site —
-Internship
-Denver, CO
-Apply
 Software Engineer, Internship
 On-site —
 Internship
@@ -853,6 +843,16 @@ Software Engineer, Internship
 On-site —
 Internship
 Singapore, Singapore
+Apply
+Software Engineer, Internship - Connectivity Platform and Product
+On-site —
+Internship
+New York, NY
+Apply
+Software Engineer, Internship - Connectivity Platform and Product
+On-site —
+Internship
+Denver, CO
 Apply
 Software Engineer, Internship - Data Connectors
 On-site —
@@ -1428,6 +1428,26 @@ Apply
 Intellectual Property Counsel
 Hybrid —
 Full-time
+Palo Alto, CA
+Apply
+Intellectual Property Counsel
+Hybrid —
+Full-time
+Washington, D.C.
+Apply
+Intellectual Property Counsel
+Hybrid —
+Full-time
+New York, NY
+Apply
+Intellectual Property Counsel
+Hybrid —
+Full-time
+Denver, CO
+Apply
+Intellectual Property Counsel
+Hybrid —
+Full-time
 London, United Kingdom
 Apply
 Legal Operations Specialist
@@ -1465,6 +1485,11 @@ Industrial Security Specialist
 On-site —
 Full-time
 New York, NY
+Apply
+Information Systems Security Engineer
+On-site —
+Full-time
+Palo Alto, CA
 Apply
 Site Reliability Operations Analyst - Commercial
 Hybrid —

@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-334 Items
+336 Items
 Save this search
 Sort by
 Relevance
@@ -38,6 +38,42 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Partner Manager, Social Media Communications
+Los Angeles, CA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Communications & Public Policy
+Corporate Communications
+Communications Associate Manager
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+San Francisco, CA
+Communications & Public Policy
+Corporate Communications
+Research Scientist, Applied AI - AI Specialist
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+AI Research
+Artificial Intelligence
+Facebook Reality Labs
+Generative AI
+Research
+Software Engineering
+Engineering
+Machine Learning
 Software Engineer, Infrastructure
 Sunnyvale, CA
 ⋅
@@ -108,48 +144,6 @@ New York, NY
 AR/VR
 Technical Program Management
 Program Management
-Software Engineer, Machine Learning
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+4 more
-Software Engineering
-Engineering
-Software Engineer, Product
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+6 more
-Software Engineering
-Engineering
-Software Engineer, Wearables Interfaces Engineering
-Redmond, WA
-⋅
-New York, NY
-AR/VR
-Artificial Intelligence
-Facebook Reality Labs
-Generative AI
-Infrastructure
-Social VR
-Software Engineering
-Engineering
-Hardware
-Machine Learning
 Page 1 of 34
 Job Search
 Technology Teams

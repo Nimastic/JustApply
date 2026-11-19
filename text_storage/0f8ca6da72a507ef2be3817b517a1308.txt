@@ -15,7 +15,7 @@ One
 Zoox.
 Clear
 Explore all jobs
-242
+249
 Ground-up thinking gets us places
 Ground-up
 thinking
@@ -111,6 +111,7 @@ Job function
 Product, Features & Homologation
 Software
 Vehicle Development
+System Design and Mission Assurance
 Finance, Places and Build
 Zoox Internships
 Data Science
@@ -122,7 +123,6 @@ Information Technology and Applications
 Fleet Operations
 Advanced Hardware Engineering
 Manufacturing Operations
-System Design and Mission Assurance
 Program Management Office
 clear
 filter by
@@ -137,7 +137,6 @@ Hayward, CA
 Houston, TX
 San Francisco, CA
 Fremont, CA
-Los Angeles, CA
 Banbury, UK
 Dallas, TX
 Phoenix, AZ
@@ -151,13 +150,13 @@ Full-time
 Contract
 Internship/Co-op
 clear
-242 jobs, in
+249 jobs, in
 All job functions
 in
 All locations
 and
 All work types
-Page 1 of 25. Showing jobs 1 to 10 of 242.
+Page 1 of 25. Showing jobs 1 to 10 of 249.
 Administrative Business Partner, Product
 Product, Features & Homologation
 Product and Experience
@@ -176,6 +175,11 @@ Foster City, CA
 CAE Engineer - Safety occupant
 Vehicle Development
 Vehicle Integration, Testing & Validation
+Full-time
+Foster City, CA
+Calibration, Localization and Mapping System Safety Engineer
+System Design and Mission Assurance
+Platform Safety Engineering and Analysis
 Full-time
 Foster City, CA
 Chassis Controls Engineer, Brakes & Steering
@@ -207,12 +211,7 @@ Contract
 Foster City, CA
 San Diego, CA
 Seattle, WA
-Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)
-Software
-Autonomy Software
-Contract
-Foster City, CA
-Showing 1-10 of 242
+Showing 1-10 of 249
 1 of 25
 Site Map
 How To Ride

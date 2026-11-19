@@ -2,7 +2,8 @@ Reflection
 Beam
 Solutions
 Safety
-Resources
+Blog
+About
 Careers
 Try Beam
 (opens in a new tab)
@@ -28,7 +29,8 @@ Platform
 Beam
 Solutions
 Safety
-Resources
+Blog
+About
 Careers
 Try Beam
 (opens in a new tab)

@@ -245,7 +245,25 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-203 Open Roles
+206 Open Roles
+ROLE
+Research Technology Support
+FOCUS
+Systematic Investing  |  Trading & Execution Technology
+LOCATION
+New York
+ROLE
+AI Solutions Architect
+FOCUS
+Data Science & Analytics
+LOCATION
+London
+ROLE
+Identity Security Engineer
+FOCUS
+Information Security
+LOCATION
+Bengaluru, India
 ROLE
 Software Engineer, Data Platform
 FOCUS

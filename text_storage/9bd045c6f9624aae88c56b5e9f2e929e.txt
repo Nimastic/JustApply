@@ -1,16 +1,5 @@
 Careers | Tenstorrent
 Skip to main content
-Products
-Software
-Solutions
-Support
-Company
-Careers
-Developers
-EN
-JA
-KO
-ZH
 EN
 JA
 KO
@@ -38,30 +27,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Systems Engineering
-Silicon and Systems
-Signal Integrity Engineer
-Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+Experience
+Customer Success
+Field Application Engineer - AI Software & Hardware
+Munich, Germany
 Apply
-RISC V
-DV
-Sr. Staff Engineer, CPU (Front-End) Verification
-Austin, Texas, United States; Santa Clara, California, United States
-Apply
-Systems Engineering
-Si Val/Qual
-Sr. Engineer, Silicon Enablement
-Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
+AI SW
+Software Engineer, Acceleration Kernel Development
+Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
 AI Hardware
-Tensix
-Principal CPU Microarchitect - RISC-V & AI Compute
-Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+IP Software
+Sr. Staff Engineer, IP Runtime
+Austin, Texas, United States; Toronto, Ontario, Canada
+Apply
+AI Hardware
+IP Hardware
+Physical Design Methodology Engineer, AI HW IP
+Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada
 Apply
 Systems Engineering
-Arch & Scale
-Principal Power Systems Architect- AI Accelerator Systems
-Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+PCB/Power
+Sr. Engineer, PCB Power Design
+Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future

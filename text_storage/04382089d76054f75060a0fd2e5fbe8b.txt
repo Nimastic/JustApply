@@ -174,8 +174,8 @@ Manager, Strategic Finance
 Strategic Finance
 Customer Operations and Support
 Business Systems Analyst
-Customer Support Specialist (Bengaluru, India)
 Manager, Technical Support (London, United Kingdom)
+Product Support Specialist (Bengaluru, India)
 Support Engineer, AI Infrastructure & Tooling
 Technical Operations & Insights Analyst
 Voice of the Customer Program Manager
@@ -225,7 +225,6 @@ Software Engineer - Data Infrastructure
 Software Engineer - Developer Experience
 Software Engineer - Distributed Systems
 Software Engineer - Full Stack
-Software Engineer - Growth & Monetization
 Software Engineer - Machine Learning
 Technical Program Manager, AI
 Technical Program Manager - Infrastructure
@@ -256,7 +255,6 @@ Video Strategist
 People
 Director, People Partners - Product, Design & Engineering
 Executive Assistant, People
-HRIS Analyst
 People Partner
 Product
 Manager, Product Management - Figma Platform Experience
@@ -289,6 +287,7 @@ Customer Activation Manager (Tokyo, Japan)
 Customer Success Manager (São Paulo, Brazil)
 Director, SMB Sales (London, United Kingdom)
 Director, Strategic Sales (Berlin, Germany)
+Executive Assistant, Sales (São Paulo, Brazil)
 Field Engineer
 Inside Sales Representative (Berlin, Germany)
 Inside Sales Representative (Paris, France)
