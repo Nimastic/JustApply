@@ -15,7 +15,7 @@ One
 Zoox.
 Clear
 Explore all jobs
-249
+246
 Ground-up thinking gets us places
 Ground-up
 thinking
@@ -150,13 +150,13 @@ Full-time
 Contract
 Internship/Co-op
 clear
-249 jobs, in
+246 jobs, in
 All job functions
 in
 All locations
 and
 All work types
-Page 1 of 25. Showing jobs 1 to 10 of 249.
+Page 1 of 25. Showing jobs 1 to 10 of 246.
 Administrative Business Partner, Product
 Product, Features & Homologation
 Product and Experience
@@ -197,13 +197,6 @@ Zoox Internships
 Software
 Contract
 Foster City, CA
-Contract Student  Worker: Analyst (Full-time)
-Zoox Internships
-Software
-Contract
-Foster City, CA
-San Diego, CA
-Seattle, WA
 Contract Student Worker  – Firmware Engineer (FW Core System Services)
 Software
 Software Platforms and Product
@@ -211,7 +204,14 @@ Contract
 Foster City, CA
 San Diego, CA
 Seattle, WA
-Showing 1-10 of 249
+Contract Student Worker  – Firmware Engineer (FW Thermal/Body)
+Software
+Software Platforms and Product
+Contract
+Foster City, CA
+San Diego, CA
+Seattle, WA
+Showing 1-10 of 246
 1 of 25
 Site Map
 How To Ride
@@ -220,6 +220,7 @@ Know Your Ride
 Support
 GET UP TO SPEED
 Sign up for our newsletter to see where we’re headed next.
+Fields marked with an asterisk (*) are required.
 Email Address
 Zip Code
 Website

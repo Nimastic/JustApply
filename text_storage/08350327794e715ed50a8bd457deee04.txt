@@ -286,132 +286,132 @@ View all jobs
 Role
 Team
 Location
-Employment Counsel, Americas
-Legal
-Legal
-•
-New York
-Americas
-,
-New York
-New York
-Head of Engineering, Payments Platform
-Engineering
-Engineering
-•
-Seattle
-Americas
-,
-Seattle
-Seattle
-Manager, EMEA FCC Monitoring & Testing
-Regulatory & Compliance
-Regulatory & Compliance
-•
-Birmingham
-Birmingham
-,
-EMEA
-Birmingham
-Account Executive, Travel
+Team Lead, Account Management, SME & Growth, CN
 Sales
 Sales
 •
-Irvine
-Americas
-,
-Irvine
-Irvine
-Senior Product Manager, Liquidity Platform
-Product
-Product
-•
-Singapore
+Shenzhen
 APAC
 ,
-Singapore
-Singapore
-Account Executive, Travel
+Shenzhen
+Shenzhen
+GTM Partnerships Manager, B2B, SME & Growth, CN
 Sales
 Sales
 •
-Oklahoma City
-Americas
+Hangzhou
+APAC
 ,
-Oklahoma City
-Oklahoma City
-Account Executive, Travel
+Hangzhou
+Hangzhou
+Senior IT Engineer, Corporate Platforms
+Engineering
+Engineering
+•
+Sydney
+APAC
+,
+Sydney
+Sydney
+Director, Sanctions
+Regulatory & Compliance
+Regulatory & Compliance
+•
+London
+EMEA
+,
+London
+London
+Senior Total Rewards Partner
+People and Talent
+People and Talent
+•
+Barcelona
+Barcelona
+,
+EMEA
+Barcelona
+Senior Product Security Engineer_China
+Engineering
+Engineering
+•
+Shanghai
+APAC
+,
+Shanghai
+Shanghai
+Account Executive, Outbound Team 3, SME & Growth, CN
 Sales
 Sales
 •
-Milwaukee
-Americas
+Shenzhen
+APAC
 ,
-Milwaukee
-Milwaukee
-Account Executive, Travel
-Sales
-Sales
+Shenzhen
+Shenzhen
+Senior Manager, FP&A (Consolidation and G&A)
+Finance and Corporate Development
+Finance and Corporate Development
+•
+London
+EMEA
+,
+London
+London
+Regulatory Counsel, Americas
+Regulatory & Compliance
+Regulatory & Compliance
 •
 Remote
 EMEA
 ,
 Remote
 Remote
+Staff Corporate Security Engineer
+Engineering
+Engineering
+•
+Sydney
+APAC
+,
+Sydney
+Sydney
+ROLE
+TEAM
+LOCATION
+GTM Partnerships Manager, SME & Growth, CN
+Sales
+APAC, Shenzhen
+Head of SME & Growth, Canada
+Sales
+Americas, Toronto
+Talent Acquisition Partner, Technology
+People and Talent
+Americas, San Francisco
+Lead AI Engineer
+Engineering
+APAC, Singapore
 Senior Data Scientist, Analytics (Regulatory Reporting)
 Product
+APAC, Singapore
+ROLE
+TEAM
+LOCATION
+Senior Data Scientist, Analytics (Risk & Payments)
 Product
-•
 Singapore
-APAC
-,
-Singapore
-Singapore
-Financial Partnerships Operations Manager, Americas
-Financial and Strategic Partnerships
-Financial and Strategic Partnerships
-•
+Director, Revenue Strategy & Enablement, Americas
+Strategy and Operations
 New York
-Americas
-,
-New York
-New York
-ROLE
-TEAM
-LOCATION
-Account Executive, Travel
-Sales
-Americas, Dallas
-Account Executive, Travel
-Sales
-Americas, Nashville
-Manager, Payments/Scheme Economics
-Finance and Corporate Development
-EMEA, London
-Corporate Secretary, Americas
-Legal
-Americas, New York
-Director, Channel Partnerships, SME & Growth, Americas
-Sales
-Americas, Mexico City
-ROLE
-TEAM
-LOCATION
-Channel Partnerships Manager, DACH
-Sales
-Berlin
-Senior Manager, Financial Crime Investigations & Intelligence
-Regulatory & Compliance
-Singapore
-Staff Product Designer
-Design
-Melbourne
-Global Lead, Commercial Risk Strategy
+Director, Revenue Strategy & Enablement, Americas
 Strategy and Operations
 San Francisco
-Engineering Director, Payments Platform
-Engineering
-San Francisco
+Senior Account Executive, Enterprise, CN
+Sales
+Shanghai
+Senior Regulatory Compliance Manager, HK
+Regulatory & Compliance
+Hong Kong SAR
 View all jobs
 Life at Airwallex
 Get to know the people and the pace behind the platform.

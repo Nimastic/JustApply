@@ -14,7 +14,7 @@ All Employment Types
 Full time (7)
 Location
 All Locations
-Montreal (5)
+Montreal (6)
 New York (5)
 Paris (5)
 Singapore (5)
@@ -38,7 +38,7 @@ Technical Staff • Paris; Montreal; New York; Singapore • Full time • On-si
 AMI Software Engineer
 Technical Staff • Singapore; Paris • Full time • On-site
 Robot Operator
-Technical Staff • New York • Full time • On-site
+Technical Staff • New York; Montreal • Full time • On-site
 Powered by
 Ashby
 Privacy Policy

@@ -30,26 +30,25 @@ All Offices
 Experience
 Customer Success
 Field Application Engineer - AI Software & Hardware
-Munich, Germany
+Gdańsk, Pomeranian Voivodeship, Poland
 Apply
-AI SW
-Software Engineer, Acceleration Kernel Development
-Santa Clara, California, United States; Toronto, Ontario, Canada
+Advanced Physical Design
+AI/ML Physical Design Flow Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Silicon
+DFT and Test
+ATE Test Development Engineer
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+RISC V
+CPU Core Design Verification Testbench Lead
+Austin, Texas, United States; Santa Clara, California, United States
 Apply
 AI Hardware
 IP Software
 Sr. Staff Engineer, IP Runtime
 Austin, Texas, United States; Toronto, Ontario, Canada
-Apply
-AI Hardware
-IP Hardware
-Physical Design Methodology Engineer, AI HW IP
-Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada
-Apply
-Systems Engineering
-PCB/Power
-Sr. Engineer, PCB Power Design
-Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future

@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-155
+162
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,9 +133,38 @@ English
 English
 Français (Canada)
 Jobs search results
-155
+162
 jobs matched
 filter_list
+Staff Software Engineer, Verification Engineering
+corporate_fare
+Google
+place
+New York, NY, USA
+; Kirkland, WA, USA
+; +2 more
+; +1 more
+bar_chart
+Advanced
+Advanced
+Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
+Google |
+New York, NY, USA
+; Kirkland, WA, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+8 years of experience in software development.
+5 years of research experience in software engineering, formal methods, software verification, artificial intelligence, or machine learning research.
+Experience in formal methods, software verification, or interactive theorem proving.
+Learn more
+share
+Share Staff Software Engineer, Verification Engineering
+link
+Copy link
+email
+Email a friend
 Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start
 corporate_fare
 Google
@@ -383,28 +412,6 @@ link
 Copy link
 email
 Email a friend
-Software Engineer, Applied AI, Model Quality
-corporate_fare
-Google
-place
-New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience with software development in one or more programming languages.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-Learn more
-share
-Share Software Engineer, Applied AI, Model Quality
-link
-Copy link
-email
-Email a friend
 Software Engineer, AI/ML, Ads Quality
 corporate_fare
 Google
@@ -536,6 +543,34 @@ link
 Copy link
 email
 Email a friend
+Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; Atlanta, GA, USA
+; +11 more
+; +10 more
+Minimum qualifications
+PhD degree in Computer Science, a related field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
+Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+Learn more
+share
+Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+link
+Copy link
+email
+Email a friend
 Software Engineer III, AI/ML GenAI, Workspace Drive
 corporate_fare
 Google
@@ -583,59 +618,6 @@ link
 Copy link
 email
 Email a friend
-Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
-corporate_fare
-Google
-place
-Sunnyvale, CA, USA
-; Atlanta, GA, USA
-; +11 more
-; +10 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Sunnyvale, CA, USA
-; Atlanta, GA, USA
-; +11 more
-; +10 more
-Minimum qualifications
-PhD degree in Computer Science, a related field, or equivalent practical experience.
-Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
-Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
-Learn more
-share
-Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
-link
-Copy link
-email
-Email a friend
-Staff Software Engineer, Google Cloud
-corporate_fare
-Google
-place
-New York, NY, USA
-; Sunnyvale, CA, USA
-bar_chart
-Advanced
-Advanced
-Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain.
-Google |
-New York, NY, USA
-; Sunnyvale, CA, USA
-Minimum qualifications
-Bachelor's degree or equivalent practical experience.
-8 years of experience in software development.
-5 years of experience testing, and launching software products.
-3 years of experience with software design and architecture.
-Learn more
-share
-Share Staff Software Engineer, Google Cloud
-link
-Copy link
-email
-Email a friend
 Software Engineer III, Infrastructure, Google Ads
 corporate_fare
 Google
@@ -664,8 +646,30 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 20 of 155 rows
-1‑20 of 155
+Software Engineer III, Front End
+corporate_fare
+Google
+place
+New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience with front-end and user interface development.
+Learn more
+share
+Share Software Engineer III, Front End
+link
+Copy link
+email
+Email a friend
+Showing 1 to 20 of 162 rows
+1‑20 of 162
 navigate_next
 Go to next page
 Follow Life at Google on

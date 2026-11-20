@@ -111,7 +111,7 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(33)
+(32)
 Mojo
 (16)
 Product Management
@@ -123,7 +123,7 @@ Developer Relations
 Marketing
 (1)
 Platform Engineering
-(2)
+(1)
 Technical Program Management
 (3)
 Principal Mojo Libraries Engineer
@@ -212,9 +212,6 @@ United States / Canada · Remote
 Apply now
 Staff Engineer, Hardware Enablement
 United States / Canada · Remote
-Apply now
-Security Engineer
-Remote · Remote
 Apply now
 Developer Community Marketing Manager
 United States / Canada · Remote

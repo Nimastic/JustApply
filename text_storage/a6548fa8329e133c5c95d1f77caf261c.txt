@@ -12,6 +12,7 @@ AirPods
 Home
 Accessories
 Quick Links
+Apple Store Black Friday Event
 Find a Store
 Order Status
 Apple Upgrade
@@ -38,6 +39,7 @@ Compare Mac
 Switch from PC to Mac
 Shop Mac
 Shop Mac
+Apple Store Black Friday Event
 Help Me Choose
 Mac Accessories
 Apple Upgrade
@@ -68,6 +70,7 @@ Keyboards
 Compare iPad
 Shop iPad
 Shop iPad
+Apple Store Black Friday Event
 iPad Accessories
 Apple Upgrade
 Apple Trade In
@@ -96,6 +99,7 @@ Compare iPhone
 Switch from Android
 Shop iPhone
 Shop iPhone
+Apple Store Black Friday Event
 iPhone Accessories
 Apple Upgrade
 Apple Trade In
@@ -125,6 +129,7 @@ Compare Watch
 Why Apple Watch
 Shop Watch
 Shop Apple Watch
+Apple Store Black Friday Event
 Apple Watch Bands
 Apple Watch Accessories
 Apple Upgrade
@@ -162,6 +167,7 @@ AirPods Pro 3
 AirPods Max 2
 Compare AirPods
 Shop AirPods
+Apple Store Black Friday Event
 Shop AirPods 5
 Shop AirPods Pro 3
 Shop AirPods Max 2
@@ -181,6 +187,7 @@ HomePod
 HomePod mini 2
 Shop Home
 Shop Home
+Apple Store Black Friday Event
 Shop Apple Home Collection
 Shop Home Accessories
 Personal Setup
@@ -221,6 +228,7 @@ Home
 AirTag
 Beats
 Shop by Category
+Apple Store Black Friday Event
 Headphones & Speakers
 Chargers & Adapters
 Smart Home Essentials
@@ -249,7 +257,6 @@ Music
 TV
 Explore Support
 Get Help
-Community
 Check Coverage
 Genius Bar
 Repair
@@ -260,10 +267,10 @@ Billing & Subscriptions
 Accessibility
 5 total results
 Quick Links
+Apple Store Black Friday Event
 Shop Gifts
-Find a Store
 Apple Gift Card
-Apple Intelligence
+Find a Store
 Apple Trade In
 0
 +

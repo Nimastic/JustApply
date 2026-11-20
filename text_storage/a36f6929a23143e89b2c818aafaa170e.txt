@@ -100,7 +100,6 @@ Legal & Compliance
 Private Equity Platform
 Professional Services
 Quantitative Strategies
-Software Development
 Strategy and Business Development
 Technology
 Trading
@@ -380,20 +379,15 @@ icon
 Ventures Platform Associate (Denver)
 : The D. E. Shaw group seeks a ventures platform associate to join its expanding platform team. This is a ground-floor opportunity on a fast-growing platform, where the associate…
 Quantitative Strategies / Technology
-New York
+London
 icon
-Applied AI Engineer
-: The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…
+Quant Systems: Systems Developer (London)
+: The D. E. Shaw group seeks an inquisitive technology enthusiast to join its Quant Systems team. This is a hands-on technical role within an engineering team responsible for high…
 Quantitative Strategies / Technology
 New York
 icon
-Product Manager — AI Vendor Tools
-: The D. E. Shaw group seeks an experienced product manager to join its Application Engineering team. This group develops and maintains a range of internal software solutions,…
-Quantitative Strategies
-London
-icon
-Quant Systems: Storage Engineer
-: The D. E. Shaw group seeks an experienced HPC storage engineer to join its Quant Systems team. Quant Systems is a global group responsible for designing, building, and operating…
+Quant Systems: Systems Developer (New York)
+: The D. E. Shaw group seeks an inquisitive technology enthusiast to join its Quant Systems team as a systems developer. The Quant Systems team designs and maintains the firm’s…
 Quantitative Strategies
 New York
 icon
@@ -404,7 +398,7 @@ New York
 icon
 Quantitative Researcher: Machine Learning
 : The D. E. Shaw group seeks a quantitative researcher with machine learning (ML) expertise to conduct research using modern ML techniques. Researchers in this role develop and…
-Quantitative Strategies / Software Development
+Quantitative Strategies / Technology
 New York
 icon
 Software Developer
@@ -414,11 +408,6 @@ New York
 icon
 All Positions in Quantitative Strategies
 : Are you looking for new challenges and collaborative problem-solving opportunities at the firm, but finding that the perfect role for you might not be currently available? If you’d like…
-Software Development / Technology
-New York
-icon
-Full-Stack Software Engineer
-: The D. E. Shaw group seeks a full stack engineer to join our Generative AI (GAI) Services team. This team develops and supports platforms and applications that enable GAI…
 Strategy and Business Development
 New York
 icon
@@ -447,8 +436,18 @@ Application Security Engineer
 Technology
 New York
 icon
+Applied AI Engineer
+: The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…
+Technology
+New York
+icon
 Founder's Office: InfoSec Generalist
 : The D. E. Shaw group seeks a talented technologist with impressive achievements to join the Founder's Office, which provides direct technical support to the firm's founder. This…
+Technology
+New York
+icon
+Full-Stack Software Engineer
+: The D. E. Shaw group seeks a full stack engineer to join our Generative AI (GAI) Services team. This team develops and supports platforms and applications that enable GAI…
 Technology
 New York
 icon
@@ -465,15 +464,15 @@ icon
 MBOT Chief of Staff
 : The D. E. Shaw group seeks a chief of staff to join its Middle & Back Office Technology (MBOT) group. The MBOT team is responsible for developing and supporting technology…
 Technology
-London
-icon
-Quant Systems: Systems Developer (London)
-: The D. E. Shaw group seeks an inquisitive technology enthusiast to join its Quant Systems team. This is a hands-on technical role within an engineering team responsible for high…
-Technology
 New York
 icon
-Quant Systems: Systems Developer (New York)
-: The D. E. Shaw group seeks an inquisitive technology enthusiast to join its Quant Systems team as a systems developer. The Quant Systems team designs and maintains the firm’s…
+Product Manager — AI Vendor Tools
+: The D. E. Shaw group seeks an experienced product manager to join its Application Engineering team. This group develops and maintains a range of internal software solutions,…
+Technology
+London
+icon
+Quant Systems: Storage Engineer
+: The D. E. Shaw group seeks an experienced HPC storage engineer to join its Quant Systems team. Quant Systems is a global group responsible for designing, building, and operating…
 Technology
 New York
 icon
@@ -721,7 +720,6 @@ All available internships
 All available internships
 Investment Analysis
 Quantitative Strategies
-Software Development
 Strategy and Business Development
 Technology
 Trading
@@ -762,12 +760,12 @@ New York
 icon
 Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027
 : The D. E. Shaw group seeks talented Ph.D. candidates with impressive records of academic and/or professional achievement to join the firm as quantitative researcher interns.…
-Software Development
+Quantitative Strategies / Technology
 New York
 icon
 Software Developer Intern (New York) – Summer 2027
 : The D. E. Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as software developer interns. Interns…
-Software Development
+Quantitative Strategies / Technology
 New York
 icon
 Software Developer, Ph.D. Intern (New York) – Summer 2027

@@ -16,7 +16,7 @@ Cryptoassets
 2
 Openings
 Operations
-9
+11
 Openings
 Technology
 86
@@ -28,6 +28,9 @@ Jobs by Country
 Canada
 9
 Openings
+Hong Kong
+1
+Opening
 Israel
 4
 Openings
@@ -41,7 +44,7 @@ United Kingdom
 44
 Openings
 United States
-72
+73
 Openings
 Who we are
 Work at DRW

@@ -13,7 +13,7 @@ Office
 Select...
 Experience Level
 Select...
-13 jobs
+12 jobs
 BizOps
 Job
 Financial Analyst
@@ -39,8 +39,6 @@ Network Engineer
 Chicago, New York, London
 Software Engineer, Core Data
 Chicago, New York, London
-Software Engineer, Early Career
-Chicago; New York
 Software Engineer, Intern (Summer 2027)
 Chicago
 Software Engineer, Production Platform

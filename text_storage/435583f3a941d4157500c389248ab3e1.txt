@@ -25,9 +25,53 @@ Cerebras launches disaggregated inference >>
 Open positions
 All locations
 All departments
+IT & Security
+Software Supply Chain Security Engineer
+Sunnyvale, CA
+Senior Staff Security Engineer, Distributed Systems
+Sunnyvale, CA
+Security & IT General Opportunities
+United States and Canada
+IT SRE Team Lead
+Sunnyvale, CA
+Manufacturing Linux Network Engineer
+Sunnyvale, CA
+Network Security Engineer (Remote)
+Remote (US)
+Principal Network Security Architect
+Sunnyvale, CA
+Principal AI Security Engineer
+Sunnyvale, CA
+Senior Systems Administrator, Business Systems
+Sunnyvale, CA
+Staff Business Systems Analyst
+Sunnyvale, CA
+Application Security Engineer
+Sunnyvale, CA
+AI and Automation Engineer - Business Systems
+Sunnyvale, CA
+Physical Security Lead, Manufacturing Operations
+Sunnyvale, CA
+Senior Detection and Response Engineer
+Sunnyvale, CA
+Network Security Engineer
+Sunnyvale, CA
+ERP Engineer - Business Systems
+Sunnyvale, CA
+Product
+Developer Relations
+Sunnyvale, CA
+Senior Product Manager, AI Models
+Sunnyvale, CA, Remote (US)
+Head of Developer Relations
+Sunnyvale, CA
+Hardware Research Analyst
+Sunnyvale, CA
+DevX Technical Writer
+Sunnyvale, CA
+AI Engineer
+Sunnyvale, CA
 Software Engineering
-FPGA Engineer
-Sunnyvale, CA, Toronto, CAN
 Principal Network Systems Architect
 Sunnyvale, CA
 Staff Software Engineer, Inference Platform
@@ -146,52 +190,6 @@ Staff Software Engineer, Observability
 Sunnyvale, CA
 Engineering Manager, Inference Router
 Sunnyvale, CA, Toronto, CAN
-IT & Security
-Software Supply Chain Security Engineer
-Sunnyvale, CA
-Senior Staff Security Engineer, Distributed Systems
-Sunnyvale, CA
-Security & IT General Opportunities
-United States and Canada
-IT SRE Team Lead
-Sunnyvale, CA
-Manufacturing Linux Network Engineer
-Sunnyvale, CA
-Network Security Engineer (Remote)
-Remote (US)
-Principal Network Security Architect
-Sunnyvale, CA
-Principal AI Security Engineer
-Sunnyvale, CA
-Senior Systems Administrator, Business Systems
-Sunnyvale, CA
-Staff Business Systems Analyst
-Sunnyvale, CA
-Application Security Engineer
-Sunnyvale, CA
-AI and Automation Engineer - Business Systems
-Sunnyvale, CA
-Physical Security Lead, Manufacturing Operations
-Sunnyvale, CA
-Senior Detection and Response Engineer
-Sunnyvale, CA
-Network Security Engineer
-Sunnyvale, CA
-ERP Engineer - Business Systems
-Sunnyvale, CA
-Product
-Developer Relations
-Sunnyvale, CA
-Senior Product Manager, AI Models
-Sunnyvale, CA, Remote (US)
-Head of Developer Relations
-Sunnyvale, CA
-Hardware Research Analyst
-Sunnyvale, CA
-DevX Technical Writer
-Sunnyvale, CA
-AI Engineer
-Sunnyvale, CA
 Hardware
 Lead RTL Design Engineer
 Sunnyvale, CA
@@ -218,6 +216,8 @@ Sunnyvale, CA
 Senior Product, Test and Yield Enhancement Engineer - Taiwan
 Sunnyvale, CA
 Power Manufacturing Test Development Engineer
+Sunnyvale, CA
+Design for Reliability Engineer
 Sunnyvale, CA
 Senior Hardware Reliability Test Engineer – Electrical Systems & Power Electronics
 Sunnyvale, CA

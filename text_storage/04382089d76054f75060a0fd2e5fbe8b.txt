@@ -1,17 +1,4 @@
 Careers at Figma
-This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
-privacy policy.
-California Residents:
-learn how personal information is
-collected
-, including how it is
-used
-, whether it is
-“sold” or “shared”
-, and how long it is
-retained
-.
-Opt-Out
 Skip to main content
 Products
 What you can do in figma
@@ -239,7 +226,7 @@ Product Designer - Figma Weave (Tel Aviv, Israel)
 Product Marketing Manager - Figma Weave (Tel Aviv, Israel)
 Senior Account Executive - Figma Weave
 Software Engineer - Figma Weave (Tel Aviv, Israel)
-Technical Quality Specialist - Figma Weave (Singapore)
+Technical Quality Specialist - Figma Weave (Tokyo, Japan)
 Legal
 Senior Counsel (London, United Kingdom)
 Marketing
@@ -247,6 +234,7 @@ Brand Designer, Web
 Content Strategist, Product
 Corporate Communications Manager
 Creative Director, Brand Experience
+Demand Generation Campaign Manager
 Designer Advocate (Berlin, Germany)
 Developer Advocate, Payload
 Executive Assistant, Growth Marketing
@@ -269,6 +257,7 @@ Account Executive, Enterprise (London, United Kingdom)
 Account Executive, Enterprise, Mandarin Speaking (Singapore)
 Account Executive, Enterprise (São Paulo, Brazil)
 Account Executive, Enterprise (Tokyo, Japan)
+Account Executive, Mid-Market
 Account Executive, Mid-Market (Berlin, Germany)
 Account Executive, Mid-Market (London, United Kingdom)
 Account Executive, Mid-Market, Mandarin Speaking (Singapore)
@@ -292,6 +281,7 @@ Field Engineer
 Inside Sales Representative (Berlin, Germany)
 Inside Sales Representative (Paris, France)
 Manager, Customer Success (Tokyo, Japan)
+Manager, Deal Desk (London, United Kingdom)
 Manager, Enterprise Sales
 Manager, Mid-Market Sales (Berlin, Germany)
 Manager, Mid-Market Sales (London, United Kingdom)
@@ -404,5 +394,4 @@ Customers
 Careers
 Newsroom
 Brand assets
-Do Not Sell/Share My Personal Info + Opt-Out
 English

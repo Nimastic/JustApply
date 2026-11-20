@@ -67,7 +67,6 @@ Austin, TX
 Australia
 Bengaluru
 Chicago, IL
-EMEA
 Indonesia
 Japan
 London
@@ -433,13 +432,6 @@ Full-time
 ·
 San Francisco, CA; New York, NY
 Apply →
-Product Education Engineer
-Customer Success
-·
-Full-time
-·
-New York, NY; San Francisco, CA; EMEA
-Apply →
 Product Marketing Manager
 Marketing
 ·
@@ -566,13 +558,6 @@ Full-time
 ·
 Washington, D.C.
 Apply →
-Software Engineer, ML Platform
-Engineering
-·
-Full-time
-·
-Palo Alto, CA
-Apply →
 Software Engineer, Pretraining Data
 Engineering
 ·
@@ -607,13 +592,6 @@ Design
 Full-time
 ·
 New York, NY; San Francisco, CA
-Apply →
-Sr. Software Engineer, ML Platform
-Engineering
-·
-Full-time
-·
-Palo Alto, CA
 Apply →
 Sr. Software Engineer, Pretraining Data
 Engineering
@@ -663,13 +641,6 @@ Sales
 Full-time
 ·
 Australia
-Apply →
-Strategic Account Executive, Federal Sales — Civilian
-Sales
-·
-Full-time
-·
-Remote
 Apply →
 Strategic Account Executive, Federal Sales — DoW
 Sales

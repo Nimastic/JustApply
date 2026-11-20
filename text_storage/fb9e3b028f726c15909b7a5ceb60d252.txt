@@ -32,6 +32,14 @@ Research
 Product
 GTM
 Corporate
+Applied
+GTM
+Account Executive (GTM)
+Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
+Responsible for driving business growth by expanding our products to enterprise clients and other customers.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
 Product
 Applied Research Engineer (Product)
 Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
@@ -46,13 +54,6 @@ Deploy Sakana AI's products inside enterprise customers, drive them from PoC to 
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Conversational)
-GTM
-Account Executive (GTM)
-Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
-Responsible for driving business growth by expanding our products to enterprise clients and other customers.
-Tokyo (Hybrid)
-Full-time
-Japanese (Business) & English
 GTM
 Partner Alliances Manager ISV (GTM)
 Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and Sakana Namazu
@@ -75,19 +76,19 @@ Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Business)
 GTM
-Marketing Operations Manager
-Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
-Build the marketing automation and attribution infrastructure that turns interest into pipeline, on top of our CRM.
-Tokyo (Hybrid)
-Full-time
-Japanese (Business) & English
-GTM
 Global Account Executive (GTM)
 Join the team behind Sakana Marlin, Sakana Namazu, and Sakana Fugu
 Partner-led enterprise sales role: own the customer relationship and deal from first conversation through contract, and build a joint go-to-market motion with a strategic partner.
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English (Business)
+GTM
+Marketing Operations Manager
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Build the marketing automation and attribution infrastructure that turns interest into pipeline, on top of our CRM.
+Tokyo (Hybrid)
+Full-time
+Japanese (Business) & English
 GTM
 Enterprise Marketing Manager
 Join the team behind Sakana Marlin 🐬, Sakana Fugu 🐡 and our API
@@ -147,10 +148,9 @@ Own product launches from pre-launch to post-launch, and keep every product's na
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English
-Product
-Software Engineer (Product, Infrastructure and Platform Reliability)
-Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
-Infrastructure and Platform Reliability Engineer to keep our products fast, dependable, and cost-efficient as that moment turns into sustained scale
+Research
+Member of Technical Staff (Security Research Group)
+The Sakana AI Security Research Group is a new, founding-stage R&D team working in the public interest.
 Tokyo
 Full-time
 Japanese (Conversational) & English (Business)
@@ -161,6 +161,13 @@ Grow the developer community around our models so that engineers inside companie
 Tokyo (Hybrid)
 Full-time
 Japanese (Business) & English
+Product
+Software Engineer (Product, Infrastructure and Platform Reliability)
+Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
+Infrastructure and Platform Reliability Engineer to keep our products fast, dependable, and cost-efficient as that moment turns into sustained scale
+Tokyo
+Full-time
+Japanese (Conversational) & English (Business)
 Product
 Data Engineer (Product)
 Join the team behind Sakana Chat 🐟, Sakana Marlin 🐬, and Sakana Fugu 🐡
@@ -285,5 +292,8 @@ Work alongside the Chairman to drive Sakana AI's partnerships with companies and
 Tokyo
 Full-time
 Japanese (Business), English (Business)
+Applied Team
+Applied Team Positions (Finance, Defense)
+Our Applied Team delivers enterprise solutions for industries such as finance and defense. Visit the Applied Team careers site to see open positions.
 ©
 Sakana AI 株式会社

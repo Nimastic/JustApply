@@ -104,8 +104,6 @@ Engineering Manager - Full-Stack Web
 Chicago
 Experienced Options Trader
 Chicago
-Expression of Interest: 2027 Trading Sneak Peek Weeks
-Chicago
 Floor Trader- SOFR
 Chicago
 Floor Trader- SPX
@@ -125,11 +123,11 @@ Chicago
 Performance Engineer
 Chicago
 Platform Engineer
+Sydney
+Platform Engineer
 Remote
 Platform Engineer
 London, England, United Kingdom
-Platform Engineer
-Sydney
 Quantitative Developer
 Shanghai
 Quantitative Researcher
@@ -158,6 +156,12 @@ Systems Engineer
 Singapore
 Systems Engineer
 Sydney
+Trading Sneak Peek Program: August 2027
+Chicago
+Trading Sneak Peek Program: January 2027
+Chicago
+Trading Sneak Peek Program: May 2027 (Reaching Women+)
+Chicago
 Who We Are
 What We Do
 Technology

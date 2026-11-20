@@ -104,12 +104,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Sunnyvale
+Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Sunnyvale
-Sunnyvale
+Seoul
+Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
@@ -243,6 +243,10 @@ Global People Compliance & ER Partner
 Sunnyvale
 Sunnyvale
 Apply
+People Experience Project Manager
+Sunnyvale
+Sunnyvale
+Apply
 Senior People Business Partner
 Tokyo
 Tokyo
@@ -316,12 +320,12 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Solution Engineer
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Solution Engineer
 Stuttgart
@@ -336,12 +340,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer - Trucking
 Gothenburg
@@ -357,16 +361,16 @@ Sunnyvale
 Apply
 Sales
 Global Account Manager - Automotive
-Munich
-Munich
-Apply
-Global Account Manager - Automotive
 Sunnyvale
 Sunnyvale
 Apply
 Global Account Manager - Automotive
 Tokyo
 Tokyo
+Apply
+Global Account Manager - Automotive
+Munich
+Munich
 Apply
 Global Account Manager - North America Automotive
 Ann Arbor
@@ -572,6 +576,10 @@ Sunnyvale
 Sunnyvale
 Apply
 Product Manager - Drone Stack
+Sunnyvale
+Sunnyvale
+Apply
+Security Engineering Accreditation Lead, Defense
 Sunnyvale
 Sunnyvale
 Apply
@@ -849,11 +857,11 @@ Manager, Electrical Engineering
 Sunnyvale
 Sunnyvale
 Apply
-Senior Manager, Hardware Technical Program Management
+Manager, Mechanical Engineering
 Sunnyvale
 Sunnyvale
 Apply
-Senior Manager, Mechanical Engineering - Drone
+Senior Manager, Hardware Technical Program Management
 Sunnyvale
 Sunnyvale
 Apply
@@ -875,21 +883,21 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
 Sunnyvale
 Apply
 Legal
-Legal Counsel - EMEA
-Stuttgart
-Stuttgart
+Legal Counsel - Commercial
+Sunnyvale
+Sunnyvale
 Apply
 Legal Counsel - EMEA
 London
@@ -898,6 +906,10 @@ Apply
 Legal Counsel - EMEA
 Munich
 Munich
+Apply
+Legal Counsel - EMEA
+Stuttgart
+Stuttgart
 Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
@@ -908,16 +920,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Regulatory Counsel
+Munich
+Munich
+Apply
+Regulatory Counsel
 Stuttgart
 Stuttgart
 Apply
 Regulatory Counsel
 London
 London
-Apply
-Regulatory Counsel
-Munich
-Munich
 Apply
 Safety Programs Lead
 Sunnyvale
@@ -1191,6 +1203,10 @@ Engineering Technician
 Australia Remote
 Australia Remote
 Apply
+Engineering Technician – Wire Harness Manufacturing
+Sunnyvale
+Sunnyvale
+Apply
 Fleet Operations Specialist
 Tokyo
 Tokyo
@@ -1198,6 +1214,10 @@ Apply
 Founding Fleet Reliability Engineer - Middle East
 KSA - RYD G
 KSA - RYD G
+Apply
+Hardware Integration Engineer, Build
+Sunnyvale
+Sunnyvale
 Apply
 Hardware Integration Engineer (Mining)
 Arizona
@@ -1214,6 +1234,10 @@ Apply
 Shift Lead
 Tokyo
 Tokyo
+Apply
+System Integration Engineer, Build
+Sunnyvale
+Sunnyvale
 Apply
 Technical Program Manager - Trucking Operations
 Sunnyvale
@@ -1233,12 +1257,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Customer Technical Program Manager, Vehicle OS
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Electrical Integration Engineer
 Bangalore

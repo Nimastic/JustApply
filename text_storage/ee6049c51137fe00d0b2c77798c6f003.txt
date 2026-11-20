@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-206 Open Roles
+207 Open Roles
+ROLE
+Software Engineer, Tax Technology
+FOCUS
+Software & System Engineering
+LOCATION
+Bengaluru, India
 ROLE
 Research Technology Support
 FOCUS
@@ -361,7 +367,7 @@ Risk
 LOCATION
 New York
 ROLE
-2027 Economist Intern
+2027 Asia Economist Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
@@ -391,7 +397,7 @@ Data Sourcing & Strategy
 LOCATION
 Hong Kong   |   Tokyo   |   Singapore
 ROLE
-2027 Trader Summer Intern (12-week program)
+2027 Trader Intern (12-week program)
 FOCUS
 Trading
 LOCATION

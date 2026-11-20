@@ -45,7 +45,7 @@ All teams
 All locations
 General & Administrative
 (
-28
+27
 )
 Business Operations
 San Francisco
@@ -94,9 +94,6 @@ Apply
 Network Engineer
 San Francisco
 Apply
-Onboarding Coordinator
-San Francisco
-Apply
 People Operations
 San Francisco
 Apply
@@ -135,7 +132,7 @@ San Francisco
 Apply
 Marketing
 (
-21
+22
 )
 ABM/Enterprise Demand
 San Francisco
@@ -144,6 +141,9 @@ Brand Marketer
 San Francisco
 •
 New York City
+Apply
+Campaigns / Webinars
+San Francisco, Austin, New York City
 Apply
 Developer Community Manager
 San Francisco
@@ -315,7 +315,7 @@ San Francisco
 Apply
 Sales
 (
-23
+22
 )
 Account Director
 San Francisco
@@ -376,9 +376,6 @@ Tokyo
 Apply
 Partner Director - Japan
 Tokyo
-Apply
-Partner Director - US
-San Francisco, Austin, New York City
 Apply
 Regional Sales Director
 San Francisco, Austin, New York City

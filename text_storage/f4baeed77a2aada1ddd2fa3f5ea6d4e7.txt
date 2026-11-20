@@ -394,7 +394,7 @@ Plays for
 Mitchell Felix
 Robot Field Operator
 Careers
-24 open roles
+25 open roles
 Open Roles
 All departments
 Commercial Ops - AS
@@ -416,6 +416,10 @@ Government - Software Engineering
 Hardware Engineering
 (
 2
+)
+Marketing & Design
+(
+1
 )
 Operations
 (
@@ -452,11 +456,11 @@ Houston
 )
 New York City
 (
-11
+12
 )
 Pittsburgh
 (
-16
+17
 )
 Washington, D.C.
 (
@@ -505,6 +509,12 @@ Pittsburgh
 Test & Reliability Engineering Intern
 ↗
 Hardware Engineering
+Pittsburgh
+Content Marketing Manager
+↗
+Marketing & Design
+New York City
+·
 Pittsburgh
 NDT Advanced Services Operator | Middle East
 ↗

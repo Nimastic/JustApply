@@ -116,6 +116,14 @@ Mechanical Engineer - Actuators
 San Carlos
 ,
 California
+Mechanical Engineer - Foot
+San Carlos
+,
+California
+Mechanical Engineer - Ropes
+San Carlos
+,
+California
 Senior Camera Hardware Engineer, Robot Head
 San Carlos
 ,
@@ -260,7 +268,7 @@ San Carlos
 ,
 California
 Senior Harness Manufacturing Engineer
-San Carlos
+Hayward
 ,
 California
 Senior Manager Quality Engineering
@@ -297,6 +305,10 @@ San Carlos
 California
 Senior Test Development Engineer
 Hayward
+,
+California
+Staff Automation Engineer - Manufacturing
+San Carlos
 ,
 California
 Staff Engineer ERP Systems

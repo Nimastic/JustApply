@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-336 Items
+321 Items
 Save this search
 Sort by
 Relevance
@@ -38,25 +38,9 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Partner Manager, Social Media Communications
-Los Angeles, CA
+Software Engineer (Leadership) - Infrastructure
+Sunnyvale, CA
 ⋅
-Menlo Park, CA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-Communications & Public Policy
-Corporate Communications
-Communications Associate Manager
-Menlo Park, CA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-Communications & Public Policy
-Corporate Communications
-Research Scientist, Applied AI - AI Specialist
 Bellevue, WA
 ⋅
 Redmond, WA
@@ -65,15 +49,53 @@ Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
-New York, NY
-AI Research
++4 more
 Artificial Intelligence
+Instagram
+Facebook
+Generative AI
+Software Engineering
+WhatsApp
+Engineering
+Data Scientist, Analytics (Technical Leadership)
+Remote, US
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+Washington, DC
+⋅
+New York, NY
+⋅
++1 more
+Data & Analytics
+Instagram
+Messenger
+WhatsApp
+Facebook
 Facebook Reality Labs
+Analytics
+Data Science
+Applied Research Scientist
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+Burlingame, CA
+⋅
++1 more
+Artificial Intelligence
+AI Research
 Generative AI
 Research
 Software Engineering
-Engineering
 Machine Learning
+Engineering
 Software Engineer, Infrastructure
 Sunnyvale, CA
 ⋅
@@ -88,31 +110,49 @@ Menlo Park, CA
 +7 more
 Software Engineering
 Engineering
-Product Designer, Meta
-Menlo Park, CA
+Software Engineer, AI/ML
+Los Angeles, CA
 ⋅
-New York, NY
-Design & User Experience
-User Experience
-Product Designer, Instagram
-Menlo Park, CA
+Redmond, WA
 ⋅
-New York, NY
-⋅
-San Francisco, CA
-Design & User Experience
-Design
-Product Marketing Manager
-Menlo Park, CA
+Burlingame, CA
 ⋅
 New York, NY
 ⋅
-San Francisco, CA
-Sales & Marketing
-Business Marketing
-Marketing
-Product Marketing Management
-Product Strategy
+Seattle, WA
+AR/VR
+Artificial Intelligence
+Meta Quest
+Software Engineering
+Engineering
+Technical Program Manager
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++2 more
+Technical Program Management
+Program Management
+Software Engineer, Product
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
++4 more
+Software Engineering
+Engineering
 Production Engineering
 Sunnyvale, CA
 ⋅
@@ -127,24 +167,36 @@ Boston, MA
 +1 more
 AI Infrastructure
 Engineering
-Research Scientist – Central Applied Science
-Menlo Park, CA
+Lead Counsel, Incident Response
+Los Angeles, CA
 ⋅
-New York, NY
-Research
-Engineering
-Technical Program Manager Intern, Reality Labs — 2027
-Sunnyvale, CA
+Austin, TX
 ⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
-New York, NY
-AR/VR
-Technical Program Management
-Program Management
-Page 1 of 34
+Burlingame, CA
+⋅
++4 more
+Legal, Finance, Facilities & Admin
+Legal
+Software Engineer, Machine Learning RecSys
+Sunnyvale, CA
+⋅
+San Mateo, CA
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++6 more
+Software Engineering
+Machine Learning
+Engineering
+Page 1 of 33
 Job Search
 Technology Teams
 Technology Teams
