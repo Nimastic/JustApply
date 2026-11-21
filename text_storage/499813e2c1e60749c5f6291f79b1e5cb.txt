@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-637 jobs
+633 jobs
 AI Research & Engineering
 Job
 Anthropic Fellows Program, AI Safety & Security
@@ -24,7 +24,6 @@ London, UK
 Applied Scientist, Engineering
 San Francisco, CA
 CMC & Manufacturing Lead, Life Sciences
-New
 Remote-Friendly, United States
 Engineering Manager, Research Data Platform
 San Francisco, CA | New York City, NY
@@ -49,6 +48,9 @@ San Francisco, CA
 Product Manager, Claude Science
 San Francisco, CA | New York City, NY | Seattle, WA
 Research Associate, Biology
+San Francisco, CA
+Research Engineer, Beneficial Deployments
+New
 San Francisco, CA
 Research Engineer, Chip Design RL
 San Francisco, CA
@@ -100,6 +102,9 @@ Research Engineer / Scientist, Pre-training
 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY
 Research Engineer, Visual Knowledge Work
 New York City, NY; San Francisco, CA; Seattle, WA
+Research Operations, External Artifacts
+New
+Remote-Friendly, United States
 Research Operations Lead, Biology
 Boston, MA
 Research Scientist, Discovery (Engineering & Applied Sciences)
@@ -107,10 +112,6 @@ San Francisco, CA
 Research Scientist, Interpretability
 San Francisco, CA
 Research Scientist, Life Sciences
-San Francisco, CA
-Research Scientist, Life Sciences (Chemistry)
-San Francisco, CA
-Research Scientist, Life Sciences (Computational)
 San Francisco, CA
 1
 2

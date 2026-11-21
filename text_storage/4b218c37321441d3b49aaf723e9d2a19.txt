@@ -284,6 +284,8 @@ London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
+Senior CSIRT Analyst
+London
 Security Operations Placement Year
 London
 Security Operations Centre Manager
@@ -292,7 +294,7 @@ Security Operations Analyst
 London
 Elastic Security Engineer (Contract)
 London
-Senior CSIRT Analyst
+Security Assurance Specialist
 London
 Senior Red Team Operator
 London
@@ -300,30 +302,28 @@ Red Team Operations Manager
 London
 Chief Business Risk Officer
 London
-Security Assurance Specialist
-London
 Security Threat Specialist
 London
 Security Operations Analyst
 London
-Elastic Security Engineer (Contract)
-London
 Senior CSIRT Analyst
 London
-Infrastructure Engineering
-Linux Platform Engineer
+Elastic Security Engineer (Contract)
 London
+Infrastructure Engineering
 OpenStack Engineer (Contractor)
+London
+Linux Platform Engineer
 London
 Platform Engineering Manager
 London
 Platform Engineer
 London
-Network Engineer
-London
 Network Security Engineer (Contract)
 London
 Network Automation Engineer (Contract)
+London
+Network Engineer
 London
 Network Automation Engineer
 London
@@ -338,13 +338,15 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
+Data Science Internship
+London
+Machine Learning Research Internship
+London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Data Science Internship
-London
-Machine Learning Research Internship
+Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
@@ -353,8 +355,6 @@ London
 Quantitative Analyst
 London
 Machine Learning Researcher
-London
-Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Postgraduate
 London
@@ -365,13 +365,13 @@ Core AI Engineering Manager
 London
 Quantitative Data Engineer
 London
-Graduate Machine Learning Engineer
-London
-Software Engineering Internship
+Platform Software Engineer
 London
 Machine Learning Engineer Internship
 London
-Platform Software Engineer
+Graduate Machine Learning Engineer
+London
+Software Engineering Internship
 London
 Software Engineer
 London
@@ -379,33 +379,33 @@ Data Software Engineer
 London
 Rust Software Engineer (Contract)
 London
+Software Engineer — Observability Instrumentation
+London
 NLP Performance Engineer
+London
+Research Engineer
 London
 Applied AI Engineer
 London
 Core AI Engineer
 London
-Software Engineer — Observability Instrumentation
+Software Engineer – Trade Technology
 London
-Research Engineer
+Observability Engineer
 London
 Engineering Manager
 London
 Machine Learning Engineer
 London
-Observability Engineer
-London
 Software Engineer – Compute Orchestration
 London
 Machine Learning Workflow Engineer
 London
-Software Engineer – Trade Technology
-London
 Performance Engineering Manager
 London
-Machine Learning Engineer
-London
 Quantitative Developer
+London
+Machine Learning Engineer
 London
 C++ Software Engineer
 London

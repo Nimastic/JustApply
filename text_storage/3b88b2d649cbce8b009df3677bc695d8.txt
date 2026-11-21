@@ -81,9 +81,9 @@ Software Development
 500+ jobs
 Systems, Quality, & Security Engineering
 (
-35
+34
 )
-35 jobs
+34 jobs
 Operations, IT, & Support Engineering
 (
 16
@@ -117,9 +117,9 @@ India
 267 jobs
 Canada
 (
-97
+99
 )
-97 jobs
+99 jobs
 Israel
 (
 52
@@ -147,9 +147,9 @@ Australia
 14 jobs
 Mexico
 (
-14
+13
 )
-14 jobs
+13 jobs
 Germany
 (
 9
@@ -185,16 +185,16 @@ Spain
 5
 )
 5 jobs
+France
+(
+4
+)
+4 jobs
 Poland
 (
 4
 )
 4 jobs
-France
-(
-3
-)
-3 jobs
 Italy
 (
 3
@@ -242,39 +242,39 @@ Washington
 500+ jobs
 California
 (
-312
+311
 )
-312 jobs
+311 jobs
 Karnataka
 (
-154
+153
 )
-154 jobs
+153 jobs
 Virginia
 (
-142
+145
 )
-142 jobs
+145 jobs
 Texas
 (
-139
+141
 )
-139 jobs
+141 jobs
 New York
 (
-122
+120
 )
-122 jobs
-Massachusetts
+120 jobs
+Telangana
 (
 92
 )
 92 jobs
-Telangana
+Massachusetts
 (
-91
+89
 )
-91 jobs
+89 jobs
 British Columbia
 (
 58
@@ -287,9 +287,9 @@ Colorado
 48 jobs
 Ontario
 (
-39
+41
 )
-39 jobs
+41 jobs
 Tel Aviv
 (
 33
@@ -332,14 +332,14 @@ Haryana
 11 jobs
 Maryland
 (
-10
+11
 )
-10 jobs
+11 jobs
 Mexico City
 (
-9
+8
 )
-9 jobs
+8 jobs
 Western Cape
 (
 8
@@ -350,11 +350,6 @@ Oregon
 7
 )
 7 jobs
-Arizona
-(
-6
-)
-6 jobs
 Berlin
 (
 6
@@ -405,6 +400,11 @@ Zurich
 5
 )
 5 jobs
+Arizona
+(
+4
+)
+4 jobs
 Pomeranian Voivodeship
 (
 4
@@ -431,6 +431,11 @@ Florida
 )
 2 jobs
 Georgia
+(
+2
+)
+2 jobs
+Ile-de-France
 (
 2
 )
@@ -480,11 +485,6 @@ Hesse
 1
 )
 1 job
-Ile-de-France
-(
-1
-)
-1 job
 Illinois
 (
 1
@@ -522,9 +522,9 @@ Western Australia
 1 job
 Skip to job results
 City
-(108 shown)
+(107 shown)
 Search in
-City (108 shown) filters
+City (107 shown) filters
 Seattle
 (
 500+
@@ -537,59 +537,59 @@ Redmond
 208 jobs
 Bengaluru
 (
-154
+153
 )
-154 jobs
-New York
-(
-122
-)
-122 jobs
+153 jobs
 Austin
+(
+123
+)
+123 jobs
+New York
 (
 120
 )
 120 jobs
 Bellevue
 (
-108
+107
 )
-108 jobs
+107 jobs
 Arlington
 (
-97
+98
 )
-97 jobs
+98 jobs
 Hyderabad
 (
-91
+92
 )
-91 jobs
-Cupertino
-(
-82
-)
-82 jobs
+92 jobs
 Santa Clara
 (
 82
 )
 82 jobs
+Cupertino
+(
+81
+)
+81 jobs
 Herndon
 (
-62
+65
 )
-62 jobs
-Sunnyvale
-(
-60
-)
-60 jobs
+65 jobs
 Vancouver
 (
 58
 )
 58 jobs
+Sunnyvale
+(
+57
+)
+57 jobs
 Dublin
 (
 44
@@ -602,9 +602,9 @@ Denver
 43 jobs
 Toronto
 (
-39
+41
 )
-39 jobs
+41 jobs
 Boston
 (
 37
@@ -627,14 +627,14 @@ Haifa
 26 jobs
 San Diego
 (
-26
+25
 )
-26 jobs
+25 jobs
 Westborough
 (
-23
+22
 )
-23 jobs
+22 jobs
 Chennai
 (
 21
@@ -650,12 +650,12 @@ London
 20
 )
 20 jobs
-Dallas
-(
-17
-)
-17 jobs
 San Francisco
+(
+18
+)
+18 jobs
+Dallas
 (
 16
 )
@@ -665,7 +665,7 @@ Northridge
 15
 )
 15 jobs
-Cambridge
+Irvine
 (
 13
 )
@@ -675,17 +675,17 @@ Minneapolis
 13
 )
 13 jobs
+Cambridge
+(
+12
+)
+12 jobs
 Culver City
 (
 12
 )
 12 jobs
 East Palo Alto
-(
-12
-)
-12 jobs
-Irvine
 (
 12
 )
@@ -710,11 +710,6 @@ Palo Alto
 11
 )
 11 jobs
-Mexico City
-(
-9
-)
-9 jobs
 Brooklyn
 (
 8
@@ -730,6 +725,16 @@ Carle Place
 8
 )
 8 jobs
+Jessup
+(
+8
+)
+8 jobs
+Mexico City
+(
+8
+)
+8 jobs
 Astoria
 (
 7
@@ -741,11 +746,6 @@ Iasi
 )
 7 jobs
 Jersey City
-(
-7
-)
-7 jobs
-Jessup
 (
 7
 )
@@ -771,11 +771,6 @@ Luxembourg
 )
 6 jobs
 Pune
-(
-6
-)
-6 jobs
-Tempe
 (
 6
 )
@@ -845,12 +840,22 @@ Pasadena
 4
 )
 4 jobs
+Tempe
+(
+4
+)
+4 jobs
 Annapolis Junction
 (
 3
 )
 3 jobs
 Dresden
+(
+3
+)
+3 jobs
+Houston
 (
 3
 )
@@ -900,7 +905,12 @@ Bucharest
 2
 )
 2 jobs
-Houston
+Courbevoie
+(
+2
+)
+2 jobs
+El Segundo
 (
 2
 )
@@ -980,27 +990,12 @@ Chicago
 1
 )
 1 job
-Courbevoie
-(
-1
-)
-1 job
-El Segundo
-(
-1
-)
-1 job
 Frankfurt
 (
 1
 )
 1 job
 Geneva
-(
-1
-)
-1 job
-Hudson
 (
 1
 )
@@ -1067,8 +1062,8 @@ Walldorf
 1 job
 Skip to job results
 TEAM
-(15 shown)
-TEAM (15 shown) filters
+(16 shown)
+TEAM (16 shown) filters
 Amazon Web Services
 (
 500+
@@ -1076,9 +1071,9 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-329
+328
 )
-329 jobs
+328 jobs
 Amazon Ads
 (
 96
@@ -1091,9 +1086,9 @@ Amazon Security
 84 jobs
 eCommerce Foundation
 (
-65
+64
 )
-65 jobs
+64 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -1120,9 +1115,9 @@ Corporate
 500+ jobs
 Student Programs
 (
-60
+59
 )
-60 jobs
+59 jobs
 Fulfillment Center
 (
 2
@@ -1169,7 +1164,7 @@ Tel Aviv, ISR
 |
 Job ID: 10586201
 Posted October 22, 2026
-(Updated 27 days ago)
+(Updated 28 days ago)
 Basic qualifications:
 B.Sc. in Electrical Engineering (advanced degree preferred)
 15+ years of hands-on analog/mixed-signal design experience in advanced CMOS nodes (7nm and below)
@@ -1203,7 +1198,7 @@ Seattle, WA, USA
 |
 Job ID: 10583518
 Posted October 19, 2026
-(Updated 27 days ago)
+(Updated 28 days ago)
 12+ years of non-internship professional software development experience 8+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience as a mentor, tech lead or leading an engineering team 12+ years of programming with at least one software programming language experience
 ...Read more
 5
@@ -1214,7 +1209,7 @@ San Francisco, CA, USA
 |
 Job ID: 10608848
 Posted November 18, 2026
-(Updated 1 day ago)
+(Updated 3 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience programming with at least one software programming language
@@ -1230,7 +1225,7 @@ Cambridge, GBR
 |
 Job ID: 10572329
 Posted October  7, 2026
-(Updated 11 days ago)
+(Updated 12 days ago)
 Basic qualifications:
 Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
 Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
@@ -1243,7 +1238,7 @@ New York, NY, USA
 |
 Job ID: 10581340
 Posted October 16, 2026
-(Updated 3 days ago)
+(Updated 4 days ago)
 Basic qualifications:
 3+ years of non-internship professional software development experience
 Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
@@ -1258,7 +1253,7 @@ Seattle, WA, USA
 |
 Job ID: 10607758
 Posted November 19, 2026
-(Updated 1 day ago)
+(Updated 2 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience in professional software development
@@ -1273,7 +1268,7 @@ Austin, TX, USA
 |
 Job ID: 10504767
 Posted August 18, 2026
-(Updated 8 days ago)
+(Updated 9 days ago)
 Basic qualifications:
 3+ years of non-internship professional software development experience
 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
@@ -1330,9 +1325,9 @@ Software Development
 500+ jobs
 Systems, Quality, & Security Engineering
 (
-35
+34
 )
-35 jobs
+34 jobs
 Operations, IT, & Support Engineering
 (
 16
@@ -1366,9 +1361,9 @@ India
 267 jobs
 Canada
 (
-97
+99
 )
-97 jobs
+99 jobs
 Israel
 (
 52
@@ -1396,9 +1391,9 @@ Australia
 14 jobs
 Mexico
 (
-14
+13
 )
-14 jobs
+13 jobs
 Germany
 (
 9
@@ -1434,16 +1429,16 @@ Spain
 5
 )
 5 jobs
+France
+(
+4
+)
+4 jobs
 Poland
 (
 4
 )
 4 jobs
-France
-(
-3
-)
-3 jobs
 Italy
 (
 3
@@ -1491,39 +1486,39 @@ Washington
 500+ jobs
 California
 (
-312
+311
 )
-312 jobs
+311 jobs
 Karnataka
 (
-154
+153
 )
-154 jobs
+153 jobs
 Virginia
 (
-142
+145
 )
-142 jobs
+145 jobs
 Texas
 (
-139
+141
 )
-139 jobs
+141 jobs
 New York
 (
-122
+120
 )
-122 jobs
-Massachusetts
+120 jobs
+Telangana
 (
 92
 )
 92 jobs
-Telangana
+Massachusetts
 (
-91
+89
 )
-91 jobs
+89 jobs
 British Columbia
 (
 58
@@ -1536,9 +1531,9 @@ Colorado
 48 jobs
 Ontario
 (
-39
+41
 )
-39 jobs
+41 jobs
 Tel Aviv
 (
 33
@@ -1581,14 +1576,14 @@ Haryana
 11 jobs
 Maryland
 (
-10
+11
 )
-10 jobs
+11 jobs
 Mexico City
 (
-9
+8
 )
-9 jobs
+8 jobs
 Western Cape
 (
 8
@@ -1599,11 +1594,6 @@ Oregon
 7
 )
 7 jobs
-Arizona
-(
-6
-)
-6 jobs
 Berlin
 (
 6
@@ -1654,6 +1644,11 @@ Zurich
 5
 )
 5 jobs
+Arizona
+(
+4
+)
+4 jobs
 Pomeranian Voivodeship
 (
 4
@@ -1680,6 +1675,11 @@ Florida
 )
 2 jobs
 Georgia
+(
+2
+)
+2 jobs
+Ile-de-France
 (
 2
 )
@@ -1729,11 +1729,6 @@ Hesse
 1
 )
 1 job
-Ile-de-France
-(
-1
-)
-1 job
 Illinois
 (
 1
@@ -1771,9 +1766,9 @@ Western Australia
 1 job
 Skip to job results
 City
-(108 shown)
+(107 shown)
 Search in
-City (108 shown) filters
+City (107 shown) filters
 Seattle
 (
 500+
@@ -1786,59 +1781,59 @@ Redmond
 208 jobs
 Bengaluru
 (
-154
+153
 )
-154 jobs
-New York
-(
-122
-)
-122 jobs
+153 jobs
 Austin
+(
+123
+)
+123 jobs
+New York
 (
 120
 )
 120 jobs
 Bellevue
 (
-108
+107
 )
-108 jobs
+107 jobs
 Arlington
 (
-97
+98
 )
-97 jobs
+98 jobs
 Hyderabad
 (
-91
+92
 )
-91 jobs
-Cupertino
-(
-82
-)
-82 jobs
+92 jobs
 Santa Clara
 (
 82
 )
 82 jobs
+Cupertino
+(
+81
+)
+81 jobs
 Herndon
 (
-62
+65
 )
-62 jobs
-Sunnyvale
-(
-60
-)
-60 jobs
+65 jobs
 Vancouver
 (
 58
 )
 58 jobs
+Sunnyvale
+(
+57
+)
+57 jobs
 Dublin
 (
 44
@@ -1851,9 +1846,9 @@ Denver
 43 jobs
 Toronto
 (
-39
+41
 )
-39 jobs
+41 jobs
 Boston
 (
 37
@@ -1876,14 +1871,14 @@ Haifa
 26 jobs
 San Diego
 (
-26
+25
 )
-26 jobs
+25 jobs
 Westborough
 (
-23
+22
 )
-23 jobs
+22 jobs
 Chennai
 (
 21
@@ -1899,12 +1894,12 @@ London
 20
 )
 20 jobs
-Dallas
-(
-17
-)
-17 jobs
 San Francisco
+(
+18
+)
+18 jobs
+Dallas
 (
 16
 )
@@ -1914,7 +1909,7 @@ Northridge
 15
 )
 15 jobs
-Cambridge
+Irvine
 (
 13
 )
@@ -1924,17 +1919,17 @@ Minneapolis
 13
 )
 13 jobs
+Cambridge
+(
+12
+)
+12 jobs
 Culver City
 (
 12
 )
 12 jobs
 East Palo Alto
-(
-12
-)
-12 jobs
-Irvine
 (
 12
 )
@@ -1959,11 +1954,6 @@ Palo Alto
 11
 )
 11 jobs
-Mexico City
-(
-9
-)
-9 jobs
 Brooklyn
 (
 8
@@ -1979,6 +1969,16 @@ Carle Place
 8
 )
 8 jobs
+Jessup
+(
+8
+)
+8 jobs
+Mexico City
+(
+8
+)
+8 jobs
 Astoria
 (
 7
@@ -1990,11 +1990,6 @@ Iasi
 )
 7 jobs
 Jersey City
-(
-7
-)
-7 jobs
-Jessup
 (
 7
 )
@@ -2020,11 +2015,6 @@ Luxembourg
 )
 6 jobs
 Pune
-(
-6
-)
-6 jobs
-Tempe
 (
 6
 )
@@ -2094,12 +2084,22 @@ Pasadena
 4
 )
 4 jobs
+Tempe
+(
+4
+)
+4 jobs
 Annapolis Junction
 (
 3
 )
 3 jobs
 Dresden
+(
+3
+)
+3 jobs
+Houston
 (
 3
 )
@@ -2149,7 +2149,12 @@ Bucharest
 2
 )
 2 jobs
-Houston
+Courbevoie
+(
+2
+)
+2 jobs
+El Segundo
 (
 2
 )
@@ -2229,27 +2234,12 @@ Chicago
 1
 )
 1 job
-Courbevoie
-(
-1
-)
-1 job
-El Segundo
-(
-1
-)
-1 job
 Frankfurt
 (
 1
 )
 1 job
 Geneva
-(
-1
-)
-1 job
-Hudson
 (
 1
 )
@@ -2316,8 +2306,8 @@ Walldorf
 1 job
 Skip to job results
 TEAM
-(15 shown)
-TEAM (15 shown) filters
+(16 shown)
+TEAM (16 shown) filters
 Amazon Web Services
 (
 500+
@@ -2325,9 +2315,9 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-329
+328
 )
-329 jobs
+328 jobs
 Amazon Ads
 (
 96
@@ -2340,9 +2330,9 @@ Amazon Security
 84 jobs
 eCommerce Foundation
 (
-65
+64
 )
-65 jobs
+64 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -2369,9 +2359,9 @@ Corporate
 500+ jobs
 Student Programs
 (
-60
+59
 )
-60 jobs
+59 jobs
 Fulfillment Center
 (
 2
@@ -2440,3 +2430,7 @@ California supplement notice
 Accept all
 Reject all
 Customize cookies
+Take your job search with you.
+Download for iPhone
+Download for Android
+Skip for now

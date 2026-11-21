@@ -190,6 +190,10 @@ Staff Software Engineer, Observability
 Sunnyvale, CA
 Engineering Manager, Inference Router
 Sunnyvale, CA, Toronto, CAN
+Staff Technical Program Manager, Cluster Software Platform
+Sunnyvale, CA
+Senior Technical Manager, Cluster Hardware and Software Lab
+Sunnyvale, CA
 Hardware
 Lead RTL Design Engineer
 Sunnyvale, CA
@@ -226,6 +230,8 @@ Sunnyvale, CA
 Operations Tech Lead
 Sunnyvale, CA
 Logistics Manager
+Sunnyvale, CA
+Senior Product Quality Engineer
 Sunnyvale, CA
 Datacenters
 Staff Technical Program Manager, Data Center New Product Introduction

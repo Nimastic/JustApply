@@ -249,12 +249,18 @@ Senior/Staff Safety Standards Engineer
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-80
+82
 AI Platform General
+Senior/Staff Software Engineer, AI Agent Infrastructure
+Mountain View, California (HQ)
+Full-Time
 Software Engineer, AI Platform - Intern
 Mountain View, California (HQ)
 Intern
 Software Engineer, AI Platform - New Grad
+Mountain View, California (HQ)
+Full-Time
+Software Engineer, Applied AI Infrastructure
 Mountain View, California (HQ)
 Full-Time
 Software Engineer, Offboard Infrastructure
@@ -279,16 +285,16 @@ Autonomy
 Chief of Staff, Nuro Driver
 Mountain View, California (HQ)
 Full-Time
+Machine Learning Research Scientist, Active Learning
+Mountain View, California (HQ)
+Full-Time
 Machine Learning Research Scientist, Behavior Planning and Prediction
 Mountain View, California (HQ)
 Full-Time
 Machine Learning Research Scientist: Generative Modeling for Planning
 Mountain View, California (HQ)
 Full-Time
-ML Research Scientist, Active Learning
-Mountain View, California (HQ)
-Full-Time
-ML Research Scientist, Prediction & Smart Agents
+Machine Learning Research Scientist, Prediction & Smart Agents
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Behavior Planning

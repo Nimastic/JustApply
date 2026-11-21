@@ -17,7 +17,9 @@ Get a Demo
 Devin
 01
 Join the team
-If you're excited to solve some of the world's biggest problems and build AI that can reason, learn more about our team and apply to one of the roles below.
+If you're excited to solve some of the world's biggest problems and build AI that can reason, learn more about our team and
+apply to one of the roles below
+.
 Fig. 01
 Working at Cognition: a tour of our San Francisco office and a look at life on the team
 US Benefits
@@ -38,8 +40,25 @@ Commuter benefits
 Fig. 02
 Fig. 03
 Fig. 04
-What I love about Cognition is the urgency. We’re racing to build the future of software engineering. Everyone here feels that weight and excitement. When you see Devin solve problems you didn’t think were possible yet, it’s the most fulfilling thing in the world.
-Theodor Marcu, Head of Product Growth
+Cognition’s team values
+01
+It’s fun being on the Avengers
+We care deeply about the work and the people behind it. We invest in each other, challenge each other, and bet on kind, low-ego individuals – showing up for one another and taking pride in what we build together.
+02
+Go for it all
+We expand the frontier taking on hard problems and building what doesn’t yet exist, without letting constraints limit our ambition.
+03
+Correctness over comfort
+We make the right call even when it gets messy. We disagree openly, assume positive intent and update our views when the evidence changes.
+04
+Everyone is GTM
+We work alongside our customers – in real systems, under real constraints. We meet them where they are, going beyond tools to ensure they actually deliver value. We aim to transform the developer experience by staying in the work, not observing it from afar.
+05
+Just do things
+When we see a problem, we solve it. We act with maximum agency and take full accountability for the outcome.
+06
+Every second counts
+This is a moment that won’t wait, where the decisions being made now will define the next era of software engineering.
 Search jobs
 All teams
 All locations

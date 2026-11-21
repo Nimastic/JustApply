@@ -87,10 +87,6 @@ EHS Coordinator
 San Carlos
 ,
 California
-Facilities Technician
-San Carlos
-,
-California
 Infrastructure Manager- Design & Construction
 San Carlos
 ,
@@ -307,6 +303,10 @@ Senior Test Development Engineer
 Hayward
 ,
 California
+Soft Goods Technician
+San Carlos
+,
+California
 Staff Automation Engineer - Manufacturing
 San Carlos
 ,
@@ -328,10 +328,6 @@ San Carlos
 ,
 California
 People
-Lead Recruiting Coordinator
-San Carlos
-,
-California
 People Operations Generalist
 San Carlos
 ,

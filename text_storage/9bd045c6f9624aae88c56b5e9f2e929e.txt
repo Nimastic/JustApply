@@ -27,28 +27,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Experience
-Customer Success
-Field Application Engineer - AI Software & Hardware
-Gdańsk, Pomeranian Voivodeship, Poland
-Apply
 Advanced Physical Design
-AI/ML Physical Design Flow Engineer
+PD
+Physical Design Engineer, Timing
 Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
 Apply
-Silicon
-DFT and Test
-ATE Test Development Engineer
-Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Systems Engineering
+PCB/Power
+Lab Technician, AI Systems
+Toronto, Ontario, Canada
 Apply
-RISC V
-CPU Core Design Verification Testbench Lead
-Austin, Texas, United States; Santa Clara, California, United States
+Architecture
+DFT Engineer (Contractor)
+Santa Clara, California, United States
 Apply
-AI Hardware
-IP Software
-Sr. Staff Engineer, IP Runtime
-Austin, Texas, United States; Toronto, Ontario, Canada
+Experience
+GTM
+Field Application Engineer
+Japan
+Apply
+Operations
+Supply Chain
+Global Supply Chain Manager, OSAT
+新北市, New Taipei City, Taiwan
 Apply
 Show all postings
 Open Future
@@ -116,3 +117,9 @@ Trademarks
 Contact Us
 Cookies
 Your Privacy Choices
+©
+2026
+Tenstorrent. All rights reserved.
+TENSTORRENT, the TENSTORRENT logo and other Tenstorrent marks are trademarks of Tenstorrent AI ULC. See our
+list of trademarks
+.

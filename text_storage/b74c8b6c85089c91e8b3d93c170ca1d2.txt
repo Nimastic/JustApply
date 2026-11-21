@@ -30,7 +30,6 @@ Miami, FL
 New York, NY
 Norfolk, VA
 North America
-Oslo, Norway
 Palo Alto, CA
 Paris, France
 San Diego, CA
@@ -1040,11 +1039,6 @@ Hybrid —
 Full-time
 New York, NY
 Apply
-Deployment Strategist
-On-site —
-Full-time
-Oslo, Norway
-Apply
 Deployment Strategist - Germany Forward Deployed
 Hybrid —
 Full-time
@@ -1360,6 +1354,16 @@ Full-time
 Palo Alto, CA
 Apply
 Senior Identity Security Engineer
+Hybrid —
+Full-time
+Washington, D.C.
+Apply
+Supply Chain Security Analyst
+Hybrid —
+Full-time
+New York, NY
+Apply
+Supply Chain Security Analyst
 Hybrid —
 Full-time
 Washington, D.C.

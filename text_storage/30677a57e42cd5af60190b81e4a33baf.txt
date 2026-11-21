@@ -165,10 +165,10 @@ Database Engineer
 Sydney
 View opportunity
 Data Center Operations Engineer
-New York
+Chicago
 View opportunity
 Data Center Operations Engineer
-Chicago
+New York
 View opportunity
 Data Engineer - BDA
 London
@@ -180,13 +180,13 @@ Data Platform Engineer – Inventory & Observability
 London
 View opportunity
 Data Scientist
+Paris
+View opportunity
+Data Scientist
 Hong Kong
 View opportunity
 Data Scientist
 London
-View opportunity
-Data Scientist
-Paris
 View opportunity
 Data Scientist - Macro
 Paris
@@ -195,13 +195,13 @@ Data Scientist - Macro
 London
 View opportunity
 Data Scientist - Market Data
+Paris
+View opportunity
+Data Scientist - Market Data
 Hong Kong
 View opportunity
 Data Scientist - Market Data
 London
-View opportunity
-Data Scientist - Market Data
-Paris
 View opportunity
 Data Scientist - Options
 Paris
@@ -285,12 +285,12 @@ Lead Windows Infrastructure Engineer
 Hong Kong
 View opportunity
 Linux Production Engineer
+Sydney
+View opportunity
+Linux Production Engineer
 Hong Kong
 ,
 Singapore
-View opportunity
-Linux Production Engineer
-Sydney
 View opportunity
 Low Latency C++ Developer - Sydney
 Sydney
@@ -311,36 +311,36 @@ Market Data Analyst
 Hong Kong
 View opportunity
 Market Microstructure Researcher
-Amsterdam
-View opportunity
-Market Microstructure Researcher
 Chicago
 ,
 New York
+View opportunity
+Market Microstructure Researcher
+Amsterdam
 View opportunity
 Network Architecture Lead
 London
 View opportunity
 Network Engineer
-Chicago
+London
 View opportunity
 Network Engineer
-London
+Chicago
 View opportunity
 Network Engineer (Service Provider WAN)
 London
 View opportunity
 Network Operations Engineer
-Hong Kong
-View opportunity
-Network Operations Engineer
 New York
 View opportunity
-Network Operations Lead
+Network Operations Engineer
 Hong Kong
 View opportunity
 Network Operations Lead
 London
+View opportunity
+Network Operations Lead
+Hong Kong
 View opportunity
 Network SRE - Cloud
 Hong Kong
@@ -367,10 +367,10 @@ Production Engineer (MA) - Sydney
 Sydney
 View opportunity
 Production Support Engineer — LLM Platform
-Singapore
+Hong Kong
 View opportunity
 Production Support Engineer — LLM Platform
-Hong Kong
+Singapore
 View opportunity
 Production Support Engineer (Risk and P&L)
 Hong Kong
@@ -385,19 +385,19 @@ Quantitative Analyst
 Paris
 View opportunity
 Quantitative Data Engineer
-Hong Kong
+London
 View opportunity
 Quantitative Data Engineer
-London
-View opportunity
-Quantitative Developer - C++
-London
+Hong Kong
 View opportunity
 Quantitative Developer - C++
 Singapore
 View opportunity
 Quantitative Developer - C++
 Shanghai
+View opportunity
+Quantitative Developer - C++
+London
 View opportunity
 Quantitative Developer - C++
 Paris
@@ -430,13 +430,13 @@ Quantitative Developer - Production
 Hong Kong
 View opportunity
 Quantitative Developer - Python
-Aarhus
+Hong Kong
 View opportunity
 Quantitative Developer - Python
 London
 View opportunity
 Quantitative Developer - Python
-Hong Kong
+Aarhus
 View opportunity
 Quantitative Developer - Python
 London
@@ -498,6 +498,9 @@ View opportunity
 Research Platform - Software Engineer
 Hong Kong
 View opportunity
+Research Solutions Engineer
+Paris
+View opportunity
 Risk Reporting & Analytics Lead
 London
 View opportunity
@@ -552,10 +555,10 @@ Senior Low-Latency C++ Software Engineer
 New York
 View opportunity
 Senior Network Engineer
-Hong Kong
+Singapore
 View opportunity
 Senior Network Engineer
-Singapore
+Hong Kong
 View opportunity
 Senior Network Engineer
 Shanghai
@@ -570,10 +573,10 @@ Senior Product Security Engineer
 Hong Kong
 View opportunity
 Senior Quantitative Developer - Python
-Paris
+Dubai
 View opportunity
 Senior Quantitative Developer - Python
-Dubai
+Paris
 View opportunity
 Senior Security Engineer
 Hong Kong
@@ -603,10 +606,10 @@ Software Engineer - Data Lifecycle
 Sydney
 View opportunity
 Software Engineer - Data Lifecycle
-Amsterdam
+London
 View opportunity
 Software Engineer - Data Lifecycle
-London
+Amsterdam
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
@@ -615,10 +618,10 @@ Software Engineer - Data & Lifecycle (Derivatives)
 London
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
-London
+Hong Kong
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
-Hong Kong
+London
 View opportunity
 Software Engineer - Data Platform
 Hong Kong
@@ -639,10 +642,10 @@ Software Engineer – Site Reliability Engineering
 Amsterdam
 View opportunity
 Software Engineer – Site Reliability Engineering
-Paris
+London
 View opportunity
 Software Engineer – Site Reliability Engineering
-London
+Paris
 View opportunity
 Software Engineer – Systems & Infrastructure
 Paris
@@ -679,10 +682,10 @@ Chicago
 New York
 View opportunity
 Trading Systems Engineer
-New York
+London
 View opportunity
 Trading Systems Engineer
-London
+New York
 View opportunity
 Trading Systems Reliability Engineer
 London

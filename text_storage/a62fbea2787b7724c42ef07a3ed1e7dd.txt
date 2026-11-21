@@ -123,9 +123,9 @@ Chicago
 Performance Engineer
 Chicago
 Platform Engineer
-Sydney
-Platform Engineer
 Remote
+Platform Engineer
+Sydney
 Platform Engineer
 London, England, United Kingdom
 Quantitative Developer
@@ -147,8 +147,6 @@ Chicago
 Software Engineer - Data Engineering
 Chicago
 Software Engineer Intern - Python, Summer 2027
-Chicago
-Software Engineer - Python, Business Operations
 Chicago
 Software Engineer - Python, Post Trade
 Chicago
