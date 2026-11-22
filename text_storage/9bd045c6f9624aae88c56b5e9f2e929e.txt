@@ -27,29 +27,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Advanced Physical Design
-PD
-Physical Design Engineer, Timing
-Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Systems Engineering
+Si Val/Qual
+Silicon Power & Characterization Lead
+Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
 Systems Engineering
-PCB/Power
-Lab Technician, AI Systems
-Toronto, Ontario, Canada
+Si Val/Qual
+Sr. Engineer, Silicon Enablement
+Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
+Apply
+AI Hardware
+Tensix
+Principal CPU Microarchitect - RISC-V & AI Compute
+Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
 Architecture
-DFT Engineer (Contractor)
-Santa Clara, California, United States
+CPU
+CPU Microarchitect, Vector and Matrix Compute
+Santa Clara, California, United States; Spain
 Apply
-Experience
-GTM
-Field Application Engineer
-Japan
-Apply
-Operations
-Supply Chain
-Global Supply Chain Manager, OSAT
-新北市, New Taipei City, Taiwan
+AI Hardware
+Director, Customer Hardware Engineering
+Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future

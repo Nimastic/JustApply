@@ -104,16 +104,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
-Apply
-Forward Deployed Engineer - New Grad (2027)
 Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Tokyo
 Tokyo
+Apply
+Forward Deployed Engineer - New Grad (2027)
+Seoul
+Seoul
 Apply
 Hardware Integration Engineer - New Grad (2027)
 Sunnyvale
@@ -202,12 +202,12 @@ Sunnyvale
 Apply
 Application Engineering
 Application Engineer - Technical Customer Lead
-Sunnyvale
-Sunnyvale
+Stockholm
+Stockholm
 Apply
 Application Engineer - Technical Customer Lead
-Stockholm
-Stockholm
+Sunnyvale
+Sunnyvale
 Apply
 Customer Engineering - Lead Customer Engineer
 Seoul
@@ -235,14 +235,6 @@ Full-Stack Software Engineer, People Intelligence
 Sunnyvale
 Sunnyvale
 Apply
-Global Benefits Manager
-Sunnyvale
-Sunnyvale
-Apply
-Global People Compliance & ER Partner
-Sunnyvale
-Sunnyvale
-Apply
 People Experience Project Manager
 Sunnyvale
 Sunnyvale
@@ -250,10 +242,6 @@ Apply
 Senior People Business Partner
 Tokyo
 Tokyo
-Apply
-Senior People Business Partner - EMEA
-Munich
-Munich
 Apply
 Sr. People Operations Generalist
 Sunnyvale
@@ -329,12 +317,12 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
-Stuttgart
-Stuttgart
+Sunnyvale
+Sunnyvale
 Apply
 Solution Engineer
-Sunnyvale
-Sunnyvale
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer
 Munich
@@ -349,12 +337,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer - Tooling (Vehicle Intelligence)
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer - Trucking
 Gothenburg
@@ -370,16 +358,16 @@ Sunnyvale
 Apply
 Sales
 Global Account Manager - Automotive
-Tokyo
-Tokyo
+Munich
+Munich
 Apply
 Global Account Manager - Automotive
 Sunnyvale
 Sunnyvale
 Apply
 Global Account Manager - Automotive
-Munich
-Munich
+Tokyo
+Tokyo
 Apply
 Global Account Manager - North America Automotive
 Ann Arbor
@@ -589,12 +577,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Security Engineering Accreditation Lead, Defense
-Washington, D.C.
-Washington, D.C.
+Sunnyvale
+Sunnyvale
 Apply
 Security Engineering Accreditation Lead, Defense
-Sunnyvale
-Sunnyvale
+Washington, D.C.
+Washington, D.C.
 Apply
 Senior Cloud Infrastructure Engineer
 London
@@ -892,12 +880,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
@@ -933,12 +921,12 @@ Stuttgart
 Stuttgart
 Apply
 Regulatory Counsel
-Munich
-Munich
+London
+London
 Apply
 Regulatory Counsel
-London
-London
+Munich
+Munich
 Apply
 Safety Programs Lead
 Sunnyvale
@@ -1110,12 +1098,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart

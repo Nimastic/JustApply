@@ -82,7 +82,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-273
+270
 roles across
 17
 departments
@@ -107,13 +107,13 @@ Engineering Manager, Saudi Arabia
 Riyadh, Saudi Arabia
 Apply →
 Frontier Agent Engineering Manager, Enterprise
-London, UK
-Apply →
-Frontier Agent Engineering Manager, Enterprise
 San Francisco, CA
 Apply →
 Frontier Agent Engineering Manager, Enterprise
 New York, NY
+Apply →
+Frontier Agent Engineering Manager, Enterprise
+London, UK
 Apply →
 Frontier Agents Engineer (Applied AI)
 San Francisco, CA
@@ -161,10 +161,10 @@ Security Engineer, Product Security
 Washington, DC
 Apply →
 Senior Applied AI Engineer
-Kuwait City, Kuwait
+London, UK
 Apply →
 Senior Applied AI Engineer
-London, UK
+Kuwait City, Kuwait
 Apply →
 Senior Engineering Manager, Kuwait
 Kuwait City, Kuwait
@@ -327,7 +327,7 @@ Product Manager, AI Applications
 Kuwait City, Kuwait
 Apply →
 Human Frontier Collective
-19 roles
+16 roles
 AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)
 Canada
 Apply →
@@ -337,11 +337,11 @@ Apply →
 AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)
 United States
 Apply →
+Creative Advisor - Human Frontier Collective
+United States
+Apply →
 Finance Fellow - Human Frontier Collective (UK)
 United Kingdom
-Apply →
-Human Frontier Collective - Creative Advisor
-United States
 Apply →
 Legal Fellow - Human Frontier Collective (UK)
 United Kingdom
@@ -370,19 +370,10 @@ Apply →
 Research Advisor - Human Frontier Collective (US)
 United States
 Apply →
-STEM Fellow - Human Frontier Collective
+STEM Fellow - Human Frontier Collective (US, UK, & Canada)
 United States
 Apply →
-STEM Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-SWE Fellow - Human Frontier Collective (Canada)
-Canada
-Apply →
-SWE Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-SWE Fellow - Human Frontier Collective (US)
+SWE Fellow - Human Frontier Collective (US, UK, & Canada)
 United States
 Apply →
 IT
@@ -541,10 +532,10 @@ Senior AI Product Manager
 San Francisco, CA
 Apply →
 Senior Product Design Manager, Enterprise
-London, UK
+New York, NY
 Apply →
 Senior Product Design Manager, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer
 New York, NY
@@ -920,13 +911,13 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-London, UK
+San Francisco, CA
 Apply →
 Software Engineer - New Grad
 Doha, Qatar
 Apply →
 Software Engineer - New Grad
-San Francisco, CA
+London, UK
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA
@@ -935,10 +926,10 @@ Software Engineering Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-London, UK
+Doha, Qatar
 Apply →
 Software Engineering Intern (Summer 2027)
-Doha, Qatar
+London, UK
 Apply →
 Join
 University

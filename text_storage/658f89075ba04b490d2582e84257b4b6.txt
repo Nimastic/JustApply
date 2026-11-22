@@ -332,7 +332,7 @@ Sort by:
 Newest
 US - Specialist: Seasonal, Part-time
 Apple Retail
-Nov 21, 2026
+Nov 22, 2026
 Location
 Various Locations within United States
 Actions
@@ -346,6 +346,66 @@ Weekly Hours:
 40 Hours
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
+Submit Resume
+Senior Manager, Support Experience Readiness
+Operations and Supply Chain
+Nov 22, 2026
+Location
+Austin
+Actions
+See full role description
+Share
+Senior Manager, Support Experience Readiness 200694552-0157
+Role Number:
+200694552-0157
+Weekly Hours:
+40 Hours
+Support Experience Engineering is seeking an innovative and customer-obsessed leader to run the Support Experience Readiness organization. This organization makes sure AppleCare’s global contact centers deliver world-class support on day one of new product introductions across Hardware, Platforms, and Services. You will set readiness strategy, prioritize across multiple roadmaps, and report progress to senior leadership. You will shape how Apple supports its customers before they ever need help, in a fast-paced, tightly knit organization that meets high-stakes deliverables on tight deadlines.
+Submit Resume
+Senior Manager, Support Experience Readiness
+Operations and Supply Chain
+Nov 22, 2026
+Location
+Elk Grove
+Actions
+See full role description
+Share
+Senior Manager, Support Experience Readiness 200694552-0776
+Role Number:
+200694552-0776
+Weekly Hours:
+40 Hours
+Support Experience Engineering is seeking an innovative and customer-obsessed leader to run the Support Experience Readiness organization. This organization makes sure AppleCare’s global contact centers deliver world-class support on day one of new product introductions across Hardware, Platforms, and Services. You will set readiness strategy, prioritize across multiple roadmaps, and report progress to senior leadership. You will shape how Apple supports its customers before they ever need help, in a fast-paced, tightly knit organization that meets high-stakes deliverables on tight deadlines.
+Submit Resume
+Senior Manager, Support Experience Readiness
+Operations and Supply Chain
+Nov 22, 2026
+Location
+Sunnyvale
+Actions
+See full role description
+Share
+Senior Manager, Support Experience Readiness 200694552-3956
+Role Number:
+200694552-3956
+Weekly Hours:
+40 Hours
+Support Experience Engineering is seeking an innovative and customer-obsessed leader to run the Support Experience Readiness organization. This organization makes sure AppleCare’s global contact centers deliver world-class support on day one of new product introductions across Hardware, Platforms, and Services. You will set readiness strategy, prioritize across multiple roadmaps, and report progress to senior leadership. You will shape how Apple supports its customers before they ever need help, in a fast-paced, tightly knit organization that meets high-stakes deliverables on tight deadlines.
+Submit Resume
+Supply Chain Planning Engineer
+Operations and Supply Chain
+Nov 22, 2026
+Location
+Sunnyvale
+Actions
+See full role description
+Share
+Supply Chain Planning Engineer 200695752-3956
+Role Number:
+200695752-3956
+Weekly Hours:
+40 Hours
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The people here at Apple don’t just craft products - they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than...
 Submit Resume
 Purchasing Operations Analyst, Infrastructure Services
 Operations and Supply Chain
@@ -576,67 +636,6 @@ Role Number:
 Weekly Hours:
 40 Hours
 Apple's Responsible AI and Safety team focuses on innovative technologies, methodologies, and research to enable fantastic user experiences and to push the frontier of machine learning. Our team is looking to hire a leader with a strong track record in Applied Research, who is passionate about ML and foundation models with a focus on responsibility, fairness, and safety. In this role, you will lead the research and application of ML methods for technologies that power breakthrough user experiences while upholding Apple's values, privacy, and quality standards.
-Submit Resume
-ML Engineering Manager, Agentic Search Evaluation
-Machine Learning and AI
-Nov 20, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-ML Engineering Manager, Agentic Search Evaluation 200672920-0836
-Role Number:
-200672920-0836
-Weekly Hours:
-40 Hours
-The Siri team is redefining how hundreds of millions of people access information across Apple devices, with privacy built in from the ground up. As part of the Agentic Search Evaluation team, you will help advance Apple Intelligence through personalized search, result ranking, and low-latency production services that power experiences across Siri, Spotlight, Safari, Messages, and more. Your team researches and builds deep search systems for Personal Question Answering, enabling Siri to answer questions about a user's emails, messages, events, files, and more, while keeping personal data pr...
-Submit Resume
-AirPods Firmware Engineer
-Hardware
-Nov 20, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-AirPods Firmware Engineer 200696148-0836
-Role Number:
-200696148-0836
-Weekly Hours:
-40 Hours
-The AirPods Firmware team is looking for an enthusiastic engineer to join our team. This is an individual contributor role to develop the technical development of the audio platform for our products. You will have the opportunity to drive the technology and product development for Apple's consumer audio products. In this role, you will work with a wide cross-functional team to continually innovate technology implemented in Apple products.
-Submit Resume
-Director of Software Engineering, Communication Apps (Messages, FaceTime, Phone)
-Software and Services
-Nov 20, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Director of Software Engineering, Communication Apps (Messages, FaceTime, Phone) 200631981-0836
-Role Number:
-200631981-0836
-Weekly Hours:
-40 Hours
-Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do mo...
-Submit Resume
-Technical Program Manager - Optical Components
-Operations and Supply Chain
-Nov 20, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-Technical Program Manager - Optical Components  200691097-0836
-Role Number:
-200691097-0836
-Weekly Hours:
-40 Hours
-Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
-The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better t...
 Submit Resume
 Page Number
 Press Return/Enter key to go to the page

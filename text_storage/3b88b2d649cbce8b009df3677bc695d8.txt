@@ -91,9 +91,9 @@ Operations, IT, & Support Engineering
 16 jobs
 Hardware Development
 (
-8
+7
 )
-8 jobs
+7 jobs
 Administrative Support
 (
 5
@@ -112,9 +112,9 @@ United States
 500+ jobs
 India
 (
-267
+268
 )
-267 jobs
+268 jobs
 Canada
 (
 99
@@ -122,9 +122,9 @@ Canada
 99 jobs
 Israel
 (
-52
+53
 )
-52 jobs
+53 jobs
 Ireland
 (
 44
@@ -242,14 +242,14 @@ Washington
 500+ jobs
 California
 (
-311
+308
 )
-311 jobs
+308 jobs
 Karnataka
 (
-153
+154
 )
-153 jobs
+154 jobs
 Virginia
 (
 145
@@ -257,14 +257,14 @@ Virginia
 145 jobs
 Texas
 (
-141
+140
 )
-141 jobs
+140 jobs
 New York
 (
-120
+119
 )
-120 jobs
+119 jobs
 Telangana
 (
 92
@@ -292,9 +292,9 @@ Ontario
 41 jobs
 Tel Aviv
 (
-33
+34
 )
-33 jobs
+34 jobs
 Haifa
 (
 26
@@ -532,14 +532,14 @@ Seattle
 500+ jobs
 Redmond
 (
-208
+205
 )
-208 jobs
+205 jobs
 Bengaluru
 (
-153
+154
 )
-153 jobs
+154 jobs
 Austin
 (
 123
@@ -547,19 +547,19 @@ Austin
 123 jobs
 New York
 (
-120
+119
 )
-120 jobs
+119 jobs
 Bellevue
 (
-107
+106
 )
-107 jobs
+106 jobs
 Arlington
 (
-98
+97
 )
-98 jobs
+97 jobs
 Hyderabad
 (
 92
@@ -567,19 +567,19 @@ Hyderabad
 92 jobs
 Santa Clara
 (
-82
-)
-82 jobs
-Cupertino
-(
 81
 )
 81 jobs
+Cupertino
+(
+79
+)
+79 jobs
 Herndon
 (
-65
+66
 )
-65 jobs
+66 jobs
 Vancouver
 (
 58
@@ -617,9 +617,9 @@ North Reading
 37 jobs
 Tel Aviv-Yafo
 (
-33
+34
 )
-33 jobs
+34 jobs
 Haifa
 (
 26
@@ -657,9 +657,9 @@ San Francisco
 18 jobs
 Dallas
 (
-16
+15
 )
-16 jobs
+15 jobs
 Northridge
 (
 15
@@ -1071,9 +1071,9 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-328
+326
 )
-328 jobs
+326 jobs
 Amazon Ads
 (
 96
@@ -1101,9 +1101,9 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-59
+57
 )
-59 jobs
+57 jobs
 Skip to job results
 CATEGORY
 (3 shown)
@@ -1164,7 +1164,7 @@ Tel Aviv, ISR
 |
 Job ID: 10586201
 Posted October 22, 2026
-(Updated 28 days ago)
+(Updated 29 days ago)
 Basic qualifications:
 B.Sc. in Electrical Engineering (advanced degree preferred)
 15+ years of hands-on analog/mixed-signal design experience in advanced CMOS nodes (7nm and below)
@@ -1198,7 +1198,7 @@ Seattle, WA, USA
 |
 Job ID: 10583518
 Posted October 19, 2026
-(Updated 28 days ago)
+(Updated 29 days ago)
 12+ years of non-internship professional software development experience 8+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience as a mentor, tech lead or leading an engineering team 12+ years of programming with at least one software programming language experience
 ...Read more
 5
@@ -1209,7 +1209,7 @@ San Francisco, CA, USA
 |
 Job ID: 10608848
 Posted November 18, 2026
-(Updated 3 days ago)
+(Updated 4 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience programming with at least one software programming language
@@ -1225,7 +1225,7 @@ Cambridge, GBR
 |
 Job ID: 10572329
 Posted October  7, 2026
-(Updated 12 days ago)
+(Updated 13 days ago)
 Basic qualifications:
 Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
 Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
@@ -1238,7 +1238,7 @@ New York, NY, USA
 |
 Job ID: 10581340
 Posted October 16, 2026
-(Updated 4 days ago)
+(Updated 5 days ago)
 Basic qualifications:
 3+ years of non-internship professional software development experience
 Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
@@ -1253,7 +1253,7 @@ Seattle, WA, USA
 |
 Job ID: 10607758
 Posted November 19, 2026
-(Updated 2 days ago)
+(Updated 3 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience in professional software development
@@ -1268,7 +1268,7 @@ Austin, TX, USA
 |
 Job ID: 10504767
 Posted August 18, 2026
-(Updated 9 days ago)
+(Updated 10 days ago)
 Basic qualifications:
 3+ years of non-internship professional software development experience
 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
@@ -1283,7 +1283,7 @@ Experience programming with at least one software programming language
 2
 3
 ...
-214
+213
 Load more jobs
 Filter by
 Reset
@@ -1335,9 +1335,9 @@ Operations, IT, & Support Engineering
 16 jobs
 Hardware Development
 (
-8
+7
 )
-8 jobs
+7 jobs
 Administrative Support
 (
 5
@@ -1356,9 +1356,9 @@ United States
 500+ jobs
 India
 (
-267
+268
 )
-267 jobs
+268 jobs
 Canada
 (
 99
@@ -1366,9 +1366,9 @@ Canada
 99 jobs
 Israel
 (
-52
+53
 )
-52 jobs
+53 jobs
 Ireland
 (
 44
@@ -1486,14 +1486,14 @@ Washington
 500+ jobs
 California
 (
-311
+308
 )
-311 jobs
+308 jobs
 Karnataka
 (
-153
+154
 )
-153 jobs
+154 jobs
 Virginia
 (
 145
@@ -1501,14 +1501,14 @@ Virginia
 145 jobs
 Texas
 (
-141
+140
 )
-141 jobs
+140 jobs
 New York
 (
-120
+119
 )
-120 jobs
+119 jobs
 Telangana
 (
 92
@@ -1536,9 +1536,9 @@ Ontario
 41 jobs
 Tel Aviv
 (
-33
+34
 )
-33 jobs
+34 jobs
 Haifa
 (
 26
@@ -1776,14 +1776,14 @@ Seattle
 500+ jobs
 Redmond
 (
-208
+205
 )
-208 jobs
+205 jobs
 Bengaluru
 (
-153
+154
 )
-153 jobs
+154 jobs
 Austin
 (
 123
@@ -1791,19 +1791,19 @@ Austin
 123 jobs
 New York
 (
-120
+119
 )
-120 jobs
+119 jobs
 Bellevue
 (
-107
+106
 )
-107 jobs
+106 jobs
 Arlington
 (
-98
+97
 )
-98 jobs
+97 jobs
 Hyderabad
 (
 92
@@ -1811,19 +1811,19 @@ Hyderabad
 92 jobs
 Santa Clara
 (
-82
-)
-82 jobs
-Cupertino
-(
 81
 )
 81 jobs
+Cupertino
+(
+79
+)
+79 jobs
 Herndon
 (
-65
+66
 )
-65 jobs
+66 jobs
 Vancouver
 (
 58
@@ -1861,9 +1861,9 @@ North Reading
 37 jobs
 Tel Aviv-Yafo
 (
-33
+34
 )
-33 jobs
+34 jobs
 Haifa
 (
 26
@@ -1901,9 +1901,9 @@ San Francisco
 18 jobs
 Dallas
 (
-16
+15
 )
-16 jobs
+15 jobs
 Northridge
 (
 15
@@ -2315,9 +2315,9 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-328
+326
 )
-328 jobs
+326 jobs
 Amazon Ads
 (
 96
@@ -2345,9 +2345,9 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-59
+57
 )
-59 jobs
+57 jobs
 Skip to job results
 CATEGORY
 (3 shown)

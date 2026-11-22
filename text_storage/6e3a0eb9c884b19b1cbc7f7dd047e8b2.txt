@@ -22,13 +22,21 @@ Latest roles
 Role
 Team and location
 Date posted
+Senior Platform Engineer, Replicate
+(opens in a new tab)
+Engineering
+·
+,
+Austin, US · London, UK
+yesterday
+Date posted: November 21, 2026
 Systems Engineer - Network Software Performance
 (opens in a new tab)
 Engineering
 ·
 ,
 Austin, US · Champaign, US · Lisbon, Portugal · London, UK
-today
+yesterday
 Date posted: November 21, 2026
 Systems Engineer - Network Data Plane Software
 (opens in a new tab)
@@ -36,7 +44,7 @@ Engineering
 ·
 ,
 Austin, US · Champaign, US · Lisbon, Portugal · London, UK
-today
+yesterday
 Date posted: November 21, 2026
 Senior Systems Engineer, Network Services
 (opens in a new tab)
@@ -44,7 +52,7 @@ Engineering
 ·
 ,
 Austin, US · Champaign, US · Lisbon, Portugal · London, UK
-today
+yesterday
 Date posted: November 21, 2026
 Distributed Systems Engineer - Network Services
 (opens in a new tab)
@@ -52,7 +60,7 @@ Engineering
 ·
 ,
 Austin, US · Champaign, US · Lisbon, Portugal · London, UK
-today
+yesterday
 Date posted: November 21, 2026
 Head of Startups, Developer GTM
 (opens in a new tab)
@@ -60,17 +68,9 @@ Sales
 ·
 ,
 San Francisco, CA
-today
+yesterday
 Date posted: November 21, 2026
-Head of Majors, Developer GTM
-(opens in a new tab)
-Sales
-·
-,
-San Francisco, CA
-today
-Date posted: November 21, 2026
-See all 503 roles
+See all 504 roles
 Cloudflare Capabilities
 The behaviors we value and reference when measuring success, giving feedback, and rewarding performance. They serve as the building blocks of an inclusive company culture.
 Be curious to learn and grow
