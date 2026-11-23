@@ -27,29 +27,29 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Systems Engineering
-Si Val/Qual
-Silicon Power & Characterization Lead
-Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+RISC V
+PostSi
+Staff Engineer, Post-Silicon Validation
+Austin, Texas, United States; Santa Clara, California, United States
 Apply
 Systems Engineering
-Si Val/Qual
-Sr. Engineer, Silicon Enablement
-Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
+Mechanical
+Staff Engineer, Mechanical Design
+Toronto, Ontario, Canada
 Apply
-AI Hardware
-Tensix
-Principal CPU Microarchitect - RISC-V & AI Compute
-Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+Operations
+Supply Chain
+Staff Manufacturing Engineer
+Toronto, Ontario, Canada
 Apply
 Architecture
-CPU
-CPU Microarchitect, Vector and Matrix Compute
-Santa Clara, California, United States; Spain
+Chiplet Physical Design Engineer
+Santa Clara, California, United States
 Apply
-AI Hardware
-Director, Customer Hardware Engineering
-Toronto, Ontario, Canada
+Customer - Operations
+Automotive
+Business Development Lead, Autonomy & Robotics
+Santa Clara, California, United States
 Apply
 Show all postings
 Open Future

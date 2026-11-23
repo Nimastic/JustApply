@@ -147,29 +147,6 @@ Read
 more
 Apply →
 London
-Quant Workshop GSA x AlgoSoc 2026
-Only eligible for members of the Algorithmic Trading Society at Imperial.
-Are you:
-Curious how quantitative traders aim to deliver superior long-term investment performance?
-A quantitative thinker with a deep interest in statistics, probability, and technology?
-Intrigued by developing performant and insightful solutions to challenging modelling problems?
-Keen to use logical reasoning and data to formulate and test hypotheses about the behaviour of financial markets?
-What can you expect?
-An open-ended, difficult to solve problem. Specifically, building an algorithmic trading strategy.
-An accompanying mini-lecture where we candidly explain what quantitative trading really involves.
-Advice and support from instructors with industry experience of developing trading strategies.
-A price for the best performing strategy.
-Places are allocated on a suitability basis and are limited to 30 students. Please note this workshop is only for students part of the Imperial Algorithmic Trading Society.
-Application deadline:
-Friday, 20th of November
-Event date:
-Tuesday, 24 November, 18:00 - 20:30
-Location:
-Blackett Lecture Theatre 1 (Blackett building Imperial College London)
-Read
-more
-Apply →
-London
 Software Developer
 Software development forms a vital component of many aspects of the business at GSA Capital. Ability combined with passion for technology has allowed our teams to build systems that would never be available off the shelf.
 As a software developer, you don’t need to have a background in finance but you do need to be able to demonstrate that you are passionate about using your skills to solve relevant problems.

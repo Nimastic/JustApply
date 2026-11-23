@@ -165,10 +165,10 @@ Database Engineer
 Sydney
 View opportunity
 Data Center Operations Engineer
-Chicago
+New York
 View opportunity
 Data Center Operations Engineer
-New York
+Chicago
 View opportunity
 Data Engineer - BDA
 London
@@ -183,10 +183,10 @@ Data Scientist
 Paris
 View opportunity
 Data Scientist
-Hong Kong
+London
 View opportunity
 Data Scientist
-London
+Hong Kong
 View opportunity
 Data Scientist - Macro
 Paris
@@ -196,12 +196,12 @@ London
 View opportunity
 Data Scientist - Market Data
 Paris
+View opportunity
+Data Scientist - Market Data
+London
 View opportunity
 Data Scientist - Market Data
 Hong Kong
-View opportunity
-Data Scientist - Market Data
-London
 View opportunity
 Data Scientist - Options
 Paris
@@ -213,10 +213,10 @@ Data Support Engineer
 London
 View opportunity
 Data Support Specialist
-New York
+Paris
 View opportunity
 Data Support Specialist
-Paris
+New York
 View opportunity
 DevOps Engineer
 Hong Kong
@@ -310,13 +310,16 @@ View opportunity
 Market Data Analyst
 Hong Kong
 View opportunity
+Market Data Manager
+Sydney
+View opportunity
+Market Microstructure Researcher
+Amsterdam
+View opportunity
 Market Microstructure Researcher
 Chicago
 ,
 New York
-View opportunity
-Market Microstructure Researcher
-Amsterdam
 View opportunity
 Network Architecture Lead
 London
@@ -367,15 +370,18 @@ Production Engineer (MA) - Sydney
 Sydney
 View opportunity
 Production Support Engineer — LLM Platform
-Hong Kong
+Singapore
 View opportunity
 Production Support Engineer — LLM Platform
-Singapore
+Hong Kong
 View opportunity
 Production Support Engineer (Risk and P&L)
 Hong Kong
 View opportunity
 Product Security Engineer
+London
+View opportunity
+Project Manager – Market Data Platforms & Operations
 London
 View opportunity
 Python Engineer – Market Microstructure Tooling
@@ -415,10 +421,10 @@ Quantitative Developer - Front End, React/C#
 London
 View opportunity
 Quantitative Developer - HFT (C++)
-Amsterdam
+London
 View opportunity
 Quantitative Developer - HFT (C++)
-London
+Amsterdam
 View opportunity
 Quantitative Developer/Modeller - Risk & PnL
 London
@@ -454,9 +460,6 @@ Quantitative Researcher
 Paris
 View opportunity
 Quantitative Researcher
-London
-View opportunity
-Quantitative Researcher
 Mumbai
 View opportunity
 Quantitative Researcher
@@ -485,13 +488,13 @@ Shanghai
 Singapore
 View opportunity
 Quantitative Strategist
-London
+Hong Kong
 View opportunity
 Quantitative Strategist
 Paris
 View opportunity
 Quantitative Strategist
-Hong Kong
+London
 View opportunity
 Quant Signals External Contributors
 View opportunity
@@ -514,10 +517,10 @@ Security Engineer - Platform Security
 New York
 View opportunity
 Senior AI Engineer
-Hong Kong
+London
 View opportunity
 Senior AI Engineer
-London
+Hong Kong
 View opportunity
 Senior Cloud Engineer – AWS Specialist
 Paris
@@ -558,25 +561,25 @@ Senior Network Engineer
 Singapore
 View opportunity
 Senior Network Engineer
-Hong Kong
+Shanghai
 View opportunity
 Senior Network Engineer
-Shanghai
+Hong Kong
 View opportunity
 Senior Network Infrastructure Engineer
 London
 View opportunity
 Senior Product Security Engineer
-London
-View opportunity
-Senior Product Security Engineer
 Hong Kong
 View opportunity
-Senior Quantitative Developer - Python
-Dubai
+Senior Product Security Engineer
+London
 View opportunity
 Senior Quantitative Developer - Python
 Paris
+View opportunity
+Senior Quantitative Developer - Python
+Dubai
 View opportunity
 Senior Security Engineer
 Hong Kong
@@ -603,25 +606,25 @@ Software Engineer
 Paris
 View opportunity
 Software Engineer - Data Lifecycle
-Sydney
-View opportunity
-Software Engineer - Data Lifecycle
 London
 View opportunity
 Software Engineer - Data Lifecycle
 Amsterdam
 View opportunity
-Software Engineer - Data & Lifecycle (Derivatives)
-Hong Kong
+Software Engineer - Data Lifecycle
+Sydney
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 London
 View opportunity
-Software Engineer - Data & Lifecycle (Equities/CA)
+Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
 London
+View opportunity
+Software Engineer - Data & Lifecycle (Equities/CA)
+Hong Kong
 View opportunity
 Software Engineer - Data Platform
 Hong Kong
@@ -639,10 +642,10 @@ Software Engineer - Research Platforms
 London
 View opportunity
 Software Engineer – Site Reliability Engineering
-Amsterdam
+London
 View opportunity
 Software Engineer – Site Reliability Engineering
-London
+Amsterdam
 View opportunity
 Software Engineer – Site Reliability Engineering
 Paris
@@ -682,10 +685,10 @@ Chicago
 New York
 View opportunity
 Trading Systems Engineer
-London
+New York
 View opportunity
 Trading Systems Engineer
-New York
+London
 View opportunity
 Trading Systems Reliability Engineer
 London

@@ -245,7 +245,7 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-205 Open Roles
+203 Open Roles
 ROLE
 Software Engineer, Tax Technology
 FOCUS
@@ -258,12 +258,6 @@ FOCUS
 Systematic Investing  |  Trading & Execution Technology
 LOCATION
 New York
-ROLE
-AI Solutions Architect
-FOCUS
-Data Science & Analytics
-LOCATION
-London
 ROLE
 Identity Security Engineer
 FOCUS
@@ -916,12 +910,6 @@ ROLE
 Network Support Engineer
 FOCUS
 Network Engineering
-LOCATION
-New York   |   Stamford
-ROLE
-Senior Accounting Associate, Foundation and Community
-FOCUS
-Community Matters  |  Finance & Accounting
 LOCATION
 New York   |   Stamford
 ROLE

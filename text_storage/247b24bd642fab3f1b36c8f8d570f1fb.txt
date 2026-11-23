@@ -82,7 +82,7 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-270
+266
 roles across
 17
 departments
@@ -107,13 +107,13 @@ Engineering Manager, Saudi Arabia
 Riyadh, Saudi Arabia
 Apply →
 Frontier Agent Engineering Manager, Enterprise
+London, UK
+Apply →
+Frontier Agent Engineering Manager, Enterprise
 San Francisco, CA
 Apply →
 Frontier Agent Engineering Manager, Enterprise
 New York, NY
-Apply →
-Frontier Agent Engineering Manager, Enterprise
-London, UK
 Apply →
 Frontier Agents Engineer (Applied AI)
 San Francisco, CA
@@ -161,10 +161,10 @@ Security Engineer, Product Security
 Washington, DC
 Apply →
 Senior Applied AI Engineer
-London, UK
+Kuwait City, Kuwait
 Apply →
 Senior Applied AI Engineer
-Kuwait City, Kuwait
+London, UK
 Apply →
 Senior Engineering Manager, Kuwait
 Kuwait City, Kuwait
@@ -327,7 +327,7 @@ Product Manager, AI Applications
 Kuwait City, Kuwait
 Apply →
 Human Frontier Collective
-16 roles
+12 roles
 AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)
 Canada
 Apply →
@@ -340,28 +340,16 @@ Apply →
 Creative Advisor - Human Frontier Collective
 United States
 Apply →
-Finance Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-Legal Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-Legal Fellow - Human Frontier Collective (US)
+Finance Fellow - Human Frontier Collective (US, UK, & Canada)
 United States
 Apply →
-Machine Learning Fellow - Human Frontier Collective
+Legal Fellow - Human Frontier Collective (US, UK, & Canada)
 United States
 Apply →
-Machine Learning Fellow - Human Frontier Collective (Canada)
-Canada
+Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)
+United States
 Apply →
-Machine Learning Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-Medical Fellow - Human Frontier Collective (UK)
-United Kingdom
-Apply →
-Medical Fellow - Human Frontier Collective (US)
+Medical Fellow - Human Frontier Collective (US, UK, & Canada)
 United States
 Apply →
 Research Advisor - Human Frontier Collective (UK)
@@ -511,14 +499,14 @@ Forward Deployed Product Manager, Enterprise
 New York, NY
 Apply →
 Product Manager of AI Applications, Global Public Sector
+Riyadh, Saudi Arabia
+Apply →
+Product Manager of AI Applications, Global Public Sector
 Doha, Qatar
 Apply →
 Product Manager of AI Applications, Global Public Sector
 Dubai, UAE
 Apply →
-Product Manager of AI Applications, Global Public Sector
-Riyadh, Saudi Arabia
-Apply →
 Product Manager, Enterprise Core Platform
 New York, NY
 Apply →
@@ -530,12 +518,12 @@ New York, NY
 Apply →
 Senior AI Product Manager
 San Francisco, CA
-Apply →
-Senior Product Design Manager, Enterprise
-New York, NY
 Apply →
 Senior Product Design Manager, Enterprise
 London, UK
+Apply →
+Senior Product Design Manager, Enterprise
+New York, NY
 Apply →
 Staff Product Designer
 New York, NY
@@ -911,10 +899,10 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-San Francisco, CA
+Doha, Qatar
 Apply →
 Software Engineer - New Grad
-Doha, Qatar
+San Francisco, CA
 Apply →
 Software Engineer - New Grad
 London, UK
@@ -923,10 +911,10 @@ Software Engineer, Public Sector - New Grad
 San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
-San Francisco, CA
+Doha, Qatar
 Apply →
 Software Engineering Intern (Summer 2027)
-Doha, Qatar
+San Francisco, CA
 Apply →
 Software Engineering Intern (Summer 2027)
 London, UK

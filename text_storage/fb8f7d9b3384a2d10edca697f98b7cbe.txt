@@ -525,10 +525,6 @@ Sales Job Group
 Software
 Support
 Reset
-Senior Staff Manufacturing Test Development Engineer
-(opens in new tab)
-Waltham, MA
-Full time
 Manager, Technical Content & Curriculum
 (opens in new tab)
 Waltham Office (POST)
@@ -536,10 +532,6 @@ Full time
 Atlas Staff Perception Engineer, Tactile Sensing
 (opens in new tab)
 Waltham Office (POST)
-Full time
-Senior Staff Firmware Engineer
-(opens in new tab)
-Waltham, MA
 Full time
 Senior Staff Product Marketing Manager - Atlas
 (opens in new tab)
@@ -601,6 +593,14 @@ Senior Staff Electrical Test Engineer - Atlas
 Waltham Office (POST)
 Full time
 Senior Staff Robotics Simulation Engineer - Thermal & Fluids Analysis
+(opens in new tab)
+Waltham, MA
+Full time
+Atlas ML Software Engineer - Large Scale Behavior Cloning
+(opens in new tab)
+Waltham, MA
+Full time
+Associate Director of Prototype Fleet & Repair
 (opens in new tab)
 Waltham, MA
 Full time

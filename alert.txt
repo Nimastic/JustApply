@@ -1,85 +1,99 @@
-<b>Point72</b>
-+ Technology &amp; Engineering
-+ Cubist Quant Academy
-+ Data Engineering
-+ Network Engineering
-+ Quant Tech Strategy
-+ Software &amp; System Engineering
-+ Software Engineer, Tax Technology
-+ Identity Security Engineer
-+ Software Engineer, Data Platform
-+ Data Engineering  |  Software &amp; System Engineering
-+ Machine Learning Infrastructure Engineer, Technology
-+ Quantitative Analyst, PCAT
-+ 84 more
-<a href="https://careers.point72.com/">open the board</a>
+<b>Optiver</b>
++ Software Engineer (C++) - Derivatives
+<a href="https://optiver.com/working-at-optiver/career-opportunities/">open the board</a>
+
+<b>GSA Capital</b>
+closed: Quant Workshop GSA x AlgoSoc 2026
+closed: Curious how quantitative traders aim to deliver superior long-term investment performance?
+closed: A quantitative thinker with a deep interest in statistics, probability, and technology?
+closed: An accompanying mini-lecture where we candidly explain what quantitative trading really involves.
+<a href="https://www.gsacapital.com/join-us">open the board</a>
+
+<b>WorldQuant</b>
+closed: C++ Software Engineer - Data Platform
+<a href="https://www.worldquant.com/career-listing/">open the board</a>
 
 <b>Flow Traders</b>
-+ Experienced Quantitative Researcher
+closed: Experienced Quantitative Researcher
 <a href="https://www.flowtraders.com/careers/job-search/">open the board</a>
 
+<b>Qube RT</b>
++ Project Manager – Market Data Platforms &amp; Operations
+<a href="https://www.qube-rt.com/careers/">open the board</a>
+
+<b>G-Research</b>
+closed: Platform Software Engineer
+<a href="https://www.gresearch.com/vacancies/">open the board</a>
+
 <b>Amazon</b>
-closed: Engineer | Amazon Web Services | Beijing, China
++ Engineer | Amazon Web Services | Beijing, China
 <a href="https://www.amazon.jobs/">open the board</a>
 
-<b>Cloudflare</b>
-+ Senior Platform Engineer, Replicate
-closed: Head of Majors, Developer GTM
-<a href="https://www.cloudflare.com/careers/">open the board</a>
-
 <b>Airwallex</b>
-+ Solutions Architect / Solutions Engineer, Payments
-+ Senior Site Reliability Engineer, Spend
-+ Senior Product Security Engineer
-+ Staff Software Engineer, Business Accounts
-+ Staff Data Platform Engineer, Knowledge Platform
-+ Head of Engineering, Payments Platform
-closed: Software Engineer, Developer Experience
-closed: Staff Product Security Engineer
-closed: Staff Product Designer, Design Systems
++ Senior Software Engineer, New Products
++ Staff Data Scientist, Algorithm (Risk Product – AML &amp; Financial Crime)
+closed: Senior Site Reliability Engineer, Spend
+closed: Senior Product Security Engineer
+closed: Staff Software Engineer, Business Accounts
+closed: Staff Data Platform Engineer, Knowledge Platform
+closed: Head of Engineering, Payments Platform
 <a href="https://careers.airwallex.com/">open the board</a>
 
-<b>Anthropic</b>
-+ Research Engineer, Finetuning
-closed: Research Scientist, Life Sciences
-<a href="https://job-boards.greenhouse.io/anthropic">open the board</a>
+<b>OpenAI</b>
++ Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)
++ Research Engineer/Research Scientist-Post Training, Proactivity
+closed: Research Engineer / Research Scientist - Post Training, Personalization
+closed: Research Engineer/Research Scientist - Post Training, North Stars
+<a href="https://jobs.ashbyhq.com/openai">open the board</a>
 
 <b>Scale AI</b>
-+ SWE Fellow - Human Frontier Collective (US, UK, &amp; Canada)
-closed: SWE Fellow - Human Frontier Collective (Canada)
-closed: SWE Fellow - Human Frontier Collective (UK)
-closed: SWE Fellow - Human Frontier Collective (US)
++ Machine Learning Fellow - Human Frontier Collective (US, UK, &amp; Canada)
+closed: Machine Learning Fellow - Human Frontier Collective
+closed: Machine Learning Fellow - Human Frontier Collective (Canada)
+closed: Machine Learning Fellow - Human Frontier Collective (UK)
 <a href="https://scale.com/careers">open the board</a>
 
-<b>Intrinsic</b>
-+ Join Developer Community
-<a href="https://www.intrinsic.ai/careers">open the board</a>
+<b>Venti</b>
++ Engineering (34)
+closed: Engineering (35)
+closed: Engineering • Texas; California; Chicago • Full time
+<a href="https://jobs.ashbyhq.com/GoVenti">open the board</a>
+
+<b>Boston Dynamics</b>
++ Atlas ML Software Engineer - Large Scale Behavior Cloning
+closed: Senior Staff Manufacturing Test Development Engineer
+closed: Senior Staff Firmware Engineer
+<a href="https://bostondynamics.com/careers">open the board</a>
+
+<b>Cerebras</b>
++ Mechanical Engineer - Equipment and Fixtures
++ Senior PCBA Manufacturing Engineer
++ Manufacturing Engineer - Mechanical
+<a href="https://www.cerebras.ai/open-positions">open the board</a>
 
 <b>Tenstorrent</b>
-+ Sr. Engineer, Silicon Enablement
-+ Director, Customer Hardware Engineering
-closed: Physical Design Engineer, Timing
-closed: DFT Engineer (Contractor)
-closed: Field Application Engineer
++ Staff Engineer, Post-Silicon Validation
++ Staff Engineer, Mechanical Design
++ Staff Manufacturing Engineer
++ Chiplet Physical Design Engineer
+closed: Sr. Engineer, Silicon Enablement
+closed: Director, Customer Hardware Engineering
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
-<b>Meta NYC</b>
-+ AI Infrastructure
-+ Machine Learning
-+ Software Engineer, Infrastructure
-+ Software Engineering
-+ Data Scientist, Product Analytics
-+ Software Engineer, Machine Learning
-+ Software Engineer (Technical Leadership) - Machine Learning
-<a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
+<b>Google NYC</b>
++ Senior Software Engineer, Infrastructure, Google Cloud AI
++ 5 years of experience with software development in C++, C, or Python.
++ Share Senior Software Engineer, Infrastructure, Google Cloud AI
+closed: Software Engineer III, Front End
+closed: Share Software Engineer III, Front End
+<a href="https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&amp;q=software%20engineer">open the board</a>
 
 <b>Apple NYC</b>
-+ Supply Chain Planning Engineer
-+ Supply Chain Planning Engineer 200695752-3956
-closed: ML Engineering Manager, Agentic Search Evaluation
-closed: ML Engineering Manager, Agentic Search Evaluation 200672920-0836
-closed: AirPods Firmware Engineer
-closed: AirPods Firmware Engineer 200696148-0836
-closed: Director of Software Engineering, Communication Apps (Messages, FaceTime, Phone)
-closed: 1 more
++ Senior Security Engineer - Strategic Risk
++ Senior Security Engineer - Strategic Risk 200689632-3337
+closed: Business Lead, Apple Podcasts Ad Platform Partnerships
+closed: Business Lead, Apple Podcasts Ad Platform Partnerships 200696334-2459
+closed: AIML - Quality Engineering Manager, Responsible AI and Safety
+closed: Machine Learning and AI
+closed: AIML - Quality Engineering Manager, Responsible AI and Safety 200685463-0836
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>

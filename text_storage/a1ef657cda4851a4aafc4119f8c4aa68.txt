@@ -47,7 +47,7 @@ Catered Lunch
 Commuter Benefits
 Wellness
 Opportunities
-11
+10
 open
 roles
 We're looking for people who are excited to build what's next — from research and systems engineering to design and product.
@@ -63,9 +63,6 @@ Go-To-Market
 Product & Engineering
 Research & AI
 Go-To-Market
-Customer Success
-Senior Customer Success Manager (German speaking)
-Munich, GER
 Sales
 GTM Delivery Lead, North America
 Redwood City, CA

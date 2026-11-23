@@ -332,7 +332,7 @@ Sort by:
 Newest
 US - Specialist: Seasonal, Part-time
 Apple Retail
-Nov 22, 2026
+Nov 23, 2026
 Location
 Various Locations within United States
 Actions
@@ -346,6 +346,37 @@ Weekly Hours:
 40 Hours
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
+Submit Resume
+Communication Strategist, Apple Ads
+Marketing
+Nov 22, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Communication Strategist, Apple Ads 200695791-0836
+Role Number:
+200695791-0836
+Weekly Hours:
+40 Hours
+At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses.
+Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and Sports. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes—from small app developers to big, global brands. Because when advertising is done...
+Submit Resume
+Senior Security Engineer - Strategic Risk
+Software and Services
+Nov 22, 2026
+Location
+Seattle
+Actions
+See full role description
+Share
+Senior Security Engineer - Strategic Risk 200689632-3337
+Role Number:
+200689632-3337
+Weekly Hours:
+40 Hours
+The Apple Services Engineering Security team builds and provides secure systems and infrastructure that fuel Apple’s services (such as iCloud, iTunes, Siri, App Store, and Maps). As part of the ASE Security team, you will help manage the security needs of Apple’s services around the world. You will build and integrate the security controls, guardrails, and frameworks that help protect our customers data in Apple’s infrastructure. Your work will help build solutions to a variety of outstanding security risks to Apple systems and data. Join us, and you’ll play a meaningful role in ensuring th...
 Submit Resume
 Senior Manager, Support Experience Readiness
 Operations and Supply Chain
@@ -606,36 +637,6 @@ Weekly Hours:
 The iPhone, iPad, Mac, and Apple Watch revolutionized how people live, communicate, and connect. Come help transform how more than a billion people make their personal devices uniquely theirs!
 We’re looking for a creative, customer-focused, technical engineer to help us create Widgets, Live Activities, and Controls experience.
 Our team (iOS System Spaces) is responsible for a significant portion of the iOS system experience including Lock Screen, Wallpapers, StandBy, Home Screen, Notifications, and Control Center! Come work with a fantastic team of engineers, world class designers, and an...
-Submit Resume
-Business Lead, Apple Podcasts Ad Platform Partnerships
-Marketing
-Nov 20, 2026
-Location
-New York City
-Actions
-See full role description
-Share
-Business Lead, Apple Podcasts Ad Platform Partnerships 200696334-2459
-Role Number:
-200696334-2459
-Weekly Hours:
-40 Hours
-At Apple, we believe in the power of technology to enrich people’s lives. Apple Podcasts is the global home of podcasting — a pioneer of the medium, open by design, and built on partnership with creators, hosting providers, and ad platforms. Apple Podcasts recently launched HLS video, which creates new advertising opportunities through dynamic ad insertion. Publishers and their partners retain full control of their distribution and advertising. We are looking for someone to lead business development for Apple Podcasts with ad platforms and ecosystem partners to help podcasters grow their bu...
-Submit Resume
-AIML - Quality Engineering Manager, Responsible AI and Safety
-Machine Learning and AI
-Nov 20, 2026
-Location
-Cupertino
-Actions
-See full role description
-Share
-AIML - Quality Engineering Manager, Responsible AI and Safety 200685463-0836
-Role Number:
-200685463-0836
-Weekly Hours:
-40 Hours
-Apple's Responsible AI and Safety team focuses on innovative technologies, methodologies, and research to enable fantastic user experiences and to push the frontier of machine learning. Our team is looking to hire a leader with a strong track record in Applied Research, who is passionate about ML and foundation models with a focus on responsibility, fairness, and safety. In this role, you will lead the research and application of ML methods for technologies that power breakthrough user experiences while upholding Apple's values, privacy, and quality standards.
 Submit Resume
 Page Number
 Press Return/Enter key to go to the page
