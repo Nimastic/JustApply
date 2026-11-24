@@ -22,12 +22,12 @@ X
 Instagram
 YouTube
 Facebook
+November 24, 2026
+Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area
 October 15, 2026
 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion
 June 17, 2026
 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027
-May 19, 2026
-Nuro Appoints Mike Mancini as Chief Financial Officer
 Page 1 of 3
 01
 Technology
@@ -48,12 +48,12 @@ X
 Instagram
 YouTube
 Facebook
+November 24, 2026
+Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area
 October 15, 2026
 Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion
 June 17, 2026
 Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027
-May 19, 2026
-Nuro Appoints Mike Mancini as Chief Financial Officer
 Page 1 of 3
 01
 Define the future of mobility.
@@ -249,7 +249,7 @@ Senior/Staff Safety Standards Engineer
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-82
+84
 AI Platform General
 Senior/Staff Software Engineer, AI Agent Infrastructure
 Mountain View, California (HQ)
@@ -283,6 +283,12 @@ Mountain View, California (HQ)
 Full-Time
 Autonomy
 Chief of Staff, Nuro Driver
+Mountain View, California (HQ)
+Full-Time
+Director of Engineering, Autonomy
+Mountain View, California (HQ)
+Full-Time
+Director of Engineering, Perception
 Mountain View, California (HQ)
 Full-Time
 Machine Learning Research Scientist, Active Learning
@@ -511,7 +517,7 @@ Software Engineer, Cloud Infrastructure and Observability
 Mountain View, California (HQ)
 Full-Time
 Technical Program Management
-05
+06
 Autonomy
 Staff Autonomy Program Manager
 Mountain View, California (HQ)
@@ -527,6 +533,9 @@ Senior Technical Program Manager - AI Platform Performance & Reliability
 Mountain View, California (HQ)
 Full-Time
 Technical Program Manager Lead, AI Platform
+Mountain View, California (HQ)
+Full-Time
+Technical Program Manager, Systems Intern
 Mountain View, California (HQ)
 Full-Time
 Technology

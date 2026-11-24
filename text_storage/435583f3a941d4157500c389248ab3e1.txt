@@ -59,6 +59,8 @@ Sunnyvale, CA
 ERP Engineer - Business Systems
 Sunnyvale, CA
 Product
+Head of Technical Product Marketing
+Sunnyvale, CA
 Developer Relations
 Sunnyvale, CA
 Senior Product Manager, AI Models
@@ -203,8 +205,6 @@ Design Verification Engineer
 Sunnyvale, CA
 Physical Design Engineer
 Sunnyvale, CA
-Systems Debug Engineer- EE
-Sunnyvale, CA
 Staff Design Verification Engineer
 Sunnyvale, CA
 PCB Layout Engineering Lead
@@ -291,8 +291,6 @@ Sales & Partnerships
 Technical Business Development Manager
 Sunnyvale, CA
 Corporate
-Director, Intellectual Property Counsel
-Sunnyvale, CA
 Accounting Manager
 Sunnyvale, CA
 Head of SOX Internal Audit

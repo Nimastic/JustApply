@@ -26,6 +26,7 @@ Honolulu, HI
 Kitsap, WA
 Laurel, MD
 London, United Kingdom
+Madrid, Spain
 Miami, FL
 New York, NY
 Norfolk, VA
@@ -291,6 +292,11 @@ On-site —
 Full-time
 Washington, D.C.
 Apply
+Forward Deployed Software Engineer - Spain
+On-site —
+Full-time
+Madrid, Spain
+Apply
 Forward Deployed Software Engineer - Tactical Edge
 On-site —
 Full-time
@@ -361,21 +367,6 @@ On-site —
 Internship
 Paris, France
 Apply
-Forward Deployed Software Engineer, Internship - AUS Government
-Hybrid —
-Internship
-Sydney, Australia
-Apply
-Forward Deployed Software Engineer, Internship - Commercial
-On-site —
-Internship
-New York, NY
-Apply
-Forward Deployed Software Engineer, Internship - Commercial
-On-site —
-Internship
-Chicago, IL
-Apply
 Forward Deployed Software Engineer, Internship - Commercial
 On-site —
 Internship
@@ -415,11 +406,6 @@ Forward Deployed Software Engineer, New Grad - Commercial
 Hybrid —
 Full-time
 New York, NY
-Apply
-Forward Deployed Software Engineer, New Grad - Commercial
-Hybrid —
-Full-time
-London, United Kingdom
 Apply
 Forward Deployed Software Engineer, New Grad - Commercial
 Hybrid —

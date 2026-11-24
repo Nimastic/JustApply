@@ -144,7 +144,7 @@ What to expect
 This step often includes meetings with team members, technical exercises, and discussions about your experience and how it aligns with Verkada’s needs. Your recruiter will guide you on what to expect during the visit, so you can put your best foot forward.
 Job openings
 If you’d like to use your energy for good, we’d love to hear from you.
-354 Openings
+349 Openings
 Search
 Filter by
 Clear All
@@ -198,7 +198,6 @@ Tampa, FL United States
 Tempe, AZ United States
 Tokyo, Japan
 Toronto, Canada
-United Kingdom
 United States
 Vancouver, Canada
 Vienna, Austria
@@ -300,14 +299,10 @@ Litigation Paralegal
 San Mateo, CA United States
 Physical Security Operations, Senior Manager
 San Mateo, CA United States
-Privacy Counsel
-San Mateo, CA United States
-Privacy Counsel
+Senior Product Counsel
 Austin, TX United States
 Senior Product Counsel
 San Mateo, CA United States
-Senior Product Counsel
-Austin, TX United States
 IT
 IT Engineer
 San Mateo, CA United States
@@ -422,9 +417,9 @@ San Mateo, CA United States
 Hardware Engineering Program Manager
 San Mateo, CA United States
 Product Design Mechanical Engineer
-San Mateo, CA United States
-Product Design Mechanical Engineer
 Taipei, Taiwan
+Product Design Mechanical Engineer
+San Mateo, CA United States
 Marketing - Dept
 Growth Operations
 AI Marketing Engineer
@@ -463,25 +458,25 @@ Field Marketing & Events
 Field Marketing Manager - France
 Paris, France
 Regional Field Marketing Manager, Canada
-Calgary, Canada
-Regional Field Marketing Manager, Canada
 Vancouver, Canada
+Regional Field Marketing Manager, Canada
+Calgary, Canada
+Senior Regional Field Marketing Manager, East
+New York City, NY United States
 Senior Regional Field Marketing Manager, East
 Tampa, FL United States
 Senior Regional Field Marketing Manager, East
 Philadelphia, PA United States
-Senior Regional Field Marketing Manager, East
-New York City, NY United States
+Senior Regional Field Marketing Manager, West
+Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
 Los Angeles, CA United States
 Senior Regional Field Marketing Manager, West
-Salt Lake City, UT United States
+Austin, TX United States
 Senior Regional Field Marketing Manager, West
 Phoenix, AZ United States
 Senior Regional Field Marketing Manager, West
 San Mateo, CA United States
-Senior Regional Field Marketing Manager, West
-Austin, TX United States
 Growth
 Growth Manager
 San Mateo, CA United States
@@ -620,18 +615,12 @@ London
 Enterprise Account Executive, Tokyo
 Tokyo, Japan
 Enterprise Account Executive, UK
-United Kingdom
-Enterprise Account Executive (VIC)
-Melbourne, Australia
-Mid-Market Manager, France
 London
 Regional Sales Director, TOK
 Tokyo, Japan
 Regional Sales Manager, DACH
 London
 Regional Sales Manager, Northern Europe
-London
-Regional Sales Manager, UK
 London
 Global
 Account Executive Public Sector, México
@@ -663,23 +652,23 @@ Mid-Market Territory
 Account Executive, Territory, Chicago
 Chicago, IL United States
 Account Executive, Territory (Mid-Market)
-Tempe, AZ United States
-Account Executive, Territory (Mid-Market)
-San Mateo, CA United States
-Account Executive, Territory (Mid-Market)
-Philadelphia, PA United States
-Account Executive, Territory (Mid-Market)
-New York City, NY United States
+Los Angeles, CA United States
 Account Executive, Territory (Mid-Market)
 Atlanta, GA United States
 Account Executive, Territory (Mid-Market)
-Los Angeles, CA United States
+St. Petersburg, FL United States
 Account Executive, Territory (Mid-Market)
-Austin, TX United States
+Philadelphia, PA United States
+Account Executive, Territory (Mid-Market)
+Tempe, AZ United States
 Account Executive, Territory (Mid-Market)
 Salt Lake City, UT United States
 Account Executive, Territory (Mid-Market)
-St. Petersburg, FL United States
+Austin, TX United States
+Account Executive, Territory (Mid-Market)
+New York City, NY United States
+Account Executive, Territory (Mid-Market)
+San Mateo, CA United States
 Office Coordinator, PHL (Fixed-Term/ Part-Time)
 Philadelphia, PA United States
 Solutions Engineering
@@ -688,21 +677,21 @@ San Mateo, CA United States
 Associate Solutions Engineer, San Mateo
 San Mateo, CA United States
 Channel Solutions Engineer
+Toronto, Canada
+Channel Solutions Engineer
 Denver, CO United States
 Channel Solutions Engineer
 Chicago, IL United States
 Channel Solutions Engineer
-Toronto, Canada
+Seattle, WA United States
 Channel Solutions Engineer
 Atlanta, GA United States
 Channel Solutions Engineer
-Seattle, WA United States
-Channel Solutions Engineer
 San Mateo, CA United States
 Enterprise Solutions Engineer
-Ireland
-Enterprise Solutions Engineer
 Italy
+Enterprise Solutions Engineer
+Ireland
 Enterprise Solutions Engineer, Alberta
 Calgary, Canada
 Enterprise Solutions Engineer - Finnish Speaking
@@ -761,9 +750,9 @@ Los Angeles, CA United States
 Channel Sales Manager (Northern NJ / Staten Island)
 New Jersey, United States
 Channel Sales Manager, Ohio Valley
-Pittsburgh, PA United States
-Channel Sales Manager, Ohio Valley
 Cleveland, OH United States
+Channel Sales Manager, Ohio Valley
+Pittsburgh, PA United States
 Channel Sales Manager, Sweden
 Stockholm, Sweden
 Channel Sales Manager, Sydney (NSW)
@@ -834,9 +823,9 @@ Enterprise Development Representative - German Speaking
 London
 Enablement
 Enterprise Sales Enablement Manager
-New York City, NY United States
-Enterprise Sales Enablement Manager
 San Mateo, CA United States
+Enterprise Sales Enablement Manager
+New York City, NY United States
 Sales Admin
 Executive Assistant to VP of Sales
 San Mateo, CA United States
@@ -1040,9 +1029,9 @@ Technical Support Engineering
 Senior Technical Support Engineer
 San Mateo, CA United States
 Technical Support Engineer
-San Mateo, CA United States
-Technical Support Engineer
 Sydney, Australia
+Technical Support Engineer
+San Mateo, CA United States
 Technical Support Engineer (Bilingual English/Japanese)
 Tokyo, Japan
 Technical Support Engineer - Industrial Placement 2027 (12-months)

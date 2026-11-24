@@ -129,3 +129,20 @@ California supplement notice
 Accept all
 Reject all
 Customize cookies
+Skip to chat input
+Chat widget for getting help and assistance. Press Ctrl+Shift+C to open, or click the button.
+Ask Hiring Assistant
+Press Ctrl+Shift+C to toggle
+Skip to chat input
+Hiring Assistant
+Hiring Assistant responded: Hi there! I'm Amazon Hiring Assistant and I'm here to help with any questions about Amazon careers. How can I assist you today?
+Hiring Assistant
+01:38 PM
+Hi there! I'm Amazon Hiring Assistant and I'm here to help with any questions about Amazon careers. How can I assist you today?
+Privacy Consent: By using this chat, you consent to the collection, recording and use of this chat session and information you submit by Amazon and its subsidiaries
+chat suggestions
+Application status
+Job recommendations
+Interview preparation tips
+Chat message input
+Disclaimer: You are interacting with AI

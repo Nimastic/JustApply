@@ -3,17 +3,17 @@ You need to enable JavaScript to run this app.
 Careers
 Join a team who is pushing the envelope in the autonomous logistic industry !
 Open Positions
-(38)
+(39)
 Filters:
 Reset filters
 Department
 All Departments
-Engineering (34)
+Engineering (35)
 Operations (2)
 People (2)
 Employment Type
 All Employment Types
-Full time (21)
+Full time (22)
 Intern (16)
 Part time (1)
 Location
@@ -21,11 +21,12 @@ All Locations
 California (3)
 Chicago (4)
 Los Angeles (1)
-Singapore (35)
+Mississippi (2)
+Singapore (34)
 Texas (3)
 Location Type
 All Location Types
-On-site (6)
+On-site (8)
 No filters applied
 Engineering
 Autonomous Driving Data Analysis Intern
@@ -76,8 +77,10 @@ Principal Robotics Engineer (Robotics Solutions & Integration)
 Engineering • Singapore; Chicago; Los Angeles; Texas • Full time
 QA Engineer Intern
 Engineering • Singapore • Intern
-Senior Autonomous Vehicle Engineer (Electronics)
-Engineering • Singapore • Full time
+Senior Autonomous Vehicle Hardware Technical Specialist
+Engineering • Mississippi • Full time • On-site
+Senior Autonomous Vehicle Production & Integration Engineer
+Engineering • Mississippi • Full time • On-site
 Senior Infrastructure Engineer
 Engineering • Singapore • Full time
 Senior Mapping Specialist

@@ -82,6 +82,10 @@ Robot Service Technician
 San Carlos
 ,
 California
+Robotics Deployment Engineer
+San Carlos
+,
+California
 Global infrastructure & Services
 EHS Coordinator
 San Carlos
@@ -97,6 +101,10 @@ San Carlos
 California
 Hardware Engineering
 Integration Engineer - Hands
+San Carlos
+,
+California
+Mechanical Design Engineer - Hands Structures & Integration
 San Carlos
 ,
 California
@@ -148,7 +156,23 @@ Softgoods Product Design Engineer
 San Carlos
 ,
 California
+Staff Electrical Engineer - EMI/EMC
+San Carlos
+,
+California
+Staff Electrical Engineer - Power Systems
+San Carlos
+,
+California
 Staff Engineer, Loads & Dynamics
+San Carlos
+,
+California
+Staff Mechanical & Thermal Engineer – Power Systems
+San Carlos
+,
+California
+Staff Mechanical Engineer - Robot Mechanical Systems
 San Carlos
 ,
 California
@@ -156,8 +180,20 @@ Staff Mechanical Engineer, Robot Head
 San Carlos
 ,
 California
+Staff Power Electronics Automation Engineer
+San Carlos
+,
+California
 Information Technology
 Device Management Engineer
+San Carlos
+,
+California
+IT Technician - Hayward
+Hayward
+,
+California
+IT Technician - San Carlos
 San Carlos
 ,
 California
@@ -337,6 +373,10 @@ San Carlos
 ,
 California
 Recruiter - Skilled Trades
+San Carlos
+,
+California
+Recruiting Coordinator
 San Carlos
 ,
 California

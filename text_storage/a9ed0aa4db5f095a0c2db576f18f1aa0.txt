@@ -75,10 +75,9 @@ Bangalore
 Fort Walton Beach, FL
 Freeport, FL
 Gothenburg
-KSA - RYD G
 London
 Munich
-Poway, CA
+Riyadh
 San Diego, CA
 Seoul
 Stockholm
@@ -108,12 +107,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Tokyo
-Tokyo
+Seoul
+Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Seoul
-Seoul
+Tokyo
+Tokyo
 Apply
 Hardware Integration Engineer - New Grad (2027)
 Sunnyvale
@@ -291,6 +290,10 @@ Stuttgart
 Stuttgart
 Apply
 Business Development
+Account Manager - London
+London
+London
+Apply
 Automotive GTM
 Sunnyvale
 Sunnyvale
@@ -317,16 +320,16 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
-Sunnyvale
-Sunnyvale
-Apply
-Solution Engineer
 Stuttgart
 Stuttgart
 Apply
 Solution Engineer
 Munich
 Munich
+Apply
+Solution Engineer
+Sunnyvale
+Sunnyvale
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -358,12 +361,12 @@ Sunnyvale
 Apply
 Sales
 Global Account Manager - Automotive
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Global Account Manager - Automotive
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Global Account Manager - Automotive
 Tokyo
@@ -428,6 +431,10 @@ Sunnyvale
 Sunnyvale
 Apply
 Sensor Sim - ML Engineer
+Sunnyvale
+Sunnyvale
+Apply
+Sensor Validation Engineer
 Sunnyvale
 Sunnyvale
 Apply
@@ -552,10 +559,6 @@ Full-Stack Software Engineer -  Command & Control
 Sunnyvale
 Sunnyvale
 Apply
-Information Security System Officer (ISSO)
-Poway, CA
-Poway, CA
-Apply
 Infrastructure Architect
 Sunnyvale
 Sunnyvale
@@ -577,12 +580,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Security Engineering Accreditation Lead, Defense
-Sunnyvale
-Sunnyvale
+Washington, D.C.
+Washington, D.C.
 Apply
 Security Engineering Accreditation Lead, Defense
-Washington, D.C.
-Washington, D.C.
+Sunnyvale
+Sunnyvale
 Apply
 Senior Cloud Infrastructure Engineer
 London
@@ -901,12 +904,12 @@ London
 London
 Apply
 Legal Counsel - EMEA
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Legal Counsel - EMEA
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
@@ -917,16 +920,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Regulatory Counsel
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Regulatory Counsel
 London
 London
 Apply
 Regulatory Counsel
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Safety Programs Lead
 Sunnyvale
@@ -984,16 +987,16 @@ Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Ann Arbor
-Ann Arbor
-Apply
-IT Operations Engineer
 Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
 Sunnyvale
 Sunnyvale
+Apply
+IT Operations Engineer
+Ann Arbor
+Ann Arbor
 Apply
 Network Manager
 Sunnyvale
@@ -1209,8 +1212,8 @@ Tokyo
 Tokyo
 Apply
 Founding Fleet Reliability Engineer - Middle East
-KSA - RYD G
-KSA - RYD G
+Riyadh
+Riyadh
 Apply
 Hardware Integration Engineer, Build
 Sunnyvale
@@ -1241,8 +1244,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Vehicle Operations Lead - Middle East
-KSA - RYD G
-KSA - RYD G
+Riyadh
+Riyadh
 Apply
 Vehicle Operations Service Manager
 Tokyo
@@ -1270,12 +1273,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Founding Developer Tooling Engineer - Middle East
-KSA - RYD G
-KSA - RYD G
+Riyadh
+Riyadh
 Apply
 Founding Software Integration Engineer - Middle East
-KSA - RYD G
-KSA - RYD G
+Riyadh
+Riyadh
 Apply
 Middleware Engineer
 Stuttgart
@@ -1310,12 +1313,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
+Tokyo
+Tokyo
 Apply
 Software Integration Engineer
-Tokyo
-Tokyo
+Stockholm
+Stockholm
 Apply
 Solution Engineer
 Tokyo

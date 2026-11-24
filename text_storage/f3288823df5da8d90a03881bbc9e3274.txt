@@ -3,7 +3,9 @@ Your Privacy
 Welcome to Kodiak. We respect your privacy and your right to control how we collect, use, and share your personal data. Please read our
 Privacy Policy
 to learn about our privacy practices.
-I understand
+Accept
+Reject
+Manage
 Skip to main content
 Technology
 Industries
@@ -71,6 +73,8 @@ Kermit, TX
 Safety Drivers
 Class A CDL Driver
 Kermit, TX
+Class A CDL Driver
+Lancaster, TX
 Class A Safety Driver
 Kermit, TX
 Class A Safety Driver
@@ -121,6 +125,8 @@ Mountain View, CA
 Staff Autonomy Software Engineer, Localization
 Mountain View, CA
 Mechanical
+Senior Mechanical Engineer
+Mountain View, CA
 Senior Mechanical Harness Engineer
 Mountain View, CA
 Motion Planning
@@ -149,6 +155,8 @@ Controls
 Software Engineer, Controls (C++)
 Mountain View, CA
 Software Quality
+Software Quality Simulation Specialist
+Mountain View, CA
 Software Quality Triage Specialist
 Mountain View, CA
 Perception

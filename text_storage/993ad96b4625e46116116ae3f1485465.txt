@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-319 Items
+316 Items
 Save this search
 Sort by
 Relevance
@@ -38,6 +38,79 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Developer Marketing Manager
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Sales & Marketing
+Business Marketing
+Marketing
+Software Engineer Intern, Machine Learning (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Data Scientist, Product Analytics
+Los Angeles, CA
+⋅
+Bellevue, WA
+⋅
+Austin, TX
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++4 more
+Data & Analytics
+Analytics
+Software Engineer, Product
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
++4 more
+Software Engineering
+Engineering
+Product Manager
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Remote, US
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++5 more
+Product Management
+Product Strategy
+Data Scientist, Product Analytics
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Austin, TX
+⋅
++6 more
+Data & Analytics
+Data Science
 Product Manager
 Sunnyvale, CA
 ⋅
@@ -70,74 +143,6 @@ Data Science
 Hardware
 Privacy
 Research
-Software Engineer, Infrastructure
-Sunnyvale, CA
-⋅
-Los Angeles, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+7 more
-Software Engineering
-Engineering
-Producer
-Los Angeles, CA
-⋅
-Menlo Park, CA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-Creative
-Sales & Marketing
-Consumer Marketing
-Marketing
-Data Scientist, Product Analytics
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Austin, TX
-⋅
-+6 more
-Data & Analytics
-Data Science
-Program Manager, Creative X
-Menlo Park, CA
-⋅
-New York, NY
-Creative
-Program Management
-Head of Audio Strategy, Executive Communications
-Menlo Park, CA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-Communications & Public Policy
-G and A
-Software Engineer, Machine Learning
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+4 more
-Software Engineering
-Engineering
 Software Engineer (Technical Leadership) - Machine Learning
 Sunnyvale, CA
 ⋅
@@ -153,33 +158,30 @@ New York, NY
 Software Engineering
 Engineering
 Machine Learning
-Product Manager (Leadership)
+Data Science Director
 Sunnyvale, CA
 ⋅
-Menlo Park, CA
+Bellevue, WA
 ⋅
-Seattle, WA
+Menlo Park, CA
 ⋅
 New York, NY
 ⋅
 San Francisco, CA
-⋅
-+1 more
-Advertising Technology
-AI Infrastructure
-Program Management
-Communications Director, Enterprise Business
-Los Angeles, CA
+Data & Analytics
+Data Science
+Data Engineer, Product Analytics
+Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
-New York, NY
+Burlingame, CA
 ⋅
-San Francisco, CA
-Communications & Public Policy
-Corporate Communications
+New York, NY
+Data & Analytics
+Data Engineering
 Page 1 of 32
 Job Search
 Technology Teams

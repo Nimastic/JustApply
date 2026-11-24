@@ -255,6 +255,7 @@ Careers
 Vacancies
 Life at G-Research
 Our benefits
+Career guides
 Relocation
 Contact
 Vacancies
@@ -275,20 +276,20 @@ HR Placement Year
 London
 Technology Operations Manager
 London
-Liquidity Program Manager
-London
 Security Operations and Risk Analyst
 London
 Talent Acquisition Specialist
 London
+Liquidity Program Manager
+London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Centre Manager
-London
 Security Operations Analyst
 London
 Security Operations Placement Year
+London
+Security Operations Centre Manager
 London
 Elastic Security Engineer (Contract)
 London
@@ -309,11 +310,11 @@ London
 Infrastructure Engineering
 OpenStack Engineer (Contractor)
 London
+Linux Platform Engineer
+London
 Platform Engineering Manager
 London
 Platform Engineer
-London
-Linux Platform Engineer
 London
 Network Engineer
 London
@@ -334,21 +335,21 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
+Data Science Internship
+London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Data Science Internship
+Quantitative Analyst
 London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
 Natural Language Processing Researcher
-London
-Quantitative Analyst
 London
 Machine Learning Researcher
 London
@@ -361,11 +362,11 @@ Core AI Engineering Manager
 London
 Quantitative Data Engineer
 London
+Machine Learning Engineer Internship
+London
 Graduate Machine Learning Engineer
 London
 Software Engineering Internship
-London
-Machine Learning Engineer Internship
 London
 Software Engineer
 London
@@ -377,9 +378,9 @@ NLP Performance Engineer
 London
 Software Engineer — Observability Instrumentation
 London
-Applied AI Engineer
-London
 Core AI Engineer
+London
+Applied AI Engineer
 London
 Research Engineer
 London
@@ -389,19 +390,19 @@ Machine Learning Engineer
 London
 Software Engineer – Compute Orchestration
 London
-Observability Engineer
-London
 Machine Learning Workflow Engineer
+London
+Observability Engineer
 London
 Performance Engineering Manager
 London
 Software Engineer – Trade Technology
 London
+Machine Learning Engineer
+London
 Quantitative Developer
 London
 C++ Software Engineer
-London
-Machine Learning Engineer
 London
 Data Software Engineer
 London

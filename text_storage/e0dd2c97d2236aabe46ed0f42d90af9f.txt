@@ -78,15 +78,15 @@ VIEW ROLES FOR STUDENTS AND NEW GRADS
 TYPE
 All Types
 Full-Time: Experienced
-Internship
 Full-Time: New Grad
+Internship
 Co-Op
 Type
 LOCATION
 All Locations
+London
 New York
 Hong Kong
-London
 Singapore
 Chicago
 Austin
@@ -131,15 +131,15 @@ VIEW ROLES FOR EXPERIENCED CANDIDATES
 TYPE
 All Types
 Full-Time: Experienced
-Internship
 Full-Time: New Grad
+Internship
 Co-Op
 Type
 LOCATION
 All Locations
+London
 New York
 Hong Kong
-London
 Singapore
 Chicago
 Austin

@@ -53,8 +53,8 @@ All teams
 Sales
 Customer Success
 Marketing
-Revenue Operations
 Engineering
+Revenue Operations
 Solutions
 People
 Partnerships
@@ -193,13 +193,6 @@ Marketing
 Full-time
 ·
 San Francisco, CA
-Apply →
-Customer Success Strategy & Operations Manager
-Revenue Operations
-·
-Full-time
-·
-San Francisco, CA; New York, NY; Austin, TX
 Apply →
 Data Engineer, Marketing
 Engineering
@@ -439,13 +432,6 @@ Full-time
 ·
 San Francisco, CA; New York, NY
 Apply →
-Recruiting Coordinator
-People
-·
-Full-time
-·
-San Francisco, CA
-Apply →
 Regional Director, AI Deployment
 Customer Success
 ·
@@ -556,7 +542,7 @@ Sales
 ·
 Full-time
 ·
-Washington, D.C.
+Remote
 Apply →
 Software Engineer, Pretraining Data
 Engineering

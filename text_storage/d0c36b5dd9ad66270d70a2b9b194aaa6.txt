@@ -128,11 +128,13 @@ ALL LOCATIONS
 Mountain View, California
 Munich, Germany
 Singapore
+Zurich, Switzerland
 ALL DEPARTMENTS
 Administration
 Hardware
 Legal
 Product
+Research
 Software
 Executive Business Partner
 Mountain View, California
@@ -180,6 +182,16 @@ Senior Full Stack Software Engineer, Platform
 Mountain View, California
 Software
 As a Senior Full Stack Platform Software Engineer, you and the team will own the design and implementation of a distributed cloud and on-premises system that enables users across the world to develop new robotics capabilities, share them with the community, and build and deploy real-world automation solutions. Your work will be a hub and central enabler for many other teams, partners, and users. To be successful, you will need to have an eye for architecture and interface design, be comfortable diving into and working in complex systems, and be excited to expand your experience into new areas of cloud and real-time computing and robotics software and hardware.
+Apply now
+Senior Research Scientist 3D Reconstruction & Spatial AI
+Zurich, Switzerland
+Research
+As a Senior 3D Reconstruction & Spatial AI Engineer, you will own the development of the geometric and semantic perception stacks that power our physical AI framework. You will design real-time systems that enable our robots to translate unstructured, dynamic 3D environments into structured, queryable world models - seamlessly linking high-level task planners (such as VLM/VLA models) directly to robust, low-level manipulation and grasp policies in Flowstate.
+Apply now
+Senior Research Scientist, 3D Reconstruction & Spatial AI
+Munich, Germany
+Research
+As a Senior 3D Reconstruction and Spatial AI Engineer, you will own the development of the geometric and semantic perception stacks that power our physical AI framework. You will design real-time systems that enable our robots to translate unstructured, dynamic 3D environments into structured, queryable world models - seamlessly linking high-level task planners (such as VLM/VLA models) directly to robust, low-level manipulation and grasp policies in Flowstate.
 Apply now
 Senior Robotics Application Engineer, Customer Success
 Singapore

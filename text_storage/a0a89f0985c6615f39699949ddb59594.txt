@@ -8,8 +8,8 @@ Investors
 Foundation
 Strategic Capital
 Menu
-AMS €22.52
-+0.18
+AMS €22.88
++0.06
 About
 About
 Where We Operate
@@ -139,7 +139,7 @@ Select a division
 Locations
 Select a location
 Search
-Displaying 10 of 43 results
+Displaying 10 of 44 results
 Amsterdam | Data
 AI Engineering Manager
 AI Engineering ManagerWe're setting up a new AI team within Data and AI and are looking for an Engineering Manager to lead it. Good engineering management makes a big difference to how well teams grow, keep their people and deliver, and that is what we want from this role.You'll look after the planning and people side: delivery, growth, performance, culture and hiring. You work alongside technical leads who own architecture, technical direction and hands-on execution. You need each other, so expect to work closely.We'll judge you on how your engineers develop and what your team delivers. Most of your time goes to understanding how the business works and unlocking use cases where AI makes a real difference, next to leading your people and your delivery.What you'll do:

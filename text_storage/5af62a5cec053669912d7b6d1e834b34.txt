@@ -64,7 +64,7 @@ All teams
 All locations
 General & Administrative
 (
-27
+29
 )
 Business Operations
 San Francisco
@@ -101,6 +101,9 @@ Apply
 Head of Global Events
 San Francisco
 Apply
+Head of Tax
+San Francisco
+Apply
 IT Engineer
 New York City
 Apply
@@ -127,6 +130,9 @@ London
 Apply
 Recruiting Sourcer - UK
 London
+Apply
+Strategic Finance Lead, GTM
+San Francisco
 Apply
 Talent Operations Coordinator
 San Francisco
@@ -272,16 +278,8 @@ Apply
 Forward Deployed Engineer - Doha
 Doha
 Apply
-Forward Deployed Engineer - Europe
-London
-Apply
-Forward Deployed Engineer - Europe
-Southern Europe
-Apply
 Forward Deployed Engineer - Federal
 Washington DC
-•
-San Francisco
 Apply
 Forward Deployed Engineer - Japan
 Tokyo
@@ -292,8 +290,14 @@ Apply
 Forward Deployed Engineer - LATAM
 Mexico City
 Apply
+Forward Deployed Engineer - London
+London
+Apply
 Forward Deployed Engineer - South Korea
 South Korea
+Apply
+Forward Deployed Engineer - Spain
+Southern Europe
 Apply
 Forward Deployed Engineer - US
 San Francisco

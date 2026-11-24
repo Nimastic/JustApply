@@ -191,12 +191,13 @@ Software Engineer Intern (Summer 2027)
 Engineering
 AI Applied Scientist
 Applied Data Researcher
+Data Scientist, Marketing
 Director, Data Science
 Forward Deployed Engineer
+Manager, Software Engineering - AI Design Systems
 Manager, Software Engineering - AI Infrastructure
 Manager, Software Engineering - AI Observability
 Manager, Software Engineering - Billing
-Manager, Software Engineering - Design Systems Adherence
 Manager, Software Engineering - DevEx AI Tools
 Manager, Software Engineering - External Platform
 Manager, Software Engineering - Production Engineering
@@ -217,7 +218,6 @@ Technical Program Manager, AI
 Technical Program Manager - Infrastructure
 Figma Weave
 Account Executive - Figma Weave (London, United Kingdom)
-Brand Designer - Figma Weave (Tel Aviv, Israel)
 Customer Success Manager - Figma Weave  (London, United Kingdom)
 Customer Success Manager - Figma Weave (New York, United States)
 Manager, Customer Success - Figma Weave (New York, United States)
@@ -267,20 +267,18 @@ Account Executive, Mid-Market (Sydney, Australia)
 Account Executive, Public Sector - State & Local
 Account Executive, SMB
 Account Executive, SMB (Berlin, Germany)
-Account Executive, SMB (London, United Kingdom)
 Account Executive, SMB (Tokyo, Japan)
 Account Executive, Strategic
 Account Executive, Strategic (London, United Kingdom)
 Account Executive, Strategic (Paris, France)
 Account Executive, Strategic (São Paulo, Brazil)
+Customer Activation Manager (São Paulo, Brazil)
 Customer Activation Manager (Tokyo, Japan)
 Customer Success Manager (São Paulo, Brazil)
 Director, SMB Sales (London, United Kingdom)
 Director, Strategic Sales (Berlin, Germany)
 Executive Assistant, Sales (São Paulo, Brazil)
 Field Engineer
-Inside Sales Representative (Berlin, Germany)
-Inside Sales Representative (Paris, France)
 Manager, Customer Success (Tokyo, Japan)
 Manager, Deal Desk (London, United Kingdom)
 Manager, Enterprise Sales

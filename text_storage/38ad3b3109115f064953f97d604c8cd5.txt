@@ -41,7 +41,7 @@ San Jose, CA
 Helix AI Engineer, Training Performance
 Apply Now
 BotQ Manufacturing
-09
+10
 San Jose, CA
 Manufacturing Engineer
 Apply Now
@@ -53,6 +53,9 @@ Manufacturing Equipment Technician
 Apply Now
 San Jose, CA
 Manufacturing Electrical Test Engineer
+Apply Now
+San Jose, CA
+Quality Engineering Technician
 Apply Now
 San Jose, CA
 Production Lead (Swing Shift)
@@ -70,7 +73,7 @@ San Jose, CA
 NPI Buyer/Planner
 Apply Now
 Commercial Operations
-13
+15
 San Jose, CA
 Fleet Launch Operator, Commercial Launch Team
 Apply Now
@@ -109,6 +112,12 @@ Swing Shift Coordinator
 Apply Now
 San Jose, CA
 Driver, Commercial Operations
+Apply Now
+San Jose, CA
+Warehouse Lead, Commercial Operations
+Apply Now
+San Jose, CA
+Warehouse Supervisor, Commercial Operations
 Apply Now
 Controls
 02
@@ -181,7 +190,7 @@ San Jose, CA
 Inventory Accounting Manager
 Apply Now
 Hardware
-10
+09
 San Jose, CA
 Mechanical Engineer - All Levels
 Apply Now
@@ -198,9 +207,6 @@ San Jose, CA
 Mechanical Engineer, Structures - Robot Hands
 Apply Now
 San Jose, CA
-Mechanical Engineer, Arms
-Apply Now
-San Jose, CA
 Wire Harness Engineer
 Apply Now
 San Jose, CA
@@ -213,7 +219,7 @@ San Jose, CA
 Thermal Analysis Engineer
 Apply Now
 Internal Fleet Operations
-09
+08
 Santa Clara, CA
 Robot Service Technician (Morning Shift)
 Apply Now
@@ -225,9 +231,6 @@ Humanoid Robot Operator (Afternoon Shift)
 Apply Now
 San Jose, CA
 Humanoid Robot Operator (Night Shift)
-Apply Now
-San Jose, CA
-Robot Operations Manager
 Apply Now
 Santa Clara, CA
 Shift Coordinator, Humanoid Robot Operations (Morning)

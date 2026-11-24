@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-634 jobs
+633 jobs
 AI Research & Engineering
 Job
 Anthropic Fellows Program, AI Safety & Security
@@ -17,10 +17,6 @@ Anthropic Fellows Program, ML Systems & Reinforcement Learning
 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)
 London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
-Anthropic Research Resident
-San Francisco, CA | New York City, NY
-Anthropic Research Resident
-London, UK
 Applied Scientist, Engineering
 San Francisco, CA
 CMC & Manufacturing Lead, Life Sciences
@@ -34,6 +30,12 @@ San Francisco, CA | New York City, NY
 [Expression of Interest] Research Engineer / Scientist, Alignment - London
 London, UK
 [Expression of Interest] Research Manager, Interpretability
+San Francisco, CA
+Head of Laboratory Facilities
+New
+San Francisco, CA
+Life Sciences Operator, External Research
+New
 San Francisco, CA
 Machine Learning Infrastructure Engineer, Safeguards Research
 San Francisco, CA | New York City, NY
