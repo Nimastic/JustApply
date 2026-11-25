@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-203 Open Roles
+204 Open Roles
+ROLE
+Software Engineer, PMRA Systems
+FOCUS
+Software & System Engineering
+LOCATION
+New York   |   Stamford
 ROLE
 Software Engineer, Tax Technology
 FOCUS

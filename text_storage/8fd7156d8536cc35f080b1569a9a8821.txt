@@ -1,3 +1,4 @@
+Come Work at Verkada!
 Demo
 EN (US)
 English (United States)
@@ -144,7 +145,7 @@ What to expect
 This step often includes meetings with team members, technical exercises, and discussions about your experience and how it aligns with Verkada’s needs. Your recruiter will guide you on what to expect during the visit, so you can put your best foot forward.
 Job openings
 If you’d like to use your energy for good, we’d love to hear from you.
-349 Openings
+352 Openings
 Search
 Filter by
 Clear All
@@ -212,9 +213,9 @@ Legal
 IT
 People
 Finance
+Workplace
 Spend Money Wisely
 Other
-Workplace
 All Design - Dept
 UI & UX
 Industrial Design
@@ -318,19 +319,21 @@ San Mateo, CA United States
 Finance
 Senior Accountant
 San Mateo, CA United States
-(Sr) Associate / Manager, Strategic Finance & Business Operations
+(Sr) Associate / Manager, Corporate Finance - Capital Markets
 San Mateo, CA United States
 Stock Administrator
 San Mateo, CA United States
+Workplace
+Senior Workplace Operations Manager
+San Mateo, CA United States
+Workplace Operations Manager
+New York City, NY United States
 Spend Money Wisely
 Strategic Sourcing Manager
 San Mateo, CA United States
 Other
 VCE Technical Trainer (ASEAN)
 Singapore
-Workplace
-Workplace Operations Manager
-New York City, NY United States
 Design - Dept
 UI & UX
 Lead Product Designer
@@ -344,6 +347,8 @@ San Mateo, CA United States
 Senior Product Designer
 San Mateo, CA United States
 Industrial Design
+Packaging Program Manager - Taiwan
+Taipei, Taiwan
 Senior Industrial Designer - Taiwan
 Taipei, Taiwan
 Enterprise
@@ -364,10 +369,10 @@ Enterprise Account Executive (Texas - Education)
 Austin, TX United States
 Enterprise Account Executive (Virginia - ED)
 Virginia, United States
-Enterprise Account Executive (Washington - SLED)
-Seattle, WA United States
 Regional Sales Director, Enterprise - Muni
 Atlanta, GA United States
+Regional Sales Director (Southern California - Education)
+Los Angeles, CA United States
 Regional Vice President,  Central - Education
 Central, United States
 Enterprise CORP
@@ -417,9 +422,9 @@ San Mateo, CA United States
 Hardware Engineering Program Manager
 San Mateo, CA United States
 Product Design Mechanical Engineer
-Taipei, Taiwan
-Product Design Mechanical Engineer
 San Mateo, CA United States
+Product Design Mechanical Engineer
+Taipei, Taiwan
 Marketing - Dept
 Growth Operations
 AI Marketing Engineer
@@ -462,17 +467,17 @@ Vancouver, Canada
 Regional Field Marketing Manager, Canada
 Calgary, Canada
 Senior Regional Field Marketing Manager, East
-New York City, NY United States
+Philadelphia, PA United States
 Senior Regional Field Marketing Manager, East
 Tampa, FL United States
 Senior Regional Field Marketing Manager, East
-Philadelphia, PA United States
-Senior Regional Field Marketing Manager, West
-Salt Lake City, UT United States
+New York City, NY United States
 Senior Regional Field Marketing Manager, West
 Los Angeles, CA United States
 Senior Regional Field Marketing Manager, West
 Austin, TX United States
+Senior Regional Field Marketing Manager, West
+Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
 Phoenix, AZ United States
 Senior Regional Field Marketing Manager, West
@@ -625,6 +630,8 @@ London
 Global
 Account Executive Public Sector, México
 Mexico City, Mexico
+EDR Manager, LATAM
+Mexico City, Mexico
 Enterprise Account Executive, Brazil
 Brazil
 Enterprise Account Executive, Colombia
@@ -652,48 +659,44 @@ Mid-Market Territory
 Account Executive, Territory, Chicago
 Chicago, IL United States
 Account Executive, Territory (Mid-Market)
-Los Angeles, CA United States
+San Mateo, CA United States
 Account Executive, Territory (Mid-Market)
-Atlanta, GA United States
-Account Executive, Territory (Mid-Market)
-St. Petersburg, FL United States
-Account Executive, Territory (Mid-Market)
-Philadelphia, PA United States
+Austin, TX United States
 Account Executive, Territory (Mid-Market)
 Tempe, AZ United States
 Account Executive, Territory (Mid-Market)
 Salt Lake City, UT United States
 Account Executive, Territory (Mid-Market)
-Austin, TX United States
+St. Petersburg, FL United States
+Account Executive, Territory (Mid-Market)
+Los Angeles, CA United States
 Account Executive, Territory (Mid-Market)
 New York City, NY United States
 Account Executive, Territory (Mid-Market)
-San Mateo, CA United States
-Office Coordinator, PHL (Fixed-Term/ Part-Time)
 Philadelphia, PA United States
+Account Executive, Territory (Mid-Market)
+Atlanta, GA United States
 Solutions Engineering
 Associate Solutions Engineering Program Manager
 San Mateo, CA United States
 Associate Solutions Engineer, San Mateo
 San Mateo, CA United States
 Channel Solutions Engineer
-Toronto, Canada
+Seattle, WA United States
 Channel Solutions Engineer
-Denver, CO United States
+San Mateo, CA United States
+Channel Solutions Engineer
+Toronto, Canada
 Channel Solutions Engineer
 Chicago, IL United States
 Channel Solutions Engineer
-Seattle, WA United States
+Denver, CO United States
 Channel Solutions Engineer
 Atlanta, GA United States
-Channel Solutions Engineer
-San Mateo, CA United States
 Enterprise Solutions Engineer
 Italy
 Enterprise Solutions Engineer
 Ireland
-Enterprise Solutions Engineer, Alberta
-Calgary, Canada
 Enterprise Solutions Engineer - Finnish Speaking
 Finland
 Enterprise Solutions Engineer - German Speaking
@@ -826,6 +829,8 @@ Enterprise Sales Enablement Manager
 San Mateo, CA United States
 Enterprise Sales Enablement Manager
 New York City, NY United States
+Sr. Manager Mid Market Field Enablement
+San Mateo, CA United States
 Sales Admin
 Executive Assistant to VP of Sales
 San Mateo, CA United States
@@ -897,6 +902,8 @@ San Mateo, CA United States
 Software Engineering Manager - Search
 San Mateo, CA United States
 Staff Backend Engineer - Streaming
+San Mateo, CA United States
+TPM (Technical Program Manager), Camera Software
 San Mateo, CA United States
 Software Engineering Admin
 Embedded Automated Test & Test System Engineer
@@ -1100,7 +1107,6 @@ CA Privacy
 Legal Center
 Privacy Center
 Terms of Service
-Come Work at Verkada!
 Your Privacy Choices
 We use cookies and similar technologies to deliver the site, provide security, improve and personalize your experience (including delivering more relevant ads), and provide advertising-related analytics (e.g., optimizing our ad campaigns).  Some of these uses may be considered "selling" or "sharing” for targeted, online advertising purposes under certain laws. You may opt out of our “sale” or “sharing” of your data through cookies. If you select “Reject All,” we will not “share” or “sell” your personal information through cookies, but we will continue to use other cookies as defined in our Cookie Policy. If you take no action or select “Confirm My Choices,” we will continue to use cookies for purposes that may be considered a “share” or “sale” of your data. To learn more, see our Cookie Policy.
 We may also make available certain contact information, such as name, email address, phone number, and mailing address, to other businesses in a way that is considered a sale, or share/use for targeted ads. Depending on where you reside, you may have the right to opt out of this activity. To opt out of these sales/sharing, please visit the opt-out form

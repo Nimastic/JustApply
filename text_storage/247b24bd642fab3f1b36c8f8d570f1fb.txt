@@ -82,9 +82,9 @@ Open positions
 Help us bring human intelligence to software
 All Departments
 All Locations
-275
+272
 roles across
-17
+16
 departments
 Expand all
 Data Science and Analytics
@@ -161,10 +161,10 @@ Security Engineer, Product Security
 Washington, DC
 Apply →
 Senior Applied AI Engineer
-Kuwait City, Kuwait
+London, UK
 Apply →
 Senior Applied AI Engineer
-London, UK
+Kuwait City, Kuwait
 Apply →
 Senior Engineering Manager, Kuwait
 Kuwait City, Kuwait
@@ -176,10 +176,10 @@ Senior Frontier Agents Engineer (Forward Deployed Engineering)
 San Francisco, CA
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Kuwait City, Kuwait
+Riyadh, Saudi Arabia
 Apply →
 Senior Full-Stack Software Engineer, (Forward deployed), GPS
-Riyadh, Saudi Arabia
+Kuwait City, Kuwait
 Apply →
 Senior Full-Stack Software Engineer, (Forward Deployed), GPS
 London, UK
@@ -373,7 +373,7 @@ Apply →
 Medical Fellow - Human Frontier Collective
 United States
 Apply →
-Research Advisor - Human Frontier Collective (US)
+Research Advisor - Human Frontier Collective
 United States
 Apply →
 STEM Fellow - Human Frontier Collective
@@ -550,10 +550,10 @@ Senior AI Product Manager
 San Francisco, CA
 Apply →
 Senior Product Design Manager, Enterprise
-London, UK
+New York, NY
 Apply →
 Senior Product Design Manager, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer
 New York, NY
@@ -562,10 +562,10 @@ Staff Product Designer
 Washington, DC
 Apply →
 Staff Product Designer, Enterprise
-London, UK
+New York, NY
 Apply →
 Staff Product Designer, Enterprise
-New York, NY
+London, UK
 Apply →
 Staff Product Designer, Global Public Sector
 Doha, Qatar
@@ -586,7 +586,7 @@ Staff Product Manager, Agentic Platform
 Washington, DC
 Apply →
 Public Sector
-64 roles
+63 roles
 Account Executive, Air Force
 Colorado Springs, CO
 Apply →
@@ -646,9 +646,6 @@ Omaha, NE
 Apply →
 Engineering Manager, Frontier AI Infrastructure - Public Sector
 Washington, DC
-Apply →
-Executive Assistant
-San Francisco, CA
 Apply →
 Field Engineer, Public Sector
 Honolulu, HI
@@ -912,14 +909,6 @@ Apply →
 Strategist, Qatar
 Doha, Qatar
 Apply →
-Specialist
-2 roles
-Subject Matter Expert
-Canada
-Apply →
-Subject Matter Expert
-United States
-Apply →
 University
 8 roles
 Machine Learning Research Intern (Summer 2027)
@@ -929,13 +918,13 @@ Machine Learning Research Intern (Summer 2027)
 San Francisco, CA
 Apply →
 Software Engineer - New Grad
-San Francisco, CA
+London, UK
 Apply →
 Software Engineer - New Grad
 Doha, Qatar
 Apply →
 Software Engineer - New Grad
-London, UK
+San Francisco, CA
 Apply →
 Software Engineer, Public Sector - New Grad
 San Francisco, CA

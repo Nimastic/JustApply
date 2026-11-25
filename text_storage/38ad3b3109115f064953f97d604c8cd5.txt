@@ -18,7 +18,7 @@ San Jose, CA
 Systems Integration Engineer - Actuation Systems
 Apply Now
 AI - Helix Team
-07
+06
 San Jose, CA
 Helix AI Engineer, Perception
 Apply Now
@@ -35,13 +35,10 @@ San Jose, CA
 Helix AI Engineer, Backend
 Apply Now
 San Jose, CA
-Helix AI Engineer, Localization and Mapping
-Apply Now
-San Jose, CA
 Helix AI Engineer, Training Performance
 Apply Now
 BotQ Manufacturing
-10
+09
 San Jose, CA
 Manufacturing Engineer
 Apply Now
@@ -53,9 +50,6 @@ Manufacturing Equipment Technician
 Apply Now
 San Jose, CA
 Manufacturing Electrical Test Engineer
-Apply Now
-San Jose, CA
-Quality Engineering Technician
 Apply Now
 San Jose, CA
 Production Lead (Swing Shift)

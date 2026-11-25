@@ -114,6 +114,7 @@ Denver
 India
 London
 Off-site
+Shanghai
 Singapore
 offices.
 Viewing
@@ -354,11 +355,6 @@ icon
 Compliance Officer
 :  The D. E. Shaw group seeks a proactive and detail-oriented compliance professional to join its Legal & Compliance team. This role supports multiple aspects of the firm's…
 Legal & Compliance
-New York
-icon
-Legal Analyst
-: The D. E. Shaw group seeks a proactive, detail-oriented legal analyst to join its Legal & Compliance team. This individual will collaborate closely with attorneys, contributing…
-Legal & Compliance
 London
 icon
 Legal Analyst and Contract Negotiator (London)
@@ -553,6 +549,11 @@ New York
 icon
 All Positions in Systems
 : Are you looking for new challenges and collaborative problem-solving opportunities at the firm, but finding that the perfect role for you might not be currently available? If you’d like…
+Trading
+Shanghai
+icon
+Junior Execution Trader (Shanghai)
+: The D. E. Shaw group seeks an execution trader to support the day-to-day trading of our Systematic Futures strategy. The trader will work closely with colleagues in Shanghai,…
 Various
 Off-site
 icon

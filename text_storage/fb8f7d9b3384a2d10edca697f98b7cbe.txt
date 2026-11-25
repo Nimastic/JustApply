@@ -521,7 +521,6 @@ Project Management
 Purchasing/Procurement
 R&D
 Sales
-Sales Job Group
 Software
 Support
 Reset

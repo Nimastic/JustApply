@@ -105,7 +105,6 @@ Connect
 Crypto
 Crypto Onramp
 Data Pipeline
-Elements
 Financial Connections
 Global Payouts
 Identity

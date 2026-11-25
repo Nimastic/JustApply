@@ -63,9 +63,31 @@ A Safer, More Productive World
 We imagine a future where intelligent machines save lives, eliminate drudgery, and give people everywhere the freedom to choose how they spend their time. Physical AI has the ability to improve the world, creating safer roads, improved infrastructure, and a more agile national defense, and we’re proud to be creating that world.
 “Applied Intuition is investing in me—making me a top-tier engineer while actually advancing real-world technology instead of building some internal tool that no one will use.”
 —Jarod W., Software Engineer
-■ Careers
+■
+Careers
 Join a fast-growing team shaping the future of autonomy. Explore our open roles today.
-Open Positions
+All Roles
+All Roles
+2026-2027 New Grad
+AI Research
+Application Engineering
+Business Functions
+Commercial
+Dana for Physical AI
+Data & Compute Platform
+Defense
+Design
+Finance
+General Software Engineering
+Hardware
+Infrastructure, App & AI Platform (Dana)
+Legal
+Marketing
+Robotics
+Security & IT
+Self-Driving Systems
+Vehicle Operations
+Vehicle OS
 All Locations
 All Locations
 Ann Arbor
@@ -77,6 +99,7 @@ Freeport, FL
 Gothenburg
 London
 Munich
+Poway, CA
 Riyadh
 San Diego, CA
 Seoul
@@ -85,7 +108,12 @@ Stuttgart
 Sunnyvale
 Tokyo
 Washington, D.C.
+331
+Open
+Roles
 2026-2027 New Grad
+13
+open roles
 Build & Release Engineer - New Grad (2027)
 Sunnyvale
 Sunnyvale
@@ -139,6 +167,8 @@ Sunnyvale
 Sunnyvale
 Apply
 AI Research
+15
+open roles
 Research Engineer - 3D Vision and Generation, Self-Driving
 Sunnyvale
 Sunnyvale
@@ -200,6 +230,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Application Engineering
+6
+open roles
 Application Engineer - Technical Customer Lead
 Stockholm
 Stockholm
@@ -225,6 +257,8 @@ Stockholm
 Stockholm
 Apply
 Business Functions
+14
+open roles
 People Operations
 Compensation Lead
 Sunnyvale
@@ -285,6 +319,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Commercial
+22
+open roles
 Global Account Manager - Automotive
 Stuttgart
 Stuttgart
@@ -324,12 +360,12 @@ Stuttgart
 Stuttgart
 Apply
 Solution Engineer
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Solution Engineer
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -361,22 +397,24 @@ Sunnyvale
 Apply
 Sales
 Global Account Manager - Automotive
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Global Account Manager - Automotive
 Munich
 Munich
 Apply
 Global Account Manager - Automotive
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Global Account Manager - North America Automotive
 Ann Arbor
 Ann Arbor
 Apply
 Dana for Physical AI
+22
+open roles
 Product Manager
 Sunnyvale
 Sunnyvale
@@ -442,18 +480,6 @@ Sensor Validation Engineer (Sunnyvale, CA)
 Sunnyvale
 Sunnyvale
 Apply
-Software Engineer
-Sunnyvale
-Sunnyvale
-Apply
-Software Engineer
-Sunnyvale
-Sunnyvale
-Apply
-Software Engineer – Infrastructure Tooling
-Sunnyvale
-Sunnyvale
-Apply
 Software Engineer - Insights Platform
 Sunnyvale
 Sunnyvale
@@ -480,6 +506,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Data & Compute Platform
+8
+open roles
 Engineering Manager - Autonomy Data
 Sunnyvale
 Sunnyvale
@@ -515,6 +543,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Defense
+46
+open roles
 Account Executive, Defence
 London
 London
@@ -559,6 +589,10 @@ Full-Stack Software Engineer -  Command & Control
 Sunnyvale
 Sunnyvale
 Apply
+Information Security System Officer (ISSO)
+Poway, CA
+Poway, CA
+Apply
 Infrastructure Architect
 Sunnyvale
 Sunnyvale
@@ -580,12 +614,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Security Engineering Accreditation Lead, Defense
-Washington, D.C.
-Washington, D.C.
+Sunnyvale
+Sunnyvale
 Apply
 Security Engineering Accreditation Lead, Defense
-Sunnyvale
-Sunnyvale
+Washington, D.C.
+Washington, D.C.
 Apply
 Senior Cloud Infrastructure Engineer
 London
@@ -697,6 +731,8 @@ Ann Arbor
 Ann Arbor
 Apply
 Design
+8
+open roles
 Associate Editor
 Sunnyvale
 Sunnyvale
@@ -730,6 +766,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Finance
+8
+open roles
 EMEA Statutory Reporting Senior Manager
 London
 London
@@ -763,6 +801,8 @@ Sunnyvale
 Sunnyvale
 Apply
 General Software Engineering
+4
+open roles
 Senior Software Engineer
 Sunnyvale
 Sunnyvale
@@ -780,6 +820,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Hardware
+21
+open roles
 CAE Engineer
 Sunnyvale
 Sunnyvale
@@ -866,6 +908,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Infrastructure, App & AI Platform (Dana)
+7
+open roles
 Product Manager - Platform
 Sunnyvale
 Sunnyvale
@@ -895,21 +939,23 @@ Sunnyvale
 Sunnyvale
 Apply
 Legal
+10
+open roles
 Legal Counsel - Commercial
 Sunnyvale
 Sunnyvale
 Apply
 Legal Counsel - EMEA
-London
-London
+Stuttgart
+Stuttgart
 Apply
 Legal Counsel - EMEA
 Munich
 Munich
 Apply
 Legal Counsel - EMEA
-Stuttgart
-Stuttgart
+London
+London
 Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
@@ -924,18 +970,20 @@ Munich
 Munich
 Apply
 Regulatory Counsel
-London
-London
+Stuttgart
+Stuttgart
 Apply
 Regulatory Counsel
-Stuttgart
-Stuttgart
+London
+London
 Apply
 Safety Programs Lead
 Sunnyvale
 Sunnyvale
 Apply
 Marketing
+5
+open roles
 Communications Manager
 Sunnyvale
 Sunnyvale
@@ -957,6 +1005,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Robotics
+2
+open roles
 Robot Infrastructure Engineer - Collection Tooling
 Sunnyvale
 Sunnyvale
@@ -966,6 +1016,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Security & IT
+10
+open roles
 Business Systems Engineer
 Sunnyvale
 Sunnyvale
@@ -1007,6 +1059,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Self-Driving Systems
+45
+open roles
 Application Engineer - Trucking
 Sunnyvale
 Sunnyvale
@@ -1191,6 +1245,8 @@ Sunnyvale
 Sunnyvale
 Apply
 Vehicle Operations
+14
+open roles
 Autonomous Vehicle Test Engineer
 Tokyo
 Tokyo
@@ -1247,11 +1303,9 @@ Vehicle Operations Lead - Middle East
 Riyadh
 Riyadh
 Apply
-Vehicle Operations Service Manager
-Tokyo
-Tokyo
-Apply
 Vehicle OS
+51
+open roles
 Associate Customer Technical Program Manager - Vehicle OS
 Sunnyvale
 Sunnyvale
@@ -1313,12 +1367,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Tokyo
-Tokyo
+Stockholm
+Stockholm
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
+Tokyo
+Tokyo
 Apply
 Solution Engineer
 Tokyo

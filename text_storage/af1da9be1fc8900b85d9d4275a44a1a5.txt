@@ -58,9 +58,9 @@ Locations
 See where Amazonians worldwide are making every day better.
 Explore locations
 Explore locations
-Xiaole has grown from intern to expert
-Engineer | Amazon Web Services | Beijing, China
-I started my career as an intern at AWS, and I’ve advanced my technical skills and knowledge here. What I enjoy most is technical analysis, collaborating with senior engineers across teams, and using my knowledge to solve problems while learning new skills. We have an inclusive and supportive environment. Everyone's unique background and expertise is respected and valued, whether you're an experienced engineer or a recent college graduate, so I feel safe expressing my ideas.
+Denise has the freedom to find better solutions
+Manager, Sales Account Management | Amazon Ads | Mexico City, Mexico
+One important aspect of Amazon's culture is feeling encouraged to propose, create, and experiment. There's a lot of trust. Sometimes we have easy answers, other times we need to dig deeper and think differently. When something doesn't work, we simply adjust and try again. In some companies, failure feels like a big deal. Here, it's part of the process. That mindset gives you confidence to try new things.
 Read more
 Impact the future, today
 Every Amazonian, from warehouse floor to corporate HQ, shares a drive to impact the future, today. Our unmatched scale offers every employee endless opportunities to reimagine how customers shop, stream, eat, connect and live. United by our peculiar culture of curiosity, bold ownership and fearless initiative, we channel our customer obsession into making everyday impact—big and small.
@@ -129,20 +129,3 @@ California supplement notice
 Accept all
 Reject all
 Customize cookies
-Skip to chat input
-Chat widget for getting help and assistance. Press Ctrl+Shift+C to open, or click the button.
-Ask Hiring Assistant
-Press Ctrl+Shift+C to toggle
-Skip to chat input
-Hiring Assistant
-Hiring Assistant responded: Hi there! I'm Amazon Hiring Assistant and I'm here to help with any questions about Amazon careers. How can I assist you today?
-Hiring Assistant
-01:38 PM
-Hi there! I'm Amazon Hiring Assistant and I'm here to help with any questions about Amazon careers. How can I assist you today?
-Privacy Consent: By using this chat, you consent to the collection, recording and use of this chat session and information you submit by Amazon and its subsidiaries
-chat suggestions
-Application status
-Job recommendations
-Interview preparation tips
-Chat message input
-Disclaimer: You are interacting with AI

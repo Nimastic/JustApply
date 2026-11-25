@@ -202,7 +202,7 @@ AV Hardware Mechanical Engineer
 Mountain View, California (HQ)
 Full-Time
 Operations
-05
+06
 In-Vehicle Operations
 Autonomous Vehicle Operator
 San Francisco, CA
@@ -219,6 +219,9 @@ Temporary
 Shift Supervisor, On-Road Operations
 San Francisco, CA
 Full-Time
+Virtual Hiring Event: Autonomous Vehicle Operator (South SF)
+San Francisco, CA
+Temporary
 People
 03
 HR
@@ -249,7 +252,7 @@ Senior/Staff Safety Standards Engineer
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-84
+83
 AI Platform General
 Senior/Staff Software Engineer, AI Agent Infrastructure
 Mountain View, California (HQ)
@@ -304,9 +307,6 @@ Machine Learning Research Scientist, Prediction & Smart Agents
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Behavior Planning
-Mountain View, California (HQ)
-Full-Time
-Senior Software Engineer, Collision Avoidance
 Mountain View, California (HQ)
 Full-Time
 Senior Software Engineer, Map Platform

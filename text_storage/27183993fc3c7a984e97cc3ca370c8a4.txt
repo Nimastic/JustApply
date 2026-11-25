@@ -29,14 +29,12 @@ Dream big, build bigger
 At AI21, we’re transforming ideas into reality.
 Let’s write the next chapter of your career together.
 Current openings
-5
+4
 jobs
 Locations
 Tel Aviv-Yafo
-US Remote
 Departments
 Algorithms
-Business
 Engineering
 Marketing
 Algorithms
@@ -46,10 +44,6 @@ Tel Aviv-Yafo
 Deep Learning Team Lead
 Full-time
 Tel Aviv-Yafo
-Business
-Senior Account Executive – US Market
-Full-time
-US Remote
 Engineering
 Technical Project Manager – Post training
 Full-time

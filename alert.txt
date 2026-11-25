@@ -1,182 +1,180 @@
-<b>Optiver</b>
-+ Data Center Engineer
-closed: Software Engineer (C++) - Derivatives
-<a href="https://optiver.com/working-at-optiver/career-opportunities/">open the board</a>
+<b>D. E. Shaw</b>
++ Junior Execution Trader (Shanghai)
+<a href="https://www.deshaw.com/careers/choose-your-path">open the board</a>
 
-<b>Two Sigma</b>
-+ Quantitative Researcher - AI Scientist
-<a href="https://careers.twosigma.com/">open the board</a>
+<b>BlackRock</b>
++ Associate, Credit Trader
++ ETF Product Developer, Vice President – ETF Platform
++ Full Stack Engineering Lead
++ Software Engineering
+<a href="https://careers.blackrock.com/">open the board</a>
+
+<b>Point72</b>
++ Software Engineer, PMRA Systems
+<a href="https://careers.point72.com/">open the board</a>
 
 <b>Qube RT</b>
-closed: AV Engineer
-closed: AWS Cloud Infrastructure and Compute Architect
-closed: AWS Cloud Network Engineer
-closed: C++ Developer (Market Execution)
-closed: Cloud Engineer
-closed: 120 more
++ Application Support Engineer – Vendor Service
++ AV Engineer
++ AWS Cloud Infrastructure and Compute Architect
++ AWS Cloud Network Engineer
++ C++ Developer (Market Execution)
++ Cloud Engineer
++ Cloud Engineer – AWS Specialist
++ Compute Operations Engineer
++ Core Pricing and Risk Platform - Senior C++ Developer
++ Corvil Engineer
++ C++ Quantitative Developer - ETF Market Making
++ C++ Software Engineer - Core Trading Technology
++ 115 more
 <a href="https://www.qube-rt.com/careers/">open the board</a>
 
+<b>XTX Markets</b>
++ Research Technology Engineer
+<a href="https://www.xtxmarkets.com/careers/">open the board</a>
+
+<b>Amazon</b>
+closed: Engineer | Amazon Web Services | Beijing, China
+<a href="https://www.amazon.jobs/">open the board</a>
+
 <b>Cloudflare</b>
-+ Senior Customer Engineer - Brazil (US based)
-+ Senior Software Engineer (Threat Intelligence), Cloudforce One
-+ Engineering · Security
-closed: Senior Platform Engineer, Replicate
-closed: Systems Engineer - Network Software Performance
-closed: Systems Engineer - Network Data Plane Software
-closed: Senior Systems Engineer, Network Services
-closed: Distributed Systems Engineer - Network Services
-closed: 1 more
++ Customer Engineering Manager
++ Senior Customer Engineer - Austin or Houston,TX
+closed: Senior Customer Engineer - Brazil (US based)
+closed: Senior Software Engineer (Threat Intelligence), Cloudforce One
+closed: Engineering · Security
 <a href="https://www.cloudflare.com/careers/">open the board</a>
 
-<b>Palantir</b>
-+ Forward Deployed Software Engineer - Spain
-<a href="https://jobs.lever.co/palantir">open the board</a>
-
 <b>Airwallex</b>
-+ Staff Software Engineer, Lending
-+ Senior Data Scientist, Analytics (Risk &amp; Payments)
-+ Staff Data Scientist, Algorithm (Payments Fraud &amp; Optimization)
-+ Staff Software Engineer, AI Tooling, Information Security
-+ Staff Software Engineer, Ecosystem
-+ Staff Data Platform Engineer, Knowledge Platform
-+ Senior Software Engineer, AI Tooling, Information Security
-+ Senior Software Engineer, Infrastructure AI
-closed: Senior Software Engineer, New Products
-closed: Staff Data Scientist, Algorithm (Risk Product – AML &amp; Financial Crime)
-closed: Solutions Architect / Solutions Engineer, Payments
++ Staff Data Scientist
++ Head of Engineering, Payments Platform
++ Solutions Engineer , Embedded Finance
++ Staff Data Scientist, Algorithm (Risk Product – AML &amp; Financial Crime)
++ Staff Product Designer, T:0 (Agentic) Finance
+closed: Staff Software Engineer, Lending
+closed: Senior Data Scientist, Analytics (Risk &amp; Payments)
+closed: Staff Data Scientist, Algorithm (Payments Fraud &amp; Optimization)
+closed: Staff Software Engineer, Ecosystem
+closed: Staff Data Platform Engineer, Knowledge Platform
+closed: 2 more
 <a href="https://careers.airwallex.com/">open the board</a>
 
 <b>OpenAI</b>
-+ Forward Deployed Engineering (43)
-+ Strategic Sourcing Lead, Engineering &amp; Research Technology
-+ Forward Deployed Engineer - Dublin
-+ Forward Deployed Engineering • Dublin, Ireland • Full time • Hybrid
-+ Applied AI Engineer, Mid-Market Enterprise
-+ Optical Mechanical Engineer
-closed: Forward Deployed Engineering (42)
-closed: Associate General Counsel, Commercial – Infrastructure
-closed: Designer, OpenAI.com
-closed: Motion Designer
-closed: Platform Product Partnerships Lead
-closed: 1 more
++ Forward Deployed Engineering (44)
++ Software Engineer, Backend — ChatGPT Voice
++ Software Engineer, Full Stack — ChatGPT Voice
++ Software Engineer, Space Foundations — Real-Time Systems
++ Software Engineer, Space Foundations — Search &amp; Databases
++ Program Manager, Infrastructure Systems Transformation
++ Forward Deployed Engineer (FDE), Life Sciences - London
++ Global Head of Applied AI Engineering, SMB / Mid-Market
++ Solutions Engineer, Ads Solutions - NYC
+closed: Forward Deployed Engineering (43)
+closed: Project Manager, Infrastructure Transformation
+closed: Content Designer
+closed: Software Engineer, GPT Infrastructure
+closed: Strategic Finance Lead, OpenAI for Inference
 <a href="https://jobs.ashbyhq.com/openai">open the board</a>
 
+<b>Cursor</b>
+closed: Regional Director, Forward Deployed Engineering
+<a href="https://www.cursor.com/careers">open the board</a>
+
 <b>Cognition</b>
-+ Forward Deployed Engineer - London
-+ Forward Deployed Engineer - Spain
-closed: Forward Deployed Engineer - Europe
++ Forward Deployed Engineer - Dubai
++ Forward Deployed Engineer - MENA
 <a href="https://cognition.ai/careers">open the board</a>
 
-<b>Figma</b>
-+ Data Scientist, Marketing
-+ Manager, Software Engineering - AI Design Systems
-closed: Manager, Software Engineering - Design Systems Adherence
-closed: Brand Designer - Figma Weave (Tel Aviv, Israel)
-<a href="https://www.figma.com/careers/">open the board</a>
-
-<b>Scale AI</b>
-+ Machine Learning Fellow - Human Frontier Collective
-+ SWE Fellow - Human Frontier Collective
-closed: Software Engineer, Platform
-closed: Machine Learning Fellow - Human Frontier Collective (US, UK, &amp; Canada)
-closed: SWE Fellow - Human Frontier Collective (US, UK, &amp; Canada)
-<a href="https://scale.com/careers">open the board</a>
-
-<b>Venti</b>
-+ Engineering (35)
-+ Engineering • Mississippi • Full time • On-site
-+ Senior Autonomous Vehicle Production &amp; Integration Engineer
-closed: Engineering (34)
-closed: Senior Autonomous Vehicle Engineer (Electronics)
-<a href="https://jobs.ashbyhq.com/GoVenti">open the board</a>
-
 <b>Figure AI</b>
-+ Quality Engineering Technician
-closed: Mechanical Engineer, Arms
+closed: Helix AI Engineer, Localization and Mapping
+closed: Quality Engineering Technician
 <a href="https://www.figure.ai/careers">open the board</a>
 
 <b>1X</b>
-+ Robotics Deployment Engineer
-+ Mechanical Design Engineer - Hands Structures &amp; Integration
-+ Staff Electrical Engineer - EMI/EMC
-+ Staff Electrical Engineer - Power Systems
-+ Staff Mechanical &amp; Thermal Engineer – Power Systems
-+ Staff Mechanical Engineer - Robot Mechanical Systems
-+ Staff Power Electronics Automation Engineer
++ Senior Electrical Engineer, Prototyping
++ Senior Mechanical Engineer Prototyping
+closed: Mechanical Engineer - Prototyping
+closed: Prototyping Electrical Engineer
 <a href="https://www.1x.tech/careers">open the board</a>
 
 <b>Agility Robotics</b>
-+ Brand Designer III
-+ Apply for Brand Designer III in Marketing, Remote
-closed: Principal Robotics Functional Safety Engineer
-closed: Apply for Principal Robotics Functional Safety Engineer in Hardware, Hybrid- Fremont, CA
-closed: Robotics Software Engineer I/II
-closed: Apply for Robotics Software Engineer I/II in Software Engineering, Onsite- Salem, OR
++ Senior Mechanical Engineer
++ Apply for Senior Mechanical Engineer in Hardware, Hybrid- Fremont, CA
++ Cost Engineer
++ Apply for Cost Engineer in Operations, Hybrid- Fremont, CA
++ Manager, Supplier Industrialization Engineering
++ Apply for Manager, Supplier Industrialization Engineering in Operations, Remote
+closed: Mechanical Engineer
+closed: Apply for Mechanical Engineer in Hardware, Hybrid- Fremont, CA
+closed: Mechanical Engineer II
+closed: Apply for Mechanical Engineer II in Hardware, Hybrid- Fremont, CA
+closed: Staff Systems Engineer, Functional Safety
+closed: 1 more
 <a href="https://www.agilityrobotics.com/careers">open the board</a>
 
 <b>Applied Intuition</b>
-+ Sensor Validation Engineer
+closed: Software Engineer – Infrastructure Tooling
 <a href="https://appliedintuition.com/careers">open the board</a>
 
+<b>Zoox</b>
+closed: Advanced Hardware Engineering
+closed: Automation Engineer - Compute Software Performance
+closed: Software Systems
+closed: Body Structures Engineer
+closed: CAE Engineer - Safety occupant
+closed: 6 more
+<a href="https://zoox.com/careers">open the board</a>
+
 <b>Nuro</b>
-+ Director of Engineering, Autonomy
-+ Director of Engineering, Perception
+closed: Senior Software Engineer, Collision Avoidance
 <a href="https://www.nuro.ai/careers">open the board</a>
 
-<b>Kodiak</b>
-+ Senior Mechanical Engineer
-+ Software Quality Simulation Specialist
-<a href="https://kodiak.ai/careers">open the board</a>
+<b>Verkada</b>
++ TPM (Technical Program Manager), Camera Software
+closed: Enterprise Solutions Engineer, Alberta
+<a href="https://www.verkada.com/careers/">open the board</a>
 
-<b>Intrinsic</b>
-+ Senior Research Scientist 3D Reconstruction &amp; Spatial AI
-+ Senior Research Scientist, 3D Reconstruction &amp; Spatial AI
-<a href="https://www.intrinsic.ai/careers">open the board</a>
+<b>Modular</b>
++ Cloud Inference
++ Customer Engineering
++ Cloud Inference Engineer
++ Inference Optimization Engineer
++ Backend Engineer, Multi-cloud Inference Platform - Gurveer Pahuja (R30)
+<a href="https://www.modular.com/careers">open the board</a>
 
 <b>Cerebras</b>
-closed: Systems Debug Engineer- EE
++ Sr. Data Center Network Development Engineer
+closed: Sr. Data Center Network Provisioning Engineer
 <a href="https://www.cerebras.ai/open-positions">open the board</a>
 
 <b>Tenstorrent</b>
-+ Director, Customer Hardware Engineering
-+ EDA Tools &amp; Design Automation Engineer
-closed: Staff Engineer, Post-Silicon Validation
-closed: Systems Engineering
-closed: Staff Engineer, Mechanical Design
-closed: Staff Manufacturing Engineer
-closed: Chiplet Physical Design Engineer
++ Systems Engineering
++ Sr. Engineer, Mechanical (Tooling Manager)
++ Software Engineer, Scale Out
++ Forward Deployed Engineer
++ Sr. Engineer, Silicon Enablement
+closed: Director, Customer Hardware Engineering
+closed: EDA Tools &amp; Design Automation Engineer
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
-<b>Google NYC</b>
-+ Software Engineer III, Front End
-+ Share Software Engineer III, Front End
-closed: Software Engineer III, AI/ML GenAI, Workspace Drive
-closed: Share Software Engineer III, AI/ML GenAI, Workspace Drive
-<a href="https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&amp;q=software%20engineer">open the board</a>
-
 <b>Meta NYC</b>
-+ Developer Marketing Manager
-+ Software Engineer, Product
-+ Data Engineer, Product Analytics
-+ Data Engineering
-closed: Software Engineer, Infrastructure
-closed: Software Engineer, Machine Learning
++ Full Stack Engineer, Product Risk &amp; Compliance
++ Integrity Science Engineer
+closed: Data Engineer, Product Analytics
+closed: Data Engineering
 <a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
 
 <b>Apple NYC</b>
-+ AR/VR Software Engineer, Siri and Visual Intelligence - Vision Products Software
-+ Machine Learning and AI
-+ AR/VR Software Engineer, Siri and Visual Intelligence - Vision Products Software 200696384-3956
-+ CV/ML Systems Integration Engineer
-+ CV/ML Systems Integration Engineer 200696418-3337
-+ ASIC Design &amp; Integration Engineer - Pixel IP
-+ ASIC Design &amp; Integration Engineer - Pixel IP 200696537-6205
-+ Tooling Engineer - Plastics
-+ Tooling Engineer - Plastics 200696063-0836
-closed: iPhone Analog Design Engineer
-closed: iPhone Analog Design Engineer 200696388-0836
-closed: Software Development Engineer - Test
-closed: Software Development Engineer - Test 200696408-0836
-closed: Senior iOS &amp; macOS UI Engineer, Settings
-closed: 12 more
+closed: CV/ML Systems Integration Engineer
+closed: CV/ML Systems Integration Engineer 200696418-3337
+closed: ASIC Design &amp; Integration Engineer - Pixel IP
+closed: ASIC Design &amp; Integration Engineer - Pixel IP 200696537-6205
+closed: Tooling Engineer - Plastics
+closed: 11 more
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>
+
+<b>Amazon NYC</b>
++ Software Engineer, EC2 Nitro
+closed: Software Engineer, AppSTAR COMPASS
+closed: 1+ years of software development engineer or related occupational experience
+<a href="https://www.amazon.jobs/en/search?base_query=software%20engineer&amp;loc_query=New%20York">open the board</a>

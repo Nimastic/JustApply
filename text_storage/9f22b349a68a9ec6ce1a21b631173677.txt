@@ -1,4 +1,219 @@
 Millennium Management | Grow Your Career at Millennium
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+Privacy Policy
+Cookie Policy
+Customize
+Reject All
+Accept All
+Powered by
+Customize Consent Preferences
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorized as "Strictly necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site....
+Show more
+Strictly necessary
+Always Active
+These are cookies that are essential for the operation and security of our Website.
+Cookie
+__cf_bm
+Duration
+1 hour
+Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Cookie
+cookieyes-consent
+Duration
+365 Days
+Description
+Stores the visitor’s consent ID and category choices
+Cookie
+cf_clearance
+Duration
+~1 year
+Description
+Bot/challenge clearance for the Vimeo player
+Cookie
+__cf_ob
+Duration
+Session
+Description
+Observed on the Vimeo player host during embed load
+Functional
+These are used to recognize you when you return to our Website and remember the choices you make. This enables us to personalize our content for you and remember your preferences (for example, your choice of language or region). (We also use software hosted by us to store information when a Website user logs in to our Investor Portal.)
+Cookie
+YSC
+Duration
+Session
+Description
+Ensures requests in a browsing session come from the user (security)
+Cookie
+VISITOR_PRIVACY_METADATA
+Duration
+~180 days
+Description
+Set with visitor cookies when the YouTube embed loads
+Cookie
+SOCS
+Duration
+13 months
+Description
+Stores cookie-choice state.
+Cookie
+player
+Duration
+~365 days
+Description
+Player preferences (volume, quality, captions)
+Analytics
+These cookies collect information about how you use our Website. For example, they allow us to recognize and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+Cookie
+_ga_*
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to store and count page views.
+Cookie
+_ga
+Duration
+1 year 1 month 4 days
+Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+Cookie
+_clck
+Duration
+1 year
+Description
+Microsoft Calrity persists a unique user ID for session tracking
+Cookie
+_clsk
+Duration
+1 day
+Description
+Microsoft Clarity links page views into a single session
+Cookie
+CLID
+Duration
+1 year
+Description
+Microsoft Calrity identifies first-time Clarity sessions
+Cookie
+MUID
+Duration
+1 year
+Description
+Microsoft user identifier across domains
+Cookie
+__Secure-ROLLOUT_TOKEN
+Duration
+~180 days
+Description
+Feature rollout and impact measurement
+Cookie
+vuid
+Duration
+~400 days observed
+Description
+Vimeo analytics/viewer ID
+Cookie
+_cltk
+Duration
+Session
+Description
+Microsoft Clarity session storage.
+Performance
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+No cookies to display.
+Advertising
+These cookies record information about your visit to our Website, the pages you have visited and the links you have followed. We will use these cookies to make our Website and the advertising displayed on it and other sites more relevant to your interests. We may also share this information with third parties to help create and deliver advertising personalized to you and your interests.
+Cookie
+_gcl_au
+Duration
+3 months
+Description
+Google Ads. M
+easures ad campaign performance
+Cookie
+VISITOR_INFO1_LIVE
+Duration
+~180 days
+Description
+Preferences/bandwidth estimation; Google also cites advertising use; being replaced by __Secure-YNID
+Cookie
+__Secure-YNID
+Duration
+~180 days
+Description
+Replaces VISITOR_INFO1_LIVE; preferences, analytics, and advertising
+Cookie
+_fbp
+Duration
+90 days
+Description
+Identifies the browser to support advertising measurement, audience creation, and retargeting.
+Cookie
+_fbc
+Duration
+90 days
+Description
+Stores a Meta click identifier to help attribute website activity and conversions to advertising interactions. Applicable where a Meta click identifier (fbclid) has been captured.
+Cookie
+fr
+Duration
+90 days
+Description
+Supports advertising delivery, measurement, and relevance.
+Cookie
+li_fat_id
+Duration
+30 days
+Description
+Supports conversion attribution, retargeting and measurement using a LinkedIn advertising identifier. Used with enhanced conversion tracking enabled.
+Cookie
+li_sugr
+Duration
+90 days
+Description
+Helps LinkedIn match a website visitor’s identity using probabilistic methods.
+Cookie
+UserMatchHistory
+Duration
+30 days
+Description
+Synchronises LinkedIn advertising identifiers.
+Cookie
+lms_ads
+Duration
+30 days
+Description
+Recognises LinkedIn members visiting other
+Cookie
+lms_analytics
+Duration
+30 days
+Description
+Recognises LinkedIn members visiting other websites for audience analytics.
+Cookie
+AnalyticsSyncHistory
+Duration
+30 days
+Description
+Records when synchronisation with LinkedIn's analytics cookie occurred.
+Cookie
+li_giant
+Duration
+7 days
+Description
+Supports conversion measurement using an identifier associated with groups of LinkedIn members.
+Cookie
+li_adsid
+Duration
+6 months
+Description
+LinkedIn Ads ID (browser storage). Stores a pseudonymous identifier to support conversion measurement. Applies to website traffic outside the EU, EEA, UK and Quebec.
+Reject All
+Save My Preferences
+Accept All
+Powered by
 Skip to content
 Open menu
 Approach
@@ -84,6 +299,8 @@ Investment Professionals
 Technology
 Core Infrastructure
 Students
+Please accept cookies to access this content
+Manage cookie preferences
 Approach
 People
 Leadership
@@ -103,17 +320,14 @@ Instagram
 Youtube
 Terms of Use
 Privacy Policy
+Cookie Policy
 Disclosures
 Notices
 Media Inquiries
+Do Not Sell or Share My Personal Information
 LinkedIn
 Instagram
 Youtube
 ©
 2026
 Millennium Management LLC
-This site may use cookies and other tracking tools to improve your experience on our website. By clicking “I agree,” you accept the use of these tools in accordance with our privacy policy.
-Click
-here
-to learn more.
-I agree
