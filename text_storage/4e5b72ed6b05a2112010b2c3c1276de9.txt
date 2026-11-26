@@ -3,27 +3,26 @@ You need to enable JavaScript to run this app.
 Careers
 Join a team who is pushing the envelope in the autonomous logistic industry !
 Open Positions
-(39)
+(38)
 Filters:
 Reset filters
 Department
 All Departments
-Engineering (35)
-Operations (2)
+Engineering (33)
+Operations (3)
 People (2)
 Employment Type
 All Employment Types
-Full time (22)
+Full time (21)
 Intern (16)
 Part time (1)
 Location
 All Locations
 California (3)
-Chicago (4)
-Los Angeles (1)
+Chicago (3)
 Mississippi (2)
-Singapore (34)
-Texas (3)
+Singapore (33)
+Texas (2)
 Location Type
 All Location Types
 On-site (8)
@@ -73,8 +72,6 @@ Mapping Specialist
 Engineering • Singapore • Full time
 Onsite Validation Engineer
 Engineering • California; Chicago • Full time • On-site
-Principal Robotics Engineer (Robotics Solutions & Integration)
-Engineering • Singapore; Chicago; Los Angeles; Texas • Full time
 QA Engineer Intern
 Engineering • Singapore • Intern
 Senior Autonomous Vehicle Hardware Technical Specialist
@@ -91,8 +88,6 @@ Senior Software Engineer
 Engineering • Singapore • Full time
 Senior System Quality Engineer (System)
 Engineering • Singapore • Full time
-Senior/Staff/Principal Systems Engineer
-Engineering • Singapore • Full time
 Staff Planning Research Scientist
 Engineering • Singapore • Full time
 Staff Research Scientist, Localization and Mapping
@@ -100,6 +95,8 @@ Engineering • Singapore • Full time • On-site
 System Quality Engineer
 Engineering • Singapore • Full time
 Operations
+Autonomous Vehicle Service Engineer
+Operations • Singapore • Full time
 Autonomous Vehicle Specialist
 Operations • California; Chicago; Texas • Full time • On-site
 Procurement & Supply Chain Intern

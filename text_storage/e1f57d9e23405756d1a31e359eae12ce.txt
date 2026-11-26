@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-161
+165
 jobs matched
 Clear filters
 What do you want to do?
@@ -133,7 +133,7 @@ English
 English
 Français (Canada)
 Jobs search results
-161
+165
 jobs matched
 filter_list
 Staff Software Engineer, Verification Engineering
@@ -410,35 +410,6 @@ link
 Copy link
 email
 Email a friend
-Senior Software Engineer, Infrastructure, Google Cloud AI
-corporate_fare
-Google
-place
-Sunnyvale, CA, USA
-; Kirkland, WA, USA
-; +3 more
-; +2 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Sunnyvale, CA, USA
-; Kirkland, WA, USA
-; +3 more
-; +2 more
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience with software development in C++, C, or Python.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Senior Software Engineer, Infrastructure, Google Cloud AI
-link
-Copy link
-email
-Email a friend
 Software Engineer, AI/ML, Ads Quality
 corporate_fare
 Google
@@ -468,6 +439,35 @@ corporate_fare
 Google
 place
 San Jose, CA, USA
+; San Francisco, CA, USA
+; +2 more
+; +1 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+San Jose, CA, USA
+; San Francisco, CA, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience programming in C++.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Senior Software Engineer, Infrastructure, Core
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Infrastructure, Core
+corporate_fare
+Google
+place
+San Jose, CA, USA
 ; New York, NY, USA
 bar_chart
 Mid
@@ -484,6 +484,63 @@ Bachelor’s degree or equivalent practical experience.
 Learn more
 share
 Share Senior Software Engineer, Infrastructure, Core
+link
+Copy link
+email
+Email a friend
+Senior Software Engineer, Infrastructure, Google Cloud AI
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; Kirkland, WA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; Kirkland, WA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in C++, C, or Python.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Senior Software Engineer, Infrastructure, Google Cloud AI
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Cloud Platforms
+corporate_fare
+Google
+place
+New York, NY, USA
+; Sunnyvale, CA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+; Sunnyvale, CA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++ or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Cloud Platforms
 link
 Copy link
 email
@@ -523,18 +580,18 @@ corporate_fare
 Google
 place
 Mountain View, CA, USA
-; Los Angeles, CA, USA
-; +3 more
+; New York, NY, USA
 ; +2 more
+; +1 more
 bar_chart
 Mid
 Mid
 Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
 Google |
 Mountain View, CA, USA
-; Los Angeles, CA, USA
-; +3 more
+; New York, NY, USA
 ; +2 more
+; +1 more
 Minimum qualifications
 Bachelor’s degree or equivalent practical experience.
 2 years of experience programming in C++.
@@ -570,34 +627,6 @@ Experience in one or more of the following: architecting or developing distribut
 Learn more
 share
 Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
-link
-Copy link
-email
-Email a friend
-Software Engineer III, Infrastructure, Google Cloud Platforms
-corporate_fare
-Google
-place
-New York, NY, USA
-; Sunnyvale, CA, USA
-; +2 more
-; +1 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-New York, NY, USA
-; Sunnyvale, CA, USA
-; +2 more
-; +1 more
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++ or Go.
-2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Software Engineer III, Infrastructure, Google Cloud Platforms
 link
 Copy link
 email
@@ -653,30 +682,8 @@ link
 Copy link
 email
 Email a friend
-Software Engineer III, Front End
-corporate_fare
-Google
-place
-New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
-2 years of experience with front-end and user interface development.
-Learn more
-share
-Share Software Engineer III, Front End
-link
-Copy link
-email
-Email a friend
-Showing 1 to 20 of 161 rows
-1‑20 of 161
+Showing 1 to 20 of 165 rows
+1‑20 of 165
 navigate_next
 Go to next page
 Follow Life at Google on

@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-315 Items
+323 Items
 Save this search
 Sort by
 Relevance
@@ -38,7 +38,31 @@ New York, NY
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Full Stack Engineer, Product Risk & Compliance
+Security Strategist
+Menlo Park, CA
+⋅
+New York, NY
+⋅
+Remote, US
+Security
+Engineering
+Associate General Counsel, Environmental Health & Safety, Sustainability & Hardware Compliance
+Austin, TX
+⋅
+Menlo Park, CA
+⋅
+Washington, DC
+⋅
+New York, NY
+⋅
+San Francisco, CA
+⋅
++1 more
+Global Operations
+Legal
+Backend Engineer (Technical Leadership), Central Integrity
+Bellevue, WA
+⋅
 Menlo Park, CA
 ⋅
 Washington, DC
@@ -46,26 +70,62 @@ Washington, DC
 New York, NY
 Software Engineering
 Engineering
-Integrity Science Engineer
-New York, NY
-Security
-Engineering
-Developer Marketing Manager
-Redmond, WA
+Data Scientist, Analytics (Technical Leadership)
+Remote, US
 ⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
-New York, NY
-Sales & Marketing
-Business Marketing
-Marketing
-Software Engineer Intern, Machine Learning (PhD)
-Menlo Park, CA
+Washington, DC
 ⋅
 New York, NY
-Internship - Engineering, Tech & Design
+⋅
++1 more
+Data & Analytics
+Instagram
+Messenger
+WhatsApp
+Facebook
+Facebook Reality Labs
+Analytics
+Data Science
+Software Engineer, Recommendation Systems
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+New York, NY
+Facebook
+Engineering
+Software Engineer, Machine Learning RecSys
+Sunnyvale, CA
+⋅
+San Mateo, CA
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++6 more
+Software Engineering
+Machine Learning
+Engineering
+Software Engineer, Machine Learning
+Sunnyvale, CA
+⋅
+Remote, US
+⋅
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++5 more
+Software Engineering
 Engineering
 Data Scientist, Product Analytics
 Los Angeles, CA
@@ -81,80 +141,15 @@ Seattle, WA
 +5 more
 Data & Analytics
 Analytics
-Software Engineer, Product
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
+Product Marketing Manager
 Menlo Park, CA
 ⋅
-+3 more
-Software Engineering
-Engineering
-Product Manager
-Sunnyvale, CA
+New York, NY
 ⋅
-Bellevue, WA
-⋅
-Remote, US
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+5 more
-Product Management
-Product Strategy
-Data Scientist, Product Analytics
-Sunnyvale, CA
-⋅
-Remote, US
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Austin, TX
-⋅
-+6 more
-Data & Analytics
-Data Science
-Product Manager
-Sunnyvale, CA
-⋅
-Denver, CO
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-+5 more
-AI Infrastructure
-AR/VR
-Artificial Intelligence
-Data & Analytics
-Facebook
-Facebook Reality Labs
-Generative AI
-Infrastructure
-Instagram
-Messenger
-Product Management
-WhatsApp
-Product Strategy
+San Francisco, CA
+Sales & Marketing
+Business Marketing
 Product Marketing Management
-Machine Learning
-Games
-Data Science
-Hardware
-Privacy
-Research
 Software Engineer (Technical Leadership) - Machine Learning
 Sunnyvale, CA
 ⋅
@@ -170,7 +165,7 @@ New York, NY
 Software Engineering
 Engineering
 Machine Learning
-Page 1 of 32
+Page 1 of 33
 Job Search
 Technology Teams
 Technology Teams

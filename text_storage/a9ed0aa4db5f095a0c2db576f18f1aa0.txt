@@ -108,7 +108,7 @@ Stuttgart
 Sunnyvale
 Tokyo
 Washington, D.C.
-331
+330
 Open
 Roles
 2026-2027 New Grad
@@ -131,16 +131,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Forward Deployed Engineer - New Grad (2027)
 Seoul
 Seoul
 Apply
 Forward Deployed Engineer - New Grad (2027)
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Hardware Integration Engineer - New Grad (2027)
 Sunnyvale
@@ -326,10 +326,6 @@ Stuttgart
 Stuttgart
 Apply
 Business Development
-Account Manager - London
-London
-London
-Apply
 Automotive GTM
 Sunnyvale
 Sunnyvale
@@ -337,6 +333,10 @@ Apply
 Automotive OEM Consultant
 Sunnyvale
 Sunnyvale
+Apply
+Global Account Manager
+London
+London
 Apply
 Senior Technical Business Development, EU Automotive (Sunnyvale HQ)
 Sunnyvale
@@ -356,16 +356,16 @@ Sunnyvale
 Apply
 Engineering
 Solution Engineer
-Stuttgart
-Stuttgart
+Munich
+Munich
 Apply
 Solution Engineer
 Sunnyvale
 Sunnyvale
 Apply
 Solution Engineer
-Munich
-Munich
+Stuttgart
+Stuttgart
 Apply
 Solution Engineer, Japanese Market (US-based)
 Sunnyvale
@@ -808,19 +808,19 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 Software Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Staff Software Engineer
 Sunnyvale
 Sunnyvale
 Apply
 Hardware
-21
+20
 open roles
 CAE Engineer
 Sunnyvale
@@ -891,10 +891,6 @@ Head of Drone Hardware
 Sunnyvale
 Sunnyvale
 Apply
-Head of Hardware Operations
-Sunnyvale
-Sunnyvale
-Apply
 Manager, Electrical Engineering
 Sunnyvale
 Sunnyvale
@@ -927,12 +923,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Cloud Infrastructure
-Sunnyvale
-Sunnyvale
+Munich
+Munich
 Apply
 Software Engineer - Cloud Infrastructure
-Munich
-Munich
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer - Frontend Platform
 Sunnyvale
@@ -946,16 +942,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Legal Counsel - EMEA
+London
+London
+Apply
+Legal Counsel - EMEA
 Stuttgart
 Stuttgart
 Apply
 Legal Counsel - EMEA
 Munich
 Munich
-Apply
-Legal Counsel - EMEA
-London
-London
 Apply
 Legal Counsel, Government and Defense
 Washington, D.C.
@@ -966,16 +962,16 @@ Sunnyvale
 Sunnyvale
 Apply
 Regulatory Counsel
+London
+London
+Apply
+Regulatory Counsel
 Munich
 Munich
 Apply
 Regulatory Counsel
 Stuttgart
 Stuttgart
-Apply
-Regulatory Counsel
-London
-London
 Apply
 Safety Programs Lead
 Sunnyvale
@@ -1039,16 +1035,16 @@ Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Sunnyvale
-Sunnyvale
+Ann Arbor
+Ann Arbor
 Apply
 IT Operations Engineer
 Sunnyvale
 Sunnyvale
 Apply
 IT Operations Engineer
-Ann Arbor
-Ann Arbor
+Sunnyvale
+Sunnyvale
 Apply
 Network Manager
 Sunnyvale
@@ -1155,12 +1151,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Engineer - Controls
-Sunnyvale
-Sunnyvale
+Tokyo
+Tokyo
 Apply
 Software Engineer - Controls
-Tokyo
-Tokyo
+Sunnyvale
+Sunnyvale
 Apply
 Software Engineer Low Speed Motion Planning & Control Planning
 Stuttgart
@@ -1367,12 +1363,12 @@ Sunnyvale
 Sunnyvale
 Apply
 Software Integration Engineer
-Stockholm
-Stockholm
+Tokyo
+Tokyo
 Apply
 Software Integration Engineer
-Tokyo
-Tokyo
+Stockholm
+Stockholm
 Apply
 Solution Engineer
 Tokyo

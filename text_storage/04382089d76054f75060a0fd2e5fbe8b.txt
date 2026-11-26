@@ -1,4 +1,17 @@
 Careers at Figma
+This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. Our use of some cookies may be considered a sale, sharing for behavioral advertising, or targeted advertising. For more, see our
+privacy policy.
+California Residents:
+learn how personal information is
+collected
+, including how it is
+used
+, whether it is
+“sold” or “shared”
+, and how long it is
+retained
+.
+Opt-Out
 Skip to main content
 Products
 What you can do in figma
@@ -161,7 +174,6 @@ Manager, Strategic Finance
 Strategic Finance
 Customer Operations and Support
 Business Systems Analyst
-Manager, Technical Support (London, United Kingdom)
 Product Support Specialist (Bengaluru, India)
 Support Engineer, AI Infrastructure & Tooling
 Technical Operations & Insights Analyst
@@ -232,12 +244,10 @@ Senior Counsel (London, United Kingdom)
 Marketing
 Brand Designer, Web
 Content Strategist, Product
-Corporate Communications Manager
 Creative Director, Brand Experience
 Demand Generation Campaign Manager
 Designer Advocate (Berlin, Germany)
 Developer Advocate, Payload
-Executive Assistant, Growth Marketing
 Executive Communications Manager
 Video Strategist
 People
@@ -245,7 +255,6 @@ Director, People Partners - Product, Design & Engineering
 Executive Assistant, People
 People Partner
 Product
-Manager, Product Management - Figma Platform Experience
 Product Manager, AI Growth
 Product Manager, Billing
 Product Manager, Collaboration Tools
@@ -255,7 +264,6 @@ Account Executive, Enterprise
 Account Executive, Enterprise (Bengaluru, India)
 Account Executive, Enterprise (Berlin, Germany)
 Account Executive, Enterprise (London, United Kingdom)
-Account Executive, Enterprise, Mandarin Speaking (Singapore)
 Account Executive, Enterprise (São Paulo, Brazil)
 Account Executive, Enterprise (Tokyo, Japan)
 Account Executive, Mid-Market
@@ -394,4 +402,5 @@ Customers
 Careers
 Newsroom
 Brand assets
+Do Not Sell/Share My Personal Info + Opt-Out
 English

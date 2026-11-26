@@ -252,7 +252,7 @@ Senior/Staff Safety Standards Engineer
 Mountain View, California (HQ)
 Full-Time
 Software & Systems
-83
+82
 AI Platform General
 Senior/Staff Software Engineer, AI Agent Infrastructure
 Mountain View, California (HQ)
@@ -467,9 +467,6 @@ Director of AI Data Operations
 Mountain View, California (HQ)
 Full-Time
 Project Manager, Data Quality
-Mountain View, California (HQ)
-Full-Time
-Senior Program Manager, Compliance Reporting
 Mountain View, California (HQ)
 Full-Time
 Senior Program Manager, Perception Data Operations

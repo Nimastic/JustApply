@@ -91,14 +91,14 @@ Operations, IT, & Support Engineering
 18 jobs
 Hardware Development
 (
-7
-)
-7 jobs
-Administrative Support
-(
 6
 )
 6 jobs
+Administrative Support
+(
+5
+)
+5 jobs
 more
 Skip to job results
 Country/Region
@@ -112,19 +112,19 @@ United States
 500+ jobs
 India
 (
-276
+273
 )
-276 jobs
+273 jobs
 Canada
 (
-106
+109
 )
-106 jobs
+109 jobs
 Israel
 (
-50
+49
 )
-50 jobs
+49 jobs
 Ireland
 (
 42
@@ -242,44 +242,44 @@ Washington
 500+ jobs
 California
 (
-315
+314
 )
-315 jobs
+314 jobs
 Karnataka
 (
-167
+165
 )
-167 jobs
+165 jobs
 Virginia
 (
-151
+152
 )
-151 jobs
+152 jobs
 Texas
 (
-149
+146
 )
-149 jobs
+146 jobs
 New York
 (
-118
+117
 )
-118 jobs
+117 jobs
 Telangana
 (
-91
+90
 )
-91 jobs
+90 jobs
 Massachusetts
 (
-86
+85
 )
-86 jobs
+85 jobs
 British Columbia
 (
-62
+63
 )
-62 jobs
+63 jobs
 Colorado
 (
 49
@@ -287,9 +287,9 @@ Colorado
 49 jobs
 Ontario
 (
-44
+46
 )
-44 jobs
+46 jobs
 Tel Aviv
 (
 32
@@ -297,24 +297,24 @@ Tel Aviv
 32 jobs
 Haifa
 (
-25
+24
 )
-25 jobs
-Tamil Nadu
-(
-22
-)
-22 jobs
+24 jobs
 Sao Paulo
 (
 21
 )
 21 jobs
+Tamil Nadu
+(
+20
+)
+20 jobs
 New Jersey
 (
-18
+17
 )
-18 jobs
+17 jobs
 Minnesota
 (
 14
@@ -325,11 +325,6 @@ Western Cape
 12
 )
 12 jobs
-Haryana
-(
-11
-)
-11 jobs
 Maryland
 (
 11
@@ -340,6 +335,11 @@ New South Wales
 11
 )
 11 jobs
+Haryana
+(
+10
+)
+10 jobs
 Oregon
 (
 9
@@ -410,11 +410,6 @@ Pomeranian Voivodeship
 4
 )
 4 jobs
-Uttar Pradesh
-(
-4
-)
-4 jobs
 Wisconsin
 (
 4
@@ -426,6 +421,11 @@ Ile-de-France
 )
 3 jobs
 Saxony
+(
+3
+)
+3 jobs
+Uttar Pradesh
 (
 3
 )
@@ -532,24 +532,24 @@ Seattle
 500+ jobs
 Redmond
 (
-210
+208
 )
-210 jobs
+208 jobs
 Bengaluru
 (
-167
+165
 )
-167 jobs
+165 jobs
 Austin
 (
-130
+127
 )
-130 jobs
+127 jobs
 New York
 (
-118
+117
 )
-118 jobs
+117 jobs
 Bellevue
 (
 107
@@ -562,14 +562,14 @@ Arlington
 101 jobs
 Hyderabad
 (
-91
+90
 )
-91 jobs
+90 jobs
 Cupertino
 (
-82
+84
 )
-82 jobs
+84 jobs
 Santa Clara
 (
 79
@@ -577,25 +577,25 @@ Santa Clara
 79 jobs
 Herndon
 (
-68
+69
 )
-68 jobs
+69 jobs
 Vancouver
 (
-62
+63
 )
-62 jobs
+63 jobs
 Sunnyvale
 (
-57
+55
 )
-57 jobs
-Denver
-(
-44
-)
-44 jobs
+55 jobs
 Toronto
+(
+46
+)
+46 jobs
+Denver
 (
 44
 )
@@ -607,9 +607,9 @@ Dublin
 42 jobs
 Boston
 (
-37
+36
 )
-37 jobs
+36 jobs
 North Reading
 (
 36
@@ -627,14 +627,9 @@ San Diego
 26 jobs
 Haifa
 (
-25
+24
 )
-25 jobs
-Chennai
-(
-22
-)
-22 jobs
+24 jobs
 Sao Paulo
 (
 21
@@ -645,6 +640,11 @@ Westborough
 21
 )
 21 jobs
+Chennai
+(
+20
+)
+20 jobs
 London
 (
 19
@@ -685,11 +685,6 @@ Cape Town
 12
 )
 12 jobs
-Newark
-(
-12
-)
-12 jobs
 Cambridge
 (
 11
@@ -700,7 +695,7 @@ Culver City
 11
 )
 11 jobs
-Gurugram
+Newark
 (
 11
 )
@@ -715,6 +710,11 @@ Sydney
 11
 )
 11 jobs
+Gurugram
+(
+10
+)
+10 jobs
 Portland
 (
 9
@@ -865,11 +865,6 @@ Dresden
 3
 )
 3 jobs
-Hawthorne
-(
-3
-)
-3 jobs
 Houston
 (
 3
@@ -915,12 +910,12 @@ Bucharest
 2
 )
 2 jobs
-Chandausi Sub-District
+El Segundo
 (
 2
 )
 2 jobs
-El Segundo
+Hawthorne
 (
 2
 )
@@ -986,6 +981,11 @@ Canberra
 )
 1 job
 Carrollton
+(
+1
+)
+1 job
+Chandausi Sub-District
 (
 1
 )
@@ -1071,14 +1071,14 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-329
+326
 )
-329 jobs
+326 jobs
 Amazon Ads
 (
-96
+94
 )
-96 jobs
+94 jobs
 Amazon Security
 (
 88
@@ -1086,9 +1086,9 @@ Amazon Security
 88 jobs
 eCommerce Foundation
 (
-70
+72
 )
-70 jobs
+72 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -1101,13 +1101,13 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-59
+58
 )
-59 jobs
+58 jobs
 Skip to job results
 CATEGORY
-(3 shown)
-CATEGORY (3 shown) filters
+(4 shown)
+CATEGORY (4 shown) filters
 Corporate
 (
 500+
@@ -1119,6 +1119,11 @@ Student Programs
 )
 61 jobs
 Fulfillment Center
+(
+1
+)
+1 job
+Customer Service
 (
 1
 )
@@ -1202,6 +1207,19 @@ Posted October 19, 2026
 12+ years of non-internship professional software development experience 8+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience as a mentor, tech lead or leading an engineering team 12+ years of programming with at least one software programming language experience
 ...Read more
 5
+Embedded Software Engineer, Ring
+Locations
+Cambridge, GBR
+|
+Job ID: 10572329
+Posted October  7, 2026
+(Updated 2 days ago)
+Basic qualifications:
+Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+Experience in professional, non-internship software development
+Experience in embedded development in C/C++
+...Read more
 Software Engineer I
 Locations
 San Francisco, CA, USA
@@ -1209,7 +1227,7 @@ San Francisco, CA, USA
 |
 Job ID: 10608848
 Posted November 18, 2026
-(Updated 7 days ago)
+(Updated 8 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience programming with at least one software programming language
@@ -1221,64 +1239,51 @@ Proven ability with thinking though and delivering quality user experiences.
 ...Read more
 Embedded Software Engineer, Ring
 Locations
-Cambridge, GBR
+Gdansk, POL
 |
-Job ID: 10572329
-Posted October  7, 2026
-(Updated about 23 hours ago)
+Job ID: 3203075
+Posted March 12, 2026
+(Updated 8 days ago)
 Basic qualifications:
-Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
-Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
-Experience in professional, non-internship software development
-Experience in embedded development in C/C++
+BA/BS degree in Computer Science, Computer Engineering, Electrical Engineering or related field, or equivalent practical experience
+Extensive experience in computer architecture and embedded wireless systems
+Extensive embedded development experience in C or C++
+Familiarity and experience with ARM CPUs
+Extensive experience with writing low-level drivers, interrupt service routines and general troubleshooting/debugging with hardware
 ...Read more
-Software Engineer - Simulation, Fauna
+Embedded Software Engineer, Graviton
 Locations
-New York, NY, USA
+Tel Aviv, ISR
 |
-Job ID: 10581340
-Posted October 16, 2026
-(Updated 7 days ago)
+Job ID: 10599728
+Posted November  9, 2026
+(Updated 17 days ago)
 Basic qualifications:
-3+ years of non-internship professional software development experience
-Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
-Experience programming with at least one modern language such as Python, Ruby, Golang, Java, C++, C#, Rust
-Experience developing robotics software, simulation systems, real-time applications, or scalable data pipelines.
-2+ years of non-internship experience designing or architecting new and existing systems, including design patterns, reliability, and scaling.
+Bachelor's degree in computer science, electrical engineering, or related field
+Experience in embedded development in C/C++, or experience writing low level drivers
+Knowledge and good understanding of HW, SW and the entire System view
+2+ years of embedded firmware development experience
 ...Read more
-Software Engineer, EC2 Nitro
+Embedded Software Engineer, Graviton
 Locations
-Seattle, WA, USA
+Tel Aviv, ISR
 |
-Job ID: 10430582
-Posted May 26, 2026
-(Updated 12 days ago)
+Job ID: 10570339
+Posted October  6, 2026
+(Updated 22 days ago)
 Basic qualifications:
-3+ years of non-internship professional software development experience
-2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
-Experience programming with at least one software programming language
-...Read more
-Software Engineer I, Commerce
-Locations
-San Francisco, CA, USA
-+2 other locations
-|
-Job ID: 10599912
-Posted November 11, 2026
-(Updated 14 days ago)
-Basic qualifications:
-Experience in professional software development
-Prior experience building consumer-facing products at scale
-Proficient coding skills in modern languages and frameworks such as Go, React, Kotlin, Swift, Objective-C etc
-Proven ability with thinking though and delivering quality user experiences.
-Minimum of Bachelor’s degree in Computer Science or equivalent experience
+Bachelor's degree in computer science, electrical engineering, or related field
+5+ years of software development experience
+Experience in embedded development in C/C++, or experience writing low level drivers
+4+ years of embedded firmware development experience
+Knowledge and good understanding of HW, SW and the entire System view
 ...Read more
 10
 1
 2
 3
 ...
-217
+216
 Load more jobs
 Filter by
 Reset
@@ -1330,14 +1335,14 @@ Operations, IT, & Support Engineering
 18 jobs
 Hardware Development
 (
-7
-)
-7 jobs
-Administrative Support
-(
 6
 )
 6 jobs
+Administrative Support
+(
+5
+)
+5 jobs
 more
 Skip to job results
 Country/Region
@@ -1351,19 +1356,19 @@ United States
 500+ jobs
 India
 (
-276
+273
 )
-276 jobs
+273 jobs
 Canada
 (
-106
+109
 )
-106 jobs
+109 jobs
 Israel
 (
-50
+49
 )
-50 jobs
+49 jobs
 Ireland
 (
 42
@@ -1481,44 +1486,44 @@ Washington
 500+ jobs
 California
 (
-315
+314
 )
-315 jobs
+314 jobs
 Karnataka
 (
-167
+165
 )
-167 jobs
+165 jobs
 Virginia
 (
-151
+152
 )
-151 jobs
+152 jobs
 Texas
 (
-149
+146
 )
-149 jobs
+146 jobs
 New York
 (
-118
+117
 )
-118 jobs
+117 jobs
 Telangana
 (
-91
+90
 )
-91 jobs
+90 jobs
 Massachusetts
 (
-86
+85
 )
-86 jobs
+85 jobs
 British Columbia
 (
-62
+63
 )
-62 jobs
+63 jobs
 Colorado
 (
 49
@@ -1526,9 +1531,9 @@ Colorado
 49 jobs
 Ontario
 (
-44
+46
 )
-44 jobs
+46 jobs
 Tel Aviv
 (
 32
@@ -1536,24 +1541,24 @@ Tel Aviv
 32 jobs
 Haifa
 (
-25
+24
 )
-25 jobs
-Tamil Nadu
-(
-22
-)
-22 jobs
+24 jobs
 Sao Paulo
 (
 21
 )
 21 jobs
+Tamil Nadu
+(
+20
+)
+20 jobs
 New Jersey
 (
-18
+17
 )
-18 jobs
+17 jobs
 Minnesota
 (
 14
@@ -1564,11 +1569,6 @@ Western Cape
 12
 )
 12 jobs
-Haryana
-(
-11
-)
-11 jobs
 Maryland
 (
 11
@@ -1579,6 +1579,11 @@ New South Wales
 11
 )
 11 jobs
+Haryana
+(
+10
+)
+10 jobs
 Oregon
 (
 9
@@ -1649,11 +1654,6 @@ Pomeranian Voivodeship
 4
 )
 4 jobs
-Uttar Pradesh
-(
-4
-)
-4 jobs
 Wisconsin
 (
 4
@@ -1665,6 +1665,11 @@ Ile-de-France
 )
 3 jobs
 Saxony
+(
+3
+)
+3 jobs
+Uttar Pradesh
 (
 3
 )
@@ -1771,24 +1776,24 @@ Seattle
 500+ jobs
 Redmond
 (
-210
+208
 )
-210 jobs
+208 jobs
 Bengaluru
 (
-167
+165
 )
-167 jobs
+165 jobs
 Austin
 (
-130
+127
 )
-130 jobs
+127 jobs
 New York
 (
-118
+117
 )
-118 jobs
+117 jobs
 Bellevue
 (
 107
@@ -1801,14 +1806,14 @@ Arlington
 101 jobs
 Hyderabad
 (
-91
+90
 )
-91 jobs
+90 jobs
 Cupertino
 (
-82
+84
 )
-82 jobs
+84 jobs
 Santa Clara
 (
 79
@@ -1816,25 +1821,25 @@ Santa Clara
 79 jobs
 Herndon
 (
-68
+69
 )
-68 jobs
+69 jobs
 Vancouver
 (
-62
+63
 )
-62 jobs
+63 jobs
 Sunnyvale
 (
-57
+55
 )
-57 jobs
-Denver
-(
-44
-)
-44 jobs
+55 jobs
 Toronto
+(
+46
+)
+46 jobs
+Denver
 (
 44
 )
@@ -1846,9 +1851,9 @@ Dublin
 42 jobs
 Boston
 (
-37
+36
 )
-37 jobs
+36 jobs
 North Reading
 (
 36
@@ -1866,14 +1871,9 @@ San Diego
 26 jobs
 Haifa
 (
-25
+24
 )
-25 jobs
-Chennai
-(
-22
-)
-22 jobs
+24 jobs
 Sao Paulo
 (
 21
@@ -1884,6 +1884,11 @@ Westborough
 21
 )
 21 jobs
+Chennai
+(
+20
+)
+20 jobs
 London
 (
 19
@@ -1924,11 +1929,6 @@ Cape Town
 12
 )
 12 jobs
-Newark
-(
-12
-)
-12 jobs
 Cambridge
 (
 11
@@ -1939,7 +1939,7 @@ Culver City
 11
 )
 11 jobs
-Gurugram
+Newark
 (
 11
 )
@@ -1954,6 +1954,11 @@ Sydney
 11
 )
 11 jobs
+Gurugram
+(
+10
+)
+10 jobs
 Portland
 (
 9
@@ -2104,11 +2109,6 @@ Dresden
 3
 )
 3 jobs
-Hawthorne
-(
-3
-)
-3 jobs
 Houston
 (
 3
@@ -2154,12 +2154,12 @@ Bucharest
 2
 )
 2 jobs
-Chandausi Sub-District
+El Segundo
 (
 2
 )
 2 jobs
-El Segundo
+Hawthorne
 (
 2
 )
@@ -2225,6 +2225,11 @@ Canberra
 )
 1 job
 Carrollton
+(
+1
+)
+1 job
+Chandausi Sub-District
 (
 1
 )
@@ -2310,14 +2315,14 @@ Amazon Web Services
 500+ jobs
 Alexa and Amazon Devices
 (
-329
+326
 )
-329 jobs
+326 jobs
 Amazon Ads
 (
-96
+94
 )
-96 jobs
+94 jobs
 Amazon Security
 (
 88
@@ -2325,9 +2330,9 @@ Amazon Security
 88 jobs
 eCommerce Foundation
 (
-70
+72
 )
-70 jobs
+72 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -2340,13 +2345,13 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-59
+58
 )
-59 jobs
+58 jobs
 Skip to job results
 CATEGORY
-(3 shown)
-CATEGORY (3 shown) filters
+(4 shown)
+CATEGORY (4 shown) filters
 Corporate
 (
 500+
@@ -2358,6 +2363,11 @@ Student Programs
 )
 61 jobs
 Fulfillment Center
+(
+1
+)
+1 job
+Customer Service
 (
 1
 )

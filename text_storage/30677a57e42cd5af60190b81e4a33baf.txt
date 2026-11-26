@@ -195,28 +195,28 @@ Data Scientist - Macro
 London
 View opportunity
 Data Scientist - Market Data
+Hong Kong
+View opportunity
+Data Scientist - Market Data
 London
 View opportunity
 Data Scientist - Market Data
 Paris
-View opportunity
-Data Scientist - Market Data
-Hong Kong
 View opportunity
 Data Scientist - Options
 Paris
 View opportunity
 Data Support Engineer
-Sydney
-View opportunity
-Data Support Engineer
 London
 View opportunity
-Data Support Specialist
-New York
+Data Support Engineer
+Sydney
 View opportunity
 Data Support Specialist
 Paris
+View opportunity
+Data Support Specialist
+New York
 View opportunity
 DevOps Engineer
 Hong Kong
@@ -229,6 +229,9 @@ London
 View opportunity
 Digital Assets - Quantitative Trader
 Singapore
+View opportunity
+Disaster Recovery (DR) Lead – EMEA
+London
 View opportunity
 End User Computing Engineer
 Hong Kong
@@ -346,10 +349,10 @@ Network SRE - Cloud
 Singapore
 View opportunity
 Network SRE - Cloud
-London
+Hong Kong
 View opportunity
 Network SRE - Cloud
-Hong Kong
+London
 View opportunity
 Operations Analyst – Energy Trading
 Sydney
@@ -373,10 +376,10 @@ Production Support Engineer - AI & LLM
 Wrocław
 View opportunity
 Production Support Engineer — LLM Platform
-Singapore
+Hong Kong
 View opportunity
 Production Support Engineer — LLM Platform
-Hong Kong
+Singapore
 View opportunity
 Production Support Engineer (Risk and P&L)
 Hong Kong
@@ -403,13 +406,13 @@ Quantitative Developer - C#
 Hong Kong
 View opportunity
 Quantitative Developer - C++
-Shanghai
+London
 View opportunity
 Quantitative Developer - C++
 Singapore
 View opportunity
 Quantitative Developer - C++
-London
+Shanghai
 View opportunity
 Quantitative Developer - C++
 Paris
@@ -442,13 +445,13 @@ Quantitative Developer - Production
 Hong Kong
 View opportunity
 Quantitative Developer - Python
-London
+Hong Kong
 View opportunity
 Quantitative Developer - Python
 Aarhus
 View opportunity
 Quantitative Developer - Python
-Hong Kong
+London
 View opportunity
 Quantitative Developer - Python
 London
@@ -463,16 +466,16 @@ Quantitative Production Strategist
 Paris
 View opportunity
 Quantitative Researcher
-Paris
-View opportunity
-Quantitative Researcher
-Dubai
-View opportunity
-Quantitative Researcher
 Zurich
 View opportunity
 Quantitative Researcher
+Paris
+View opportunity
+Quantitative Researcher
 Mumbai
+View opportunity
+Quantitative Researcher
+Dubai
 View opportunity
 Quantitative Researcher (Japan Power)
 Sydney
@@ -494,13 +497,13 @@ Shanghai
 Singapore
 View opportunity
 Quantitative Strategist
+Hong Kong
+View opportunity
+Quantitative Strategist
 Paris
 View opportunity
 Quantitative Strategist
 London
-View opportunity
-Quantitative Strategist
-Hong Kong
 View opportunity
 Quant Signals External Contributors
 View opportunity
@@ -564,10 +567,10 @@ Senior Low-Latency C++ Software Engineer
 New York
 View opportunity
 Senior Network Engineer
-Shanghai
+Singapore
 View opportunity
 Senior Network Engineer
-Singapore
+Shanghai
 View opportunity
 Senior Network Engineer
 Hong Kong
@@ -576,10 +579,10 @@ Senior Network Infrastructure Engineer
 London
 View opportunity
 Senior Product Security Engineer
-London
+Hong Kong
 View opportunity
 Senior Product Security Engineer
-Hong Kong
+London
 View opportunity
 Senior Quantitative Developer - Python
 Dubai
@@ -615,16 +618,16 @@ Software Engineer
 Paris
 View opportunity
 Software Engineer - Data Lifecycle
-London
-View opportunity
-Software Engineer - Data Lifecycle
 Amsterdam
 View opportunity
-Software Engineer - Data & Lifecycle (Derivatives)
+Software Engineer - Data Lifecycle
 London
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
+View opportunity
+Software Engineer - Data & Lifecycle (Derivatives)
+London
 View opportunity
 Software Engineer - Data & Lifecycle (Equities/CA)
 London
@@ -648,13 +651,13 @@ Software Engineer – Risk
 London
 View opportunity
 Software Engineer – Site Reliability Engineering
-London
+Paris
 View opportunity
 Software Engineer – Site Reliability Engineering
 Amsterdam
 View opportunity
 Software Engineer – Site Reliability Engineering
-Paris
+London
 View opportunity
 Software Engineer – Systems & Infrastructure
 Paris

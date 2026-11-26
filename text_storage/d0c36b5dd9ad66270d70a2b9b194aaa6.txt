@@ -209,11 +209,6 @@ Software
 As a Software Engineer on the Data Infrastructure team, you will be responsible for designing, building, and maintaining the data infrastructure that powers our cutting-edge robotics systems. Your software will enable design, development, and operational robotic workflows, integrating with Kubernetes based cloud and on-device services. This includes the systems that collect and process data from our robots in the real world, and feed that data into our machine learning pipelines to train and evaluate the models that make our robots intelligent.
 You will collaborate with a passionate Product and Engineering team creating software that enables fleets of robots to build better.
 Apply now
-Software Engineer, Perception
-Singapore
-Software
-As a Software Engineer in the Perception team,  you will apply your strong skills in software engineering, deep learning, 3D computer vision to implement, optimize and deploy robust and reliable perception capabilities for industrial robots. You will be instrumental in developing and deploying advanced AI models for object detection, object pose estimation, 3D reconstruction, and grasping. Your work will enable robots to intelligently interact with their environment in real-world industrial settings, translating cutting-edge deep learning research into robust, deployable solutions that make industrial robotics more intelligent and accessible.
-Apply now
 There are no matches for the searches/filters you have applied. Please try removing some filters and/or other search terms.
 Don't see an open role that fits what you’re looking for?
 You can still express your interest and send us your resume for any of the functional areas below.

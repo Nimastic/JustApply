@@ -1,4 +1,6 @@
 Careers | Luma
+New: Brand Kit & Character Library →
+It’s here! Luma is now in Claude and ChatGPT →
 Luma company logo
 Product
 Pricing
@@ -47,7 +49,7 @@ Catered Lunch
 Commuter Benefits
 Wellness
 Opportunities
-10
+9
 open
 roles
 We're looking for people who are excited to build what's next — from research and systems engineering to design and product.
@@ -68,8 +70,6 @@ GTM Delivery Lead, North America
 Redwood City, CA
 Sales Executive
 Munich, GER
-Sales Executive
-Riyadh, KSA
 Product & Engineering
 Dream Lab
 Editor + Motion Graphics

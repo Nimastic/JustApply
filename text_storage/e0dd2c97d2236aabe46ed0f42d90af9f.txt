@@ -85,8 +85,8 @@ Type
 LOCATION
 All Locations
 London
-New York
 Hong Kong
+New York
 Singapore
 Chicago
 Austin
@@ -138,8 +138,8 @@ Type
 LOCATION
 All Locations
 London
-New York
 Hong Kong
+New York
 Singapore
 Chicago
 Austin

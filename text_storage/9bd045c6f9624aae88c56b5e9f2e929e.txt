@@ -27,29 +27,28 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Systems Engineering
-Mechanical
-Sr. Engineer, Mechanical (Tooling Manager)
-新北市, New Taipei City, Taiwan
+Silicon
+Mixed Signal Design
+Mixed Signal IC Layout Engineer
+Santa Clara, California, United States
 Apply
-Systems Engineering
-Si Val/Qual
-Technical Program Manager, Systems Enablement - AI Systems
-Toronto, Ontario, Canada
-Apply
-AI SW
-Scale Out
-Software Engineer, Scale Out
-Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+Systems Engineering: Product
+Product Manager - Developer Systems
+Santa Clara, California, United States; Toronto, Ontario, Canada
 Apply
 Systems Engineering
 Forward Deployed Engineer
 Tokyo, Japan
 Apply
-Systems Engineering
-Si Val/Qual
-Sr. Engineer, Silicon Enablement
-Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
+Silicon
+Physical Design
+Physical Design Engineer - STA
+Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
+Apply
+Architecture
+Design Verification
+Midcore Design Verification Engineer
+Santa Clara, California, United States; Spain
 Apply
 Show all postings
 Open Future

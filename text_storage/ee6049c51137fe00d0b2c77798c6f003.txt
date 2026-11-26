@@ -245,7 +245,13 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-204 Open Roles
+203 Open Roles
+ROLE
+Macro and Alternatives Trade Support Associate
+FOCUS
+Trade Support & Reporting
+LOCATION
+Stamford
 ROLE
 Software Engineer, PMRA Systems
 FOCUS
@@ -727,12 +733,6 @@ Operations
 LOCATION
 Bengaluru, India
 ROLE
-Quant Library Developer, Macro Technology
-FOCUS
-Quant Tech Strategy
-LOCATION
-New York   |   London
-ROLE
 Procurement Specialist
 FOCUS
 Finance & Accounting
@@ -1026,12 +1026,6 @@ FOCUS
 Point72 Academy
 LOCATION
 New York   |   San Francisco   |   Chicago   |   West Palm Beach / Miami
-ROLE
-2027 Point72 Academy Investment Analyst Summer Internship Program - Japan
-FOCUS
-Point72 Academy
-LOCATION
-Tokyo
 ROLE
 SDLC Engineer
 FOCUS

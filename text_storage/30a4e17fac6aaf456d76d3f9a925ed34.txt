@@ -30,7 +30,6 @@ GLM 5.3
 GLM 5.3 Flash
 MiniMax M3.1 Flash
 MiniMax M3
-GLM 5.3
 Your own model
 View all models
 Day 0 access
@@ -111,11 +110,9 @@ Corporate perks
 Current Job Openings
 Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
 All
-(30)
+(29)
 Mojo
-(16)
-Cloud Inference
-(2)
+(17)
 Product Management
 (3)
 Customer Engineering
@@ -127,9 +124,6 @@ Developer Relations
 Technical Program Management
 (3)
 Principal Mojo Libraries Engineer
-United States / Canada · Remote
-Apply now
-Cloud Inference Engineer
 United States / Canada · Remote
 Apply now
 AI Cloud Product Manager
@@ -169,13 +163,13 @@ AI Runtime Engineer
 Edinburgh · Hybrid
 Apply now
 Staff Mojo Back-End Compiler Engineer
-Remote · Remote
+United States / Canada / Europe · Remote
 Apply now
 Staff ASIC Kernel Engineer
 Europe · Remote
 Apply now
 Senior Staff Mojo Debugger Engineer
-Remote · Remote
+United States · Remote
 Apply now
 Technical Program Manager, Platform Engineering
 SF Bay Area · Remote
@@ -213,8 +207,8 @@ Apply now
 Technical Program Manager, Cloud Inference
 United States / Canada · Remote
 Apply now
-Backend Engineer, Multi-cloud Inference Platform - Gurveer Pahuja (R30)
-United States / Canada · Remote
+Senior AI Graph Compiler Engineer
+United Kingdom · Hybrid
 Apply now
 What you expect from the interview
 Modular has a straight-forward interview process and a large majority of the roles follow the same steps:

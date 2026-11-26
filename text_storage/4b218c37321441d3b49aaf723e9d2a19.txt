@@ -170,6 +170,12 @@ Duration
 6 hours
 Description
 This cookie holds the referral data for the current visitor.
+Cookie
+wd_source
+Duration
+30 days
+Description
+Records which channel (for example a search engine, job board, social network or advert) brought you to our site. If you apply for a role, this channel code is passed to our recruitment system (Workday) and stored with your application. It contains only a channel code, not any personal information or advertising identifiers.
 Performance
 Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
 Cookie
@@ -259,6 +265,7 @@ Career guides
 Relocation
 Contact
 Vacancies
+Explore career opportunities at G-Research in London, spanning quantitative research, machine learning, engineering, security and corporate functions.
 Close filters
 Specialism
 Business Management
@@ -272,32 +279,32 @@ London
 Clear
 Apply Filters
 Business Management
-Liquidity Program Manager
+HR Placement Year
+London
+Technology Operations Manager
 London
 Security Operations and Risk Analyst
 London
 Talent Acquisition Specialist
 London
-HR Placement Year
-London
-Technology Operations Manager
+Liquidity Program Manager
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Placement Year
-London
 Security Operations Centre Manager
 London
 Security Operations Analyst
 London
-Elastic Security Engineer (Contract)
+Security Operations Placement Year
 London
-Security Assurance Specialist
+Elastic Security Engineer (Contract)
 London
 Senior Red Team Operator
 London
 Red Team Operations Manager
+London
+Security Assurance Specialist
 London
 Chief Business Risk Officer
 London
@@ -308,17 +315,17 @@ London
 Elastic Security Engineer (Contract)
 London
 Infrastructure Engineering
-Linux Platform Engineer
-London
 OpenStack Engineer (Contractor)
 London
 Infrastructure Software Engineering Internship
 London
-Network Engineer
+Linux Platform Engineer
 London
 Platform Engineering Manager
 London
 Platform Engineer
+London
+Network Engineer
 London
 Network Security Engineer (Contract)
 London
@@ -339,25 +346,25 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
-Data Science Internship
-London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
 Quant Research Internship
 London
-Quantitative Analyst
+Data Science Internship
 London
-Machine Learning Researcher
+Natural Language Processing Researcher
+London
+Quantitative Analyst
 London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
-Natural Language Processing Researcher
-London
 Quantitative Researcher – Postgraduate
+London
+Machine Learning Researcher
 London
 Quantitative Analyst
 London
@@ -376,27 +383,27 @@ Software Engineer
 London
 Data Software Engineer
 London
-Software Engineer — Observability Instrumentation
-London
 Rust Software Engineer (Contract)
 London
 NLP Performance Engineer
 London
-Applied AI Engineer
+Software Engineer — Observability Instrumentation
 London
 Core AI Engineer
+London
+Applied AI Engineer
 London
 Research Engineer
 London
 Engineering Manager
-London
-Observability Engineer
 London
 Machine Learning Engineer
 London
 Software Engineer – Compute Orchestration
 London
 Machine Learning Workflow Engineer
+London
+Observability Engineer
 London
 Performance Engineering Manager
 London
@@ -438,6 +445,65 @@ privacy policy
 . You can unsubscribe at anytime.
 Do you agree for G-Research to contact you?
 By clicking submit below, you consent to allow G-Research to store and process the personal information submitted here in order to provide you with the updates requested.
+Our teams
+Not sure which role is right for you? Learn how our teams work across research, engineering, technology innovation and open source, then use our vacancies to find the opportunities that match your skills.
+slide
+7 to 8
+of 4
+Technology Innovation Group
+Exploring what’s next. We scout, test and integrate the latest technologies, ensuring our teams stay at the forefront of what’s possible.
+Read more
+Open-source software
+Driving results through collaboration. We partner with and contribute to the open-source community, building world-class tools that benefit our research and the wider world.
+Read more
+Quantitative research and machine learning
+A home for curious minds. We find patterns in noisy, real-world datasets to predict movement in global financial markets – blending mathematical precision with state-of-the-art machine learning.
+Read more
+Engineering and technology
+Enabling innovation at scale. We design and maintain the robust infrastructure and high-performance platforms that transform bold research into real-world results.
+Read more
+Technology Innovation Group
+Exploring what’s next. We scout, test and integrate the latest technologies, ensuring our teams stay at the forefront of what’s possible.
+Read more
+Open-source software
+Driving results through collaboration. We partner with and contribute to the open-source community, building world-class tools that benefit our research and the wider world.
+Read more
+Quantitative research and machine learning
+A home for curious minds. We find patterns in noisy, real-world datasets to predict movement in global financial markets – blending mathematical precision with state-of-the-art machine learning.
+Read more
+Engineering and technology
+Enabling innovation at scale. We design and maintain the robust infrastructure and high-performance platforms that transform bold research into real-world results.
+Read more
+Technology Innovation Group
+Exploring what’s next. We scout, test and integrate the latest technologies, ensuring our teams stay at the forefront of what’s possible.
+Read more
+Open-source software
+Driving results through collaboration. We partner with and contribute to the open-source community, building world-class tools that benefit our research and the wider world.
+Read more
+Quantitative research and machine learning
+A home for curious minds. We find patterns in noisy, real-world datasets to predict movement in global financial markets – blending mathematical precision with state-of-the-art machine learning.
+Read more
+Engineering and technology
+Enabling innovation at scale. We design and maintain the robust infrastructure and high-performance platforms that transform bold research into real-world results.
+Read more
+Technology Innovation Group
+Exploring what’s next. We scout, test and integrate the latest technologies, ensuring our teams stay at the forefront of what’s possible.
+Read more
+Open-source software
+Driving results through collaboration. We partner with and contribute to the open-source community, building world-class tools that benefit our research and the wider world.
+Read more
+Quantitative research and machine learning
+A home for curious minds. We find patterns in noisy, real-world datasets to predict movement in global financial markets – blending mathematical precision with state-of-the-art machine learning.
+Read more
+Engineering and technology
+Enabling innovation at scale. We design and maintain the robust infrastructure and high-performance platforms that transform bold research into real-world results.
+Read more
+What you’ll get at G-Research
+The work is challenging, so the support around it matters. At G-Research, colleagues benefit from highly competitive compensation, generous annual leave, comprehensive healthcare, strong pension contributions, daily office lunch and a wide range of support across health, family, finances and everyday working life.
+We also support long-term careers through learning and development,
+Relocation assistance
+where applicable and a culture built around collaboration, trust and technical depth. See our full list of benefits below.
+View benefits
 What our people say
 slide
 61 to 62
