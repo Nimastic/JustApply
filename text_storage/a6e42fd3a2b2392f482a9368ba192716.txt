@@ -232,7 +232,6 @@ For App Developers
 For Executives
 For Startups
 Lakehouse Architecture
-Databricks AI Research
 Customers
 Customer Stories
 Partners
@@ -248,7 +247,6 @@ For App Developers
 For Executives
 For Startups
 Lakehouse Architecture
-Databricks AI Research
 Customers
 Customer Stories
 Partners

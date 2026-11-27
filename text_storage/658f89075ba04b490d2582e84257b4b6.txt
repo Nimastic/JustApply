@@ -332,7 +332,7 @@ Sort by:
 Newest
 US - Specialist
 Apple Retail
-Nov 26, 2026
+Nov 27, 2026
 Location
 Various Locations within United States
 Actions
@@ -346,6 +346,54 @@ Weekly Hours:
 40 Hours
 Apple Retail is where the best of Apple comes together. We bring our expertise to help people do what they love, delivering an only-at-Apple experience. We believe inclusion is a shared responsibility and we work together to foster a culture where everyone belongs and is inspired to do their best work.
 As a Specialist, you build brand loyalty and create owners of Apple products and services. You’re dedicated to selling and delivering a customer service experience that is unlike any other. A Specialist is curious — you ask questions to learn about our customers’ needs, customizing recommend...
+Submit Resume
+Program Manager, AIML Data Operations
+Software and Services
+Nov 27, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Program Manager, AIML Data Operations 200694027-0836
+Role Number:
+200694027-0836
+Weekly Hours:
+40 Hours
+Imagine the contributions you can make at Apple. New insights have a way of becoming great products, services, and customer experiences very quickly. Passion and dedication are the keys to the accomplishments you can make here!
+We are seeking an experienced program manager to join the AIML Data Operations group. Our team directly contributes to the development of AIML algorithms across many of Apple's products, specifically in regards to Siri and Apple Intelligence. In this role, you will drive critical programs that enhance our operation to provide data at scale for engineering teams buil...
+Submit Resume
+Engineering Project Specialist - Battery
+Hardware
+Nov 27, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Engineering Project Specialist - Battery 200696376-0836
+Role Number:
+200696376-0836
+Weekly Hours:
+40 Hours
+Apple's Hardware Technology Engineering Program Management Team is looking for a resourceful Engineering Project Specialist (EPS) to drive configuration management, procurement, and budgets. Preferred candidate is a strategic problem solver who enjoys collaborating with cross-functional teams to communicate changes, analyze risks, and execute complex mitigation strategies in support
+of engineering product lifecycle management.
+Submit Resume
+Battery NPI - Engineering Program Manager
+Hardware
+Nov 27, 2026
+Location
+Cupertino
+Actions
+See full role description
+Share
+Battery NPI - Engineering Program Manager 200696327-0836
+Role Number:
+200696327-0836
+Weekly Hours:
+40 Hours
+Imagine what you could do at Apple. New ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Intelligent people, inspiring vision, innovative technologies are the norm. We have reinvented entire industries with our products, and apply the same energy to ensure we leave the world better than we found it.
+Apple is looking for engineering professionals with strong technical, communication, and leadership skills to ensure that we drive our Battery new product introductions (NPI) to meet the demanding technical, quality, and schedule requirements...
 Submit Resume
 RF Hardware Engineer - Multi-Radio Coexistence
 Hardware
@@ -607,57 +655,10 @@ Weekly Hours:
 40 Hours
 At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses.  Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and MLS Season Pass. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes—from small app developers to big, global brands. Because when advertisin...
 Submit Resume
-Account Manager, Apple Ad Sales
-Sales and Business Development
-Nov 24, 2026
-Location
-New York City
-Actions
-See full role description
-Share
-Account Manager, Apple Ad Sales 200695782-2459
-Role Number:
-200695782-2459
-Weekly Hours:
-40 Hours
-At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses.  Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and MLS Season Pass. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes—from small app developers to big, global brands. Because when advertisin...
-Submit Resume
-Retail Facilities Manager
-Corporate Functions
-Nov 23, 2026
-Location
-San Jose
-Actions
-See full role description
-Share
-Retail Facilities Manager 200695852-3749
-Role Number:
-200695852-3749
-Weekly Hours:
-40 Hours
-In Places, we don't sit back and let things happen — we make things happen, and we do it in service to every Apple employee and customer. Our team is a diverse, nimble group responsible for Apple's retail stores and workplaces worldwide. We develop and manage Apple's global real estate portfolio, lead capital construction projects, deliver outstanding facilities and site services, and champion sustainability initiatives — including commute and renewable energy programs. Above all, we are committed to the health, safety, and experience of everyone who walks through our doors.
-We are seeking ...
-Submit Resume
-Retail Facilities Manager
-Corporate Functions
-Nov 23, 2026
-Location
-Dallas
-Actions
-See full role description
-Share
-Retail Facilities Manager 200695848-1124
-Role Number:
-200695848-1124
-Weekly Hours:
-40 Hours
-In Places, we don't sit back and let things happen — we make things happen, and we do it in service to every Apple employee and customer. Our team is a diverse, nimble group responsible for Apple's retail stores and workplaces worldwide. We develop and manage Apple's global real estate portfolio, lead capital construction projects, deliver outstanding facilities and site services, and champion sustainability initiatives — including commute and renewable energy programs. Above all, we are committed to the health, safety, and experience of everyone who walks through our doors.
-We are seeking ...
-Submit Resume
 Page Number
 Press Return/Enter key to go to the page
 Of
-229
+230
 Apple Footer
 Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
 Learn more about your EEO rights as an applicant

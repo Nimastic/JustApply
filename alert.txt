@@ -1,148 +1,55 @@
-<b>Two Sigma</b>
-+ Quantitative Trader - Full-Time Campus Hire
-<a href="https://careers.twosigma.com/">open the board</a>
-
 <b>BlackRock</b>
-+ Model Platform Engineering (AI Application) Lead, Vice President – Aladdin
-+ Director - Data Extraction, Architecture/Engineering
-closed: Associate, Credit Trader
-closed: ETF Product Developer, Vice President – ETF Platform
-closed: Full Stack Engineering Lead
++ Data Engineer, Vice President
+closed: Model Platform Engineering (AI Application) Lead, Vice President – Aladdin
+closed: Director - Data Extraction, Architecture/Engineering
 <a href="https://careers.blackrock.com/">open the board</a>
 
-<b>Squarepoint</b>
-+ Senior Quant Researcher - Portfolio Optimization
-<a href="https://www.squarepoint-capital.com/open-opportunities">open the board</a>
-
-<b>WorldQuant</b>
-closed: Business Analyst - Platform Soutions
-<a href="https://www.worldquant.com/career-listing/">open the board</a>
-
-<b>Flow Traders</b>
-+ Experienced Quantitative Researcher
-<a href="https://www.flowtraders.com/careers/job-search/">open the board</a>
-
-<b>XTX Markets</b>
-+ Systems Engineer - Research Technology
-closed: Research Technology Engineer
-<a href="https://www.xtxmarkets.com/careers/">open the board</a>
-
-<b>G-Research</b>
-+ Quantitative research and machine learning
-+ Engineering and technology
-<a href="https://www.gresearch.com/vacancies/">open the board</a>
-
-<b>Bridgewater</b>
-closed: Portfolio Systems Engineer
-<a href="https://www.bridgewater.com/working-at-bridgewater/job-openings">open the board</a>
+<b>Qube RT</b>
++ Data Scientist - Commodities
++ Principal Network Engineer
+closed: Principle Network Engineer
+<a href="https://www.qube-rt.com/careers/">open the board</a>
 
 <b>Amazon</b>
-+ Software Development Engineer | Worldwide Amazon Stores | London, England
+closed: Software Development Engineer | Worldwide Amazon Stores | London, England
 <a href="https://www.amazon.jobs/">open the board</a>
 
-<b>Cloudflare</b>
-closed: Customer Engineering Manager
-closed: Senior Customer Engineer - Austin or Houston,TX
-<a href="https://www.cloudflare.com/careers/">open the board</a>
-
 <b>Airwallex</b>
-+ Senior Software Engineer, Growth
-+ Senior Software Engineer, AI Tooling, Information Security
-+ Senior Software Engineer, Machine Learning Platform
-closed: Staff Data Scientist
-closed: Solutions Engineer , Embedded Finance
-closed: Staff Software Engineer, AI Tooling, Information Security
-closed: Staff Product Designer, T:0 (Agentic) Finance
++ Software Engineer, Spend
++ Engineering Director, Payments Platform
++ Senior Software Engineer, Backend – Org &amp; Identity, SG
++ Corporate Security Engineer
++ Staff AI Engineer
++ Staff Product Security Engineer
+closed: Senior Software Engineer, Growth
+closed: Senior Software Engineer, Machine Learning Platform
+closed: Head of Engineering, Payments Platform
+closed: Staff Data Scientist, Algorithm (Risk Product – AML &amp; Financial Crime)
 <a href="https://careers.airwallex.com/">open the board</a>
 
-<b>Figma</b>
-closed: Manager, Product Management - Figma Platform Experience
-<a href="https://www.figma.com/careers/">open the board</a>
-
 <b>Venti</b>
-+ Engineering (33)
-+ Autonomous Vehicle Service Engineer
-closed: Engineering (35)
-closed: Principal Robotics Engineer (Robotics Solutions &amp; Integration)
-closed: Engineering • Singapore; Chicago; Los Angeles; Texas • Full time
-closed: Senior/Staff/Principal Systems Engineer
+closed: Engineering • California; Chicago • Full time • On-site
 <a href="https://jobs.ashbyhq.com/GoVenti">open the board</a>
 
-<b>Zoox</b>
-+ Advanced Hardware Engineering
-+ Automation Engineer - Compute Software Performance
-+ Software Systems
-+ Body Structures Engineer
-+ CAE Engineer - Safety occupant
-+ Calibration, Localization and Mapping System Safety Engineer
-+ Platform Safety Engineering and Analysis
-+ Chassis Controls Engineer, Brakes &amp; Steering
-+ Contract Student Worker  – Firmware Engineer (FW Core System Services)
-+ Software Platforms and Product
-+ Contract Student Worker  – Firmware Engineer (FW Thermal/Body)
-<a href="https://zoox.com/careers">open the board</a>
-
-<b>Intrinsic</b>
-closed: Software Engineer, Perception
-<a href="https://www.intrinsic.ai/careers">open the board</a>
-
-<b>Gecko Robotics</b>
-closed: Software Development Engineer in Test
-<a href="https://www.geckorobotics.com/careers">open the board</a>
-
-<b>Modular</b>
-+ Senior AI Graph Compiler Engineer
-closed: Cloud Inference
-closed: Cloud Inference Engineer
-closed: Backend Engineer, Multi-cloud Inference Platform - Gurveer Pahuja (R30)
-<a href="https://www.modular.com/careers">open the board</a>
-
-<b>Cerebras</b>
-closed: AI and Automation Engineer - Business Systems
-<a href="https://www.cerebras.ai/open-positions">open the board</a>
+<b>Boston Dynamics</b>
+closed: Manager, Machine Learning on Orbit
+<a href="https://bostondynamics.com/careers">open the board</a>
 
 <b>Tenstorrent</b>
-+ Mixed Signal IC Layout Engineer
-+ Systems Engineering: Product
-+ Product Manager - Developer Systems
-+ Physical Design Engineer - STA
-+ Midcore Design Verification Engineer
-closed: Sr. Engineer, Mechanical (Tooling Manager)
-closed: Software Engineer, Scale Out
-closed: Sr. Engineer, Silicon Enablement
++ Field Application Engineer - AI Software &amp; Hardware
+closed: Mixed Signal IC Layout Engineer
+closed: Systems Engineering: Product
+closed: Product Manager - Developer Systems
+closed: Systems Engineering
+closed: Forward Deployed Engineer
+closed: 2 more
 <a href="https://tenstorrent.com/careers/">open the board</a>
 
-<b>Google NYC</b>
-closed: Software Engineer III, Front End
-closed: Share Software Engineer III, Front End
-<a href="https://www.google.com/about/careers/applications/jobs/results?location=New%20York%2C%20NY%2C%20USA&amp;q=software%20engineer">open the board</a>
-
-<b>Meta NYC</b>
-+ Backend Engineer (Technical Leadership), Central Integrity
-+ Data Scientist, Analytics (Technical Leadership)
-+ Software Engineer, Recommendation Systems
-+ Software Engineer, Machine Learning RecSys
-+ Software Engineer, Machine Learning
-closed: Full Stack Engineer, Product Risk &amp; Compliance
-closed: Integrity Science Engineer
-closed: Developer Marketing Manager
-closed: Software Engineer, Product
-closed: AI Infrastructure
-<a href="https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY">open the board</a>
-
 <b>Apple NYC</b>
-+ RF Hardware Engineer - Multi-Radio Coexistence
-+ RF Hardware Engineer - Multi-Radio Coexistence 200690507-0836
++ Software and Services
++ Engineering Project Specialist - Battery
++ Engineering Project Specialist - Battery 200696376-0836
++ of engineering product lifecycle management.
++ Battery NPI - Engineering Program Manager
++ Battery NPI - Engineering Program Manager 200696327-0836
 <a href="https://jobs.apple.com/en-us/search?location=new-york-NY-USA">open the board</a>
-
-<b>Amazon NYC</b>
-+ Embedded Software Engineer, Graviton
-+ Bachelor's degree in computer science, electrical engineering, or related field
-+ 5+ years of software development experience
-closed: Software Engineer - Simulation, Fauna
-closed: Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
-closed: Experience developing robotics software, simulation systems, real-time applications, or scalable data pipelines.
-closed: Software Engineer, EC2 Nitro
-closed: Software Engineer I, Commerce
-closed: 1 more
-<a href="https://www.amazon.jobs/en/search?base_query=software%20engineer&amp;loc_query=New%20York">open the board</a>

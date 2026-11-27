@@ -29,7 +29,7 @@ Dream big, build bigger
 At AI21, we’re transforming ideas into reality.
 Let’s write the next chapter of your career together.
 Current openings
-4
+3
 jobs
 Locations
 Tel Aviv-Yafo
@@ -39,9 +39,6 @@ Engineering
 Marketing
 Algorithms
 Deep Learning Engineer
-Full-time
-Tel Aviv-Yafo
-Deep Learning Team Lead
 Full-time
 Tel Aviv-Yafo
 Engineering

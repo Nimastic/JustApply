@@ -1,3 +1,4 @@
+Come Work at Verkada!
 Demo
 EN (US)
 English (United States)
@@ -144,7 +145,7 @@ What to expect
 This step often includes meetings with team members, technical exercises, and discussions about your experience and how it aligns with Verkada’s needs. Your recruiter will guide you on what to expect during the visit, so you can put your best foot forward.
 Job openings
 If you’d like to use your energy for good, we’d love to hear from you.
-350 Openings
+349 Openings
 Search
 Filter by
 Clear All
@@ -300,9 +301,9 @@ San Mateo, CA United States
 Physical Security Operations, Senior Manager
 San Mateo, CA United States
 Senior Product Counsel
-San Mateo, CA United States
-Senior Product Counsel
 Austin, TX United States
+Senior Product Counsel
+San Mateo, CA United States
 IT
 IT Engineer
 San Mateo, CA United States
@@ -421,9 +422,9 @@ San Mateo, CA United States
 Hardware Engineering Program Manager
 San Mateo, CA United States
 Product Design Mechanical Engineer
-Taipei, Taiwan
-Product Design Mechanical Engineer
 San Mateo, CA United States
+Product Design Mechanical Engineer
+Taipei, Taiwan
 Marketing - Dept
 Growth Operations
 AI Marketing Engineer
@@ -449,21 +450,21 @@ Calgary, Canada
 Regional Field Marketing Manager, Canada
 Vancouver, Canada
 Senior Regional Field Marketing Manager, East
+New York City, NY United States
+Senior Regional Field Marketing Manager, East
 Philadelphia, PA United States
 Senior Regional Field Marketing Manager, East
 Tampa, FL United States
-Senior Regional Field Marketing Manager, East
-New York City, NY United States
+Senior Regional Field Marketing Manager, West
+Los Angeles, CA United States
 Senior Regional Field Marketing Manager, West
 Austin, TX United States
 Senior Regional Field Marketing Manager, West
-San Mateo, CA United States
-Senior Regional Field Marketing Manager, West
 Salt Lake City, UT United States
 Senior Regional Field Marketing Manager, West
-Phoenix, AZ United States
+San Mateo, CA United States
 Senior Regional Field Marketing Manager, West
-Los Angeles, CA United States
+Phoenix, AZ United States
 Growth
 Growth Manager
 San Mateo, CA United States
@@ -516,9 +517,9 @@ Pricing and Commercial Operations
 Analyst / Associate, Pricing & Commercial Operations (Bilingual English and German/Dutch)
 London
 Senior Associate, Pricing & Commercial Operations
-San Mateo, CA United States
-Senior Associate, Pricing & Commercial Operations
 New York City, NY United States
+Senior Associate, Pricing & Commercial Operations
+San Mateo, CA United States
 Product Management
 Group Product Manager, Video Platform
 San Mateo, CA United States
@@ -679,13 +680,13 @@ Toronto, Canada
 Channel Solutions Engineer
 Denver, CO United States
 Channel Solutions Engineer
-San Mateo, CA United States
-Channel Solutions Engineer
-Atlanta, GA United States
+Chicago, IL United States
 Channel Solutions Engineer
 Seattle, WA United States
 Channel Solutions Engineer
-Chicago, IL United States
+Atlanta, GA United States
+Channel Solutions Engineer
+San Mateo, CA United States
 Enterprise Solutions Engineer
 Ireland
 Enterprise Solutions Engineer
@@ -766,8 +767,6 @@ Sales Strategy and Operations | Channel Programs Specialist
 San Mateo, CA United States
 Sales Strategy and Operations Division Lead
 San Mateo, CA United States
-Sales Strategy and Operations Manager
-Tokyo, Japan
 Sales Strategy & Operations Renewals Associate (Sr)
 San Mateo, CA United States
 Sales Strategy & Operations (Sr.) Associate, Enterprise
@@ -1031,9 +1030,9 @@ Technical Support Engineering
 Senior Technical Support Engineer
 San Mateo, CA United States
 Technical Support Engineer
-Sydney, Australia
-Technical Support Engineer
 San Mateo, CA United States
+Technical Support Engineer
+Sydney, Australia
 Technical Support Engineer (Bilingual English/Japanese)
 Tokyo, Japan
 Technical Support Engineer - Industrial Placement 2027 (12-months)
@@ -1102,7 +1101,6 @@ CA Privacy
 Legal Center
 Privacy Center
 Terms of Service
-Come Work at Verkada!
 Your Privacy Choices
 We use cookies and similar technologies to deliver the site, provide security, improve and personalize your experience (including delivering more relevant ads), and provide advertising-related analytics (e.g., optimizing our ad campaigns).  Some of these uses may be considered "selling" or "sharing” for targeted, online advertising purposes under certain laws. You may opt out of our “sale” or “sharing” of your data through cookies. If you select “Reject All,” we will not “share” or “sell” your personal information through cookies, but we will continue to use other cookies as defined in our Cookie Policy. If you take no action or select “Confirm My Choices,” we will continue to use cookies for purposes that may be considered a “share” or “sale” of your data. To learn more, see our Cookie Policy.
 We may also make available certain contact information, such as name, email address, phone number, and mailing address, to other businesses in a way that is considered a sale, or share/use for targeted ads. Depending on where you reside, you may have the right to opt out of this activity. To opt out of these sales/sharing, please visit the opt-out form

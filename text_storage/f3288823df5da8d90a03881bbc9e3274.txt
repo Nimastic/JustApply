@@ -95,9 +95,9 @@ Manufacturing
 Director of Supply Chain
 Mountain View, CA
 Hardware Quality Industrialization Engineer
-Lancaster, TX
-Hardware Quality Industrialization Engineer
 Mountain View, CA
+Hardware Quality Industrialization Engineer
+Lancaster, TX
 Manufacturing Test Engineer
 Mountain View, CA
 Staff Vehicle Manufacturing Engineer
@@ -162,12 +162,11 @@ Mountain View, CA
 Perception
 Staff Autonomy Engineer, Perception
 Mountain View, CA
-Product/Program
-Program Management
-Hardware Technical Program Manager
+General & Administrative
+Finance
+Payroll Manager
 Mountain View, CA
-Program Manager, Test Operations
-Lancaster, TX
+Product/Program
 Product Management
 Product Strategy & Operations Associate
 Mountain View, CA
@@ -177,10 +176,9 @@ Staff Product Manager
 Mountain View, CA
 Staff Product Manager - Autonomy Hardware
 Mountain View, CA
-General & Administrative
-Finance
-Payroll Manager
-Mountain View, CA
+Program Management
+Program Manager, Test Operations
+Lancaster, TX
 Sales & Marketing
 Business Development
 Vice President of Commercialization

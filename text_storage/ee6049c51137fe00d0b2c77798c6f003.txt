@@ -50,6 +50,7 @@ Investment Services
 Proprietary Research
 Your submission is processing
 Browse Open Roles
+Filters
 Filter by:
 Remove All Filters
 Experienced Professionals
@@ -244,6 +245,8 @@ Private Equity & Venture Capital
 Finance & Accounting
 Fundamental Equities
 Cubist Business Team
+Clear selection
+Apply
 Find Open Roles
 203 Open Roles
 ROLE
@@ -257,7 +260,9 @@ Software Engineer, PMRA Systems
 FOCUS
 Software & System Engineering
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer, Tax Technology
 FOCUS
@@ -305,7 +310,9 @@ Machine Learning Engineer, GenAI Technology
 FOCUS
 Technology Innovation
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer, Corporate Systems Technology
 FOCUS
@@ -389,19 +396,27 @@ ROLE
 FOCUS
 Human Capital  |  Operations  |  Trade Support & Reporting
 LOCATION
-Hong Kong   |   Singapore
+Hong Kong
+|
+Singapore
 ROLE
 2027 MI Data Research & AI Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
-Hong Kong   |   Tokyo   |   Singapore
+Hong Kong
+|
+Tokyo
+|
+Singapore
 ROLE
 2027 Trader Intern (12-week program)
 FOCUS
 Trading
 LOCATION
-Hong Kong   |   Tokyo
+Hong Kong
+|
+Tokyo
 ROLE
 Network Engineer, Systematic Trading Infrastructure
 FOCUS
@@ -503,13 +518,21 @@ ROLE
 FOCUS
 Point72 Academy
 LOCATION
-New York   |   San Francisco   |   Chicago   |   West Palm Beach / Miami
+New York
+|
+San Francisco
+|
+Chicago
+|
+West Palm Beach / Miami
 ROLE
 Systems Analyst, Workday Payroll
 FOCUS
 Software & System Engineering
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer, Controller’s Technology
 FOCUS
@@ -617,7 +640,9 @@ ROLE
 FOCUS
 Treasury  |  Legal  |  Compliance  |  Broker Relations  |  Tax  |  Financing & Lending  |  Human Capital  |  Talent Acquisition  |  Internal Audit  |  Operational Risk  |  Strategy  |  Corporate Communications  |  Operations  |  Trade Support & Reporting  |  Facilities  |  Finance & Accounting
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer, Corporate Systems Technology
 FOCUS
@@ -695,7 +720,9 @@ IT Operations Engineer, End User Computing
 FOCUS
 IT Support
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 P&L Reconciliation and Analysis Associate
 FOCUS
@@ -707,7 +734,9 @@ Quant Library Developer, Macro Technology
 FOCUS
 Quant Tech Strategy
 LOCATION
-New York   |   London
+New York
+|
+London
 ROLE
 Legal Operations and Innovation Manager
 FOCUS
@@ -737,7 +766,9 @@ Procurement Specialist
 FOCUS
 Finance & Accounting
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Senior Surveillance Associate
 FOCUS
@@ -827,7 +858,11 @@ AV Support Specialist
 FOCUS
 Facilities
 LOCATION
-Hong Kong   |   Tokyo   |   Singapore
+Hong Kong
+|
+Tokyo
+|
+Singapore
 ROLE
 Reference Data Engineer, Cubist
 FOCUS
@@ -857,19 +892,27 @@ Macro Compliance Associate
 FOCUS
 Compliance
 LOCATION
-New York   |   Stamford   |   West Palm Beach / Miami
+New York
+|
+Stamford
+|
+West Palm Beach / Miami
 ROLE
 Network Engineer
 FOCUS
 Network Engineering
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Enterprise Messaging Platform Lead
 FOCUS
 Software & System Engineering  |  User Experience
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer - Data
 FOCUS
@@ -917,13 +960,17 @@ Network Support Engineer
 FOCUS
 Network Engineering
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 HR Business Partner
 FOCUS
 Human Capital
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Research Engineer, Knowledge Graph Intelligence
 FOCUS
@@ -1025,7 +1072,13 @@ Point72 Academy 2026 Investment Analyst Program for Experienced Professionals-US
 FOCUS
 Point72 Academy
 LOCATION
-New York   |   San Francisco   |   Chicago   |   West Palm Beach / Miami
+New York
+|
+San Francisco
+|
+Chicago
+|
+West Palm Beach / Miami
 ROLE
 SDLC Engineer
 FOCUS
@@ -1085,7 +1138,11 @@ Equity Financial Analyst - US
 FOCUS
 Fundamental Equities
 LOCATION
-New York   |   Stamford   |   Chicago
+New York
+|
+Stamford
+|
+Chicago
 ROLE
 Equity Financial Analyst - London
 FOCUS
@@ -1097,7 +1154,9 @@ Equity Financial Analyst - Asia ex-Japan
 FOCUS
 Fundamental Equities
 LOCATION
-Hong Kong   |   Singapore
+Hong Kong
+|
+Singapore
 ROLE
 Data Engineer, Proprietary Research
 FOCUS
@@ -1127,7 +1186,9 @@ Trader/Quant Analyst
 FOCUS
 Global Macro Investing
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Machine Learning Engineer, GenAI Technology
 FOCUS
@@ -1181,7 +1242,11 @@ Quantitative Researcher – Machine Learning
 FOCUS
 Systematic Investing
 LOCATION
-New York   |   London   |   Hong Kong
+New York
+|
+London
+|
+Hong Kong
 ROLE
 Quantitative Research Intern (NLP)
 FOCUS
@@ -1193,7 +1258,9 @@ Quant Researcher, Power Dispatch Modeling
 FOCUS
 Global Macro Investing
 LOCATION
-New York   |   Stamford
+New York
+|
+Stamford
 ROLE
 Software Engineer, Data Platform
 FOCUS
@@ -1283,7 +1350,19 @@ Entry-Level Quantitative Researcher
 FOCUS
 Systematic Investing
 LOCATION
-London   |   Hong Kong   |   Tokyo   |   Paris   |   Sydney   |   Dubai, UAE   |   Toronto
+London
+|
+Hong Kong
+|
+Tokyo
+|
+Paris
+|
+Sydney
+|
+Dubai, UAE
+|
+Toronto
 ROLE
 Entry-Level Quantitative Researcher
 FOCUS
@@ -1295,7 +1374,13 @@ Quantitative Researcher - Intern
 FOCUS
 Systematic Investing
 LOCATION
-London   |   Hong Kong   |   Tokyo   |   Paris
+London
+|
+Hong Kong
+|
+Tokyo
+|
+Paris
 ROLE
 Quantitative Portfolio Manager
 FOCUS
@@ -1337,7 +1422,9 @@ Quantitative Researcher - Systematic Credit
 FOCUS
 Systematic Investing
 LOCATION
-New York   |   Chicago
+New York
+|
+Chicago
 ROLE
 Senior Data Scientist
 FOCUS
@@ -1379,13 +1466,27 @@ Quantitative Researcher
 FOCUS
 Systematic Investing
 LOCATION
-London   |   Hong Kong   |   Paris   |   Sydney   |   Dubai, UAE   |   Toronto
+London
+|
+Hong Kong
+|
+Paris
+|
+Sydney
+|
+Dubai, UAE
+|
+Toronto
 ROLE
 Entry-Level Quantitative Researcher
 FOCUS
 Systematic Investing
 LOCATION
-New York   |   Chicago   |   Seattle
+New York
+|
+Chicago
+|
+Seattle
 ROLE
 Quantitative Researcher, Trading Research
 FOCUS
@@ -1403,7 +1504,13 @@ Equity Financial Analyst – US Healthcare Therapeutics
 FOCUS
 Fundamental Equities
 LOCATION
-New York   |   Stamford   |   San Francisco   |   West Palm Beach / Miami
+New York
+|
+Stamford
+|
+San Francisco
+|
+West Palm Beach / Miami
 ROLE
 Quantitative Researcher - Macro
 FOCUS
@@ -1451,7 +1558,9 @@ Quantitative Researcher - Intern
 FOCUS
 Systematic Investing
 LOCATION
-New York   |   Seattle
+New York
+|
+Seattle
 ROLE
 Machine Learning Researcher - Intern
 FOCUS
@@ -1463,7 +1572,15 @@ Quantitative Portfolio Manager
 FOCUS
 Systematic Investing
 LOCATION
-London   |   Hong Kong   |   Paris   |   Sydney   |   Dubai, UAE
+London
+|
+Hong Kong
+|
+Paris
+|
+Sydney
+|
+Dubai, UAE
 Load More
 P72 Careers - Footer
 Point72

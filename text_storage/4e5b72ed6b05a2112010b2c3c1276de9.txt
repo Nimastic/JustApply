@@ -22,7 +22,7 @@ California (3)
 Chicago (3)
 Mississippi (2)
 Singapore (33)
-Texas (2)
+Texas (3)
 Location Type
 All Location Types
 On-site (8)
@@ -71,7 +71,7 @@ Engineering • Singapore • Intern
 Mapping Specialist
 Engineering • Singapore • Full time
 Onsite Validation Engineer
-Engineering • California; Chicago • Full time • On-site
+Engineering • California; Chicago; Texas • Full time • On-site
 QA Engineer Intern
 Engineering • Singapore • Intern
 Senior Autonomous Vehicle Hardware Technical Specialist

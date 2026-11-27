@@ -283,22 +283,22 @@ HR Placement Year
 London
 Technology Operations Manager
 London
-Security Operations and Risk Analyst
-London
 Talent Acquisition Specialist
+London
+Security Operations and Risk Analyst
 London
 Liquidity Program Manager
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Centre Manager
-London
 Security Operations Analyst
 London
-Security Operations Placement Year
+Security Operations Centre Manager
 London
 Elastic Security Engineer (Contract)
+London
+Security Operations Placement Year
 London
 Senior Red Team Operator
 London
@@ -321,15 +321,15 @@ Infrastructure Software Engineering Internship
 London
 Linux Platform Engineer
 London
+Platform Engineer
+London
 Platform Engineering Manager
 London
-Platform Engineer
+Network Automation Engineer (Contract)
 London
 Network Engineer
 London
 Network Security Engineer (Contract)
-London
-Network Automation Engineer (Contract)
 London
 Network Automation Engineer
 London
@@ -346,15 +346,13 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
+Data Science Internship
+London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
 Quant Research Internship
-London
-Data Science Internship
-London
-Natural Language Processing Researcher
 London
 Quantitative Analyst
 London
@@ -362,9 +360,11 @@ Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
 London
-Quantitative Researcher – Postgraduate
+Natural Language Processing Researcher
 London
 Machine Learning Researcher
+London
+Quantitative Researcher – Postgraduate
 London
 Quantitative Analyst
 London
@@ -389,21 +389,21 @@ NLP Performance Engineer
 London
 Software Engineer — Observability Instrumentation
 London
-Core AI Engineer
+Research Engineer
 London
 Applied AI Engineer
 London
-Research Engineer
+Core AI Engineer
 London
 Engineering Manager
 London
-Machine Learning Engineer
-London
 Software Engineer – Compute Orchestration
 London
-Machine Learning Workflow Engineer
+Machine Learning Engineer
 London
 Observability Engineer
+London
+Machine Learning Workflow Engineer
 London
 Performance Engineering Manager
 London

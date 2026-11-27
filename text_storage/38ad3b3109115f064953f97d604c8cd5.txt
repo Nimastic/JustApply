@@ -265,10 +265,10 @@ San Jose, CA
 Commercial Operations Intern [Winter 2027]
 Apply Now
 San Jose, CA
-Deployment Engineering Intern
+Embedded Software Engineering Intern [Winter 2027]
 Apply Now
 San Jose, CA
-Embedded Software Engineering Intern [Winter 2027]
+Developer Productivity Intern [Winter 2027]
 Apply Now
 San Jose, CA
 Integration & Test - Mechanical Engineering Intern [Winter 2027]
@@ -293,7 +293,7 @@ San Jose, CA
 Senior People Operations Specialist
 Apply Now
 Platform Software
-04
+03
 San Jose, CA
 Senior Software Engineer, Middleware Productivity
 Apply Now
@@ -302,9 +302,6 @@ Staff AI Inference and Acceleration Engineer
 Apply Now
 Asia
 Firmware Integration Engineer, Asia
-Apply Now
-San Jose, CA
-Developer Productivity Intern [Winter 2027]
 Apply Now
 Prototype Development
 02

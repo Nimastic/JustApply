@@ -27,28 +27,28 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-Silicon
-Mixed Signal Design
-Mixed Signal IC Layout Engineer
+RISC V
+CPU Core Design Verification Manager
+Bengaluru, Karnataka, India
+Apply
+AI Hardware
+AI Accelerator Architect
+Austin, Texas, United States; Toronto, Ontario, Canada
+Apply
+Operations
+Legal
+Startup Lawyer
 Santa Clara, California, United States
 Apply
-Systems Engineering: Product
-Product Manager - Developer Systems
-Santa Clara, California, United States; Toronto, Ontario, Canada
+Experience
+Customer Success
+Field Application Engineer - AI Software & Hardware
+Belgrade, Serbia
 Apply
-Systems Engineering
-Forward Deployed Engineer
-Tokyo, Japan
-Apply
-Silicon
-Physical Design
-Physical Design Engineer - STA
-Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States
-Apply
-Architecture
-Design Verification
-Midcore Design Verification Engineer
-Santa Clara, California, United States; Spain
+Customer - Operations
+Automotive
+Business Development Lead Autonomy APAC
+Asia; Japan; Korea; Singapore
 Apply
 Show all postings
 Open Future

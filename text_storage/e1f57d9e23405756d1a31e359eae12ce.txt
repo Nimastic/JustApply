@@ -439,35 +439,6 @@ corporate_fare
 Google
 place
 San Jose, CA, USA
-; San Francisco, CA, USA
-; +2 more
-; +1 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-San Jose, CA, USA
-; San Francisco, CA, USA
-; +2 more
-; +1 more
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-5 years of experience programming in C++.
-3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Senior Software Engineer, Infrastructure, Core
-link
-Copy link
-email
-Email a friend
-Senior Software Engineer, Infrastructure, Core
-corporate_fare
-Google
-place
-San Jose, CA, USA
 ; New York, NY, USA
 bar_chart
 Mid
@@ -517,30 +488,31 @@ link
 Copy link
 email
 Email a friend
-Software Engineer III, Infrastructure, Google Cloud Platforms
+Senior Software Engineer, Infrastructure, Core
 corporate_fare
 Google
 place
-New York, NY, USA
-; Sunnyvale, CA, USA
-; +3 more
+San Jose, CA, USA
+; San Francisco, CA, USA
 ; +2 more
+; +1 more
 bar_chart
 Mid
 Mid
 Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
 Google |
-New York, NY, USA
-; Sunnyvale, CA, USA
-; +3 more
+San Jose, CA, USA
+; San Francisco, CA, USA
 ; +2 more
+; +1 more
 Minimum qualifications
 Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++ or Go.
-2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+5 years of experience programming in C++.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
 Learn more
 share
-Share Software Engineer III, Infrastructure, Google Cloud Platforms
+Share Senior Software Engineer, Infrastructure, Core
 link
 Copy link
 email
@@ -571,6 +543,34 @@ Bachelor’s degree in Computer Science, Mathematics, or equivalent practical ex
 Learn more
 share
 Share Staff Software Engineer, Backend Infrastructure and Rapid Prototyping, Google Labs
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Cloud Platforms
+corporate_fare
+Google
+place
+New York, NY, USA
+; Sunnyvale, CA, USA
+; +3 more
+; +2 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+New York, NY, USA
+; Sunnyvale, CA, USA
+; +3 more
+; +2 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++ or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Cloud Platforms
 link
 Copy link
 email

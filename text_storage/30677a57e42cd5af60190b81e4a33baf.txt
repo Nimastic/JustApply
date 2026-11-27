@@ -143,6 +143,9 @@ View opportunity
 Cloud Engineer – AWS Specialist
 Paris
 View opportunity
+Compliance Officer, Communications Surveillance
+London
+View opportunity
 Compute Operations Engineer
 London
 View opportunity
@@ -180,12 +183,15 @@ Data Platform Engineer – Inventory & Observability
 London
 View opportunity
 Data Scientist
-Paris
+London
 View opportunity
 Data Scientist
 Hong Kong
 View opportunity
 Data Scientist
+Paris
+View opportunity
+Data Scientist - Commodities
 London
 View opportunity
 Data Scientist - Macro
@@ -198,19 +204,19 @@ Data Scientist - Market Data
 Hong Kong
 View opportunity
 Data Scientist - Market Data
-London
+Paris
 View opportunity
 Data Scientist - Market Data
-Paris
+London
 View opportunity
 Data Scientist - Options
 Paris
 View opportunity
 Data Support Engineer
-London
+Sydney
 View opportunity
 Data Support Engineer
-Sydney
+London
 View opportunity
 Data Support Specialist
 Paris
@@ -314,51 +320,48 @@ Market Data Manager
 Sydney
 View opportunity
 Market Microstructure Researcher
+Amsterdam
+View opportunity
+Market Microstructure Researcher
 Chicago
 ,
 New York
-View opportunity
-Market Microstructure Researcher
-Amsterdam
 View opportunity
 Network Architecture Lead
 London
 View opportunity
 Network Engineer
-London
+Chicago
 View opportunity
 Network Engineer
-Chicago
+London
 View opportunity
 Network Engineer (Service Provider WAN)
 London
 View opportunity
 Network Operations Engineer
-Hong Kong
+New York
 View opportunity
 Network Operations Engineer
-New York
+Hong Kong
+View opportunity
+Network Operations Lead
+Hong Kong
 View opportunity
 Network Operations Lead
 London
 View opportunity
-Network Operations Lead
+Network SRE - Cloud
+London
+View opportunity
+Network SRE - Cloud
 Hong Kong
 View opportunity
 Network SRE - Cloud
 Singapore
 View opportunity
-Network SRE - Cloud
-Hong Kong
-View opportunity
-Network SRE - Cloud
-London
-View opportunity
 Operations Analyst – Energy Trading
 Sydney
-View opportunity
-Operations Specialist, Futures & Options
-London
 View opportunity
 Platform Security Engineer (DevSecOps)
 London
@@ -369,7 +372,7 @@ View opportunity
 Post Trade Support Engineer
 Hong Kong
 View opportunity
-Principle Network Engineer
+Principal Network Engineer
 London
 View opportunity
 Production Support Engineer - AI & LLM
@@ -406,13 +409,10 @@ Quantitative Developer - C#
 Hong Kong
 View opportunity
 Quantitative Developer - C++
-London
-View opportunity
-Quantitative Developer - C++
 Singapore
 View opportunity
 Quantitative Developer - C++
-Shanghai
+London
 View opportunity
 Quantitative Developer - C++
 Paris
@@ -430,10 +430,10 @@ Quantitative Developer - Front End, React/C#
 London
 View opportunity
 Quantitative Developer - HFT (C++)
-Amsterdam
+London
 View opportunity
 Quantitative Developer - HFT (C++)
-London
+Amsterdam
 View opportunity
 Quantitative Developer/Modeller - Risk & PnL
 London
@@ -466,9 +466,6 @@ Quantitative Production Strategist
 Paris
 View opportunity
 Quantitative Researcher
-Zurich
-View opportunity
-Quantitative Researcher
 Paris
 View opportunity
 Quantitative Researcher
@@ -476,6 +473,9 @@ Mumbai
 View opportunity
 Quantitative Researcher
 Dubai
+View opportunity
+Quantitative Researcher
+Zurich
 View opportunity
 Quantitative Researcher (Japan Power)
 Sydney
@@ -570,10 +570,10 @@ Senior Network Engineer
 Singapore
 View opportunity
 Senior Network Engineer
-Shanghai
+Hong Kong
 View opportunity
 Senior Network Engineer
-Hong Kong
+Shanghai
 View opportunity
 Senior Network Infrastructure Engineer
 London
@@ -585,10 +585,10 @@ Senior Product Security Engineer
 London
 View opportunity
 Senior Quantitative Developer - Python
-Dubai
+Paris
 View opportunity
 Senior Quantitative Developer - Python
-Paris
+Dubai
 View opportunity
 Senior Security Engineer
 Hong Kong
@@ -618,10 +618,10 @@ Software Engineer
 Paris
 View opportunity
 Software Engineer - Data Lifecycle
-Amsterdam
+London
 View opportunity
 Software Engineer - Data Lifecycle
-London
+Amsterdam
 View opportunity
 Software Engineer - Data & Lifecycle (Derivatives)
 Hong Kong
@@ -651,13 +651,7 @@ Software Engineer – Risk
 London
 View opportunity
 Software Engineer – Site Reliability Engineering
-Paris
-View opportunity
-Software Engineer – Site Reliability Engineering
 Amsterdam
-View opportunity
-Software Engineer – Site Reliability Engineering
-London
 View opportunity
 Software Engineer – Systems & Infrastructure
 Paris
@@ -697,10 +691,10 @@ Chicago
 New York
 View opportunity
 Trading Systems Engineer
-London
+New York
 View opportunity
 Trading Systems Engineer
-New York
+London
 View opportunity
 Trading Systems Software Engineer
 Hong Kong

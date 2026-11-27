@@ -16,7 +16,7 @@ Cryptoassets
 2
 Openings
 Operations
-10
+11
 Openings
 Technology
 83
@@ -41,7 +41,7 @@ Singapore
 16
 Openings
 United Kingdom
-44
+45
 Openings
 United States
 71
