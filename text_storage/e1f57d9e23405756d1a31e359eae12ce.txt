@@ -386,30 +386,6 @@ link
 Copy link
 email
 Email a friend
-Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
-corporate_fare
-Google
-place
-Sunnyvale, CA, USA
-; New York, NY, USA
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Sunnyvale, CA, USA
-; New York, NY, USA
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++, Python, or Go.
-2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
-link
-Copy link
-email
-Email a friend
 Software Engineer, AI/ML, Ads Quality
 corporate_fare
 Google
@@ -455,6 +431,30 @@ Bachelor’s degree or equivalent practical experience.
 Learn more
 share
 Share Senior Software Engineer, Infrastructure, Core
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
+corporate_fare
+Google
+place
+Sunnyvale, CA, USA
+; New York, NY, USA
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Sunnyvale, CA, USA
+; New York, NY, USA
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++, Python, or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Platforms Infrastructure Engineering
 link
 Copy link
 email
@@ -575,34 +575,6 @@ link
 Copy link
 email
 Email a friend
-Software Engineer III, Infrastructure, Google Ads
-corporate_fare
-Google
-place
-Mountain View, CA, USA
-; New York, NY, USA
-; +2 more
-; +1 more
-bar_chart
-Mid
-Mid
-Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
-Google |
-Mountain View, CA, USA
-; New York, NY, USA
-; +2 more
-; +1 more
-Minimum qualifications
-Bachelor’s degree or equivalent practical experience.
-2 years of experience programming in C++.
-2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
-Learn more
-share
-Share Software Engineer III, Infrastructure, Google Ads
-link
-Copy link
-email
-Email a friend
 Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
 corporate_fare
 Google
@@ -627,6 +599,34 @@ Experience in one or more of the following: architecting or developing distribut
 Learn more
 share
 Share Software Engineer, Infrastructure, PhD, Early Career, 2027 Start
+link
+Copy link
+email
+Email a friend
+Software Engineer III, Infrastructure, Google Ads
+corporate_fare
+Google
+place
+Mountain View, CA, USA
+; New York, NY, USA
+; +2 more
+; +1 more
+bar_chart
+Mid
+Mid
+Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area.
+Google |
+Mountain View, CA, USA
+; New York, NY, USA
+; +2 more
+; +1 more
+Minimum qualifications
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Learn more
+share
+Share Software Engineer III, Infrastructure, Google Ads
 link
 Copy link
 email

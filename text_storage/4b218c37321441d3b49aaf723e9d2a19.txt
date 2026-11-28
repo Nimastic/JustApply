@@ -285,26 +285,24 @@ Technology Operations Manager
 London
 Talent Acquisition Specialist
 London
-Security Operations and Risk Analyst
-London
 Liquidity Program Manager
+London
+Security Operations and Risk Analyst
 London
 Technology Talent Sourcer (12 Month FTC)
 London
 Cyber Security
-Security Operations Analyst
-London
 Security Operations Centre Manager
 London
+Security Operations Analyst
+London
 Elastic Security Engineer (Contract)
-London
-Security Operations Placement Year
-London
-Senior Red Team Operator
 London
 Red Team Operations Manager
 London
 Security Assurance Specialist
+London
+Senior Red Team Operator
 London
 Chief Business Risk Officer
 London
@@ -321,9 +319,9 @@ Infrastructure Software Engineering Internship
 London
 Linux Platform Engineer
 London
-Platform Engineer
-London
 Platform Engineering Manager
+London
+Platform Engineer
 London
 Network Automation Engineer (Contract)
 London
@@ -346,21 +344,21 @@ London
 Network Automation Engineer (Contract)
 London
 Quant Research
+Quant Research Internship
+London
 Data Science Internship
 London
 Machine Learning Research Internship
 London
 Natural Language Processing Internship
 London
-Quant Research Internship
+Natural Language Processing Researcher
 London
 Quantitative Analyst
 London
 Quantitative Researcher – Fundamental Equity Research
 London
 Quantitative Researcher – Experienced
-London
-Natural Language Processing Researcher
 London
 Machine Learning Researcher
 London
@@ -371,9 +369,9 @@ London
 Software Engineering
 Core AI Engineering Manager
 London
-Quantitative Data Engineer
-London
 Machine Learning Engineer Internship
+London
+Quantitative Data Engineer
 London
 Graduate Machine Learning Engineer
 London
@@ -383,41 +381,45 @@ Software Engineer
 London
 Data Software Engineer
 London
-Rust Software Engineer (Contract)
-London
 NLP Performance Engineer
+London
+Rust Software Engineer (Contract)
 London
 Software Engineer — Observability Instrumentation
 London
-Research Engineer
-London
-Applied AI Engineer
+Contract Software Engineer – TAG
 London
 Core AI Engineer
 London
-Engineering Manager
+Applied AI Engineer
 London
-Software Engineer – Compute Orchestration
+Research Engineer
+London
+Engineering Manager
 London
 Machine Learning Engineer
 London
 Observability Engineer
 London
-Machine Learning Workflow Engineer
+Software Engineer – Compute Orchestration
 London
-Performance Engineering Manager
+Machine Learning Workflow Engineer
 London
 Software Engineer – Trade Technology
 London
-Machine Learning Engineer
+Performance Engineering Manager
 London
 Quantitative Developer
 London
 C++ Software Engineer
 London
+Machine Learning Engineer
+London
 Data Software Engineer
 London
 Rust Software Engineer (Contract)
+London
+Contract Software Engineer – TAG
 London
 TIG and Open Source
 Deputy Head of Open Source Development

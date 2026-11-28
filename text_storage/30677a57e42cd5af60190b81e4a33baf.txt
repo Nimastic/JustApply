@@ -20,11 +20,6 @@ Location
 Select location
 Experience
 Select experience
-2027 – Graduate or Internship, Infrastructure Engineer
-London
-,
-Paris
-View opportunity
 2027 - Internship, Business Data Analytics
 London
 View opportunity
@@ -45,6 +40,11 @@ Hong Kong
 Shanghai
 ,
 Singapore
+View opportunity
+2027 – Internship, Infrastructure Engineer
+London
+,
+Paris
 View opportunity
 2027 – Internship or Graduate, FPGA Engineering
 London

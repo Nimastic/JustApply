@@ -112,14 +112,14 @@ United States
 500+ jobs
 India
 (
-274
+272
 )
-274 jobs
+272 jobs
 Canada
 (
-108
+105
 )
-108 jobs
+105 jobs
 Israel
 (
 49
@@ -127,9 +127,9 @@ Israel
 49 jobs
 Ireland
 (
-42
+41
 )
-42 jobs
+41 jobs
 United Kingdom
 (
 25
@@ -137,9 +137,9 @@ United Kingdom
 25 jobs
 Brazil
 (
-22
+21
 )
-22 jobs
+21 jobs
 Australia
 (
 13
@@ -242,14 +242,14 @@ Washington
 500+ jobs
 California
 (
-314
+313
 )
-314 jobs
+313 jobs
 Karnataka
 (
-165
+163
 )
-165 jobs
+163 jobs
 Virginia
 (
 148
@@ -257,14 +257,14 @@ Virginia
 148 jobs
 Texas
 (
-145
+144
 )
-145 jobs
+144 jobs
 New York
 (
-116
+114
 )
-116 jobs
+114 jobs
 Telangana
 (
 90
@@ -277,9 +277,9 @@ Massachusetts
 84 jobs
 British Columbia
 (
-63
+62
 )
-63 jobs
+62 jobs
 Colorado
 (
 48
@@ -287,9 +287,9 @@ Colorado
 48 jobs
 Ontario
 (
-45
+43
 )
-45 jobs
+43 jobs
 Tel Aviv
 (
 32
@@ -302,9 +302,9 @@ Haifa
 24 jobs
 Sao Paulo
 (
-21
+20
 )
-21 jobs
+20 jobs
 Tamil Nadu
 (
 20
@@ -537,19 +537,19 @@ Redmond
 207 jobs
 Bengaluru
 (
-165
+163
 )
-165 jobs
+163 jobs
 Austin
 (
-127
+126
 )
-127 jobs
+126 jobs
 New York
 (
-116
+114
 )
-116 jobs
+114 jobs
 Bellevue
 (
 106
@@ -572,39 +572,39 @@ Cupertino
 83 jobs
 Santa Clara
 (
-78
+77
 )
-78 jobs
+77 jobs
 Herndon
 (
-66
+67
 )
-66 jobs
+67 jobs
 Vancouver
 (
-63
+62
 )
-63 jobs
+62 jobs
 Sunnyvale
 (
 57
 )
 57 jobs
-Toronto
-(
-45
-)
-45 jobs
 Denver
+(
+43
+)
+43 jobs
+Toronto
 (
 43
 )
 43 jobs
 Dublin
 (
-42
+41
 )
-42 jobs
+41 jobs
 North Reading
 (
 36
@@ -630,17 +630,17 @@ Haifa
 24
 )
 24 jobs
-Sao Paulo
-(
-21
-)
-21 jobs
 Westborough
 (
 21
 )
 21 jobs
 Chennai
+(
+20
+)
+20 jobs
+Sao Paulo
 (
 20
 )
@@ -1076,19 +1076,19 @@ Alexa and Amazon Devices
 324 jobs
 Amazon Ads
 (
-93
+91
 )
-93 jobs
+91 jobs
 Amazon Security
 (
-87
+88
 )
-87 jobs
+88 jobs
 eCommerce Foundation
 (
-72
+71
 )
-72 jobs
+71 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -1101,9 +1101,9 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-58
+57
 )
-58 jobs
+57 jobs
 Skip to job results
 CATEGORY
 (4 shown)
@@ -1213,7 +1213,7 @@ Cambridge, GBR
 |
 Job ID: 10572329
 Posted October  7, 2026
-(Updated 3 days ago)
+(Updated 4 days ago)
 Basic qualifications:
 Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
 Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
@@ -1227,7 +1227,7 @@ San Francisco, CA, USA
 |
 Job ID: 10608848
 Posted November 18, 2026
-(Updated 9 days ago)
+(Updated 10 days ago)
 Basic qualifications:
 1+ years of non-internship professional software development experience
 Experience programming with at least one software programming language
@@ -1243,7 +1243,7 @@ Gdansk, POL
 |
 Job ID: 3203075
 Posted March 12, 2026
-(Updated 9 days ago)
+(Updated 10 days ago)
 Basic qualifications:
 BA/BS degree in Computer Science, Computer Engineering, Electrical Engineering or related field, or equivalent practical experience
 Extensive experience in computer architecture and embedded wireless systems
@@ -1257,7 +1257,7 @@ Tel Aviv, ISR
 |
 Job ID: 10599728
 Posted November  9, 2026
-(Updated 18 days ago)
+(Updated 19 days ago)
 Basic qualifications:
 Bachelor's degree in computer science, electrical engineering, or related field
 Experience in embedded development in C/C++, or experience writing low level drivers
@@ -1270,7 +1270,7 @@ Tel Aviv, ISR
 |
 Job ID: 10570339
 Posted October  6, 2026
-(Updated 23 days ago)
+(Updated 24 days ago)
 Basic qualifications:
 Bachelor's degree in computer science, electrical engineering, or related field
 5+ years of software development experience
@@ -1283,7 +1283,7 @@ Knowledge and good understanding of HW, SW and the entire System view
 2
 3
 ...
-215
+214
 Load more jobs
 Filter by
 Reset
@@ -1356,14 +1356,14 @@ United States
 500+ jobs
 India
 (
-274
+272
 )
-274 jobs
+272 jobs
 Canada
 (
-108
+105
 )
-108 jobs
+105 jobs
 Israel
 (
 49
@@ -1371,9 +1371,9 @@ Israel
 49 jobs
 Ireland
 (
-42
+41
 )
-42 jobs
+41 jobs
 United Kingdom
 (
 25
@@ -1381,9 +1381,9 @@ United Kingdom
 25 jobs
 Brazil
 (
-22
+21
 )
-22 jobs
+21 jobs
 Australia
 (
 13
@@ -1486,14 +1486,14 @@ Washington
 500+ jobs
 California
 (
-314
+313
 )
-314 jobs
+313 jobs
 Karnataka
 (
-165
+163
 )
-165 jobs
+163 jobs
 Virginia
 (
 148
@@ -1501,14 +1501,14 @@ Virginia
 148 jobs
 Texas
 (
-145
+144
 )
-145 jobs
+144 jobs
 New York
 (
-116
+114
 )
-116 jobs
+114 jobs
 Telangana
 (
 90
@@ -1521,9 +1521,9 @@ Massachusetts
 84 jobs
 British Columbia
 (
-63
+62
 )
-63 jobs
+62 jobs
 Colorado
 (
 48
@@ -1531,9 +1531,9 @@ Colorado
 48 jobs
 Ontario
 (
-45
+43
 )
-45 jobs
+43 jobs
 Tel Aviv
 (
 32
@@ -1546,9 +1546,9 @@ Haifa
 24 jobs
 Sao Paulo
 (
-21
+20
 )
-21 jobs
+20 jobs
 Tamil Nadu
 (
 20
@@ -1781,19 +1781,19 @@ Redmond
 207 jobs
 Bengaluru
 (
-165
+163
 )
-165 jobs
+163 jobs
 Austin
 (
-127
+126
 )
-127 jobs
+126 jobs
 New York
 (
-116
+114
 )
-116 jobs
+114 jobs
 Bellevue
 (
 106
@@ -1816,39 +1816,39 @@ Cupertino
 83 jobs
 Santa Clara
 (
-78
+77
 )
-78 jobs
+77 jobs
 Herndon
 (
-66
+67
 )
-66 jobs
+67 jobs
 Vancouver
 (
-63
+62
 )
-63 jobs
+62 jobs
 Sunnyvale
 (
 57
 )
 57 jobs
-Toronto
-(
-45
-)
-45 jobs
 Denver
+(
+43
+)
+43 jobs
+Toronto
 (
 43
 )
 43 jobs
 Dublin
 (
-42
+41
 )
-42 jobs
+41 jobs
 North Reading
 (
 36
@@ -1874,17 +1874,17 @@ Haifa
 24
 )
 24 jobs
-Sao Paulo
-(
-21
-)
-21 jobs
 Westborough
 (
 21
 )
 21 jobs
 Chennai
+(
+20
+)
+20 jobs
+Sao Paulo
 (
 20
 )
@@ -2320,19 +2320,19 @@ Alexa and Amazon Devices
 324 jobs
 Amazon Ads
 (
-93
+91
 )
-93 jobs
+91 jobs
 Amazon Security
 (
-87
+88
 )
-87 jobs
+88 jobs
 eCommerce Foundation
 (
-72
+71
 )
-72 jobs
+71 jobs
 more
 Skip to job results
 ROLE TYPE
@@ -2345,9 +2345,9 @@ Individual Contributor
 500+ jobs
 People Manager
 (
-58
+57
 )
-58 jobs
+57 jobs
 Skip to job results
 CATEGORY
 (4 shown)

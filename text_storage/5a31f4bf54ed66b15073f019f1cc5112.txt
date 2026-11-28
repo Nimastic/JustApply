@@ -19,14 +19,14 @@ Operations
 11
 Openings
 Technology
-83
+81
 Openings
 Trading
 15
 Openings
 Jobs by Country
 Canada
-7
+6
 Openings
 Hong Kong
 1
@@ -41,7 +41,7 @@ Singapore
 16
 Openings
 United Kingdom
-45
+44
 Openings
 United States
 71

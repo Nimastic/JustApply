@@ -52,7 +52,6 @@ San Francisco, CA | New York City, NY | Seattle, WA
 Research Associate, Biology
 San Francisco, CA
 Research Engineer, Beneficial Deployments
-New
 San Francisco, CA
 Research Engineer, Chip Design RL
 San Francisco, CA
@@ -108,7 +107,6 @@ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York C
 Research Engineer, Visual Knowledge Work
 New York City, NY; San Francisco, CA; Seattle, WA
 Research Operations, External Artifacts
-New
 Remote-Friendly, United States
 Research Operations Lead, Biology
 Boston, MA

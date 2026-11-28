@@ -248,7 +248,7 @@ Cubist Business Team
 Clear selection
 Apply
 Find Open Roles
-203 Open Roles
+197 Open Roles
 ROLE
 Macro and Alternatives Trade Support Associate
 FOCUS
@@ -630,12 +630,6 @@ Treasury
 LOCATION
 Hong Kong
 ROLE
-Software Engineer, Trade and Fund Processing Technology
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
-ROLE
 2027 Summer Internship - Investment Services
 FOCUS
 Treasury  |  Legal  |  Compliance  |  Broker Relations  |  Tax  |  Financing & Lending  |  Human Capital  |  Talent Acquisition  |  Internal Audit  |  Operational Risk  |  Strategy  |  Corporate Communications  |  Operations  |  Trade Support & Reporting  |  Facilities  |  Finance & Accounting
@@ -864,12 +858,6 @@ Tokyo
 |
 Singapore
 ROLE
-Reference Data Engineer, Cubist
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
-ROLE
 AI Solutions Architect
 FOCUS
 Data Science & Analytics
@@ -931,12 +919,6 @@ FOCUS
 Community Matters  |  Corporate Communications
 LOCATION
 New York
-ROLE
-Software Engineer, Controllers Technology
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
 ROLE
 SDLC Engineer
 FOCUS
@@ -1116,12 +1098,6 @@ Information Security
 LOCATION
 New York
 ROLE
-Software Engineer, Equities Middle Office Systems
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
-ROLE
 It Operations Engineer, Application Support
 FOCUS
 IT Support
@@ -1189,18 +1165,6 @@ LOCATION
 New York
 |
 Stamford
-ROLE
-Machine Learning Engineer, GenAI Technology
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
-ROLE
-Storage Support Engineer
-FOCUS
-Software & System Engineering
-LOCATION
-Bengaluru, India
 ROLE
 Software Engineer, Trading and Compliance Technology
 FOCUS

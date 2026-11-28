@@ -8,8 +8,8 @@ Investors
 Foundation
 Strategic Capital
 Menu
-AMS €23.42
-+0.28
+AMS €23.40
++0.26
 About
 About
 Where We Operate
@@ -139,13 +139,10 @@ Select a division
 Locations
 Select a location
 Search
-Displaying 10 of 46 results
+Displaying 10 of 45 results
 Amsterdam | Data
 AI Engineering Manager
 AI Engineering ManagerWe're setting up a new AI team within Data and AI and are looking for an Engineering Manager to lead it. Good engineering management makes a big difference to how well teams grow, keep their people and deliver, and that is what we want from this role.You'll look after the planning and people side: delivery, growth, performance, culture and hiring. You work alongside technical leads who own architecture, technical direction and hands-on execution. You need each other, so expect to work closely.We'll judge you on how your engineers develop and what your team delivers. Most of your time goes to understanding how the business works and unlocking use cases where AI makes a real difference, next to leading your people and your delivery.What you'll do:
-About this role
-Amsterdam | Data
-Business Analyst
 About this role
 New York | Data
 Core Data Engineer
@@ -174,6 +171,10 @@ About this role
 Hong Kong | Trading
 Experienced MFT Quantitative Researcher
 Flow Traders is looking for an Experienced Quantitative Researcher who specializes in mid-frequency research to join us in our Hong Kong office. This is a unique opportunity to join a leading proprietary trading firm where quantitative research, technology, and an entrepreneurial culture are at the heart of our business.
+About this role
+Hong Kong | Trading
+Experienced Quantitative Researcher
+Flow Traders is looking for a Senior Quantitative Researcher to join us in our Hong Kong office. This is a unique opportunity to join a leading proprietary trading firm where quantitative research, technology, and an entrepreneurial culture are at the heart of our business. In this role, you will identify and develop new trading opportunities by leveraging Flow Traders’ advanced research capabilities and quantitative trading platform
 About this role
 New York | Trading
 Experienced Quantitative Researcher
@@ -329,3 +330,14 @@ Privacy
 Brand Abuse
 Cookies
 Site Map
+This website uses cookies
+We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Privacy Policy
+Strictly necessary
+Performance
+Targeting
+Functionality
+Unclassified
+Accept all
+Decline all
+Show details

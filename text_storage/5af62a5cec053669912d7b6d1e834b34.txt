@@ -366,7 +366,7 @@ San Francisco
 Apply
 Sales
 (
-22
+26
 )
 Account Director
 San Francisco
@@ -430,6 +430,18 @@ Tokyo
 Apply
 Regional Sales Director
 San Francisco, Austin, New York City
+Apply
+Regional Sales Director - Digital Native
+Singapore
+Apply
+Regional Sales Director - Enterprise Australia
+Sydney
+Apply
+Regional Sales Director - South East Asia
+Singapore
+Apply
+Regional Sales Director - Thailand
+International | APAC | Bangkok
 Apply
 Regional Vice President of Sales - ANZ
 Sydney

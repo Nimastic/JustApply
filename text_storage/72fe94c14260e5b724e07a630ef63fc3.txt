@@ -15,7 +15,7 @@ Executive Operations (3)
 Finance (23)
 Forward Deployed Engineering (44)
 Global Affairs (7)
-Go To Market (220)
+Go To Market (219)
 Intelligence & Investigations (2)
 IT (7)
 Legal (11)
@@ -23,7 +23,7 @@ Life Sciences (1)
 Marketing (44)
 OpenAI for Gov (14)
 Partnerships (5)
-People (26)
+People (27)
 Product Design (7)
 Product Management (5)
 Product Operations (1)
@@ -55,16 +55,16 @@ Delhi, India (6)
 Dublin, Ireland (23)
 Germany - Remote (1)
 India - Remote (2)
-London, UK (43)
+London, UK (42)
 Madrid, Spain (4)
 Melbourne, Australia (1)
 Mountain View (13)
 Mumbai, India (7)
 Munich, Germany (22)
-New York City (140)
+New York City (141)
 Ontario - Remote (4)
 Paris, France (14)
-San Francisco (587)
+San Francisco (588)
 São Paulo (8)
 Seattle (77)
 Seoul, South Korea (11)
@@ -326,10 +326,10 @@ Software Engineer, Cloud Agents
 Applied AI • San Francisco • Full time • Hybrid
 $347K – $445K • Offers Equity
 Software Engineer, Cloud Infrastructure
+Applied AI • London, UK • Full time
+Software Engineer, Cloud Infrastructure
 Applied AI • San Francisco • Full time
 $230K – $490K • Offers Equity
-Software Engineer, Cloud Infrastructure
-Applied AI • London, UK • Full time
 Software Engineer, Codex Core Agents
 Applied AI • San Francisco; New York City; Seattle • Full time
 Software Engineer, Codex Cyber
@@ -815,9 +815,9 @@ Go To Market • Tokyo, Japan • Full time • Hybrid
 Account Director, Digital Natives
 Go To Market • Sydney, Australia • Full time • Hybrid
 Account Director, Digital Natives
-Go To Market • Singapore • Full time • Hybrid
-Account Director, Digital Natives
 Go To Market • Delhi, India; Mumbai, India • Full time • Hybrid
+Account Director, Digital Natives
+Go To Market • Singapore • Full time • Hybrid
 Account Director, Digital Natives - France
 Go To Market • Paris, France • Full time • Hybrid
 Account Director, Digital Natives - Nordics
@@ -834,20 +834,20 @@ Account Director, Higher Education
 Go To Market • San Francisco; New York City; Seattle; US - Remote • Full time • Hybrid
 $305K – $352K • Offers Equity
 Account Director, Large Enterprise
-Go To Market • London, UK • Full time
+Go To Market • San Francisco; New York City; Seattle • Full time • Hybrid
+$189K – $200K • Offers Equity • Offers Commission
 Account Director, Large Enterprise
 Go To Market • Singapore • Full time • Hybrid
 Account Director, Large Enterprise
 Go To Market • Delhi, India; India - Remote • Full time • Hybrid
 Account Director, Large Enterprise
+Go To Market • Seoul, South Korea • Full time • Hybrid
+Account Director, Large Enterprise
+Go To Market • London, UK • Full time
+Account Director, Large Enterprise
 Go To Market • Sydney, Australia • Full time
 Account Director, Large Enterprise
 Go To Market • Munich, Germany; Berlin, Germany • Full time • Hybrid
-Account Director, Large Enterprise
-Go To Market • San Francisco; New York City; Seattle • Full time • Hybrid
-$189K – $200K • Offers Equity • Offers Commission
-Account Director, Large Enterprise
-Go To Market • Seoul, South Korea • Full time • Hybrid
 Account Director, Large Enterprise - Tokyo
 Go To Market • Tokyo, Japan • Full time
 Account Director, Large Enterprise (FSI)
@@ -869,8 +869,6 @@ Go To Market • Stockholm, Sweden • Full time • Hybrid
 Account Director, Startups | New Business
 Go To Market • San Francisco • Full time • Hybrid
 $324K – $360K • Offers Equity • Offers Commission
-Account Director, Startups | New Business - UK&I
-Go To Market • London, UK • Full time • Hybrid
 Account Director, Startups | Tokyo
 Go To Market • Tokyo, Japan • Full time • Hybrid
 Account Director, Startups Expansion
@@ -1106,16 +1104,16 @@ Early Access Deployment Engineer
 Go To Market • San Francisco • Full time • Hybrid
 $250K – $330K • Offers Equity
 Ecosystem Startups, Account Director
-Go To Market • Singapore • Full time • Hybrid
-Ecosystem Startups, Account Director
 Go To Market • Bangalore - Remote • Full time • Hybrid
+Ecosystem Startups, Account Director
+Go To Market • Singapore • Full time • Hybrid
 Enablement Lead - EDU
 Go To Market • San Francisco • Full time • Hybrid
 $207K – $230K • Offers Equity
 Enablement Lead, Knowledge Work
-Go To Market • Sydney, Australia • Full time • Hybrid
-Enablement Lead, Knowledge Work
 Go To Market • Seoul, South Korea • Full time • Hybrid
+Enablement Lead, Knowledge Work
+Go To Market • Sydney, Australia • Full time • Hybrid
 Enterprise Account Associate - EMEA (German Speaking)
 Go To Market • Dublin, Ireland • Full time • Hybrid
 Enterprise Education GTM Lead
@@ -1271,10 +1269,10 @@ Go To Market • Tokyo, Japan • Full time
 Sales Development Leader,  Singapore
 Go To Market • Singapore • Full time • Hybrid
 Sales Development Manager, Enterprise (AMER)
-Go To Market • San Francisco • Full time • Hybrid
+Go To Market • New York City • Full time • On-site
 $220K – $260K • Offers Equity
 Sales Development Manager, Enterprise (AMER)
-Go To Market • New York City • Full time • On-site
+Go To Market • San Francisco • Full time • Hybrid
 $220K – $260K • Offers Equity
 Sales Enablement Lead
 Go To Market • Singapore • Full time • Hybrid
@@ -1316,11 +1314,11 @@ $251K – $280K • Offers Equity
 Technical Success - EMEA
 Go To Market • London, UK; Abu Dhabi, UAE; Dublin, Ireland; Madrid, Spain; Munich, Germany; Paris, France • Full time • Hybrid
 Transformation Leads Regional Manager
-Go To Market • San Francisco • Full time • Hybrid
-$374K – $436K • Offers Equity
-Transformation Leads Regional Manager
 Go To Market • New York City • Full time • Hybrid
 $302K – $335K • Offers Equity
+Transformation Leads Regional Manager
+Go To Market • San Francisco • Full time • Hybrid
+$374K – $436K • Offers Equity
 User Education Lead
 Go To Market • San Francisco • Full time • Hybrid
 $207K – $230K • Offers Equity
@@ -1626,6 +1624,9 @@ $216K – $240K • Offers Equity
 Program Manager, People Innovation Labs
 People • San Francisco • Full time
 $216K – $310K • Offers Equity
+Program Manager, Recruiting Events
+People • San Francisco; New York City • Full time • Hybrid
+$170K – $190K • Offers Equity
 Recruiter, Data Center Infrastructure
 People • San Francisco; Seattle • Full time • Hybrid
 Recruiting Coordinator - Contract
@@ -2225,10 +2226,10 @@ Security Engineer, Application Security
 Security • San Francisco; US - Remote • Full time • Hybrid
 $266K – $445K • Offers Equity
 Security Engineer, Application Security
-Security • Seattle • Full time
+Security • New York City • Full time • Hybrid
 $266K – $445K • Offers Equity
 Security Engineer, Application Security
-Security • New York City • Full time • Hybrid
+Security • Seattle • Full time
 $266K – $445K • Offers Equity
 Security Engineer, Infrastructure Security
 Security • US - Remote; New York City; San Francisco; Seattle • Full time • Remote

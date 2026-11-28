@@ -27,28 +27,28 @@ University
 Internships, New Grad Roles
 All Departments
 All Offices
-RISC V
-CPU Core Design Verification Manager
-Bengaluru, Karnataka, India
+Systems Engineering
+Field Support Engineer - AI Server Systems
+Tokyo, Japan
 Apply
-AI Hardware
-AI Accelerator Architect
-Austin, Texas, United States; Toronto, Ontario, Canada
+Architecture
+Physical Design
+Physical Design CPU Methodology Engineer
+Santa Clara, California, United States
+Apply
+Architecture
+Chiplet Physical Design Engineer
+Santa Clara, California, United States
+Apply
+AI SW
+DC Deployment
+Infrastructure Operations Engineer / SRE
+Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland
 Apply
 Operations
 Legal
-Startup Lawyer
-Santa Clara, California, United States
-Apply
-Experience
-Customer Success
-Field Application Engineer - AI Software & Hardware
-Belgrade, Serbia
-Apply
-Customer - Operations
-Automotive
-Business Development Lead Autonomy APAC
-Asia; Japan; Korea; Singapore
+Legal Operations
+Toronto, Ontario, Canada
 Apply
 Show all postings
 Open Future
